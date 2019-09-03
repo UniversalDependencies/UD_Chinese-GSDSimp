@@ -1440,9 +1440,9 @@
 25	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No
 
 # sent_id = dev-s51
-# text = 北极土着民族一直与外界接触甚少，直到现代，与其他地区的交流才开始变得频繁。
+# text = 北极土著民族一直与外界接触甚少，直到现代，与其他地区的交流才开始变得频繁。
 1	北极	北极	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
-2	土着	土着	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+2	土著	土著	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	民族	民族	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 4	一直	一直	ADV	RB	_	8	advmod	_	SpaceAfter=No
 5	与	与	ADP	IN	_	6	case	_	SpaceAfter=No
@@ -4648,7 +4648,7 @@
 25	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No
 
 # sent_id = dev-s159
-# text = 1970年因为他对维也纳音乐贡献卓着而荣获金牌大奖章，并享受奥地利音乐总监督的殊荣。
+# text = 1970年因为他对维也纳音乐贡献卓著而荣获金牌大奖章，并享受奥地利音乐总监督的殊荣。
 1	1970	1970	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	17	nmod:tmod	_	SpaceAfter=No
 3	因为	因为	ADP	IN	_	4	case	_	SpaceAfter=No
@@ -4657,7 +4657,7 @@
 6	维也纳	维也纳	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
 7	音乐	音乐	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 8	贡献	贡献	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
-9	卓着	卓着	ADJ	JJ	_	4	ccomp	_	SpaceAfter=No
+9	卓著	卓著	ADJ	JJ	_	4	ccomp	_	SpaceAfter=No
 10	而	而	ADV	RB	_	11	mark	_	SpaceAfter=No
 11	荣获	荣获	VERB	VV	_	17	acl	_	SpaceAfter=No
 12	金牌	金牌	NOUN	NN	_	14	nmod	_	SpaceAfter=No
