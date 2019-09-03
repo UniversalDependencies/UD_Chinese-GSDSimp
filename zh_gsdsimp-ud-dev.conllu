@@ -2346,11 +2346,11 @@
 30	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No
 
 # sent_id = dev-s76
-# text = 但其秘密帐户最后被半泽查获，资产全遭冻结，身败名裂。
+# text = 但其秘密账户最后被半泽查获，资产全遭冻结，身败名裂。
 1	但	但	ADV	RB	_	8	mark	_	SpaceAfter=No
 2	其	其	PRON	PRP	Person=3	4	nmod	_	SpaceAfter=No
 3	秘密	秘密	NOUN	NN	_	4	nmod	_	SpaceAfter=No
-4	帐户	帐户	NOUN	NN	_	8	nsubj:pass	_	SpaceAfter=No
+4	账户	账户	NOUN	NN	_	8	nsubj:pass	_	SpaceAfter=No
 5	最后	最后	NOUN	NN	_	8	nmod:tmod	_	SpaceAfter=No
 6	被	被	VERB	BB	Voice=Pass	8	aux:pass	_	SpaceAfter=No
 7	半泽	半泽	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
@@ -9892,7 +9892,7 @@
 29	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No
 
 # sent_id = dev-s349
-# text = 1988年11月15日，他於伦敦病逝，终年73岁。
+# text = 1988年11月15日，他于伦敦病逝，终年73岁。
 1	1988	1988	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	11	11	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
