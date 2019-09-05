@@ -413,7 +413,7 @@
 12	会	会	AUX	MD	_	13	aux	_	SpaceAfter=No
 13	变成	变成	VERB	VV	_	35	dep	_	SpaceAfter=No
 14	蓝色	蓝色	NOUN	NN	_	13	obj	_	SpaceAfter=No
-15	的	的	X	UH	_	13	discourse	_	SpaceAfter=No
+15	的	的	PART	UH	_	13	discourse	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	35	punct	_	SpaceAfter=No
 17	而	而	ADV	RB	_	25	mark	_	SpaceAfter=No
 18	这	这	DET	DT	_	19	det	_	SpaceAfter=No
@@ -424,7 +424,7 @@
 23	无论如何	无论如何	ADV	RB	_	25	advmod	_	SpaceAfter=No
 24	都是	都是	AUX	VC	_	25	cop	_	SpaceAfter=No
 25	白色	白色	NOUN	NN	_	35	dep	_	SpaceAfter=No
-26	的	的	X	UH	_	25	discourse	_	SpaceAfter=No
+26	的	的	PART	UH	_	25	discourse	_	SpaceAfter=No
 27	，	，	PUNCT	,	_	35	punct	_	SpaceAfter=No
 28	因	因	ADP	IN	_	29	case	_	SpaceAfter=No
 29	此	此	PRON	PRD	_	35	obl	_	SpaceAfter=No
@@ -470,7 +470,7 @@
 13	堆积	堆积	VERB	VV	_	9	conj	_	SpaceAfter=No
 14	而	而	ADV	RB	_	15	mark	_	SpaceAfter=No
 15	形成	形成	VERB	VV	_	6	ccomp	_	SpaceAfter=No
-16	的	的	X	UH	_	5	discourse	_	SpaceAfter=No
+16	的	的	PART	UH	_	5	discourse	_	SpaceAfter=No
 17	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s18
@@ -539,14 +539,14 @@
 62	的	的	PART	DEC	_	58	mark:relcl	_	SpaceAfter=No
 63	方向	方向	NOUN	NN	_	55	obj	_	SpaceAfter=No
 64	发展	发展	VERB	VV	_	53	ccomp	_	SpaceAfter=No
-65	的	的	X	UH	_	53	discourse	_	SpaceAfter=No
+65	的	的	PART	UH	_	53	discourse	_	SpaceAfter=No
 66	，	，	PUNCT	,	_	71	punct	_	SpaceAfter=No
 67	任其自流	任其自流	VERB	VV	_	69	acl:relcl	_	SpaceAfter=No
 68	的	的	PART	DEC	_	67	mark:relcl	_	SpaceAfter=No
 69	观点	观点	NOUN	NN	_	71	nsubj	_	SpaceAfter=No
 70	是	是	AUX	VC	_	71	cop	_	SpaceAfter=No
 71	错误	错误	ADJ	JJ	_	19	ccomp	_	SpaceAfter=No
-72	的	的	X	UH	_	71	discourse	_	SpaceAfter=No
+72	的	的	PART	UH	_	71	discourse	_	SpaceAfter=No
 73	。	。	PUNCT	.	_	71	punct	_	SpaceAfter=No
 74	”	”	PUNCT	''	_	71	punct	_	SpaceAfter=No
 
@@ -1568,7 +1568,7 @@
 7	所罗门	所罗门	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
 8	圣克鲁斯	圣克鲁斯	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
 9	群岛	群岛	NOUN	NN	_	5	obj	_	SpaceAfter=No
-10	的	的	X	UH	_	5	discourse	_	SpaceAfter=No
+10	的	的	PART	UH	_	5	discourse	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 12	之后	之后	NOUN	NN	_	14	nmod:tmod	_	SpaceAfter=No
 13	便	便	ADV	RB	_	14	mark	_	SpaceAfter=No
@@ -2126,7 +2126,7 @@
 23	判断	判断	NOUN	NN	_	25	nsubj	_	SpaceAfter=No
 24	是	是	AUX	VC	_	25	cop	_	SpaceAfter=No
 25	正确	正确	ADJ	JJ	_	20	ccomp	_	SpaceAfter=No
-26	的	的	X	UH	_	25	discourse	_	SpaceAfter=No
+26	的	的	PART	UH	_	25	discourse	_	SpaceAfter=No
 27	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No
 28	中止	中止	VERB	VV	_	0	root	_	SpaceAfter=No
 29	了	了	PART	AS	Aspect=Perf	28	case:aspect	_	SpaceAfter=No
@@ -2171,7 +2171,7 @@
 15	我们	我	PRON	PRP	Number=Plur|Person=1	16	nsubj	_	SpaceAfter=No
 16	没有	没有	VERB	VV	_	20	ccomp	_	SpaceAfter=No
 17	变化	变化	NOUN	NN	_	16	obj	_	SpaceAfter=No
-18	的话	的话	X	UH	_	16	discourse	_	SpaceAfter=No
+18	的话	的话	PART	UH	_	16	discourse	_	SpaceAfter=No
 19	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
 20	是	是	VERB	VC	_	11	xcomp	_	SpaceAfter=No
 21	没法	没法	VERB	VV	_	20	xcomp	_	SpaceAfter=No
@@ -2179,7 +2179,7 @@
 23	第二	第二	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
 24	张	张	NOUN	NNB	_	25	clf	_	SpaceAfter=No
 25	专辑	专辑	NOUN	NN	_	22	obj	_	SpaceAfter=No
-26	的	的	X	UH	_	20	discourse	_	SpaceAfter=No
+26	的	的	PART	UH	_	20	discourse	_	SpaceAfter=No
 27	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 28	”	”	PUNCT	''	_	20	punct	_	SpaceAfter=No
 
@@ -3273,7 +3273,7 @@
 39	一	一	NUM	CD	NumType=Card	40	nummod	_	SpaceAfter=No
 40	根源	根源	NOUN	NN	_	41	obl	_	SpaceAfter=No
 41	产生	产生	VERB	VV	_	31	xcomp	_	SpaceAfter=No
-42	的	的	X	UH	_	31	discourse	_	SpaceAfter=No
+42	的	的	PART	UH	_	31	discourse	_	SpaceAfter=No
 43	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
 # sent_id = test-s124
@@ -8185,7 +8185,7 @@
 8	美国	美国	PROPN	NNP	_	7	obj	_	SpaceAfter=No
 9	以外	以外	ADP	IN	_	8	acl	_	SpaceAfter=No
 10	拍摄	拍摄	VERB	VV	_	6	xcomp	_	SpaceAfter=No
-11	的	的	X	UH	_	6	discourse	_	SpaceAfter=No
+11	的	的	PART	UH	_	6	discourse	_	SpaceAfter=No
 12	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
 13	这	这	PRON	PRD	_	25	nsubj	_	SpaceAfter=No
 14	说明	说明	VERB	VV	_	25	acl	_	SpaceAfter=No
@@ -8611,7 +8611,7 @@
 21	华盛顿	华盛顿	PROPN	NNP	_	22	nmod	_	SpaceAfter=No
 22	领地	领地	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
 23	成立	成立	VERB	VV	_	20	ccomp	_	SpaceAfter=No
-24	的	的	X	UH	_	19	discourse	_	SpaceAfter=No
+24	的	的	PART	UH	_	19	discourse	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	38	punct	_	SpaceAfter=No
 26	因	因	ADP	IN	_	27	case	_	SpaceAfter=No
 27	此	此	PRON	PRD	_	38	obl	_	SpaceAfter=No
@@ -12756,7 +12756,7 @@
 27	具	具	VERB	VV	_	25	xcomp	_	SpaceAfter=No
 28	神学	神学	NOUN	NN	_	29	nmod	_	SpaceAfter=No
 29	体系	体系	NOUN	NN	_	27	obj	_	SpaceAfter=No
-30	的	的	X	UH	_	25	discourse	_	SpaceAfter=No
+30	的	的	PART	UH	_	25	discourse	_	SpaceAfter=No
 31	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s474
