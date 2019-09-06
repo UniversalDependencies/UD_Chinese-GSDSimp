@@ -4975,7 +4975,7 @@
 4	中	中	ADP	IN	_	3	acl	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 6	第一	第一	NUM	CD	NumType=Ord	7	nummod	_	SpaceAfter=No
-7	砲塔	砲塔	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
+7	炮塔	炮塔	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 8	因	因	ADP	IN	_	12	case	_	SpaceAfter=No
 9	美	美	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
 10	军	军	PART	SFN	_	12	det	_	SpaceAfter=No
