@@ -20,7 +20,10 @@
 # Changelog
 
 * 2019-11-15 v2.5
-  * Initial release in Universal Dependencies.
+  * Initial release in Universal Dependencies, converted from UD_Chinese-GSD.
+  * Google gave permission to drop the "NC" restriction from the license.
+    This applies to the UD annotations (not the underlying content, of which Google claims no ownership or copyright).
+
 
 
 <pre>
