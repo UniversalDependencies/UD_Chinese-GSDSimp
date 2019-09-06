@@ -4930,7 +4930,7 @@
 26	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s185
-# text = 在3月30日，美军军机在呉军港及广岛湾布置了1,034个水雷，由于需要时间清除水雷，所以令返回呉军港相当困难。
+# text = 在3月30日，美军军机在吴军港及广岛湾布置了1,034个水雷，由于需要时间清除水雷，所以令返回吴军港相当困难。
 1	在	在	ADP	IN	_	5	case	_	SpaceAfter=No
 2	3	3	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	月	月	NOUN	NNB	_	5	clf	_	SpaceAfter=No
@@ -4941,8 +4941,8 @@
 8	军	军	PART	SFN	_	9	nmod	_	SpaceAfter=No
 9	军机	军机	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 10	在	在	VERB	VV	_	16	acl	_	SpaceAfter=No
-11	呉军	呉军	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
-12	港	港	PART	SFN	_	10	obj	_	SpaceAfter=No
+11	吴	吴	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
+12	军港	军港	NOUN	NN	_	10	obj	_	SpaceAfter=No
 13	及	及	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 14	广岛	广岛	PROPN	NNP	_	15	case:suff	_	SpaceAfter=No
 15	湾	湾	PART	SFN	_	12	conj	_	SpaceAfter=No
@@ -4961,8 +4961,8 @@
 28	所以	所以	ADV	RB	_	29	mark	_	SpaceAfter=No
 29	令	令	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
 30	返回	返回	VERB	VV	_	34	csubj	_	SpaceAfter=No
-31	呉军	呉军	PROPN	NNP	_	32	case:suff	_	SpaceAfter=No
-32	港	港	PART	SFN	_	30	obj	_	SpaceAfter=No
+31	吴	吴	PROPN	NNP	_	32	case:suff	_	SpaceAfter=No
+32	军港	军港	NOUN	NN	_	30	obj	_	SpaceAfter=No
 33	相当	相当	ADV	RB	_	34	advmod	_	SpaceAfter=No
 34	困难	困难	ADJ	JJ	_	29	ccomp	_	SpaceAfter=No
 35	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No
