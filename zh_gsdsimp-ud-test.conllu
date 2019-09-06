@@ -620,7 +620,7 @@
 14	土星	土星	PROPN	NNP	_	15	nmod	_	SpaceAfter=No
 15	1B	1B	X	FW	_	12	obj	_	SpaceAfter=No
 16	中	中	ADP	IN	_	15	acl	_	SpaceAfter=No
-17	了	了	X	UH	_	12	discourse	_	SpaceAfter=No
+17	了	了	PART	UH	_	12	discourse	_	SpaceAfter=No
 18	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s22
@@ -3054,7 +3054,7 @@
 22	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s116
-# text = 查尔斯·克拉克在其同年出版的专着《苏门答腊岛与西马来西亚的猪笼草》中拒绝这一观点。
+# text = 查尔斯·克拉克在其同年出版的专著《苏门答腊岛与西马来西亚的猪笼草》中拒绝这一观点。
 1	查尔斯	查尔斯	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	·	·	PUNCT	/	_	3	punct	_	SpaceAfter=No
 3	克拉克	克拉克	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No
@@ -3063,7 +3063,7 @@
 6	同年	同年	ADV	RB	_	7	nmod:tmod	_	SpaceAfter=No
 7	出版	出版	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
 8	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
-9	专着	专着	NOUN	NN	_	17	appos	_	SpaceAfter=No
+9	专著	专著	NOUN	NN	_	17	appos	_	SpaceAfter=No
 10	《	《	PUNCT	(	_	17	punct	_	SpaceAfter=No
 11	苏门答腊	苏门答腊	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
 12	岛	岛	PART	SFN	_	17	det	_	SpaceAfter=No
@@ -7240,7 +7240,7 @@
 13	林	林	PROPN	NNP	_	14	nmod	_	SpaceAfter=No
 14	奇	奇	PROPN	NNP	_	15	obj	_	SpaceAfter=No
 15	带走	带走	VERB	VV	_	0	root	_	SpaceAfter=No
-16	了	了	X	UH	_	15	discourse	_	SpaceAfter=No
+16	了	了	PART	UH	_	15	discourse	_	SpaceAfter=No
 17	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s274
@@ -12593,7 +12593,7 @@
 4	有	有	VERB	VV	_	18	dep	_	SpaceAfter=No
 5	一	一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	道	道	NOUN	NNB	_	12	clf	_	SpaceAfter=No
-7	宽	宽	X	XX	_	12	dep	_	SpaceAfter=No
+7	宽	宽	ADJ	JJ	_	12	dep	_	SpaceAfter=No
 8	6	6	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 9	尺	尺	NOUN	NNB	_	10	advmod	_	SpaceAfter=No
 10	宽	宽	ADJ	JJ	_	12	amod	_	SpaceAfter=No
