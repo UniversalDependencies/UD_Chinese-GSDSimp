@@ -4968,14 +4968,14 @@
 35	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No
 
 # sent_id = test-s186
-# text = 往返的航程中，第一砲塔因美军的轰炸而中了4枚炸弹，但对后续战斗没有影响。
+# text = 往返的航程中，第一炮塔因美军的轰炸而中了4枚炸弹，但对后续战斗没有影响。
 1	往返	往返	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No
 2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
 3	航程	航程	NOUN	NN	_	14	advmod	_	SpaceAfter=No
 4	中	中	ADP	IN	_	3	acl	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 6	第一	第一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
-7	砲塔	砲塔	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
+7	炮塔	炮塔	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 8	因	因	ADP	IN	_	12	case	_	SpaceAfter=No
 9	美	美	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
 10	军	军	PART	SFN	_	12	det	_	SpaceAfter=No
@@ -8901,7 +8901,7 @@
 19	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s334
-# text = 每段介绍两个无厘头的新闻后，方芳芳与巴戈就感谢观众收看〈新闻砲〉，新闻摄影棚灯光调暗，巴戈仍然与方芳芳进行一小段对话；跟第一段短剧一样，有时候巴戈又会被方芳芳打一巴掌。
+# text = 每段介绍两个无厘头的新闻后，方芳芳与巴戈就感谢观众收看〈新闻炮〉，新闻摄影棚灯光调暗，巴戈仍然与方芳芳进行一小段对话；跟第一段短剧一样，有时候巴戈又会被方芳芳打一巴掌。
 1	每段	每段	DET	DT	_	2	advmod	_	SpaceAfter=No
 2	介绍	介绍	VERB	VV	_	16	acl	_	SpaceAfter=No
 3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -8922,7 +8922,7 @@
 18	收看	收看	VERB	VV	_	16	ccomp	_	SpaceAfter=No
 19	〈	〈	PUNCT	(	_	21	punct	_	SpaceAfter=No
 20	新闻	新闻	NOUN	NN	_	21	case:suff	_	SpaceAfter=No
-21	砲	砲	PART	SFN	_	18	obj	_	SpaceAfter=No
+21	炮	炮	PART	SFN	_	18	obj	_	SpaceAfter=No
 22	〉	〉	PUNCT	)	_	21	punct	_	SpaceAfter=No
 23	，	，	PUNCT	,	_	56	punct	_	SpaceAfter=No
 24	新闻	新闻	NOUN	NN	_	27	nmod	_	SpaceAfter=No
