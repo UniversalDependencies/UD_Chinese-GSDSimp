@@ -13395,14 +13395,14 @@
 23	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
 # sent_id = test-s497
-# text = 宵禁就是管理员下班（0：00 AM）到次日上班之前（9：00 AM）禁止发帖和回复，该规则在2010上海世博会期间实行，导致大量海外网友由于时差缘故无法正常发帖。
+# text = 宵禁就是管理员下班（0:00 AM）到次日上班之前（9:00 AM）禁止发帖和回复，该规则在2010上海世博会期间实行，导致大量海外网友由于时差缘故无法正常发帖。
 1	宵禁	宵禁	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	就是	就是	VERB	VC	_	33	dep	_	SpaceAfter=No
 3	管理	管理	VERB	VV	_	4	case:suff	_	SpaceAfter=No
 4	员	员	PART	SFN	_	5	nsubj	_	SpaceAfter=No
 5	下班	下班	VERB	VV	_	18	nmod:tmod	_	SpaceAfter=No
 6	（	（	PUNCT	(	_	12	punct	_	SpaceAfter=No
-7	0：00	0：00	NUM	CD	NumType=Card	8	nummod	_	_
+7	0:00	0:00	NUM	CD	NumType=Card	8	nummod	_	_
 8	AM	AM	X	FW	_	5	dep	_	SpaceAfter=No
 9	）	）	PUNCT	)	_	12	punct	_	SpaceAfter=No
 10	到	到	CCONJ	CC	_	12	cc	_	SpaceAfter=No
@@ -13410,7 +13410,7 @@
 12	上班	上班	VERB	VV	_	5	conj	_	SpaceAfter=No
 13	之前	之前	ADP	IN	_	12	mark	_	SpaceAfter=No
 14	（	（	PUNCT	(	_	16	punct	_	SpaceAfter=No
-15	9：00	9：00	NUM	CD	NumType=Card	16	nummod	_	_
+15	9:00	9:00	NUM	CD	NumType=Card	16	nummod	_	_
 16	AM	AM	X	FW	_	18	obl	_	SpaceAfter=No
 17	）	）	PUNCT	)	_	16	punct	_	SpaceAfter=No
 18	禁止	禁止	VERB	VV	_	2	dep	_	SpaceAfter=No
