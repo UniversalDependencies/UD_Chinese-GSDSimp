@@ -284,7 +284,7 @@
 # text = 华特迪士尼首次邀请数名香港人气博客，参与动画《勇敢传说之幻险森林》配音工作，让他们与其他明星及专业配音员齐齐声演动画。
 1	华特	华特	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 2	迪士尼	迪士尼	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No
-3	首次	首次	NUM	CD	NumType=Card	4	advmod	_	SpaceAfter=No
+3	首次	首次	NUM	CD	NumType=Ord	4	advmod	_	SpaceAfter=No
 4	邀请	邀请	VERB	VV	Voice=Cau	23	acl	_	SpaceAfter=No
 5	数	数	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	名	名	NOUN	NNB	_	9	clf	_	SpaceAfter=No
@@ -639,7 +639,7 @@
 3	所	所	ADV	RB	_	4	mark	_	SpaceAfter=No
 4	在	在	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No
 5	的	的	PART	DEC	_	4	mark:relcl	_	SpaceAfter=No
-6	第三	第三	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
+6	第三	第三	NUM	CD	NumType=Ord	7	nummod	_	SpaceAfter=No
 7	区	区	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
 9	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -702,7 +702,7 @@
 1	1956	1956	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	23	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
-4	首次	首次	NUM	CD	NumType=Card	5	advmod	_	SpaceAfter=No
+4	首次	首次	NUM	CD	NumType=Ord	5	advmod	_	SpaceAfter=No
 5	推行	推行	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
 6	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
 7	许多	许多	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
@@ -1148,7 +1148,7 @@
 18	北京	北京	PROPN	NNP	_	20	nmod	_	SpaceAfter=No
 19	电影	电影	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 20	学院	学院	NOUN	NN	_	28	nmod	_	SpaceAfter=No
-21	首批	首批	NUM	CD	NumType=Card	23	advmod	_	SpaceAfter=No
+21	首批	首批	NUM	CD	NumType=Ord	23	advmod	_	SpaceAfter=No
 22	被	被	VERB	BB	Voice=Pass	23	aux:pass	_	SpaceAfter=No
 23	授予	授予	VERB	VV	_	28	acl:relcl	_	SpaceAfter=No
 24	学士	学士	NOUN	NN	_	25	nmod	_	SpaceAfter=No
@@ -1239,7 +1239,7 @@
 15	车站	车站	NOUN	NN	_	25	acl	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
 17	也是	也是	AUX	VC	_	25	cop	_	SpaceAfter=No
-18	第一	第一	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
+18	第一	第一	NUM	CD	NumType=Ord	19	nummod	_	SpaceAfter=No
 19	个	个	NOUN	NNB	_	25	nmod	_	SpaceAfter=No
 20	现代	现代	NOUN	NN	_	21	case:suff	_	SpaceAfter=No
 21	化	化	PART	SFN	_	25	nmod	_	SpaceAfter=No
@@ -1638,7 +1638,7 @@
 9	札幌	札幌	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
 10	农	农	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 11	学校	学校	NOUN	NN	_	13	nmod	_	SpaceAfter=No
-12	第二	第二	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
+12	第二	第二	NUM	CD	NumType=Ord	13	nummod	_	SpaceAfter=No
 13	农场	农场	NOUN	NN	_	35	nsubj	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	35	punct	_	SpaceAfter=No
 15	是	是	AUX	VC	_	27	cop	_	SpaceAfter=No
@@ -1726,7 +1726,7 @@
 # text = 此后，第18届华北运动会筹备委员会利用天津市政府的26万元拨款和河北省政府的20万元拨款兴建北站体育场，其余款项用于招待运动员和华北运动会工作人员。
 1	此后	此后	NOUN	NN	_	28	advmod	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No
-3	第18	第18	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+3	第18	第18	NUM	CD	NumType=Ord	4	nummod	_	SpaceAfter=No
 4	届	届	NOUN	NNB	_	11	nmod	_	SpaceAfter=No
 5	华	华	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
 6	北	北	NOUN	NN	_	11	nmod	_	SpaceAfter=No
@@ -2203,7 +2203,7 @@
 9	全	全	DET	DT	_	10	det	_	SpaceAfter=No
 10	芝加哥	芝加哥	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
 11	人气	人气	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
-12	第二	第二	NUM	CD	NumType=Card	13	advmod	_	SpaceAfter=No
+12	第二	第二	NUM	CD	NumType=Ord	13	advmod	_	SpaceAfter=No
 13	高	高	ADJ	JJ	_	16	acl:relcl	_	SpaceAfter=No
 14	的	的	PART	DEC	_	13	mark:relcl	_	SpaceAfter=No
 15	旅游	旅游	VERB	VV	_	16	obl	_	SpaceAfter=No
@@ -2467,7 +2467,7 @@
 7	失守	失守	VERB	VV	_	15	dep	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 9	波兰	波兰	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
-10	第五	第五	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
+10	第五	第五	NUM	CD	NumType=Ord	11	nummod	_	SpaceAfter=No
 11	军团	军团	NOUN	NN	_	13	det	_	SpaceAfter=No
 12	的	的	PART	DEC	Case=Gen	11	case:dec	_	SpaceAfter=No
 13	战线	战线	NOUN	NN	_	15	nsubj:pass	_	SpaceAfter=No
@@ -4028,7 +4028,7 @@
 11	秦	秦	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
 12	国镛	国镛	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No
 13	任	任	VERB	VV	_	25	dep	_	SpaceAfter=No
-14	首任	首任	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No
+14	首任	首任	NUM	CD	NumType=Ord	15	nummod	_	SpaceAfter=No
 15	校长	校长	NOUN	NN	_	13	obj	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
 17	王	王	PROPN	NNP	_	18	nmod	_	SpaceAfter=No
@@ -4161,7 +4161,7 @@
 26	人	人	PART	SFN	_	27	appos	_	SpaceAfter=No
 27	安巴都	安巴都	PROPN	NNP	_	30	nsubj	_	SpaceAfter=No
 28	为	为	AUX	VC	_	30	cop	_	SpaceAfter=No
-29	首任	首任	NUM	CD	NumType=Card	30	nummod	_	SpaceAfter=No
+29	首任	首任	NUM	CD	NumType=Ord	30	nummod	_	SpaceAfter=No
 30	主教	主教	NOUN	NN	_	33	dep	_	SpaceAfter=No
 31	，	，	PUNCT	,	_	33	punct	_	SpaceAfter=No
 32	现	现	NOUN	NN	_	33	nmod:tmod	_	SpaceAfter=No
@@ -4215,7 +4215,7 @@
 27	之	之	PART	DEC	Case=Gen	26	case:dec	_	SpaceAfter=No
 28	一	一	NUM	CD	NumType=Card	21	obj	_	SpaceAfter=No
 29	的	的	PART	DEC	_	21	mark:relcl	_	SpaceAfter=No
-30	第6	第6	NUM	CD	NumType=Card	31	nummod	_	SpaceAfter=No
+30	第6	第6	NUM	CD	NumType=Ord	31	nummod	_	SpaceAfter=No
 31	号	号	NOUN	NN	_	32	nmod	_	SpaceAfter=No
 32	高炉	高炉	NOUN	NN	_	19	obj	_	SpaceAfter=No
 33	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
@@ -4492,7 +4492,7 @@
 1	他	他	PRON	PRP	Person=3	14	nsubj	_	SpaceAfter=No
 2	生	生	VERB	VV	_	14	acl	_	SpaceAfter=No
 3	于	于	VERB	VV	_	2	mark	_	SpaceAfter=No
-4	第三	第三	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
+4	第三	第三	NUM	CD	NumType=Ord	5	nummod	_	SpaceAfter=No
 5	纪元	纪元	NOUN	NNB	_	7	clf	_	SpaceAfter=No
 6	1259	1259	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
 7	年	年	NOUN	NNB	_	2	obj	_	SpaceAfter=No
@@ -5073,7 +5073,7 @@
 12	地层	地层	NOUN	NN	_	9	obj	_	SpaceAfter=No
 13	时	时	ADP	IN	_	9	mark	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
-15	首次	首次	NUM	CD	NumType=Card	16	advmod	_	SpaceAfter=No
+15	首次	首次	NUM	CD	NumType=Ord	16	advmod	_	SpaceAfter=No
 16	提出	提出	VERB	VV	_	0	root	_	SpaceAfter=No
 17	印	印	PROPN	NNP	_	19	nmod	_	SpaceAfter=No
 18	支	支	PROPN	NNP	_	19	nmod	_	SpaceAfter=No
@@ -5208,7 +5208,7 @@
 24	巴士	巴士	NOUN	NN	_	7	conj	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	30	punct	_	SpaceAfter=No
 26	每	每	DET	DT	_	28	det	_	SpaceAfter=No
-27	第二	第二	NUM	CD	NumType=Card	28	nummod	_	SpaceAfter=No
+27	第二	第二	NUM	CD	NumType=Ord	28	nummod	_	SpaceAfter=No
 28	程	程	NOUN	NNB	_	30	advmod	_	SpaceAfter=No
 29	即	即	ADV	RB	_	30	mark	_	SpaceAfter=No
 30	获	获	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -5373,7 +5373,7 @@
 17	百	百	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
 18	强	强	NOUN	NN	_	21	nmod	_	SpaceAfter=No
 19	机场	机场	NOUN	NN	_	21	nmod	_	SpaceAfter=No
-20	第93	第93	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No
+20	第93	第93	NUM	CD	NumType=Ord	21	nummod	_	SpaceAfter=No
 21	位	位	NOUN	NN	_	15	obj	_	SpaceAfter=No
 22	；	；	PUNCT	:	_	36	punct	_	SpaceAfter=No
 23	旅客	旅客	NOUN	NN	_	25	nmod	_	SpaceAfter=No
@@ -5383,7 +5383,7 @@
 27	国内	国内	NOUN	NN	_	31	nmod	_	SpaceAfter=No
 28	民航	民航	NOUN	NN	_	31	nmod	_	SpaceAfter=No
 29	机场	机场	NOUN	NN	_	31	nmod	_	SpaceAfter=No
-30	第11	第11	NUM	CD	NumType=Card	31	nummod	_	SpaceAfter=No
+30	第11	第11	NUM	CD	NumType=Ord	31	nummod	_	SpaceAfter=No
 31	位	位	NOUN	NN	_	26	obj	_	SpaceAfter=No
 32	，	，	PUNCT	,	_	36	punct	_	SpaceAfter=No
 33	货邮	货邮	NOUN	NN	_	35	nmod	_	SpaceAfter=No
@@ -5393,7 +5393,7 @@
 37	国内	国内	NOUN	NN	_	41	nmod	_	SpaceAfter=No
 38	民航	民航	NOUN	NN	_	41	nmod	_	SpaceAfter=No
 39	机场	机场	NOUN	NN	_	41	nmod	_	SpaceAfter=No
-40	第9	第9	NUM	CD	NumType=Card	41	nummod	_	SpaceAfter=No
+40	第9	第9	NUM	CD	NumType=Ord	41	nummod	_	SpaceAfter=No
 41	位	位	NOUN	NN	_	36	obj	_	SpaceAfter=No
 42	。	。	PUNCT	.	_	36	punct	_	SpaceAfter=No
 
@@ -6995,7 +6995,7 @@
 43	益兰	益兰	PROPN	NNP	_	44	nsubj	_	SpaceAfter=No
 44	成	成	VERB	VV	_	60	dep	_	SpaceAfter=No
 45	为	为	VERB	VC	_	44	mark	_	SpaceAfter=No
-46	第一	第一	NUM	CD	NumType=Card	47	nummod	_	SpaceAfter=No
+46	第一	第一	NUM	CD	NumType=Ord	47	nummod	_	SpaceAfter=No
 47	任	任	NOUN	NNB	_	49	nmod	_	SpaceAfter=No
 48	理事	理事	NOUN	NN	_	49	case:suff	_	SpaceAfter=No
 49	长	长	PART	SFN	_	44	obj	_	SpaceAfter=No
@@ -7046,7 +7046,7 @@
 8	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 9	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No
 10	全国	全国	NOUN	NN	_	15	nmod	_	SpaceAfter=No
-11	第一	第一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
+11	第一	第一	NUM	CD	NumType=Ord	12	nummod	_	SpaceAfter=No
 12	个	个	NOUN	NNB	_	15	nmod	_	SpaceAfter=No
 13	县级	县级	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 14	民航	民航	NOUN	NN	_	15	case:suff	_	SpaceAfter=No
@@ -7432,7 +7432,7 @@
 
 # sent_id = dev-s260
 # text = 第二条，台湾独立不是因为台湾人四百年来受到外来政权的压迫。
-1	第二	第二	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
+1	第二	第二	NUM	CD	NumType=Ord	2	nummod	_	SpaceAfter=No
 2	条	条	NOUN	NNB	_	6	dep	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 4	台湾	台湾	PROPN	NNP	_	5	obl	_	SpaceAfter=No
@@ -7744,7 +7744,7 @@
 7	赛季	赛季	NOUN	NN	_	13	obl	_	SpaceAfter=No
 8	取得	取得	VERB	VV	_	13	acl	_	SpaceAfter=No
 9	英超	英超	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
-10	第2	第2	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
+10	第2	第2	NUM	CD	NumType=Ord	11	nummod	_	SpaceAfter=No
 11	名	名	NOUN	NN	_	8	obj	_	SpaceAfter=No
 12	并	并	ADV	RB	_	13	mark	_	SpaceAfter=No
 13	取得	取得	VERB	VV	_	2	ccomp	_	SpaceAfter=No
@@ -8234,7 +8234,7 @@
 27	西藏	西藏	PROPN	NNP	_	26	obj	_	SpaceAfter=No
 28	参与	参与	VERB	VV	_	0	root	_	SpaceAfter=No
 29	主持	主持	VERB	VV	_	28	xcomp	_	SpaceAfter=No
-30	第十一	第十一	NUM	CD	NumType=Card	31	nummod	_	SpaceAfter=No
+30	第十一	第十一	NUM	CD	NumType=Ord	31	nummod	_	SpaceAfter=No
 31	世	世	NOUN	NN	_	32	nmod	_	SpaceAfter=No
 32	班禅	班禅	NOUN	NN	_	38	det	_	SpaceAfter=No
 33	的	的	PART	DEC	Case=Gen	32	case:dec	_	SpaceAfter=No
@@ -8622,7 +8622,7 @@
 47	协助	协助	VERB	VV	_	0	root	_	SpaceAfter=No
 48	墨西哥	墨西哥	PROPN	NNP	_	49	nsubj	_	SpaceAfter=No
 49	羸得	羸得	VERB	VV	_	47	ccomp	_	SpaceAfter=No
-50	第五	第五	NUM	CD	NumType=Card	51	nummod	_	SpaceAfter=No
+50	第五	第五	NUM	CD	NumType=Ord	51	nummod	_	SpaceAfter=No
 51	次	次	NOUN	NNB	_	54	clf	_	SpaceAfter=No
 52	美洲	美洲	PROPN	NNP	_	54	nmod	_	SpaceAfter=No
 53	金杯	金杯	NOUN	NN	_	54	nmod	_	SpaceAfter=No
@@ -8756,7 +8756,7 @@
 # sent_id = dev-s309
 # text = 上映第四周为日本黄金周过后的第一周，柯南历届剧场版票房通常从这时期开始增幅放缓，但M 17却依然成为周票房榜冠军，蝉联四周冠军。
 1	上映	上映	NOUN	NN	_	3	nmod	_	SpaceAfter=No
-2	第四	第四	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
+2	第四	第四	NUM	CD	NumType=Ord	3	nummod	_	SpaceAfter=No
 3	周	周	NOUN	NNB	_	11	nsubj	_	SpaceAfter=No
 4	为	为	AUX	VC	_	11	cop	_	SpaceAfter=No
 5	日本	日本	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
@@ -8764,7 +8764,7 @@
 7	周	周	PART	SFN	_	11	det	_	SpaceAfter=No
 8	过后	过后	ADP	IN	_	7	acl	_	SpaceAfter=No
 9	的	的	PART	DEC	Case=Gen	7	case:dec	_	SpaceAfter=No
-10	第一	第一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
+10	第一	第一	NUM	CD	NumType=Ord	11	nummod	_	SpaceAfter=No
 11	周	周	NOUN	NNB	_	38	dep	_	SpaceAfter=No
 12	，	，	PUNCT	,	_	38	punct	_	SpaceAfter=No
 13	柯南	柯南	PROPN	NNP	_	17	nmod	_	SpaceAfter=No
@@ -9028,14 +9028,14 @@
 1	她	她	PRON	PRP	Person=3	19	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	8	cop	_	SpaceAfter=No
 3	日本	日本	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
-4	第一	第一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
+4	第一	第一	NUM	CD	NumType=Ord	5	nummod	_	SpaceAfter=No
 5	位	位	NOUN	NNB	_	8	nmod	_	SpaceAfter=No
 6	女性	女性	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 7	宇航	宇航	VERB	VV	_	8	case:suff	_	SpaceAfter=No
 8	员	员	PART	SFN	_	19	acl	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
 10	也是	也是	AUX	VC	_	19	cop	_	SpaceAfter=No
-11	首位	首位	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
+11	首位	首位	NUM	CD	NumType=Ord	19	nummod	_	SpaceAfter=No
 12	两	两	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
 13	度	度	NOUN	NNB	_	14	advmod	_	SpaceAfter=No
 14	登上	登上	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No
@@ -9647,7 +9647,7 @@
 7	，	，	PUNCT	,	_	29	punct	_	SpaceAfter=No
 8	成立	成立	VERB	VV	_	29	acl	_	SpaceAfter=No
 9	中国	中国	PROPN	NNP	_	22	nmod	_	SpaceAfter=No
-10	首个	首个	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No
+10	首个	首个	NUM	CD	NumType=Ord	22	nummod	_	SpaceAfter=No
 11	以	以	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No
 12	同性	同性	NOUN	NN	_	13	case:suff	_	SpaceAfter=No
 13	恋	恋	PART	SFN	_	14	case:suff	_	SpaceAfter=No
@@ -10127,7 +10127,7 @@
 2	是	是	AUX	VC	_	12	cop	_	SpaceAfter=No
 3	北京	北京	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
 4	大学	大学	NOUN	NN	_	12	nmod	_	SpaceAfter=No
-5	第一	第一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
+5	第一	第一	NUM	CD	NumType=Ord	6	nummod	_	SpaceAfter=No
 6	个	个	NOUN	NNB	_	12	clf	_	SpaceAfter=No
 7	讲	讲	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 8	欧洲	欧洲	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
@@ -10195,7 +10195,7 @@
 # sent_id = dev-s359
 # text = 从第二年开始，周俊三渐转球队辅助角色，上场时间愈来愈少。
 1	从	从	ADP	IN	_	3	case	_	SpaceAfter=No
-2	第二	第二	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
+2	第二	第二	NUM	CD	NumType=Ord	3	nummod	_	SpaceAfter=No
 3	年	年	NOUN	NNB	_	16	nmod	_	SpaceAfter=No
 4	开始	开始	ADP	IN	_	3	acl	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
@@ -11820,7 +11820,7 @@
 16	可能	可能	AUX	MD	_	14	xcomp	_	SpaceAfter=No
 17	的	的	PART	UH	_	14	discourse	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No
-19	第8	第8	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No
+19	第8	第8	NUM	CD	NumType=Ord	20	nummod	_	SpaceAfter=No
 20	军团	军团	NOUN	NN	_	25	nmod	_	SpaceAfter=No
 21	在	在	ADP	IN	_	25	det	_	SpaceAfter=No
 22	1944	1944	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No
@@ -11967,7 +11967,7 @@
 3	成	成	VERB	VV	_	0	root	_	SpaceAfter=No
 4	为	为	VERB	VC	_	3	mark	_	SpaceAfter=No
 5	欧洲	欧洲	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
-6	第二	第二	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
+6	第二	第二	NUM	CD	NumType=Ord	7	nummod	_	SpaceAfter=No
 7	个	个	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 8	拥有	拥有	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
 9	住房	住房	NOUN	NN	_	11	nmod	_	SpaceAfter=No
@@ -12402,7 +12402,7 @@
 # text = 他也是首位担任公务员的英国王室成员。
 1	他	他	PRON	PRP	Person=3	10	nsubj	_	SpaceAfter=No
 2	也是	也是	AUX	VC	_	10	cop	_	SpaceAfter=No
-3	首位	首位	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
+3	首位	首位	NUM	CD	NumType=Ord	10	nummod	_	SpaceAfter=No
 4	担任	担任	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No
 5	公务	公务	NOUN	NN	_	6	case:suff	_	SpaceAfter=No
 6	员	员	PART	SFN	_	4	obj	_	SpaceAfter=No
@@ -12765,7 +12765,7 @@
 7	了	了	PART	AS	Aspect=Perf	6	case:aspect	_	SpaceAfter=No
 8	香港	香港	PROPN	NNP	_	17	det	_	SpaceAfter=No
 9	的	的	PART	DEC	Case=Gen	8	case:dec	_	SpaceAfter=No
-10	第一	第一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
+10	第一	第一	NUM	CD	NumType=Ord	11	nummod	_	SpaceAfter=No
 11	队	队	NOUN	NNB	_	17	nmod	_	SpaceAfter=No
 12	香港	香港	PROPN	NNP	_	17	nmod	_	SpaceAfter=No
 13	红	红	NOUN	NN	_	17	nmod	_	SpaceAfter=No
@@ -13708,7 +13708,7 @@
 
 # sent_id = dev-s488
 # text = 第五军军长杜聿明后在史迪威压力下兼任远征军代理司令长官。
-1	第五	第五	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
+1	第五	第五	NUM	CD	NumType=Ord	2	nummod	_	SpaceAfter=No
 2	军	军	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	军长	军长	NOUN	NN	_	5	appos	_	SpaceAfter=No
 4	杜	杜	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
@@ -13732,14 +13732,14 @@
 2	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
 3	该军	该军	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
 4	下辖	下辖	VERB	VV	_	23	acl	_	SpaceAfter=No
-5	第33	第33	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
+5	第33	第33	NUM	CD	NumType=Ord	6	nummod	_	SpaceAfter=No
 6	师	师	NOUN	NN	_	4	obj	_	SpaceAfter=No
 7	、	、	PUNCT	EC	_	9	punct	_	SpaceAfter=No
-8	第117	第117	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
+8	第117	第117	NUM	CD	NumType=Ord	9	nummod	_	SpaceAfter=No
 9	师	师	NOUN	NN	_	6	conj	_	SpaceAfter=No
 10	及	及	CCONJ	CC	_	13	cc	_	SpaceAfter=No
 11	独立	独立	ADJ	JJ	_	13	amod	_	SpaceAfter=No
-12	第6	第6	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
+12	第6	第6	NUM	CD	NumType=Ord	13	nummod	_	SpaceAfter=No
 13	旅	旅	NOUN	NN	_	6	conj	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
 15	在	在	VERB	VV	_	23	acl	_	SpaceAfter=No
@@ -13872,7 +13872,7 @@
 23	局长	局长	NOUN	NN	_	17	appos	_	SpaceAfter=No
 24	）	）	PUNCT	)	_	23	punct	_	SpaceAfter=No
 25	为	为	AUX	VC	_	28	cop	_	SpaceAfter=No
-26	第一	第一	NUM	CD	NumType=Card	28	nummod	_	SpaceAfter=No
+26	第一	第一	NUM	CD	NumType=Ord	28	nummod	_	SpaceAfter=No
 27	副	副	PART	PFA	_	28	case:pref	_	SpaceAfter=No
 28	校长	校长	NOUN	NN	_	41	dep	_	SpaceAfter=No
 29	，	，	PUNCT	,	_	41	punct	_	SpaceAfter=No
@@ -13885,7 +13885,7 @@
 36	校长	校长	NOUN	NN	_	31	appos	_	SpaceAfter=No
 37	）	）	PUNCT	)	_	36	punct	_	SpaceAfter=No
 38	为	为	AUX	VC	_	41	cop	_	SpaceAfter=No
-39	第二	第二	NUM	CD	NumType=Card	41	nummod	_	SpaceAfter=No
+39	第二	第二	NUM	CD	NumType=Ord	41	nummod	_	SpaceAfter=No
 40	副	副	PART	PFA	_	41	case:pref	_	SpaceAfter=No
 41	校长	校长	NOUN	NN	_	4	ccomp	_	SpaceAfter=No
 42	，	，	PUNCT	,	_	43	punct	_	SpaceAfter=No
