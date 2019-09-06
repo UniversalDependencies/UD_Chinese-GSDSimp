@@ -1964,7 +1964,7 @@
 25	家系	家系	NOUN	NN	_	30	det	_	SpaceAfter=No
 26	中	中	ADP	IN	_	25	acl	_	SpaceAfter=No
 27	的	的	PART	DEC	Case=Gen	25	case:dec	_	SpaceAfter=No
-28	第一	第一	NUM	CD	NumType=Card	29	nummod	_	SpaceAfter=No
+28	第一	第一	NUM	CD	NumType=Ord	29	nummod	_	SpaceAfter=No
 29	位	位	NOUN	NNB	_	30	clf	_	SpaceAfter=No
 30	女王	女王	NOUN	NN	_	22	obj	_	SpaceAfter=No
 31	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
@@ -2176,7 +2176,7 @@
 20	是	是	VERB	VC	_	11	xcomp	_	SpaceAfter=No
 21	没法	没法	VERB	VV	_	20	xcomp	_	SpaceAfter=No
 22	做出	做出	VERB	VV	_	21	xcomp	_	SpaceAfter=No
-23	第二	第二	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
+23	第二	第二	NUM	CD	NumType=Ord	24	nummod	_	SpaceAfter=No
 24	张	张	NOUN	NNB	_	25	clf	_	SpaceAfter=No
 25	专辑	专辑	NOUN	NN	_	22	obj	_	SpaceAfter=No
 26	的	的	X	UH	_	20	discourse	_	SpaceAfter=No
@@ -2364,7 +2364,7 @@
 8	占领	占领	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 9	白俄罗斯	白俄罗斯	PROPN	NNP	_	8	obj	_	SpaceAfter=No
 10	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
-11	第十	第十	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
+11	第十	第十	NUM	CD	NumType=Ord	12	nummod	_	SpaceAfter=No
 12	军	军	NOUN	NN	_	7	obj	_	SpaceAfter=No
 13	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No
 14	在	在	VERB	VV	_	18	acl	_	SpaceAfter=No
@@ -3137,7 +3137,7 @@
 2	是	是	AUX	VC	_	7	cop	_	SpaceAfter=No
 3	阿齐兹	阿齐兹	PROPN	NNP	_	7	det	_	SpaceAfter=No
 4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
-5	第一	第一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
+5	第一	第一	NUM	CD	NumType=Ord	6	nummod	_	SpaceAfter=No
 6	项	项	NOUN	NNB	_	7	clf	_	SpaceAfter=No
 7	死刑	死刑	NOUN	NN	_	19	dep	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
@@ -4508,7 +4508,7 @@
 35	电影	电影	NOUN	NN	_	36	case:suff	_	SpaceAfter=No
 36	史	史	PART	SFN	_	41	nmod	_	SpaceAfter=No
 37	上	上	ADP	IN	_	36	acl	_	SpaceAfter=No
-38	第一	第一	NUM	CD	NumType=Card	39	nummod	_	SpaceAfter=No
+38	第一	第一	NUM	CD	NumType=Ord	39	nummod	_	SpaceAfter=No
 39	部	部	NOUN	NNB	_	41	nmod	_	SpaceAfter=No
 40	恐怖	恐怖	ADJ	JJ	_	41	case:suff	_	SpaceAfter=No
 41	片	片	PART	SFN	_	0	root	_	SpaceAfter=No
@@ -4621,7 +4621,7 @@
 11	相较	相较	VERB	VV	_	25	acl	_	SpaceAfter=No
 12	美朱	美朱	PROPN	NNP	_	18	nsubj	_	SpaceAfter=No
 13	在	在	ADP	IN	_	15	case	_	SpaceAfter=No
-14	第一	第一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No
+14	第一	第一	NUM	CD	NumType=Ord	15	nummod	_	SpaceAfter=No
 15	集	集	NOUN	NNB	_	18	obl	_	SpaceAfter=No
 16	跟	跟	ADP	IN	_	17	case	_	SpaceAfter=No
 17	鬼宿	鬼宿	PROPN	NNP	_	18	obl	_	SpaceAfter=No
@@ -4974,7 +4974,7 @@
 3	航程	航程	NOUN	NN	_	14	advmod	_	SpaceAfter=No
 4	中	中	ADP	IN	_	3	acl	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
-6	第一	第一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
+6	第一	第一	NUM	CD	NumType=Ord	7	nummod	_	SpaceAfter=No
 7	砲塔	砲塔	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 8	因	因	ADP	IN	_	12	case	_	SpaceAfter=No
 9	美	美	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
@@ -5873,18 +5873,18 @@
 8	不	不	ADV	RB	Polarity=Neg	9	advmod	_	SpaceAfter=No
 9	理想	理想	ADJ	JJ	_	29	ccomp	_	SpaceAfter=No
 10	（	（	PUNCT	(	_	29	punct	_	SpaceAfter=No
-11	第一	第一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
+11	第一	第一	NUM	CD	NumType=Ord	12	nummod	_	SpaceAfter=No
 12	季	季	NOUN	NNB	_	14	clf	_	SpaceAfter=No
 13	全年	全年	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 14	收视	收视	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 15	排行	排行	VERB	VV	_	29	dep	_	SpaceAfter=No
-16	第27	第27	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No
+16	第27	第27	NUM	CD	NumType=Ord	17	nummod	_	SpaceAfter=No
 17	名	名	NOUN	NNB	_	15	obj	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	29	punct	_	SpaceAfter=No
-19	第二	第二	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No
+19	第二	第二	NUM	CD	NumType=Ord	20	nummod	_	SpaceAfter=No
 20	季	季	NOUN	NNB	_	23	nsubj	_	SpaceAfter=No
 21	为	为	AUX	VC	_	23	cop	_	SpaceAfter=No
-22	第46	第46	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No
+22	第46	第46	NUM	CD	NumType=Ord	23	nummod	_	SpaceAfter=No
 23	名	名	NOUN	NNB	_	29	dep	_	SpaceAfter=No
 24	）	）	PUNCT	)	_	29	punct	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	29	punct	_	SpaceAfter=No
@@ -6311,7 +6311,7 @@
 4	教区	教区	PROPN	NNP	_	19	nsubj	_	SpaceAfter=No
 5	是	是	AUX	VC	_	19	cop	_	SpaceAfter=No
 6	中国	中国	PROPN	NNP	_	15	nmod	_	SpaceAfter=No
-7	第一	第一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
+7	第一	第一	NUM	CD	NumType=Ord	8	nummod	_	SpaceAfter=No
 8	批	批	NOUN	NNB	_	12	clf	_	SpaceAfter=No
 9	6	6	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
 10	个	个	NOUN	NNB	_	12	clf	_	SpaceAfter=No
@@ -6787,7 +6787,7 @@
 7	市	市	PART	SFN	_	14	nmod	_	SpaceAfter=No
 8	历史	历史	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 9	上	上	ADP	IN	_	8	acl	_	SpaceAfter=No
-10	第一	第一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
+10	第一	第一	NUM	CD	NumType=Ord	11	nummod	_	SpaceAfter=No
 11	家	家	NOUN	NNB	_	14	clf	_	SpaceAfter=No
 12	外资	外资	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 13	大	大	PART	PFA	_	14	case:pref	_	SpaceAfter=No
@@ -7470,7 +7470,7 @@
 52	进行	进行	VERB	VV	_	67	dep	_	SpaceAfter=No
 53	会议	会议	NOUN	NN	_	52	obj	_	SpaceAfter=No
 54	，	，	PUNCT	,	_	67	punct	_	SpaceAfter=No
-55	第17	第17	NUM	CD	NumType=Card	56	nummod	_	SpaceAfter=No
+55	第17	第17	NUM	CD	NumType=Ord	56	nummod	_	SpaceAfter=No
 56	届	届	NOUN	NNB	_	59	clf	_	SpaceAfter=No
 57	部长	部长	NOUN	NN	_	58	case:suff	_	SpaceAfter=No
 58	级	级	PART	SFN	_	59	nmod	_	SpaceAfter=No
@@ -7971,7 +7971,7 @@
 38	也是	也是	AUX	VC	_	43	cop	_	SpaceAfter=No
 39	内	内	NOUN	NN	_	43	nmod	_	SpaceAfter=No
 40	蒙古	蒙古	PROPN	NNP	_	43	nmod	_	SpaceAfter=No
-41	第一	第一	NUM	CD	NumType=Card	42	nummod	_	SpaceAfter=No
+41	第一	第一	NUM	CD	NumType=Ord	42	nummod	_	SpaceAfter=No
 42	所	所	NOUN	NNB	_	43	clf	_	SpaceAfter=No
 43	中学	中学	NOUN	NN	_	0	root	_	SpaceAfter=No
 44	。	。	PUNCT	.	_	43	punct	_	SpaceAfter=No
@@ -8943,7 +8943,7 @@
 39	对话	对话	NOUN	NN	_	36	obj	_	SpaceAfter=No
 40	；	；	PUNCT	:	_	56	punct	_	SpaceAfter=No
 41	跟	跟	ADP	IN	_	44	case	_	SpaceAfter=No
-42	第一	第一	NUM	CD	NumType=Card	43	nummod	_	SpaceAfter=No
+42	第一	第一	NUM	CD	NumType=Ord	43	nummod	_	SpaceAfter=No
 43	段	段	NOUN	NNB	_	44	clf	_	SpaceAfter=No
 44	短剧	短剧	NOUN	NN	_	45	nmod	_	SpaceAfter=No
 45	一样	一样	ADJ	JJ	_	56	acl	_	SpaceAfter=No
@@ -9668,7 +9668,7 @@
 32	一	一	NUM	CD	NumType=Card	33	nummod	_	SpaceAfter=No
 33	次	次	NOUN	NNB	_	34	advmod	_	SpaceAfter=No
 34	获得	获得	VERB	VV	_	38	csubj	_	SpaceAfter=No
-35	第一	第一	NUM	CD	NumType=Card	36	nummod	_	SpaceAfter=No
+35	第一	第一	NUM	CD	NumType=Ord	36	nummod	_	SpaceAfter=No
 36	名	名	NOUN	NNB	_	34	obj	_	SpaceAfter=No
 37	，	，	PUNCT	,	_	38	punct	_	SpaceAfter=No
 38	证明	证明	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -10170,7 +10170,7 @@
 3	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No
 4	全	全	DET	DT	_	5	det	_	SpaceAfter=No
 5	美	美	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
-6	第二	第二	NUM	CD	NumType=Card	8	advmod	_	SpaceAfter=No
+6	第二	第二	NUM	CD	NumType=Ord	8	advmod	_	SpaceAfter=No
 7	历史	历史	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 8	悠久	悠久	ADJ	JJ	_	11	acl:relcl	_	SpaceAfter=No
 9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
@@ -10408,7 +10408,7 @@
 2	婚姻	婚姻	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
 3	史	史	PART	SFN	_	6	det	_	SpaceAfter=No
 4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
-5	第二	第二	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
+5	第二	第二	NUM	CD	NumType=Ord	6	nummod	_	SpaceAfter=No
 6	时期	时期	NOUN	NN	_	30	nmod:tmod	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	30	punct	_	SpaceAfter=No
 8	妇女	妇女	NOUN	NN	_	10	nmod	_	SpaceAfter=No
@@ -10780,7 +10780,7 @@
 # text = 2013年第十二届全国运动会上，巴特尔已签约辽宁出战。
 1	2013	2013	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	7	nmod	_	SpaceAfter=No
-3	第十二	第十二	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+3	第十二	第十二	NUM	CD	NumType=Ord	4	nummod	_	SpaceAfter=No
 4	届	届	NOUN	NNB	_	7	nmod	_	SpaceAfter=No
 5	全国	全国	NOUN	NN	_	7	nmod	_	SpaceAfter=No
 6	运动	运动	VERB	VV	_	7	case:suff	_	SpaceAfter=No
@@ -10799,7 +10799,7 @@
 1	巴特尔	巴特尔	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No
 2	作	作	VERB	VV	_	23	acl	_	SpaceAfter=No
 3	为	为	VERB	VC	_	2	mark	_	SpaceAfter=No
-4	第二	第二	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
+4	第二	第二	NUM	CD	NumType=Ord	5	nummod	_	SpaceAfter=No
 5	位	位	NOUN	NNB	_	12	nmod	_	SpaceAfter=No
 6	加盟	加盟	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 7	NBA	NBA	X	FW	_	6	obj	_	SpaceAfter=No
@@ -10820,7 +10820,7 @@
 22	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
 23	成	成	VERB	VV	_	0	root	_	SpaceAfter=No
 24	为	为	VERB	VC	_	23	mark	_	SpaceAfter=No
-25	第一	第一	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No
+25	第一	第一	NUM	CD	NumType=Ord	26	nummod	_	SpaceAfter=No
 26	个	个	NOUN	NNB	_	32	clf	_	SpaceAfter=No
 27	在	在	ADP	IN	_	28	case	_	SpaceAfter=No
 28	NBA	NBA	X	FW	_	29	obl	_	SpaceAfter=No
@@ -11054,13 +11054,13 @@
 4	楚	楚	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No
 5	先后	先后	ADV	RB	_	6	advmod	_	SpaceAfter=No
 6	升任	升任	VERB	VV	_	21	acl	_	SpaceAfter=No
-7	第六	第六	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
+7	第六	第六	NUM	CD	NumType=Ord	8	nummod	_	SpaceAfter=No
 8	旅	旅	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 9	旅长	旅长	NOUN	NN	_	6	obj	_	SpaceAfter=No
 10	及	及	CCONJ	CC	_	15	cc	_	SpaceAfter=No
-11	第二	第二	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
+11	第二	第二	NUM	CD	NumType=Ord	12	nummod	_	SpaceAfter=No
 12	军	军	NOUN	NN	_	15	nmod	_	SpaceAfter=No
-13	第六	第六	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
+13	第六	第六	NUM	CD	NumType=Ord	14	nummod	_	SpaceAfter=No
 14	师	师	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 15	师长	师长	NOUN	NN	_	9	conj	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No
@@ -11387,7 +11387,7 @@
 14	即	即	ADV	RB	_	15	mark	_	SpaceAfter=No
 15	发行	发行	VERB	VV	_	38	dep	_	SpaceAfter=No
 16	个人	个人	PRON	PRD	_	19	nmod	_	SpaceAfter=No
-17	首	首	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
+17	首	首	NUM	CD	NumType=Ord	18	nummod	_	SpaceAfter=No
 18	张	张	NOUN	NNB	_	19	nmod	_	SpaceAfter=No
 19	EP	EP	X	FW	_	15	obj	_	SpaceAfter=No
 20	，	，	PUNCT	,	_	38	punct	_	SpaceAfter=No
@@ -12093,7 +12093,7 @@
 15	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
 16	中国	中国	PROPN	NNP	_	17	nmod	_	SpaceAfter=No
 17	大陆	大陆	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
-18	第三	第三	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
+18	第三	第三	NUM	CD	NumType=Ord	19	nummod	_	SpaceAfter=No
 19	家	家	NOUN	NNB	_	20	advmod	_	SpaceAfter=No
 20	引进	引进	VERB	VV	_	26	acl:relcl	_	SpaceAfter=No
 21	泰国	泰国	PROPN	NNP	_	23	nmod	_	SpaceAfter=No
