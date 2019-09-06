@@ -8778,7 +8778,7 @@
 30	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s330
-# text = 他出生于雷昂，是弗鲁埃拉（父亲为坎塔布里亚的佩德罗）的儿子；阿斯图里亚斯的阿方索一世的姪子；并且是阿方索继承人残酷的弗鲁埃拉的一个堂弟。
+# text = 他出生于雷昂，是弗鲁埃拉（父亲为坎塔布里亚的佩德罗）的儿子；阿斯图里亚斯的阿方索一世的侄子；并且是阿方索继承人残酷的弗鲁埃拉的一个堂弟。
 1	他	他	PRON	PRP	Person=3	16	nsubj	_	SpaceAfter=No
 2	出生	出生	VERB	VV	_	16	acl	_	SpaceAfter=No
 3	于	于	ADP	IN	_	4	case	_	SpaceAfter=No
@@ -8801,7 +8801,7 @@
 20	阿方索	阿方索	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
 21	一世	一世	PROPN	NNP	_	23	det	_	SpaceAfter=No
 22	的	的	PART	DEC	Case=Gen	21	case:dec	_	SpaceAfter=No
-23	姪子	姪子	NOUN	NN	_	16	conj	_	SpaceAfter=No
+23	侄子	侄子	NOUN	NN	_	16	conj	_	SpaceAfter=No
 24	；	；	PUNCT	:	_	36	punct	_	SpaceAfter=No
 25	并且	并且	CCONJ	CC	_	36	cc	_	SpaceAfter=No
 26	是	是	AUX	VC	_	36	cop	_	SpaceAfter=No
