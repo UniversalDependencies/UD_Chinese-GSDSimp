@@ -11465,13 +11465,13 @@
 16	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s424
-# text = 观察空中星宿位置的模様，以占卜未来“天道”的学问，来作为学习基础的制度（不过问身份、只要拥有广泛才能的人就能被选上）。
+# text = 观察空中星宿位置的模样，以占卜未来“天道”的学问，来作为学习基础的制度（不过问身份、只要拥有广泛才能的人就能被选上）。
 1	观察	观察	VERB	VV	_	8	acl	_	SpaceAfter=No
 2	空中	空中	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	星宿	星宿	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 4	位置	位置	NOUN	NN	_	6	det	_	SpaceAfter=No
 5	的	的	PART	DEC	Case=Gen	4	case:dec	_	SpaceAfter=No
-6	模様	模様	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	模样	模样	NOUN	NN	_	1	obj	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
 8	以	以	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
 9	占卜	占卜	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
