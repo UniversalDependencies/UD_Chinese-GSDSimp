@@ -4326,7 +4326,7 @@
 18	58	58	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
 19	公里	公里	NOUN	NNB	_	29	csubj	_	SpaceAfter=No
 20	，	，	PUNCT	,	_	29	punct	_	SpaceAfter=No
-21	由	由	VERB	VV	_	29	acl	_	SpaceAfter=No
+21	由	由	VERB	VV	_	29	advcl	_	SpaceAfter=No
 22	伊万诺	伊万诺	PROPN	NNP	_	24	nmod	_	SpaceAfter=No
 23	-	-	PUNCT	HYPH	_	24	punct	_	SpaceAfter=No
 24	弗兰科夫斯克	弗兰科夫斯克	PROPN	NNP	_	25	case:suff	_	SpaceAfter=No
@@ -4341,12 +4341,12 @@
 33	，	，	PUNCT	,	_	29	punct	_	SpaceAfter=No
 34	面积	面积	NOUN	NN	_	36	nsubj	_	SpaceAfter=No
 35	27	27	NUM	CD	NumType=Card	36	nummod	_	SpaceAfter=No
-36	平方公里	平方公里	NOUN	NNB	_	41	dep	_	SpaceAfter=No
-37	，	，	PUNCT	,	_	29	punct	_	SpaceAfter=No
+36	平方公里	平方公里	NOUN	NNB	_	41	advcl	_	SpaceAfter=No
+37	，	，	PUNCT	,	_	41	punct	_	SpaceAfter=No
 38	2011	2011	NUM	CD	NumType=Card	39	nummod	_	SpaceAfter=No
 39	年	年	NOUN	NNB	_	41	nmod:tmod	_	SpaceAfter=No
 40	人口	人口	NOUN	NN	_	41	nsubj	_	SpaceAfter=No
-41	20,453	20,453	NUM	CD	NumType=Card	29	conj	_	SpaceAfter=No
+41	20,453	20,453	NUM	CD	NumType=Card	29	parataxis	_	SpaceAfter=No
 42	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No
 
 # sent_id = test-s164
