@@ -1,20 +1,10 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+Simplified Chinese Universal Dependencies dataset converted from the GSD (traditional) dataset with manual corrections.
 
 # Introduction
 
-...
-
-
-# Acknowledgments
-
-...
-
-## References
-
-* (citation)
+This is a simplified Chinese version of the UD Chinese GSD treebank. It is initially automatically converted into simplified Chinese with the OpenCC tool with patterns for mapping punctuation, then corrected with manual fixes.
 
 
 # Changelog
@@ -31,14 +21,14 @@
 Data available since: UD v2.5
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: nonfiction news
+Genre: wiki
 Lemmas: converted from manual
-UPOS: converted from manual
+UPOS: converted with corrections
 XPOS: manual native
-Features: converted from manual
+Features: converted with corrections
 Relations: converted from manual
-Contributors: Qi, Peng
-Contributing: elsewhere
+Contributors: Qi, Peng; Yasuoka, Koichi
+Contributing: here
 Contact: pengqi@cs.stanford.edu
 ===============================================================================
 </pre>
