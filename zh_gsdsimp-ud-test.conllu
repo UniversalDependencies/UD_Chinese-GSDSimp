@@ -1710,7 +1710,7 @@
 18	她	她	PRON	PRP	Person=3	17	iobj	_	SpaceAfter=No
 19	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
 20	说道	说道	VERB	VV	_	11	ccomp	_	SpaceAfter=No
-21	：	：	PUNCT	:	_	31	punct	_	SpaceAfter=No
+21	：	：	PUNCT	:	_	20	punct	_	SpaceAfter=No
 22	“	“	PUNCT	``	_	25	punct	_	SpaceAfter=No
 23	好	好	ADJ	JJ	_	25	dep	_	SpaceAfter=No
 24	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
