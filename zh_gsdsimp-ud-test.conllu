@@ -10465,20 +10465,20 @@
 # text = 青岛天后宫始建于明代成化三年，初称“天妃宫”，是青岛市区现存最古老的明清砖木结构建筑群。
 1	青岛	青岛	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	天后	天后	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
-3	宫	宫	PART	SFN	_	29	nsubj	_	SpaceAfter=No
-4	始建	始建	VERB	VV	_	29	acl	_	SpaceAfter=No
+3	宫	宫	PART	SFN	_	4	nsubj	_	SpaceAfter=No
+4	始建	始建	VERB	VV	_	0	root	_	SpaceAfter=No
 5	于	于	VERB	VV	_	4	mark	_	SpaceAfter=No
 6	明代	明代	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
 7	成化	成化	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
 8	三	三	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 9	年	年	NOUN	NNB	_	4	obj	_	SpaceAfter=No
-10	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
-11	初称	初称	VERB	VV	_	29	acl	_	SpaceAfter=No
+10	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
+11	初称	初称	VERB	VV	_	4	parataxis	_	SpaceAfter=No
 12	“	“	PUNCT	``	_	14	punct	_	SpaceAfter=No
 13	天妃	天妃	PROPN	NNP	_	14	case:suff	_	SpaceAfter=No
 14	宫	宫	PART	SFN	_	11	obj	_	SpaceAfter=No
 15	”	”	PUNCT	''	_	14	punct	_	SpaceAfter=No
-16	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
+16	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
 17	是	是	AUX	VC	_	29	cop	_	SpaceAfter=No
 18	青岛	青岛	PROPN	NNP	_	29	nmod	_	SpaceAfter=No
 19	市区	市区	NOUN	NN	_	29	nmod	_	SpaceAfter=No
@@ -10487,12 +10487,12 @@
 22	古老	古老	ADJ	JJ	_	29	amod	_	SpaceAfter=No
 23	的	的	PART	DEC	_	22	mark:relcl	_	SpaceAfter=No
 24	明	明	PROPN	NNP	_	29	nmod	_	SpaceAfter=No
-25	清	清	PROPN	NNP	_	0	root	_	SpaceAfter=No
+25	清	清	PROPN	NNP	_	24	conj	_	SpaceAfter=No
 26	砖木	砖木	NOUN	NN	_	29	nmod	_	SpaceAfter=No
 27	结构	结构	NOUN	NN	_	29	nmod	_	SpaceAfter=No
 28	建筑	建筑	NOUN	NN	_	29	case:suff	_	SpaceAfter=No
-29	群	群	PART	SFN	_	25	conj	_	SpaceAfter=No
-30	。	。	PUNCT	.	_	25	punct	_	SpaceAfter=No
+29	群	群	PART	SFN	_	4	parataxis	_	SpaceAfter=No
+30	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s387
 # text = 唐国的末期国君叫做唐叔虞。
