@@ -413,7 +413,7 @@
 12	会	会	AUX	MD	_	13	aux	_	SpaceAfter=No
 13	变成	变成	VERB	VV	_	35	dep	_	SpaceAfter=No
 14	蓝色	蓝色	NOUN	NN	_	13	obj	_	SpaceAfter=No
-15	的	的	X	UH	_	13	discourse	_	SpaceAfter=No
+15	的	的	PART	UH	_	13	discourse	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	35	punct	_	SpaceAfter=No
 17	而	而	ADV	RB	_	25	mark	_	SpaceAfter=No
 18	这	这	DET	DT	_	19	det	_	SpaceAfter=No
@@ -424,7 +424,7 @@
 23	无论如何	无论如何	ADV	RB	_	25	advmod	_	SpaceAfter=No
 24	都是	都是	AUX	VC	_	25	cop	_	SpaceAfter=No
 25	白色	白色	NOUN	NN	_	35	dep	_	SpaceAfter=No
-26	的	的	X	UH	_	25	discourse	_	SpaceAfter=No
+26	的	的	PART	UH	_	25	discourse	_	SpaceAfter=No
 27	，	，	PUNCT	,	_	35	punct	_	SpaceAfter=No
 28	因	因	ADP	IN	_	29	case	_	SpaceAfter=No
 29	此	此	PRON	PRD	_	35	obl	_	SpaceAfter=No
@@ -470,7 +470,7 @@
 13	堆积	堆积	VERB	VV	_	9	conj	_	SpaceAfter=No
 14	而	而	ADV	RB	_	15	mark	_	SpaceAfter=No
 15	形成	形成	VERB	VV	_	6	ccomp	_	SpaceAfter=No
-16	的	的	X	UH	_	5	discourse	_	SpaceAfter=No
+16	的	的	PART	UH	_	5	discourse	_	SpaceAfter=No
 17	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s18
@@ -539,14 +539,14 @@
 62	的	的	PART	DEC	_	58	mark:relcl	_	SpaceAfter=No
 63	方向	方向	NOUN	NN	_	55	obj	_	SpaceAfter=No
 64	发展	发展	VERB	VV	_	53	ccomp	_	SpaceAfter=No
-65	的	的	X	UH	_	53	discourse	_	SpaceAfter=No
+65	的	的	PART	UH	_	53	discourse	_	SpaceAfter=No
 66	，	，	PUNCT	,	_	71	punct	_	SpaceAfter=No
 67	任其自流	任其自流	VERB	VV	_	69	acl:relcl	_	SpaceAfter=No
 68	的	的	PART	DEC	_	67	mark:relcl	_	SpaceAfter=No
 69	观点	观点	NOUN	NN	_	71	nsubj	_	SpaceAfter=No
 70	是	是	AUX	VC	_	71	cop	_	SpaceAfter=No
 71	错误	错误	ADJ	JJ	_	19	ccomp	_	SpaceAfter=No
-72	的	的	X	UH	_	71	discourse	_	SpaceAfter=No
+72	的	的	PART	UH	_	71	discourse	_	SpaceAfter=No
 73	。	。	PUNCT	.	_	71	punct	_	SpaceAfter=No
 74	”	”	PUNCT	''	_	71	punct	_	SpaceAfter=No
 
@@ -620,7 +620,7 @@
 14	土星	土星	PROPN	NNP	_	15	nmod	_	SpaceAfter=No
 15	1B	1B	X	FW	_	12	obj	_	SpaceAfter=No
 16	中	中	ADP	IN	_	15	acl	_	SpaceAfter=No
-17	了	了	X	UH	_	12	discourse	_	SpaceAfter=No
+17	了	了	PART	UH	_	12	discourse	_	SpaceAfter=No
 18	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s22
@@ -1568,7 +1568,7 @@
 7	所罗门	所罗门	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
 8	圣克鲁斯	圣克鲁斯	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
 9	群岛	群岛	NOUN	NN	_	5	obj	_	SpaceAfter=No
-10	的	的	X	UH	_	5	discourse	_	SpaceAfter=No
+10	的	的	PART	UH	_	5	discourse	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 12	之后	之后	NOUN	NN	_	14	nmod:tmod	_	SpaceAfter=No
 13	便	便	ADV	RB	_	14	mark	_	SpaceAfter=No
@@ -2126,7 +2126,7 @@
 23	判断	判断	NOUN	NN	_	25	nsubj	_	SpaceAfter=No
 24	是	是	AUX	VC	_	25	cop	_	SpaceAfter=No
 25	正确	正确	ADJ	JJ	_	20	ccomp	_	SpaceAfter=No
-26	的	的	X	UH	_	25	discourse	_	SpaceAfter=No
+26	的	的	PART	UH	_	25	discourse	_	SpaceAfter=No
 27	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No
 28	中止	中止	VERB	VV	_	0	root	_	SpaceAfter=No
 29	了	了	PART	AS	Aspect=Perf	28	case:aspect	_	SpaceAfter=No
@@ -2171,7 +2171,7 @@
 15	我们	我	PRON	PRP	Number=Plur|Person=1	16	nsubj	_	SpaceAfter=No
 16	没有	没有	VERB	VV	_	20	ccomp	_	SpaceAfter=No
 17	变化	变化	NOUN	NN	_	16	obj	_	SpaceAfter=No
-18	的话	的话	X	UH	_	16	discourse	_	SpaceAfter=No
+18	的话	的话	PART	UH	_	16	discourse	_	SpaceAfter=No
 19	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
 20	是	是	VERB	VC	_	11	xcomp	_	SpaceAfter=No
 21	没法	没法	VERB	VV	_	20	xcomp	_	SpaceAfter=No
@@ -2179,7 +2179,7 @@
 23	第二	第二	NUM	CD	NumType=Ord	24	nummod	_	SpaceAfter=No
 24	张	张	NOUN	NNB	_	25	clf	_	SpaceAfter=No
 25	专辑	专辑	NOUN	NN	_	22	obj	_	SpaceAfter=No
-26	的	的	X	UH	_	20	discourse	_	SpaceAfter=No
+26	的	的	PART	UH	_	20	discourse	_	SpaceAfter=No
 27	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 28	”	”	PUNCT	''	_	20	punct	_	SpaceAfter=No
 
@@ -3054,7 +3054,7 @@
 22	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s116
-# text = 查尔斯·克拉克在其同年出版的专着《苏门答腊岛与西马来西亚的猪笼草》中拒绝这一观点。
+# text = 查尔斯·克拉克在其同年出版的专著《苏门答腊岛与西马来西亚的猪笼草》中拒绝这一观点。
 1	查尔斯	查尔斯	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	·	·	PUNCT	/	_	3	punct	_	SpaceAfter=No
 3	克拉克	克拉克	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No
@@ -3063,7 +3063,7 @@
 6	同年	同年	ADV	RB	_	7	nmod:tmod	_	SpaceAfter=No
 7	出版	出版	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
 8	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
-9	专着	专着	NOUN	NN	_	17	appos	_	SpaceAfter=No
+9	专著	专著	NOUN	NN	_	17	appos	_	SpaceAfter=No
 10	《	《	PUNCT	(	_	17	punct	_	SpaceAfter=No
 11	苏门答腊	苏门答腊	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
 12	岛	岛	PART	SFN	_	17	det	_	SpaceAfter=No
@@ -3273,7 +3273,7 @@
 39	一	一	NUM	CD	NumType=Card	40	nummod	_	SpaceAfter=No
 40	根源	根源	NOUN	NN	_	41	obl	_	SpaceAfter=No
 41	产生	产生	VERB	VV	_	31	xcomp	_	SpaceAfter=No
-42	的	的	X	UH	_	31	discourse	_	SpaceAfter=No
+42	的	的	PART	UH	_	31	discourse	_	SpaceAfter=No
 43	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
 # sent_id = test-s124
@@ -4930,7 +4930,7 @@
 26	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s185
-# text = 在3月30日，美军军机在呉军港及广岛湾布置了1,034个水雷，由于需要时间清除水雷，所以令返回呉军港相当困难。
+# text = 在3月30日，美军军机在吴军港及广岛湾布置了1,034个水雷，由于需要时间清除水雷，所以令返回吴军港相当困难。
 1	在	在	ADP	IN	_	5	case	_	SpaceAfter=No
 2	3	3	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	月	月	NOUN	NNB	_	5	clf	_	SpaceAfter=No
@@ -4941,8 +4941,8 @@
 8	军	军	PART	SFN	_	9	nmod	_	SpaceAfter=No
 9	军机	军机	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 10	在	在	VERB	VV	_	16	acl	_	SpaceAfter=No
-11	呉军	呉军	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
-12	港	港	PART	SFN	_	10	obj	_	SpaceAfter=No
+11	吴	吴	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
+12	军港	军港	NOUN	NN	_	10	obj	_	SpaceAfter=No
 13	及	及	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 14	广岛	广岛	PROPN	NNP	_	15	case:suff	_	SpaceAfter=No
 15	湾	湾	PART	SFN	_	12	conj	_	SpaceAfter=No
@@ -4961,21 +4961,21 @@
 28	所以	所以	ADV	RB	_	29	mark	_	SpaceAfter=No
 29	令	令	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
 30	返回	返回	VERB	VV	_	34	csubj	_	SpaceAfter=No
-31	呉军	呉军	PROPN	NNP	_	32	case:suff	_	SpaceAfter=No
-32	港	港	PART	SFN	_	30	obj	_	SpaceAfter=No
+31	吴	吴	PROPN	NNP	_	32	case:suff	_	SpaceAfter=No
+32	军港	军港	NOUN	NN	_	30	obj	_	SpaceAfter=No
 33	相当	相当	ADV	RB	_	34	advmod	_	SpaceAfter=No
 34	困难	困难	ADJ	JJ	_	29	ccomp	_	SpaceAfter=No
 35	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No
 
 # sent_id = test-s186
-# text = 往返的航程中，第一砲塔因美军的轰炸而中了4枚炸弹，但对后续战斗没有影响。
+# text = 往返的航程中，第一炮塔因美军的轰炸而中了4枚炸弹，但对后续战斗没有影响。
 1	往返	往返	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No
 2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
 3	航程	航程	NOUN	NN	_	14	advmod	_	SpaceAfter=No
 4	中	中	ADP	IN	_	3	acl	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 6	第一	第一	NUM	CD	NumType=Ord	7	nummod	_	SpaceAfter=No
-7	砲塔	砲塔	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
+7	炮塔	炮塔	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 8	因	因	ADP	IN	_	12	case	_	SpaceAfter=No
 9	美	美	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
 10	军	军	PART	SFN	_	12	det	_	SpaceAfter=No
@@ -7240,7 +7240,7 @@
 13	林	林	PROPN	NNP	_	14	nmod	_	SpaceAfter=No
 14	奇	奇	PROPN	NNP	_	15	obj	_	SpaceAfter=No
 15	带走	带走	VERB	VV	_	0	root	_	SpaceAfter=No
-16	了	了	X	UH	_	15	discourse	_	SpaceAfter=No
+16	了	了	PART	UH	_	15	discourse	_	SpaceAfter=No
 17	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s274
@@ -8185,7 +8185,7 @@
 8	美国	美国	PROPN	NNP	_	7	obj	_	SpaceAfter=No
 9	以外	以外	ADP	IN	_	8	acl	_	SpaceAfter=No
 10	拍摄	拍摄	VERB	VV	_	6	xcomp	_	SpaceAfter=No
-11	的	的	X	UH	_	6	discourse	_	SpaceAfter=No
+11	的	的	PART	UH	_	6	discourse	_	SpaceAfter=No
 12	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
 13	这	这	PRON	PRD	_	25	nsubj	_	SpaceAfter=No
 14	说明	说明	VERB	VV	_	25	acl	_	SpaceAfter=No
@@ -8611,7 +8611,7 @@
 21	华盛顿	华盛顿	PROPN	NNP	_	22	nmod	_	SpaceAfter=No
 22	领地	领地	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
 23	成立	成立	VERB	VV	_	20	ccomp	_	SpaceAfter=No
-24	的	的	X	UH	_	19	discourse	_	SpaceAfter=No
+24	的	的	PART	UH	_	19	discourse	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	38	punct	_	SpaceAfter=No
 26	因	因	ADP	IN	_	27	case	_	SpaceAfter=No
 27	此	此	PRON	PRD	_	38	obl	_	SpaceAfter=No
@@ -8778,7 +8778,7 @@
 30	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s330
-# text = 他出生于雷昂，是弗鲁埃拉（父亲为坎塔布里亚的佩德罗）的儿子；阿斯图里亚斯的阿方索一世的姪子；并且是阿方索继承人残酷的弗鲁埃拉的一个堂弟。
+# text = 他出生于雷昂，是弗鲁埃拉（父亲为坎塔布里亚的佩德罗）的儿子；阿斯图里亚斯的阿方索一世的侄子；并且是阿方索继承人残酷的弗鲁埃拉的一个堂弟。
 1	他	他	PRON	PRP	Person=3	16	nsubj	_	SpaceAfter=No
 2	出生	出生	VERB	VV	_	16	acl	_	SpaceAfter=No
 3	于	于	ADP	IN	_	4	case	_	SpaceAfter=No
@@ -8801,7 +8801,7 @@
 20	阿方索	阿方索	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
 21	一世	一世	PROPN	NNP	_	23	det	_	SpaceAfter=No
 22	的	的	PART	DEC	Case=Gen	21	case:dec	_	SpaceAfter=No
-23	姪子	姪子	NOUN	NN	_	16	conj	_	SpaceAfter=No
+23	侄子	侄子	NOUN	NN	_	16	conj	_	SpaceAfter=No
 24	；	；	PUNCT	:	_	36	punct	_	SpaceAfter=No
 25	并且	并且	CCONJ	CC	_	36	cc	_	SpaceAfter=No
 26	是	是	AUX	VC	_	36	cop	_	SpaceAfter=No
@@ -8901,7 +8901,7 @@
 19	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s334
-# text = 每段介绍两个无厘头的新闻后，方芳芳与巴戈就感谢观众收看〈新闻砲〉，新闻摄影棚灯光调暗，巴戈仍然与方芳芳进行一小段对话；跟第一段短剧一样，有时候巴戈又会被方芳芳打一巴掌。
+# text = 每段介绍两个无厘头的新闻后，方芳芳与巴戈就感谢观众收看〈新闻炮〉，新闻摄影棚灯光调暗，巴戈仍然与方芳芳进行一小段对话；跟第一段短剧一样，有时候巴戈又会被方芳芳打一巴掌。
 1	每段	每段	DET	DT	_	2	advmod	_	SpaceAfter=No
 2	介绍	介绍	VERB	VV	_	16	acl	_	SpaceAfter=No
 3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -8922,7 +8922,7 @@
 18	收看	收看	VERB	VV	_	16	ccomp	_	SpaceAfter=No
 19	〈	〈	PUNCT	(	_	21	punct	_	SpaceAfter=No
 20	新闻	新闻	NOUN	NN	_	21	case:suff	_	SpaceAfter=No
-21	砲	砲	PART	SFN	_	18	obj	_	SpaceAfter=No
+21	炮	炮	PART	SFN	_	18	obj	_	SpaceAfter=No
 22	〉	〉	PUNCT	)	_	21	punct	_	SpaceAfter=No
 23	，	，	PUNCT	,	_	56	punct	_	SpaceAfter=No
 24	新闻	新闻	NOUN	NN	_	27	nmod	_	SpaceAfter=No
@@ -11465,13 +11465,13 @@
 16	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s424
-# text = 观察空中星宿位置的模様，以占卜未来“天道”的学问，来作为学习基础的制度（不过问身份、只要拥有广泛才能的人就能被选上）。
+# text = 观察空中星宿位置的模样，以占卜未来“天道”的学问，来作为学习基础的制度（不过问身份、只要拥有广泛才能的人就能被选上）。
 1	观察	观察	VERB	VV	_	8	acl	_	SpaceAfter=No
 2	空中	空中	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	星宿	星宿	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 4	位置	位置	NOUN	NN	_	6	det	_	SpaceAfter=No
 5	的	的	PART	DEC	Case=Gen	4	case:dec	_	SpaceAfter=No
-6	模様	模様	NOUN	NN	_	1	obj	_	SpaceAfter=No
+6	模样	模样	NOUN	NN	_	1	obj	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
 8	以	以	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
 9	占卜	占卜	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
@@ -12593,7 +12593,7 @@
 4	有	有	VERB	VV	_	18	dep	_	SpaceAfter=No
 5	一	一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	道	道	NOUN	NNB	_	12	clf	_	SpaceAfter=No
-7	宽	宽	X	XX	_	12	dep	_	SpaceAfter=No
+7	宽	宽	ADJ	JJ	_	12	dep	_	SpaceAfter=No
 8	6	6	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 9	尺	尺	NOUN	NNB	_	10	advmod	_	SpaceAfter=No
 10	宽	宽	ADJ	JJ	_	12	amod	_	SpaceAfter=No
@@ -12756,7 +12756,7 @@
 27	具	具	VERB	VV	_	25	xcomp	_	SpaceAfter=No
 28	神学	神学	NOUN	NN	_	29	nmod	_	SpaceAfter=No
 29	体系	体系	NOUN	NN	_	27	obj	_	SpaceAfter=No
-30	的	的	X	UH	_	25	discourse	_	SpaceAfter=No
+30	的	的	PART	UH	_	25	discourse	_	SpaceAfter=No
 31	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s474
@@ -13395,14 +13395,14 @@
 23	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
 # sent_id = test-s497
-# text = 宵禁就是管理员下班（0：00 AM）到次日上班之前（9：00 AM）禁止发帖和回复，该规则在2010上海世博会期间实行，导致大量海外网友由于时差缘故无法正常发帖。
+# text = 宵禁就是管理员下班（0:00 AM）到次日上班之前（9:00 AM）禁止发帖和回复，该规则在2010上海世博会期间实行，导致大量海外网友由于时差缘故无法正常发帖。
 1	宵禁	宵禁	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	就是	就是	VERB	VC	_	33	dep	_	SpaceAfter=No
 3	管理	管理	VERB	VV	_	4	case:suff	_	SpaceAfter=No
 4	员	员	PART	SFN	_	5	nsubj	_	SpaceAfter=No
 5	下班	下班	VERB	VV	_	18	nmod:tmod	_	SpaceAfter=No
 6	（	（	PUNCT	(	_	12	punct	_	SpaceAfter=No
-7	0：00	0：00	NUM	CD	NumType=Card	8	nummod	_	_
+7	0:00	0:00	NUM	CD	NumType=Card	8	nummod	_	_
 8	AM	AM	X	FW	_	5	dep	_	SpaceAfter=No
 9	）	）	PUNCT	)	_	12	punct	_	SpaceAfter=No
 10	到	到	CCONJ	CC	_	12	cc	_	SpaceAfter=No
@@ -13410,7 +13410,7 @@
 12	上班	上班	VERB	VV	_	5	conj	_	SpaceAfter=No
 13	之前	之前	ADP	IN	_	12	mark	_	SpaceAfter=No
 14	（	（	PUNCT	(	_	16	punct	_	SpaceAfter=No
-15	9：00	9：00	NUM	CD	NumType=Card	16	nummod	_	_
+15	9:00	9:00	NUM	CD	NumType=Card	16	nummod	_	_
 16	AM	AM	X	FW	_	18	obl	_	SpaceAfter=No
 17	）	）	PUNCT	)	_	16	punct	_	SpaceAfter=No
 18	禁止	禁止	VERB	VV	_	2	dep	_	SpaceAfter=No

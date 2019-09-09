@@ -276,8 +276,8 @@
 12	个	个	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 13	范围	范围	NOUN	NN	_	9	obj	_	SpaceAfter=No
 14	之内	之内	ADP	IN	_	13	acl	_	SpaceAfter=No
-15	了	了	X	UH	_	9	discourse	_	SpaceAfter=No
-16	吗	吗	X	UH	Mood=Inter	9	discourse	_	SpaceAfter=No
+15	了	了	PART	UH	_	9	discourse	_	SpaceAfter=No
+16	吗	吗	PART	UH	Mood=Inter	9	discourse	_	SpaceAfter=No
 17	？	？	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = dev-s13
@@ -400,7 +400,7 @@
 19	人	人	PART	SFN	_	21	nsubj	_	SpaceAfter=No
 20	可能	可能	AUX	MD	_	21	aux	_	SpaceAfter=No
 21	错	错	ADJ	JJ	_	15	ccomp	_	SpaceAfter=No
-22	了	了	X	UH	_	21	discourse	_	SpaceAfter=No
+22	了	了	PART	UH	_	21	discourse	_	SpaceAfter=No
 23	”	”	PUNCT	''	_	21	punct	_	SpaceAfter=No
 24	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
@@ -418,7 +418,7 @@
 10	恶龙	恶龙	NOUN	NN	_	9	obj	_	SpaceAfter=No
 11	》	》	PUNCT	)	_	9	punct	_	SpaceAfter=No
 12	设计	设计	VERB	VV	_	3	ccomp	_	SpaceAfter=No
-13	的	的	X	UH	_	2	discourse	_	SpaceAfter=No
+13	的	的	PART	UH	_	2	discourse	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 15	并	并	ADV	RB	_	16	mark	_	SpaceAfter=No
 16	成	成	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -2549,7 +2549,7 @@
 15	演员	演员	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 16	开口	开口	VERB	VV	_	17	acl	_	SpaceAfter=No
 17	说话	说话	VERB	VV	_	14	ccomp	_	SpaceAfter=No
-18	呢	呢	X	UH	Mood=Inter	14	discourse	_	SpaceAfter=No
+18	呢	呢	PART	UH	Mood=Inter	14	discourse	_	SpaceAfter=No
 19	？	？	PUNCT	.	_	14	punct	_	SpaceAfter=No
 20	”	”	PUNCT	''	_	14	punct	_	SpaceAfter=No
 21	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
@@ -2795,7 +2795,7 @@
 74	旅客	旅客	NOUN	NN	_	75	nsubj	_	SpaceAfter=No
 75	使用	使用	VERB	VV	_	72	ccomp	_	SpaceAfter=No
 76	过	过	PART	AS	Aspect=Perf	75	case:aspect	_	SpaceAfter=No
-77	的	的	X	UH	_	70	discourse	_	SpaceAfter=No
+77	的	的	PART	UH	_	70	discourse	_	SpaceAfter=No
 78	。	。	PUNCT	.	_	70	punct	_	SpaceAfter=No
 
 # sent_id = dev-s91
@@ -2901,7 +2901,7 @@
 3	一般	一般	ADV	RB	_	5	advmod	_	SpaceAfter=No
 4	是	是	AUX	VC	_	5	cop	_	SpaceAfter=No
 5	一致	一致	ADJ	JJ	_	12	ccomp	_	SpaceAfter=No
-6	的	的	X	UH	_	5	discourse	_	SpaceAfter=No
+6	的	的	PART	UH	_	5	discourse	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
 8	两	两	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 9	个	个	NOUN	NNB	_	10	clf	_	SpaceAfter=No
@@ -3573,7 +3573,7 @@
 38	是	是	AUX	VC	_	40	cop	_	SpaceAfter=No
 39	最	最	ADV	RB	_	40	advmod	_	SpaceAfter=No
 40	优秀	优秀	ADJ	JJ	_	46	ccomp	_	SpaceAfter=No
-41	的	的	X	UH	_	40	discourse	_	SpaceAfter=No
+41	的	的	PART	UH	_	40	discourse	_	SpaceAfter=No
 42	，	，	PUNCT	,	_	40	punct	_	SpaceAfter=No
 43	更	更	ADV	RB	_	44	advmod	_	SpaceAfter=No
 44	重要	重要	ADJ	JJ	_	46	csubj	_	SpaceAfter=No
@@ -4569,7 +4569,7 @@
 5	孩子	孩子	NOUN	NN	_	7	advmod	_	SpaceAfter=No
 6	中	中	ADP	IN	_	5	acl	_	SpaceAfter=No
 7	最小	最小	ADJ	JJ	_	11	acl	_	SpaceAfter=No
-8	的	的	X	UH	_	7	discourse	_	SpaceAfter=No
+8	的	的	PART	UH	_	7	discourse	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 10	还	还	ADV	RB	_	11	mark	_	SpaceAfter=No
 11	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -5682,7 +5682,7 @@
 6	无法	无法	VERB	VV	_	5	xcomp	_	SpaceAfter=No
 7	喝	喝	VERB	VV	_	6	xcomp	_	SpaceAfter=No
 8	咸水	咸水	NOUN	NN	_	7	obj	_	SpaceAfter=No
-9	的	的	X	UH	_	5	discourse	_	SpaceAfter=No
+9	的	的	PART	UH	_	5	discourse	_	SpaceAfter=No
 10	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = dev-s199
@@ -5823,7 +5823,7 @@
 25	猜想	猜想	NOUN	NN	_	27	nsubj	_	SpaceAfter=No
 26	是	是	AUX	VC	_	27	cop	_	SpaceAfter=No
 27	错误	错误	ADJ	JJ	_	22	ccomp	_	SpaceAfter=No
-28	的	的	X	UH	_	27	discourse	_	SpaceAfter=No
+28	的	的	PART	UH	_	27	discourse	_	SpaceAfter=No
 29	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No
 
 # sent_id = dev-s204
@@ -5977,7 +5977,7 @@
 19	是	是	VERB	VC	_	26	dep	_	SpaceAfter=No
 20	有	有	VERB	VV	_	19	xcomp	_	SpaceAfter=No
 21	危险	危险	NOUN	NN	_	20	obj	_	SpaceAfter=No
-22	的	的	X	UH	_	19	discourse	_	SpaceAfter=No
+22	的	的	PART	UH	_	19	discourse	_	SpaceAfter=No
 23	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
 24	这些	这些	DET	DT	_	25	det	_	SpaceAfter=No
 25	危险	危险	NOUN	NN	_	26	nsubj	_	SpaceAfter=No
@@ -6036,7 +6036,7 @@
 28	角色	角色	NOUN	NN	_	30	nsubj:pass	_	SpaceAfter=No
 29	被	被	VERB	BB	Voice=Pass	30	aux:pass	_	SpaceAfter=No
 30	削弱	削弱	VERB	VV	_	0	root	_	SpaceAfter=No
-31	了	了	X	UH	_	30	discourse	_	SpaceAfter=No
+31	了	了	PART	UH	_	30	discourse	_	SpaceAfter=No
 32	。	。	PUNCT	.	_	30	punct	_	SpaceAfter=No
 
 # sent_id = dev-s212
@@ -6559,7 +6559,7 @@
 15	旨意	旨意	NOUN	NN	_	12	obj	_	SpaceAfter=No
 16	创作	创作	VERB	VV	_	11	xcomp	_	SpaceAfter=No
 17	出来	出来	VERB	VV	_	16	mark	_	SpaceAfter=No
-18	的	的	X	UH	_	11	discourse	_	SpaceAfter=No
+18	的	的	PART	UH	_	11	discourse	_	SpaceAfter=No
 19	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = dev-s232
@@ -6801,7 +6801,7 @@
 7	是	是	AUX	VC	_	9	cop	_	SpaceAfter=No
 8	比较	比较	ADV	RB	_	9	advmod	_	SpaceAfter=No
 9	成熟	成熟	ADJ	JJ	_	20	ccomp	_	SpaceAfter=No
-10	的	的	X	UH	_	9	discourse	_	SpaceAfter=No
+10	的	的	PART	UH	_	9	discourse	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
 12	可	可	AUX	MD	_	13	aux	_	SpaceAfter=No
 13	再生	再生	VERB	VV	_	14	amod	_	SpaceAfter=No
@@ -6907,7 +6907,7 @@
 5	真实	真实	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 6	是	是	AUX	VC	_	7	cop	_	SpaceAfter=No
 7	相对	相对	ADJ	JJ	_	4	ccomp	_	SpaceAfter=No
-8	的	的	X	UH	_	7	discourse	_	SpaceAfter=No
+8	的	的	PART	UH	_	7	discourse	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	31	punct	_	SpaceAfter=No
 10	这些	这些	DET	DT	_	12	det	_	SpaceAfter=No
 11	相对	相对	ADJ	JJ	_	12	amod	_	SpaceAfter=No
@@ -7147,7 +7147,7 @@
 7	需	需	AUX	MD	_	9	aux	_	SpaceAfter=No
 8	大力	大力	ADV	RB	_	9	advmod	_	SpaceAfter=No
 9	加强	加强	VERB	VV	_	3	ccomp	_	SpaceAfter=No
-10	的	的	X	UH	_	3	discourse	_	SpaceAfter=No
+10	的	的	PART	UH	_	3	discourse	_	SpaceAfter=No
 11	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = dev-s251
@@ -7285,7 +7285,7 @@
 27	刺激	刺激	NOUN	NN	_	23	obj	_	SpaceAfter=No
 28	而	而	ADV	RB	_	29	mark	_	SpaceAfter=No
 29	发动	发动	VERB	VV	_	22	xcomp	_	SpaceAfter=No
-30	的	的	X	UH	_	22	discourse	_	SpaceAfter=No
+30	的	的	PART	UH	_	22	discourse	_	SpaceAfter=No
 31	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = dev-s255
@@ -9004,7 +9004,7 @@
 14	几乎	几乎	ADV	RB	_	16	advmod	_	SpaceAfter=No
 15	是	是	AUX	VC	_	16	cop	_	SpaceAfter=No
 16	凝滞	凝滞	ADJ	JJ	_	28	dep	_	SpaceAfter=No
-17	的	的	X	UH	_	16	discourse	_	SpaceAfter=No
+17	的	的	PART	UH	_	16	discourse	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No
 19	他们	他	PRON	PRP	Number=Plur|Person=3	28	nsubj	_	SpaceAfter=No
 20	只	只	ADV	RB	_	22	advmod	_	SpaceAfter=No
@@ -11644,7 +11644,7 @@
 12	为	为	VERB	VC	_	11	mark	_	SpaceAfter=No
 13	副	副	PART	PFA	_	14	case:pref	_	SpaceAfter=No
 14	总统	总统	NOUN	NN	_	11	obj	_	SpaceAfter=No
-15	的	的	X	UH	_	2	discourse	_	SpaceAfter=No
+15	的	的	PART	UH	_	2	discourse	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	32	punct	_	SpaceAfter=No
 17	而	而	ADV	RB	_	23	mark	_	SpaceAfter=No
 18	任职	任职	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No
@@ -11818,7 +11818,7 @@
 14	是	是	VERB	VC	_	27	dep	_	SpaceAfter=No
 15	不	不	ADV	RB	Polarity=Neg	16	advmod	_	SpaceAfter=No
 16	可能	可能	AUX	MD	_	14	xcomp	_	SpaceAfter=No
-17	的	的	X	UH	_	14	discourse	_	SpaceAfter=No
+17	的	的	PART	UH	_	14	discourse	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No
 19	第8	第8	NUM	CD	NumType=Ord	20	nummod	_	SpaceAfter=No
 20	军团	军团	NOUN	NN	_	25	nmod	_	SpaceAfter=No
@@ -11885,7 +11885,7 @@
 26	成分	成分	NOUN	NN	_	28	nsubj	_	SpaceAfter=No
 27	是	是	AUX	VC	_	28	cop	_	SpaceAfter=No
 28	不同	不同	ADJ	JJ	_	4	ccomp	_	SpaceAfter=No
-29	的	的	X	UH	_	28	discourse	_	SpaceAfter=No
+29	的	的	PART	UH	_	28	discourse	_	SpaceAfter=No
 30	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = dev-s418
@@ -12066,7 +12066,7 @@
 10	谏争	谏争	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 11	之	之	PART	DEC	_	10	mark:relcl	_	SpaceAfter=No
 12	言	言	NOUN	NN	_	9	obj	_	SpaceAfter=No
-13	了	了	X	UH	_	5	discourse	_	SpaceAfter=No
+13	了	了	PART	UH	_	5	discourse	_	SpaceAfter=No
 14	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = dev-s425
@@ -13094,7 +13094,7 @@
 11	回纥	回纥	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
 12	人	人	PART	SFN	_	13	nsubj	_	SpaceAfter=No
 13	刻成	刻成	VERB	VV	_	10	ccomp	_	SpaceAfter=No
-14	的	的	X	UH	_	10	discourse	_	SpaceAfter=No
+14	的	的	PART	UH	_	10	discourse	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	30	punct	_	SpaceAfter=No
 16	但	但	ADV	RB	_	30	mark	_	SpaceAfter=No
 17	其	其	PRON	PRP	Person=3	18	nmod	_	SpaceAfter=No
