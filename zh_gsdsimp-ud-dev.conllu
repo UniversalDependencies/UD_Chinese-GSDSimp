@@ -12030,8 +12030,8 @@
 # sent_id = dev-s423
 # text = 玄宗虽然没有发动过像唐太宗、唐高宗朝时那样的大规模的开边军事行动。
 1	玄宗	玄宗	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
-2	虽然	虽然	ADP	IN	_	0	root	_	SpaceAfter=No
-3	没有	没有	VERB	VV	_	2	ccomp	_	SpaceAfter=No
+2	虽然	虽然	ADP	IN	_	3	case	_	SpaceAfter=No
+3	没有	没有	VERB	VV	_	0	root	_	SpaceAfter=No
 4	发动	发动	VERB	VV	_	3	xcomp	_	SpaceAfter=No
 5	过	过	PART	AS	Aspect=Perf	4	case:aspect	_	SpaceAfter=No
 6	像	像	VERB	VV	_	14	amod	_	SpaceAfter=No
