@@ -13,6 +13,9 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
   * Initial release in Universal Dependencies, converted from UD_Chinese-GSD.
   * Google gave permission to drop the "NC" restriction from the license.
     This applies to the UD annotations (not the underlying content, of which Google claims no ownership or copyright).
+  * Fixed punctuation (use East Asian punctuation where appropriate)
+  * Fixed various parses and features (e.g., added Case=Ord)
+  * Some manual fixes in tokenization
 
 
 
