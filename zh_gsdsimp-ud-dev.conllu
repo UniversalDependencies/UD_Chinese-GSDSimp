@@ -2264,7 +2264,7 @@
 40	。	。	PUNCT	.	_	32	punct	_	SpaceAfter=No
 
 # sent_id = dev-s74
-# text = 升A小调是一个于升A音开始的音乐的小调，组成的音有#A、#B（C）、#C、#D、#E（F）、#F、#G及#A（和声小调）。	# text = 升A小调是一个于升A音开始的音乐的小调,组成的音有#A、#B(C)、#C、#D、#E(F)、#F、#G及#A(和声小调).
+# text = 升A小调是一个于升A音开始的音乐的小调，组成的音有#A、#B（C）、#C、#D、#E（F）、#F、#G及#A（和声小调）。
 1	升	升	VERB	VV	_	3	amod	_	SpaceAfter=No
 2	A	A	X	FW	_	1	obj	_	SpaceAfter=No
 3	小调	小调	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
