@@ -28,7 +28,7 @@ Genre: wiki
 Lemmas: converted from manual
 UPOS: converted with corrections
 XPOS: manual native
-Features: converted with corrections
+Features: automatic with corrections
 Relations: converted from manual
 Contributors: Qi, Peng; Yasuoka, Koichi
 Contributing: here
