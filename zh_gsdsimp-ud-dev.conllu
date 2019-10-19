@@ -251,8 +251,8 @@
 6	神圣	神圣	ADJ	JJ	_	8	amod	_	SpaceAfter=No
 7	罗马	罗马	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
 8	帝国	帝国	NOUN	NN	_	9	nmod	_	SpaceAfter=No
-9	皇帝	皇帝	NOUN	NN	_	10	appos	_	SpaceAfter=No
-10	查理	查理	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
+9	皇帝	皇帝	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
+10	查理	查理	PROPN	NNP	_	9	appos	_	SpaceAfter=No
 11	四世	四世	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No
 12	升	升	VERB	VV	_	0	root	_	SpaceAfter=No
 13	为	为	VERB	VC	_	12	mark	_	SpaceAfter=No
@@ -293,13 +293,13 @@
 9	博客	博客	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 11	参与	参与	VERB	VV	_	4	ccomp	_	SpaceAfter=No
-12	动画	动画	NOUN	NN	_	18	appos	_	SpaceAfter=No
+12	动画	动画	NOUN	NN	_	21	nmod	_	SpaceAfter=No
 13	《	《	PUNCT	(	_	18	punct	_	SpaceAfter=No
 14	勇敢	勇敢	ADJ	JJ	_	15	amod	_	SpaceAfter=No
 15	传说	传说	NOUN	NN	_	18	det	_	SpaceAfter=No
 16	之	之	PART	DEC	Case=Gen	15	case:dec	_	SpaceAfter=No
 17	幻险	幻险	ADJ	JJ	_	18	amod	_	SpaceAfter=No
-18	森林	森林	NOUN	NN	_	21	nmod	_	SpaceAfter=No
+18	森林	森林	NOUN	NN	_	12	appos	_	SpaceAfter=No
 19	》	》	PUNCT	)	_	18	punct	_	SpaceAfter=No
 20	配音	配音	NOUN	NN	_	21	nmod	_	SpaceAfter=No
 21	工作	工作	NOUN	NN	_	11	obj	_	SpaceAfter=No
@@ -644,12 +644,12 @@
 8	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
 9	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 10	卫冕	卫冕	NOUN	NN	_	11	nmod	_	SpaceAfter=No
-11	冠军	冠军	NOUN	NN	_	16	appos	_	SpaceAfter=No
+11	冠军	冠军	NOUN	NN	_	9	obj	_	SpaceAfter=No
 12	、	、	PUNCT	EC	_	15	punct	_	SpaceAfter=No
 13	6	6	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
 14	号	号	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 15	种子	种子	NOUN	NN	_	11	conj	_	SpaceAfter=No
-16	玛丽埃尔	玛丽埃尔	PROPN	NNP	_	9	obj	_	SpaceAfter=No
+16	玛丽埃尔	玛丽埃尔	PROPN	NNP	_	11	appos	_	SpaceAfter=No
 17	·	·	PUNCT	/	_	16	punct	_	SpaceAfter=No
 18	扎格尼斯	扎格尼斯	PROPN	NNP	_	16	flat:name	_	SpaceAfter=No
 19	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
@@ -1634,12 +1634,12 @@
 5	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
 6	重要	重要	ADJ	JJ	_	8	amod	_	SpaceAfter=No
 7	文化	文化	NOUN	NN	_	8	nmod	_	SpaceAfter=No
-8	遗产	遗产	NOUN	NN	_	13	appos	_	SpaceAfter=No
+8	遗产	遗产	NOUN	NN	_	35	nsubj	_	SpaceAfter=No
 9	札幌	札幌	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
 10	农	农	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 11	学校	学校	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 12	第二	第二	NUM	CD	NumType=Ord	13	nummod	_	SpaceAfter=No
-13	农场	农场	NOUN	NN	_	35	nsubj	_	SpaceAfter=No
+13	农场	农场	NOUN	NN	_	8	appos	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	35	punct	_	SpaceAfter=No
 15	是	是	AUX	VC	_	27	cop	_	SpaceAfter=No
 16	根据	根据	ADP	IN	_	20	case	_	SpaceAfter=No
@@ -2070,9 +2070,9 @@
 24	各式	各式	DET	DT	_	27	det	_	SpaceAfter=No
 25	工艺	工艺	NOUN	NN	_	26	case:suff	_	SpaceAfter=No
 26	品	品	PART	SFN	_	27	nmod	_	SpaceAfter=No
-27	商店	商店	NOUN	NN	_	29	appos	_	SpaceAfter=No
+27	商店	商店	NOUN	NN	_	19	conj	_	SpaceAfter=No
 28	（	（	PUNCT	(	_	29	punct	_	SpaceAfter=No
-29	苏绣	苏绣	NOUN	NN	_	19	conj	_	SpaceAfter=No
+29	苏绣	苏绣	NOUN	NN	_	27	appos	_	SpaceAfter=No
 30	、	、	PUNCT	EC	_	32	punct	_	SpaceAfter=No
 31	字画	字画	NOUN	NN	_	32	nmod	_	SpaceAfter=No
 32	古董	古董	NOUN	NN	_	29	conj	_	SpaceAfter=No
@@ -2489,8 +2489,8 @@
 10	仿效	仿效	VERB	VV	_	30	advcl	_	SpaceAfter=No
 11	俄	俄	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
 12	军	军	PART	SFN	_	13	nmod	_	SpaceAfter=No
-13	将领	将领	NOUN	NN	_	14	appos	_	SpaceAfter=No
-14	Ivan	Ivan	X	FW	_	26	nsubj	_	_
+13	将领	将领	NOUN	NN	_	26	nsubj	_	SpaceAfter=No
+14	Ivan	Ivan	X	FW	_	13	appos	_	_
 15	Paskievich	Paskievich	X	FW	_	14	flat:foreign	_	SpaceAfter=No
 16	在	在	ADP	IN	_	23	case	_	SpaceAfter=No
 17	1831	1831	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
@@ -3180,8 +3180,8 @@
 
 # sent_id = dev-s108
 # text = 中校威廉‧陆斯佛得（William Drayton Rutherford）是此步兵团的英勇将领之一，死于斯特拉斯堡。
-1	中校	中校	NOUN	NN	_	2	appos	_	SpaceAfter=No
-2	威廉	威廉	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No
+1	中校	中校	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
+2	威廉	威廉	PROPN	NNP	_	1	appos	_	SpaceAfter=No
 3	‧	‧	PUNCT	/	_	2	punct	_	SpaceAfter=No
 4	陆斯佛得	陆斯佛得	PROPN	NNP	_	2	flat:name	_	SpaceAfter=No
 5	（	（	PUNCT	(	_	6	punct	_	SpaceAfter=No
@@ -3377,16 +3377,16 @@
 23	清	清	PROPN	NNP	_	22	conj	_	SpaceAfter=No
 24	的	的	PART	DEC	Case=Gen	22	case:dec	_	SpaceAfter=No
 25	主要	主要	ADJ	JJ	_	26	amod	_	SpaceAfter=No
-26	戏剧	戏剧	NOUN	NN	_	28	appos	_	SpaceAfter=No
+26	戏剧	戏剧	NOUN	NN	_	20	obj	_	SpaceAfter=No
 27	----	----	PUNCT	HYPH	_	28	punct	_	SpaceAfter=No
-28	传奇	传奇	NOUN	NN	_	20	obj	_	SpaceAfter=No
+28	传奇	传奇	NOUN	NN	_	26	appos	_	SpaceAfter=No
 29	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 # sent_id = dev-s114
 # text = 理学家朱熹任漳州知府时，也曾禁止当地戏曲演出。
 1	理学	理学	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
-2	家	家	PART	SFN	_	3	appos	_	SpaceAfter=No
-3	朱	朱	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
+2	家	家	PART	SFN	_	12	nsubj	_	SpaceAfter=No
+3	朱	朱	PROPN	NNP	_	2	appos	_	SpaceAfter=No
 4	熹	熹	PROPN	NNP	_	3	flat:name	_	SpaceAfter=No
 5	任	任	VERB	VV	_	12	advcl	_	SpaceAfter=No
 6	漳州	漳州	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
@@ -4158,8 +4158,8 @@
 23	教务	教务	NOUN	NN	_	19	obj	_	SpaceAfter=No
 24	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
 25	法国	法国	PROPN	NNP	_	26	case:suff	_	SpaceAfter=No
-26	人	人	PART	SFN	_	27	appos	_	SpaceAfter=No
-27	安巴都	安巴都	PROPN	NNP	_	30	nsubj	_	SpaceAfter=No
+26	人	人	PART	SFN	_	30	nsubj	_	SpaceAfter=No
+27	安巴都	安巴都	PROPN	NNP	_	26	appos	_	SpaceAfter=No
 28	为	为	AUX	VC	_	30	cop	_	SpaceAfter=No
 29	首任	首任	NUM	CD	NumType=Ord	30	nummod	_	SpaceAfter=No
 30	主教	主教	NOUN	NN	_	19	parataxis	_	SpaceAfter=No
@@ -4177,8 +4177,8 @@
 1	希比拉	希比拉	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No
 2	任命	任命	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
 3	托尔托萨	托尔托萨	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
-4	主教	主教	NOUN	NN	_	5	appos	_	SpaceAfter=No
-5	巴塞洛缪	巴塞洛缪	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
+4	主教	主教	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
+5	巴塞洛缪	巴塞洛缪	PROPN	NNP	_	4	appos	_	SpaceAfter=No
 6	为	为	AUX	VC	_	8	cop	_	SpaceAfter=No
 7	市政	市政	NOUN	NN	_	8	case:suff	_	SpaceAfter=No
 8	官	官	PART	SFN	_	2	ccomp	_	SpaceAfter=No
@@ -4530,8 +4530,8 @@
 # text = 他的哥哥洛马纳·卢阿卢阿亦曾效力纽卡素。
 1	他	他	PRON	PRP	Person=3	3	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
-3	哥哥	哥哥	NOUN	NN	_	4	appos	_	SpaceAfter=No
-4	洛马纳	洛马纳	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No
+3	哥哥	哥哥	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
+4	洛马纳	洛马纳	PROPN	NNP	_	3	appos	_	SpaceAfter=No
 5	·	·	PUNCT	/	_	4	punct	_	SpaceAfter=No
 6	卢阿卢阿	卢阿卢阿	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 7	亦	亦	ADV	RB	_	9	mark	_	SpaceAfter=No
@@ -5061,8 +5061,8 @@
 # text = 法国地质学家Gromaget（1934）在研究越南的地层时，首次提出印支运动的概念。
 1	法国	法国	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	地质	地质	NOUN	NN	_	3	nmod	_	SpaceAfter=No
-3	学家	学家	NOUN	NN	_	4	appos	_	SpaceAfter=No
-4	Gromaget	Gromaget	X	FW	_	16	nsubj	_	SpaceAfter=No
+3	学家	学家	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
+4	Gromaget	Gromaget	X	FW	_	3	appos	_	SpaceAfter=No
 5	（	（	PUNCT	(	_	6	punct	_	SpaceAfter=No
 6	1934	1934	NUM	CD	NumType=Card	16	nmod:tmod	_	SpaceAfter=No
 7	）	）	PUNCT	)	_	6	punct	_	SpaceAfter=No
@@ -5601,8 +5601,8 @@
 2	新加坡	新加坡	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 3	著名	著名	ADJ	JJ	_	5	amod	_	SpaceAfter=No
 4	电视	电视	NOUN	NN	_	5	nmod	_	SpaceAfter=No
-5	演员	演员	NOUN	NN	_	6	appos	_	SpaceAfter=No
-6	郑	郑	PROPN	NNP	_	22	nsubj	_	SpaceAfter=No
+5	演员	演员	NOUN	NN	_	22	nsubj	_	SpaceAfter=No
+6	郑	郑	PROPN	NNP	_	5	appos	_	SpaceAfter=No
 7	惠玉	惠玉	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 8	（	（	PUNCT	(	_	9	punct	_	SpaceAfter=No
 9	饰演	饰演	VERB	VV	_	6	parataxis	_	SpaceAfter=No
@@ -6603,10 +6603,10 @@
 18	的	的	PART	DEC	_	17	mark:relcl	_	SpaceAfter=No
 19	传世	传世	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No
 20	之	之	PART	DEC	_	19	mark:relcl	_	SpaceAfter=No
-21	作	作	NOUN	NN	_	24	appos	_	SpaceAfter=No
+21	作	作	NOUN	NN	_	36	nsubj	_	SpaceAfter=No
 22	《	《	PUNCT	(	_	24	punct	_	SpaceAfter=No
 23	物性	物性	NOUN	NN	_	24	case:suff	_	SpaceAfter=No
-24	论	论	PART	SFN	_	36	nsubj	_	SpaceAfter=No
+24	论	论	PART	SFN	_	21	appos	_	SpaceAfter=No
 25	》	》	PUNCT	)	_	24	punct	_	SpaceAfter=No
 26	（	（	PUNCT	(	_	28	punct	_	SpaceAfter=No
 27	一	一	NUM	CD	NumType=Card	28	nsubj	_	SpaceAfter=No
@@ -7081,8 +7081,8 @@
 1	前	前	DET	DT	_	4	det	_	SpaceAfter=No
 2	台湾	台湾	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
 3	国防	国防	NOUN	NN	_	4	nmod	_	SpaceAfter=No
-4	部长	部长	NOUN	NN	_	5	appos	_	SpaceAfter=No
-5	李	李	PROPN	NNP	_	16	nsubj	_	SpaceAfter=No
+4	部长	部长	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
+5	李	李	PROPN	NNP	_	4	appos	_	SpaceAfter=No
 6	杰	杰	PROPN	NNP	_	5	flat:name	_	SpaceAfter=No
 7	在	在	ADP	IN	_	9	case	_	SpaceAfter=No
 8	军购	军购	VERB	VV	_	9	case:suff	_	SpaceAfter=No
@@ -7314,8 +7314,8 @@
 22	民主	民主	NOUN	NN	_	23	case:suff	_	SpaceAfter=No
 23	国	国	PART	SFN	_	25	nmod	_	SpaceAfter=No
 24	军务	军务	NOUN	NN	_	25	nmod	_	SpaceAfter=No
-25	大臣	大臣	NOUN	NN	_	26	appos	_	SpaceAfter=No
-26	李	李	PROPN	NNP	_	28	nsubj	_	SpaceAfter=No
+25	大臣	大臣	NOUN	NN	_	28	nsubj	_	SpaceAfter=No
+26	李	李	PROPN	NNP	_	25	appos	_	SpaceAfter=No
 27	秉瑞	秉瑞	PROPN	NNP	_	26	flat:name	_	SpaceAfter=No
 28	殉职	殉职	VERB	VV	_	11	conj	_	SpaceAfter=No
 29	有关	有关	ADJ	JJ	_	0	root	_	SpaceAfter=No
@@ -7379,13 +7379,13 @@
 18	日本	日本	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
 19	帝国	帝国	NOUN	NN	_	21	nmod	_	SpaceAfter=No
 20	台湾	台湾	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
-21	总督	总督	NOUN	NN	_	27	appos	_	SpaceAfter=No
+21	总督	总督	NOUN	NN	_	30	det	_	SpaceAfter=No
 22	兼	兼	CCONJ	CC	_	26	cc	_	SpaceAfter=No
 23	台湾	台湾	PROPN	NNP	_	24	case:suff	_	SpaceAfter=No
 24	军	军	PART	SFN	_	26	nmod	_	SpaceAfter=No
 25	司令	司令	NOUN	NN	_	26	case:suff	_	SpaceAfter=No
 26	官	官	PART	SFN	_	21	conj	_	SpaceAfter=No
-27	安藤	安藤	PROPN	NNP	_	30	det	_	SpaceAfter=No
+27	安藤	安藤	PROPN	NNP	_	21	appos	_	SpaceAfter=No
 28	利吉	利吉	PROPN	NNP	_	27	flat:name	_	SpaceAfter=No
 29	的	的	PART	DEC	Case=Gen	27	case:dec	_	SpaceAfter=No
 30	投降	投降	NOUN	NN	_	17	obj	_	SpaceAfter=No
@@ -7469,14 +7469,14 @@
 14	有	有	VERB	VV	_	5	parataxis	_	SpaceAfter=No
 15	钢轨	钢轨	NOUN	NN	_	16	nmod	_	SpaceAfter=No
 16	轻重	轻重	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
-17	不一	不一	ADJ	JJ	_	24	appos	_	SpaceAfter=No
+17	不一	不一	ADJ	JJ	_	14	obj	_	SpaceAfter=No
 18	、	、	PUNCT	EC	_	22	punct	_	SpaceAfter=No
 19	蒸汽	蒸汽	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 20	机车	机车	NOUN	NN	_	22	nsubj	_	SpaceAfter=No
 21	大多	大多	ADV	RB	_	22	advmod	_	SpaceAfter=No
 22	逾龄	逾龄	VERB	VV	_	17	conj	_	SpaceAfter=No
 23	等	等	NOUN	NN	_	17	advmod	_	SpaceAfter=No
-24	问题	问题	NOUN	NN	_	14	obj	_	SpaceAfter=No
+24	问题	问题	NOUN	NN	_	17	appos	_	SpaceAfter=No
 25	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = dev-s262
@@ -7684,13 +7684,13 @@
 
 # sent_id = dev-s269
 # text = 电影《蜘蛛侠：惊奇再起》中，曾于蜘蛛人和蜥蜴人打斗的场景（学校某处图书室）中出现。
-1	电影	电影	NOUN	NN	_	7	appos	_	SpaceAfter=No
+1	电影	电影	NOUN	NN	_	28	advmod	_	SpaceAfter=No
 2	《	《	PUNCT	(	_	7	punct	_	SpaceAfter=No
 3	蜘蛛	蜘蛛	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
 4	侠	侠	PART	SFN	_	7	advcl	_	SpaceAfter=No
 5	：	：	PUNCT	:	_	7	punct	_	SpaceAfter=No
 6	惊奇	惊奇	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
-7	再起	再起	VERB	VV	_	28	advmod	_	SpaceAfter=No
+7	再起	再起	VERB	VV	_	1	appos	_	SpaceAfter=No
 8	》	》	PUNCT	)	_	7	punct	_	SpaceAfter=No
 9	中	中	ADP	IN	_	7	advcl	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No
@@ -7703,12 +7703,12 @@
 17	人	人	PART	SFN	_	14	conj	_	SpaceAfter=No
 18	打斗	打斗	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No
 19	的	的	PART	DEC	_	18	mark:relcl	_	SpaceAfter=No
-20	场景	场景	NOUN	NN	_	25	appos	_	SpaceAfter=No
+20	场景	场景	NOUN	NN	_	28	obl	_	SpaceAfter=No
 21	（	（	PUNCT	(	_	25	punct	_	SpaceAfter=No
 22	学校	学校	NOUN	NN	_	25	nmod	_	SpaceAfter=No
 23	某处	某处	NOUN	NN	_	25	nmod	_	SpaceAfter=No
 24	图书	图书	NOUN	NN	_	25	case:suff	_	SpaceAfter=No
-25	室	室	PART	SFN	_	28	obl	_	SpaceAfter=No
+25	室	室	PART	SFN	_	20	appos	_	SpaceAfter=No
 26	）	）	PUNCT	)	_	25	punct	_	SpaceAfter=No
 27	中	中	ADP	IN	_	25	acl	_	SpaceAfter=No
 28	出现	出现	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -8157,8 +8157,8 @@
 7	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No
 8	叶	叶	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
 9	企孙	企孙	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
-10	侄子	侄子	NOUN	NN	_	11	appos	_	SpaceAfter=No
-11	叶	叶	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No
+10	侄子	侄子	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
+11	叶	叶	PROPN	NNP	_	10	appos	_	SpaceAfter=No
 12	铭汉	铭汉	PROPN	NNP	_	11	flat:name	_	SpaceAfter=No
 13	交	交	VERB	VV	_	15	advcl	_	SpaceAfter=No
 14	工资	工资	NOUN	NN	_	13	obj	_	SpaceAfter=No
@@ -8434,8 +8434,8 @@
 2	汲桑	汲桑	PROPN	NNP	_	34	nsubj	_	SpaceAfter=No
 3	杀害	杀害	VERB	VV	_	34	advcl	_	SpaceAfter=No
 4	东赢	东赢	PROPN	NNP	_	5	case:suff	_	SpaceAfter=No
-5	公	公	PROPN	NNP	_	6	appos	_	SpaceAfter=No
-6	司马	司马	PROPN	NNP	_	3	obj	_	SpaceAfter=No
+5	公	公	PROPN	NNP	_	3	obj	_	SpaceAfter=No
+6	司马	司马	PROPN	NNP	_	5	appos	_	SpaceAfter=No
 7	腾	腾	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
 9	号称	号称	VERB	VV	_	34	advcl	_	SpaceAfter=No
@@ -8514,11 +8514,11 @@
 3	世纪	世纪	NOUN	NNB	_	11	nmod:tmod	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 5	苯教	苯教	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
-6	大师	大师	NOUN	NN	_	7	appos	_	SpaceAfter=No
-7	贤钦鲁噶	贤钦鲁噶	PROPN	NNP	_	9	det	_	SpaceAfter=No
+6	大师	大师	NOUN	NN	_	9	det	_	SpaceAfter=No
+7	贤钦鲁噶	贤钦鲁噶	PROPN	NNP	_	6	appos	_	SpaceAfter=No
 8	的	的	PART	DEC	Case=Gen	7	case:dec	_	SpaceAfter=No
-9	弟子	弟子	NOUN	NN	_	10	appos	_	SpaceAfter=No
-10	许耶罗布	许耶罗布	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No
+9	弟子	弟子	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
+10	许耶罗布	许耶罗布	PROPN	NNP	_	9	appos	_	SpaceAfter=No
 11	兴建	兴建	VERB	VV	_	0	root	_	SpaceAfter=No
 12	了	了	PART	AS	Aspect=Perf	11	case:aspect	_	SpaceAfter=No
 13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
@@ -8674,10 +8674,10 @@
 10	所	所	ADV	RB	_	11	mark	_	SpaceAfter=No
 11	主演	主演	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
 12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
-13	电影	电影	NOUN	NN	_	16	appos	_	SpaceAfter=No
+13	电影	电影	NOUN	NN	_	7	obj	_	SpaceAfter=No
 14	龙	龙	NOUN	NN	_	16	det	_	SpaceAfter=No
 15	的	的	PART	DEC	Case=Gen	14	case:dec	_	SpaceAfter=No
-16	传人	传人	NOUN	NN	_	7	obj	_	SpaceAfter=No
+16	传人	传人	NOUN	NN	_	13	appos	_	SpaceAfter=No
 17	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No
 18	饰演	饰演	VERB	VV	_	0	root	_	SpaceAfter=No
 19	其	其	PRON	PRP	Person=3	21	nmod	_	SpaceAfter=No
@@ -8923,9 +8923,9 @@
 44	职业	职业	NOUN	NN	_	47	nmod	_	SpaceAfter=No
 45	足球	足球	NOUN	NN	_	47	nmod	_	SpaceAfter=No
 46	联赛	联赛	NOUN	NN	_	47	nmod	_	SpaceAfter=No
-47	球队	球队	NOUN	NN	_	49	appos	_	SpaceAfter=No
+47	球队	球队	NOUN	NN	_	51	det	_	SpaceAfter=No
 48	盛港榜鹅	盛港榜鹅	PROPN	NNP	_	49	case:suff	_	SpaceAfter=No
-49	队	队	PART	SFN	_	51	det	_	SpaceAfter=No
+49	队	队	PART	SFN	_	47	appos	_	SpaceAfter=No
 50	的	的	PART	DEC	Case=Gen	49	case:dec	_	SpaceAfter=No
 51	主场	主场	NOUN	NN	_	12	parataxis	_	SpaceAfter=No
 52	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
@@ -9209,8 +9209,8 @@
 3	去世	去世	VERB	VV	_	0	root	_	SpaceAfter=No
 4	后	后	ADP	IN	_	3	mark	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
-6	内侍	内侍	NOUN	NN	_	7	appos	_	SpaceAfter=No
-7	王	王	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No
+6	内侍	内侍	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
+7	王	王	PROPN	NNP	_	6	appos	_	SpaceAfter=No
 8	继恩	继恩	PROPN	NNP	_	7	flat:name	_	SpaceAfter=No
 9	密谋	密谋	VERB	VV	_	13	advcl	_	SpaceAfter=No
 10	废掉	废掉	VERB	VV	_	9	advcl	_	SpaceAfter=No
@@ -9731,8 +9731,8 @@
 14	出任	出任	VERB	VV	_	0	root	_	SpaceAfter=No
 15	荷兰	荷兰	PROPN	NNP	_	17	nmod	_	SpaceAfter=No
 16	主	主	PART	PFA	_	17	case:pref	_	SpaceAfter=No
-17	教练	教练	NOUN	NN	_	18	appos	_	SpaceAfter=No
-18	阿里	阿里	PROPN	NNP	_	22	det	_	SpaceAfter=No
+17	教练	教练	NOUN	NN	_	22	det	_	SpaceAfter=No
+18	阿里	阿里	PROPN	NNP	_	17	appos	_	SpaceAfter=No
 19	·	·	PUNCT	/	_	18	punct	_	SpaceAfter=No
 20	哈恩	哈恩	PROPN	NNP	_	18	flat:name	_	SpaceAfter=No
 21	的	的	PART	DEC	Case=Gen	18	case:dec	_	SpaceAfter=No
@@ -9934,10 +9934,10 @@
 20	，	，	PUNCT	,	_	65	punct	_	SpaceAfter=No
 21	由于	由于	ADP	IN	_	26	case	_	SpaceAfter=No
 22	政府	政府	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
-23	削减	削减	VERB	VV	_	26	appos	_	SpaceAfter=No
+23	削减	削减	VERB	VV	_	65	obl	_	SpaceAfter=No
 24	资助	资助	NOUN	NN	_	23	obj	_	SpaceAfter=No
 25	等	等	NOUN	NN	_	23	advmod	_	SpaceAfter=No
-26	原因	原因	NOUN	NN	_	65	obl	_	SpaceAfter=No
+26	原因	原因	NOUN	NN	_	23	appos	_	SpaceAfter=No
 27	，	，	PUNCT	,	_	30	punct	_	SpaceAfter=No
 28	协会	协会	NOUN	NN	_	30	nsubj:pass	_	SpaceAfter=No
 29	被	被	VERB	BB	Voice=Pass	30	aux:pass	_	SpaceAfter=No
@@ -10417,8 +10417,8 @@
 # text = 最小的弟弟周渝继承爸爸的思想，将紫藤庐经营成台北市独具一格的文化茶馆，成为台北市市定古迹。
 1	最小	最小	ADJ	JJ	_	3	amod	_	SpaceAfter=No
 2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
-3	弟弟	弟弟	NOUN	NN	_	4	appos	_	SpaceAfter=No
-4	周	周	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No
+3	弟弟	弟弟	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
+4	周	周	PROPN	NNP	_	3	appos	_	SpaceAfter=No
 5	渝	渝	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 6	继承	继承	VERB	VV	_	14	advcl	_	SpaceAfter=No
 7	爸爸	爸爸	NOUN	NN	_	9	det	_	SpaceAfter=No
@@ -10538,16 +10538,16 @@
 # text = 幸得卫将军呼延瑜击杀了陈安之弟陈集，让刘曜顺利撤军。
 1	幸得	幸得	VERB	VV	_	15	csubj	_	SpaceAfter=No
 2	卫	卫	NOUN	NN	_	3	nmod	_	SpaceAfter=No
-3	将军	将军	NOUN	NN	_	4	appos	_	SpaceAfter=No
-4	呼延	呼延	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No
+3	将军	将军	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
+4	呼延	呼延	PROPN	NNP	_	3	appos	_	SpaceAfter=No
 5	瑜	瑜	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 6	击杀	击杀	VERB	VV	_	1	ccomp	_	SpaceAfter=No
 7	了	了	PART	AS	Aspect=Perf	6	case:aspect	_	SpaceAfter=No
 8	陈	陈	PROPN	NNP	_	11	det	_	SpaceAfter=No
 9	安	安	PROPN	NNP	_	8	flat:name	_	SpaceAfter=No
 10	之	之	PART	DEC	Case=Gen	8	case:dec	_	SpaceAfter=No
-11	弟	弟	NOUN	NN	_	12	appos	_	SpaceAfter=No
-12	陈	陈	PROPN	NNP	_	6	obj	_	SpaceAfter=No
+11	弟	弟	NOUN	NN	_	6	obj	_	SpaceAfter=No
+12	陈	陈	PROPN	NNP	_	11	appos	_	SpaceAfter=No
 13	集	集	PROPN	NNP	_	12	flat:name	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 15	让	让	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
@@ -10784,9 +10784,9 @@
 20	，	，	PUNCT	,	_	31	punct	_	SpaceAfter=No
 21	她	她	PRON	PRP	Person=3	26	nmod	_	SpaceAfter=No
 22	与	与	ADP	IN	_	25	case	_	SpaceAfter=No
-23	弟弟	弟弟	NOUN	NN	_	25	appos	_	SpaceAfter=No
+23	弟弟	弟弟	NOUN	NN	_	26	nmod	_	SpaceAfter=No
 24	庄献	庄献	PROPN	NNP	_	25	nmod	_	SpaceAfter=No
-25	世子	世子	NOUN	NN	_	26	nmod	_	SpaceAfter=No
+25	世子	世子	NOUN	NN	_	23	appos	_	SpaceAfter=No
 26	感情	感情	NOUN	NN	_	31	nsubj	_	SpaceAfter=No
 27	也	也	ADV	RB	_	31	mark	_	SpaceAfter=No
 28	可以	可以	AUX	MD	_	29	aux	_	SpaceAfter=No
@@ -11112,8 +11112,8 @@
 6	上校	上校	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 7	（	（	PUNCT	(	_	8	punct	_	SpaceAfter=No
 8	由	由	VERB	VV	_	15	advcl	_	SpaceAfter=No
-9	演员	演员	NOUN	NN	_	10	appos	_	SpaceAfter=No
-10	Randy	Randy	X	FW	_	12	nsubj	_	_
+9	演员	演员	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
+10	Randy	Randy	X	FW	_	9	appos	_	_
 11	Quaid	Quaid	X	FW	_	10	flat:foreign	_	SpaceAfter=No
 12	配音	配音	VERB	VV	_	8	ccomp	_	SpaceAfter=No
 13	）	）	PUNCT	)	_	8	punct	_	SpaceAfter=No
@@ -11383,8 +11383,8 @@
 3	瑞士	瑞士	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
 4	著名	著名	ADJ	JJ	_	6	amod	_	SpaceAfter=No
 5	穆斯林	穆斯林	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
-6	学者	学者	NOUN	NN	_	7	appos	_	SpaceAfter=No
-7	塔里克	塔里克	PROPN	NNP	_	11	det	_	SpaceAfter=No
+6	学者	学者	NOUN	NN	_	11	det	_	SpaceAfter=No
+7	塔里克	塔里克	PROPN	NNP	_	6	appos	_	SpaceAfter=No
 8	·	·	PUNCT	/	_	7	punct	_	SpaceAfter=No
 9	拉马丹	拉马丹	PROPN	NNP	_	7	flat:name	_	SpaceAfter=No
 10	的	的	PART	DEC	Case=Gen	7	case:dec	_	SpaceAfter=No
@@ -11397,8 +11397,8 @@
 17	类	类	PART	SFN	_	20	nmod	_	SpaceAfter=No
 18	兄弟	兄弟	NOUN	NN	_	19	case:suff	_	SpaceAfter=No
 19	会	会	PART	SFN	_	20	nmod	_	SpaceAfter=No
-20	成员	成员	NOUN	NN	_	21	appos	_	SpaceAfter=No
-21	贾麦勒	贾麦勒	PROPN	NNP	_	29	det	_	SpaceAfter=No
+20	成员	成员	NOUN	NN	_	29	det	_	SpaceAfter=No
+21	贾麦勒	贾麦勒	PROPN	NNP	_	20	appos	_	SpaceAfter=No
 22	·	·	PUNCT	/	_	21	punct	_	SpaceAfter=No
 23	班纳	班纳	PROPN	NNP	_	21	flat:name	_	SpaceAfter=No
 24	（	（	PUNCT	(	_	25	punct	_	SpaceAfter=No
@@ -11523,9 +11523,9 @@
 13	任何	任何	DET	DT	_	16	det	_	SpaceAfter=No
 14	世俗	世俗	NOUN	NN	_	16	det	_	SpaceAfter=No
 15	的	的	PART	DEC	Case=Gen	14	case:dec	_	SpaceAfter=No
-16	科目	科目	NOUN	NN	_	18	appos	_	SpaceAfter=No
+16	科目	科目	NOUN	NN	_	12	obj	_	SpaceAfter=No
 17	（	（	PUNCT	(	_	18	punct	_	SpaceAfter=No
-18	科学	科学	NOUN	NN	_	12	obj	_	SpaceAfter=No
+18	科学	科学	NOUN	NN	_	16	appos	_	SpaceAfter=No
 19	、	、	PUNCT	EC	_	20	punct	_	SpaceAfter=No
 20	数学	数学	NOUN	NN	_	18	conj	_	SpaceAfter=No
 21	、	、	PUNCT	EC	_	22	punct	_	SpaceAfter=No
@@ -12001,8 +12001,8 @@
 
 # sent_id = dev-s422
 # text = 宦官李辅国奉承肃宗，离间玄宗与肃宗的关系，迫使玄宗软禁于太极宫（西内）甘露殿。
-1	宦官	宦官	NOUN	NN	_	2	appos	_	SpaceAfter=No
-2	李	李	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No
+1	宦官	宦官	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
+2	李	李	PROPN	NNP	_	1	appos	_	SpaceAfter=No
 3	辅国	辅国	PROPN	NNP	_	2	flat:name	_	SpaceAfter=No
 4	奉承	奉承	VERB	VV	_	14	advcl	_	SpaceAfter=No
 5	肃宗	肃宗	NOUN	NN	_	4	obj	_	SpaceAfter=No
@@ -12106,11 +12106,11 @@
 16	”	”	PUNCT	''	_	15	punct	_	SpaceAfter=No
 17	的	的	PART	DEC	Case=Gen	15	case:dec	_	SpaceAfter=No
 18	电视	电视	NOUN	NN	_	19	case:suff	_	SpaceAfter=No
-19	剧	剧	PART	SFN	_	23	appos	_	SpaceAfter=No
+19	剧	剧	PART	SFN	_	12	obj	_	SpaceAfter=No
 20	《	《	PUNCT	(	_	23	punct	_	SpaceAfter=No
 21	青春	青春	NOUN	NN	_	23	nmod	_	SpaceAfter=No
 22	@	@	PUNCT	/	_	23	punct	_	SpaceAfter=No
-23	Y2K	Y2K	X	FW	_	12	obj	_	SpaceAfter=No
+23	Y2K	Y2K	X	FW	_	19	appos	_	SpaceAfter=No
 24	》	》	PUNCT	)	_	23	punct	_	SpaceAfter=No
 25	同期	同期	NOUN	NN	_	26	nmod	_	SpaceAfter=No
 26	演员	演员	NOUN	NN	_	27	nsubj	_	SpaceAfter=No
@@ -12230,8 +12230,8 @@
 8	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
 9	手段	手段	NOUN	NN	_	6	obj	_	SpaceAfter=No
 10	俘虏	俘虏	VERB	VV	_	3	ccomp	_	SpaceAfter=No
-11	公子	公子	NOUN	NN	_	12	appos	_	SpaceAfter=No
-12	卬	卬	PROPN	NNP	_	10	obj	_	SpaceAfter=No
+11	公子	公子	NOUN	NN	_	10	obj	_	SpaceAfter=No
+12	卬	卬	PROPN	NNP	_	11	appos	_	SpaceAfter=No
 13	、	、	PUNCT	EC	_	14	punct	_	SpaceAfter=No
 14	击败	击败	VERB	VV	_	10	conj	_	SpaceAfter=No
 15	魏	魏	PROPN	NNP	_	16	case:suff	_	SpaceAfter=No
@@ -12461,13 +12461,13 @@
 8	玛丽娜	玛丽娜	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
 9	公主	公主	NOUN	NN	_	11	det	_	SpaceAfter=No
 10	的	的	PART	DEC	Case=Gen	9	case:dec	_	SpaceAfter=No
-11	姐姐	姐姐	NOUN	NN	_	13	appos	_	SpaceAfter=No
+11	姐姐	姐姐	NOUN	NN	_	19	det	_	SpaceAfter=No
 12	奥尔加	奥尔加	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
-13	公主	公主	NOUN	NN	_	19	det	_	SpaceAfter=No
+13	公主	公主	NOUN	NN	_	11	appos	_	SpaceAfter=No
 14	和	和	CCONJ	CC	_	17	cc	_	SpaceAfter=No
-15	姐夫	姐夫	NOUN	NN	_	17	appos	_	SpaceAfter=No
+15	姐夫	姐夫	NOUN	NN	_	13	conj	_	SpaceAfter=No
 16	保罗	保罗	PROPN	NNP	_	17	nmod	_	SpaceAfter=No
-17	王子	王子	NOUN	NN	_	13	conj	_	SpaceAfter=No
+17	王子	王子	NOUN	NN	_	15	appos	_	SpaceAfter=No
 18	的	的	PART	DEC	Case=Gen	13	case:dec	_	SpaceAfter=No
 19	邀请	邀请	NOUN	NN	_	29	obl	_	SpaceAfter=No
 20	，	，	PUNCT	,	_	29	punct	_	SpaceAfter=No
@@ -12737,15 +12737,15 @@
 
 # sent_id = dev-s453
 # text = 正传《嘉薰医生》最初是作者陈嘉薰运用自身形象进行创作。
-1	正传	正传	NOUN	NN	_	4	appos	_	SpaceAfter=No
+1	正传	正传	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 2	《	《	PUNCT	(	_	4	punct	_	SpaceAfter=No
 3	嘉薰	嘉薰	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
-4	医生	医生	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
+4	医生	医生	NOUN	NN	_	1	appos	_	SpaceAfter=No
 5	》	》	PUNCT	)	_	4	punct	_	SpaceAfter=No
 6	最初	最初	NOUN	NN	_	7	nmod:tmod	_	SpaceAfter=No
 7	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
-8	作者	作者	NOUN	NN	_	9	appos	_	SpaceAfter=No
-9	陈	陈	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No
+8	作者	作者	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
+9	陈	陈	PROPN	NNP	_	8	appos	_	SpaceAfter=No
 10	嘉薰	嘉薰	PROPN	NNP	_	9	flat:name	_	SpaceAfter=No
 11	运用	运用	VERB	VV	_	14	advcl	_	SpaceAfter=No
 12	自身	自身	PRON	PRD	_	13	nmod	_	SpaceAfter=No
@@ -12967,9 +12967,9 @@
 9	等	等	NOUN	NN	_	8	acl	_	SpaceAfter=No
 10	词	词	NOUN	NN	_	8	appos	_	SpaceAfter=No
 11	加上	加上	VERB	VV	_	17	advcl	_	SpaceAfter=No
-12	后缀	后缀	NOUN	NN	_	14	appos	_	SpaceAfter=No
+12	后缀	后缀	NOUN	NN	_	11	obj	_	SpaceAfter=No
 13	/	/	SYM	/	_	14	punct	_	SpaceAfter=No
-14	-an	-an	X	FW	_	11	obj	_	SpaceAfter=No
+14	-an	-an	X	FW	_	12	appos	_	SpaceAfter=No
 15	/	/	SYM	/	_	14	punct	_	SpaceAfter=No
 16	等	等	NOUN	NN	_	14	acl	_	SpaceAfter=No
 17	表示	表示	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -13011,9 +13011,9 @@
 1	因	因	ADP	IN	_	13	case	_	SpaceAfter=No
 2	实际	实际	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	持有	持有	NOUN	NN	_	4	nmod	_	SpaceAfter=No
-4	单位	单位	NOUN	NN	_	6	appos	_	SpaceAfter=No
+4	单位	单位	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
 5	台湾	台湾	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
-6	银行	银行	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
+6	银行	银行	NOUN	NN	_	4	appos	_	SpaceAfter=No
 7	对	对	ADP	IN	_	10	case	_	SpaceAfter=No
 8	古迹	古迹	NOUN	NN	_	10	nmod	_	SpaceAfter=No
 9	维护	维护	NOUN	NN	_	10	nmod	_	SpaceAfter=No
@@ -13568,8 +13568,8 @@
 28	国务	国务	NOUN	NN	_	31	nmod	_	SpaceAfter=No
 29	委员	委员	NOUN	NN	_	30	case:suff	_	SpaceAfter=No
 30	会	会	PART	SFN	_	31	nmod	_	SpaceAfter=No
-31	主席	主席	NOUN	NN	_	32	appos	_	SpaceAfter=No
-32	菲德尔	菲德尔	PROPN	NNP	_	25	obj	_	SpaceAfter=No
+31	主席	主席	NOUN	NN	_	25	obj	_	SpaceAfter=No
+32	菲德尔	菲德尔	PROPN	NNP	_	31	appos	_	SpaceAfter=No
 33	·	·	PUNCT	/	_	32	punct	_	SpaceAfter=No
 34	卡斯特罗	卡斯特罗	PROPN	NNP	_	32	flat:name	_	SpaceAfter=No
 35	）	）	PUNCT	)	_	12	punct	_	SpaceAfter=No
@@ -13710,8 +13710,8 @@
 # text = 第五军军长杜聿明后在史迪威压力下兼任远征军代理司令长官。
 1	第五	第五	NUM	CD	NumType=Ord	2	nummod	_	SpaceAfter=No
 2	军	军	NOUN	NN	_	3	nmod	_	SpaceAfter=No
-3	军长	军长	NOUN	NN	_	4	appos	_	SpaceAfter=No
-4	杜	杜	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No
+3	军长	军长	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
+4	杜	杜	PROPN	NNP	_	3	appos	_	SpaceAfter=No
 5	聿明	聿明	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 6	后	后	ADV	RB	_	11	advmod	_	SpaceAfter=No
 7	在	在	ADP	IN	_	9	case	_	SpaceAfter=No
@@ -13789,14 +13789,14 @@
 19	国泰	国泰	PROPN	NNP	_	22	nmod	_	SpaceAfter=No
 20	唯一	唯一	ADJ	JJ	_	22	amod	_	SpaceAfter=No
 21	本地	本地	NOUN	NN	_	22	nmod	_	SpaceAfter=No
-22	对手	对手	NOUN	NN	_	29	appos	_	SpaceAfter=No
+22	对手	对手	NOUN	NN	_	30	nsubj	_	SpaceAfter=No
 23	，	，	PUNCT	,	_	29	punct	_	SpaceAfter=No
 24	怡和	怡和	PROPN	NNP	_	26	nmod	_	SpaceAfter=No
 25	洋行	洋行	NOUN	NN	_	26	nmod	_	SpaceAfter=No
 26	属下	属下	NOUN	NN	_	29	det	_	SpaceAfter=No
 27	的	的	PART	DEC	Case=Gen	26	case:dec	_	SpaceAfter=No
 28	香港	香港	PROPN	NNP	_	29	nmod	_	SpaceAfter=No
-29	航空	航空	NOUN	NN	_	30	nsubj	_	SpaceAfter=No
+29	航空	航空	NOUN	NN	_	22	appos	_	SpaceAfter=No
 30	经营	经营	VERB	VV	_	18	ccomp	_	SpaceAfter=No
 31	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
@@ -13837,8 +13837,8 @@
 18	南迁	南迁	VERB	VV	_	17	xcomp	_	SpaceAfter=No
 19	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 20	中大	中大	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
-21	校长	校长	NOUN	NN	_	22	appos	_	SpaceAfter=No
-22	周	周	PROPN	NNP	_	25	nsubj	_	SpaceAfter=No
+21	校长	校长	NOUN	NN	_	25	nsubj	_	SpaceAfter=No
+22	周	周	PROPN	NNP	_	21	appos	_	SpaceAfter=No
 23	鸿经	鸿经	PROPN	NNP	_	22	flat:name	_	SpaceAfter=No
 24	也	也	ADV	RB	_	25	mark	_	SpaceAfter=No
 25	奉命	奉命	VERB	VV	_	11	parataxis	_	SpaceAfter=No
