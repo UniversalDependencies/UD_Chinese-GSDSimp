@@ -25,7 +25,7 @@
 9	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
 10	构想	构想	NOUN	NN	_	4	obj	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
-12	企业	企业	NOUN	NN	_	13	case:suff	_	SpaceAfter=No
+12	企业	企业	NOUN	NN	_	13	compound	_	SpaceAfter=No
 13	界	界	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 14	陆续	陆续	ADV	RB	_	15	advmod	_	SpaceAfter=No
 15	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -65,7 +65,7 @@
 1	台大	台大	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 2	医学	医学	NOUN	NN	_	5	nmod	_	SpaceAfter=No
 3	人文	人文	NOUN	NN	_	5	nmod	_	SpaceAfter=No
-4	博物	博物	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+4	博物	博物	NOUN	NN	_	5	compound	_	SpaceAfter=No
 5	馆	馆	PART	SFN	_	22	nsubj	_	SpaceAfter=No
 6	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No
 7	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
@@ -77,14 +77,14 @@
 13	建筑	建筑	NOUN	NN	_	22	advcl	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	22	punct	_	SpaceAfter=No
 15	沿	沿	ADP	IN	_	18	case	_	SpaceAfter=No
-16	中山	中山	PROPN	NNP	_	18	case:suff	_	SpaceAfter=No
+16	中山	中山	PROPN	NNP	_	18	compound	_	SpaceAfter=No
 17	南	南	NOUN	NN	_	16	acl	_	SpaceAfter=No
 18	路	路	PART	SFN	_	22	obl	_	SpaceAfter=No
 19	与	与	CCONJ	CC	_	21	cc	_	SpaceAfter=No
-20	仁爱	仁爱	PROPN	NNP	_	21	case:suff	_	SpaceAfter=No
+20	仁爱	仁爱	PROPN	NNP	_	21	compound	_	SpaceAfter=No
 21	路	路	PART	SFN	_	18	conj	_	SpaceAfter=No
 22	成	成	VERB	VV	_	0	root	_	SpaceAfter=No
-23	L	L	X	FW	_	24	case:suff	_	SpaceAfter=No
+23	L	L	X	FW	_	24	compound	_	SpaceAfter=No
 24	型	型	PART	SFN	_	22	obj	_	SpaceAfter=No
 25	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No
 
@@ -92,12 +92,12 @@
 # text = 楼顶有天文台，现为天文社使用。
 1	楼顶	楼顶	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
-3	天文	天文	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+3	天文	天文	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	台	台	PART	SFN	_	10	nsubj:pass	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No
 6	现	现	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No
 7	为	为	VERB	BB	Voice=Pass	10	aux:pass	_	SpaceAfter=No
-8	天文	天文	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+8	天文	天文	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	社	社	PART	SFN	_	10	nsubj	_	SpaceAfter=No
 10	使用	使用	VERB	VV	_	2	ccomp	_	SpaceAfter=No
 11	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
@@ -147,7 +147,7 @@
 # sent_id = test-s7
 # text = 其中参赛者年龄不可超过18岁（以当年7月1日为准），且必须就读于中学校（Secondary School）。
 1	其中	其中	NOUN	NN	_	6	advmod	_	SpaceAfter=No
-2	参赛	参赛	VERB	VV	_	3	case:suff	_	SpaceAfter=No
+2	参赛	参赛	VERB	VV	_	3	compound	_	SpaceAfter=No
 3	者	者	PART	SFN	_	4	nmod	_	SpaceAfter=No
 4	年龄	年龄	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 5	不可	不可	AUX	MD	_	6	aux	_	SpaceAfter=No
@@ -186,7 +186,7 @@
 5	日	日	NOUN	NNB	_	17	nmod:tmod	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
 7	亚奥	亚奥	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
-8	理事	理事	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+8	理事	理事	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	会	会	PART	SFN	_	10	nmod	_	SpaceAfter=No
 10	主席	主席	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 11	萨巴赫	萨巴赫	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
@@ -206,7 +206,7 @@
 1	这些	这些	DET	DT	_	2	det	_	SpaceAfter=No
 2	电话	电话	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 3	经	经	ADP	IN	_	5	case	_	SpaceAfter=No
-4	交换	交换	VERB	VV	_	5	case:suff	_	SpaceAfter=No
+4	交换	交换	VERB	VV	_	5	compound	_	SpaceAfter=No
 5	机	机	PART	SFN	_	6	obl	_	SpaceAfter=No
 6	处理	处理	VERB	VV	_	0	root	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
@@ -221,7 +221,7 @@
 16	造	造	VERB	VV	_	17	amod	_	SpaceAfter=No
 17	卫星	卫星	NOUN	NN	_	13	conj	_	SpaceAfter=No
 18	、	、	PUNCT	EC	_	20	punct	_	SpaceAfter=No
-19	无线	无线	VERB	VV	_	20	case:suff	_	SpaceAfter=No
+19	无线	无线	VERB	VV	_	20	compound	_	SpaceAfter=No
 20	电	电	PART	SFN	_	13	conj	_	SpaceAfter=No
 21	、	、	PUNCT	EC	_	22	punct	_	SpaceAfter=No
 22	光纤	光纤	NOUN	NN	_	13	conj	_	SpaceAfter=No
@@ -300,7 +300,7 @@
 10	”	”	PUNCT	''	_	9	punct	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No
 12	是	是	AUX	VC	_	18	cop	_	SpaceAfter=No
-13	沧龙	沧龙	NOUN	NN	_	14	case:suff	_	SpaceAfter=No
+13	沧龙	沧龙	NOUN	NN	_	14	compound	_	SpaceAfter=No
 14	科	科	PART	SFN	_	18	det	_	SpaceAfter=No
 15	的	的	PART	DEC	Case=Gen	14	case:dec	_	SpaceAfter=No
 16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No
@@ -311,7 +311,7 @@
 # sent_id = test-s12
 # text = 图波列夫设计局在1960年代末期推出图-154客机后，图波列夫便成为社会主义国家民航飞机的主要供应商。
 1	图波列夫	图波列夫	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
-2	设计	设计	VERB	VV	_	3	case:suff	_	SpaceAfter=No
+2	设计	设计	VERB	VV	_	3	compound	_	SpaceAfter=No
 3	局	局	PART	SFN	_	8	nsubj	_	SpaceAfter=No
 4	在	在	ADP	IN	_	7	case	_	SpaceAfter=No
 5	1960	1960	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
@@ -334,7 +334,7 @@
 22	飞机	飞机	NOUN	NN	_	26	det	_	SpaceAfter=No
 23	的	的	PART	DEC	Case=Gen	22	case:dec	_	SpaceAfter=No
 24	主要	主要	ADJ	JJ	_	26	amod	_	SpaceAfter=No
-25	供应	供应	VERB	VV	_	26	case:suff	_	SpaceAfter=No
+25	供应	供应	VERB	VV	_	26	compound	_	SpaceAfter=No
 26	商	商	PART	SFN	_	16	obj	_	SpaceAfter=No
 27	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
@@ -379,11 +379,11 @@
 5	产品	产品	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 6	分	分	VERB	VV	_	0	root	_	SpaceAfter=No
 7	为	为	VERB	VC	_	6	mark	_	SpaceAfter=No
-8	家居	家居	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+8	家居	家居	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	类	类	PART	SFN	_	6	obj	_	SpaceAfter=No
 10	、	、	PUNCT	EC	_	13	punct	_	SpaceAfter=No
-11	日用	日用	VERB	VV	_	12	case:suff	_	SpaceAfter=No
-12	品	品	PART	SFN	_	13	case:suff	_	SpaceAfter=No
+11	日用	日用	VERB	VV	_	12	compound	_	SpaceAfter=No
+12	品	品	PART	SFN	_	13	compound	_	SpaceAfter=No
 13	类	类	PART	SFN	_	9	conj	_	SpaceAfter=No
 14	、	、	PUNCT	EC	_	16	punct	_	SpaceAfter=No
 15	旅游	旅游	NOUN	NN	_	16	nmod	_	SpaceAfter=No
@@ -455,7 +455,7 @@
 
 # sent_id = test-s17
 # text = 自然界的土是由岩石经风化、搬运、堆积而形成的。
-1	自然	自然	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+1	自然	自然	NOUN	NN	_	2	compound	_	SpaceAfter=No
 2	界	界	PART	SFN	_	4	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
 4	土	土	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
@@ -510,7 +510,7 @@
 33	农业	农业	NOUN	NN	_	34	nmod	_	SpaceAfter=No
 34	经济	经济	NOUN	NN	_	40	nsubj	_	SpaceAfter=No
 35	和	和	CCONJ	CC	_	38	cc	_	SpaceAfter=No
-36	手工	手工	NOUN	NN	_	37	case:suff	_	SpaceAfter=No
+36	手工	手工	NOUN	NN	_	37	compound	_	SpaceAfter=No
 37	业	业	PART	SFN	_	38	nmod	_	SpaceAfter=No
 38	经济	经济	NOUN	NN	_	34	conj	_	SpaceAfter=No
 39	，	，	PUNCT	,	_	40	punct	_	SpaceAfter=No
@@ -531,10 +531,10 @@
 54	它们	它	PRON	PRP	Number=Plur|Person=3	64	nsubj	_	SpaceAfter=No
 55	向	向	VERB	VV	_	64	advcl	_	SpaceAfter=No
 56	着	着	PART	AS	Aspect=Prog	55	case:aspect	_	SpaceAfter=No
-57	现代	现代	NOUN	NN	_	58	case:suff	_	SpaceAfter=No
+57	现代	现代	NOUN	NN	_	58	compound	_	SpaceAfter=No
 58	化	化	PART	SFV	_	63	acl:relcl	_	SpaceAfter=No
 59	和	和	CCONJ	CC	_	61	cc	_	SpaceAfter=No
-60	集体	集体	NOUN	NN	_	61	case:suff	_	SpaceAfter=No
+60	集体	集体	NOUN	NN	_	61	compound	_	SpaceAfter=No
 61	化	化	PART	SFV	_	58	conj	_	SpaceAfter=No
 62	的	的	PART	DEC	_	58	mark:relcl	_	SpaceAfter=No
 63	方向	方向	NOUN	NN	_	55	obj	_	SpaceAfter=No
@@ -556,7 +556,7 @@
 2	主要	主要	ADV	RB	_	3	advmod	_	SpaceAfter=No
 3	分布	分布	VERB	VV	_	22	advcl	_	SpaceAfter=No
 4	在	在	ADP	IN	_	6	case	_	SpaceAfter=No
-5	表土	表土	NOUN	NN	_	6	case:suff	_	SpaceAfter=No
+5	表土	表土	NOUN	NN	_	6	compound	_	SpaceAfter=No
 6	层	层	PART	SFN	_	3	obl	_	SpaceAfter=No
 7	或	或	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 8	耕层	耕层	NOUN	NN	_	6	conj	_	SpaceAfter=No
@@ -608,7 +608,7 @@
 2	土星	土星	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	号	号	NOUN	NN	_	6	nmod	_	SpaceAfter=No
-5	仪表	仪表	NOUN	NN	_	6	case:suff	_	SpaceAfter=No
+5	仪表	仪表	NOUN	NN	_	6	compound	_	SpaceAfter=No
 6	组	组	PART	SFN	_	9	det	_	SpaceAfter=No
 7	中	中	ADP	IN	_	6	acl	_	SpaceAfter=No
 8	的	的	PART	DEC	Case=Gen	6	case:dec	_	SpaceAfter=No
@@ -641,7 +641,7 @@
 # text = 这个计算机控制了火箭从起飞前一直到抛弃S-IVB推进器的操作过程。
 1	这	这	DET	DT	_	2	det	_	SpaceAfter=No
 2	个	个	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
-3	计算	计算	VERB	VV	_	4	case:suff	_	SpaceAfter=No
+3	计算	计算	VERB	VV	_	4	compound	_	SpaceAfter=No
 4	机	机	PART	SFN	_	5	nsubj	_	SpaceAfter=No
 5	控制	控制	VERB	VV	_	0	root	_	SpaceAfter=No
 6	了	了	PART	AS	Aspect=Perf	5	case:aspect	_	SpaceAfter=No
@@ -653,7 +653,7 @@
 12	到	到	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No
 13	抛弃	抛弃	VERB	VV	_	12	xcomp	_	SpaceAfter=No
 14	S-IVB	S-IVB	X	FW	_	16	nmod	_	SpaceAfter=No
-15	推进	推进	VERB	VV	_	16	case:suff	_	SpaceAfter=No
+15	推进	推进	VERB	VV	_	16	compound	_	SpaceAfter=No
 16	器	器	PART	SFN	_	13	obj	_	SpaceAfter=No
 17	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
 18	操作	操作	NOUN	NN	_	19	nmod	_	SpaceAfter=No
@@ -687,7 +687,7 @@
 
 # sent_id = test-s25
 # text = 圣伯多禄堂（Iglesia de San Pedro）是西班牙南部城市科尔多瓦的一座罗马天主教教堂，供奉圣伯多禄，位于同名的广场上。
-1	圣伯多禄	圣伯多禄	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	圣伯多禄	圣伯多禄	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	堂	堂	PART	SFN	_	25	nsubj	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No
 4	Iglesia	Iglesia	X	FW	_	2	appos	_	_
@@ -704,7 +704,7 @@
 15	一	一	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No
 16	座	座	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 17	罗马	罗马	PROPN	NNP	_	20	nmod	_	SpaceAfter=No
-18	天主	天主	PROPN	NNP	_	19	case:suff	_	SpaceAfter=No
+18	天主	天主	PROPN	NNP	_	19	compound	_	SpaceAfter=No
 19	教	教	PART	SFN	_	20	nmod	_	SpaceAfter=No
 20	教堂	教堂	NOUN	NN	_	25	advcl	_	SpaceAfter=No
 21	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
@@ -823,7 +823,7 @@
 20	下降	下降	VERB	VV	_	1	parataxis	_	SpaceAfter=No
 21	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
 22	现在	现在	NOUN	NN	_	33	nmod:tmod	_	SpaceAfter=No
-23	圣奥斯瓦尔德	圣奥斯瓦尔德	PROPN	NNP	_	24	case:suff	_	SpaceAfter=No
+23	圣奥斯瓦尔德	圣奥斯瓦尔德	PROPN	NNP	_	24	compound	_	SpaceAfter=No
 24	乡	乡	PART	SFN	_	27	det	_	SpaceAfter=No
 25	的	的	PART	DEC	Case=Gen	24	case:dec	_	SpaceAfter=No
 26	居民	居民	NOUN	NN	_	27	nmod	_	SpaceAfter=No
@@ -873,7 +873,7 @@
 11	目前	目前	NOUN	NN	_	15	det	_	SpaceAfter=No
 12	的	的	PART	DEC	Case=Gen	11	case:dec	_	SpaceAfter=No
 13	巴伐利亚	巴伐利亚	PROPN	NNP	_	15	nmod	_	SpaceAfter=No
-14	巴洛克	巴洛克	PROPN	NNP	_	15	case:suff	_	SpaceAfter=No
+14	巴洛克	巴洛克	PROPN	NNP	_	15	compound	_	SpaceAfter=No
 15	式	式	PART	SFN	_	9	obj	_	SpaceAfter=No
 16	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
@@ -917,13 +917,13 @@
 3	设有	设有	VERB	VV	_	0	root	_	SpaceAfter=No
 4	8	8	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	个	个	NOUN	NNB	_	7	nmod	_	SpaceAfter=No
-6	网球	网球	NOUN	NN	_	7	case:suff	_	SpaceAfter=No
+6	网球	网球	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	场	场	PART	SFN	_	3	obj	_	SpaceAfter=No
 8	和	和	CCONJ	CC	_	16	cc	_	SpaceAfter=No
 9	1	1	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
 10	个	个	NOUN	NNB	_	16	clf	_	SpaceAfter=No
 11	环绕	环绕	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
-12	安娜费雷拉	安娜费雷拉	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+12	安娜费雷拉	安娜费雷拉	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	峰	峰	PART	SFN	_	11	obj	_	SpaceAfter=No
 14	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
 15	马术	马术	NOUN	NN	_	16	nmod	_	SpaceAfter=No
@@ -957,7 +957,7 @@
 23	教会	教会	NOUN	NN	_	24	nsubj	_	SpaceAfter=No
 24	用	用	VERB	VV	_	27	acl:relcl	_	SpaceAfter=No
 25	的	的	PART	DEC	_	24	mark:relcl	_	SpaceAfter=No
-26	拉丁	拉丁	PROPN	NNP	_	27	case:suff	_	SpaceAfter=No
+26	拉丁	拉丁	PROPN	NNP	_	27	compound	_	SpaceAfter=No
 27	文	文	PART	SFN	_	21	parataxis	_	SpaceAfter=No
 28	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
@@ -1030,7 +1030,7 @@
 7	在	在	VERB	VV	_	13	advcl	_	SpaceAfter=No
 8	南非	南非	PROPN	NNP	_	7	obj	_	SpaceAfter=No
 9	对	对	ADP	IN	_	13	det	_	SpaceAfter=No
-10	印度	印度	PROPN	NNP	_	11	case:suff	_	SpaceAfter=No
+10	印度	印度	PROPN	NNP	_	11	compound	_	SpaceAfter=No
 11	人	人	PART	SFN	_	9	nmod	_	SpaceAfter=No
 12	的	的	PART	DEC	Case=Gen	9	case:dec	_	SpaceAfter=No
 13	歧视	歧视	NOUN	NN	_	6	obj	_	SpaceAfter=No
@@ -1063,7 +1063,7 @@
 6	Ashram	Ashram	X	FW	_	5	flat:foreign	_	SpaceAfter=No
 7	（	（	PUNCT	(	_	10	punct	_	SpaceAfter=No
 8	高僧	高僧	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
-9	修行	修行	VERB	VV	_	10	case:suff	_	SpaceAfter=No
+9	修行	修行	VERB	VV	_	10	compound	_	SpaceAfter=No
 10	所	所	PART	SFN	_	5	appos	_	SpaceAfter=No
 11	）	）	PUNCT	)	_	10	punct	_	SpaceAfter=No
 12	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
@@ -1127,10 +1127,10 @@
 5	反	反	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
 6	法西斯	法西斯	PROPN	NNP	_	5	obj	_	SpaceAfter=No
 7	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
-8	社会	社会	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+8	社会	社会	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	党	党	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 10	和	和	CCONJ	CC	_	13	cc	_	SpaceAfter=No
-11	民主	民主	NOUN	NN	_	12	case:suff	_	SpaceAfter=No
+11	民主	民主	NOUN	NN	_	12	compound	_	SpaceAfter=No
 12	党	党	PART	SFN	_	13	nmod	_	SpaceAfter=No
 13	成员	成员	NOUN	NN	_	9	conj	_	SpaceAfter=No
 14	再度	再度	ADV	RB	_	15	advmod	_	SpaceAfter=No
@@ -1177,10 +1177,10 @@
 # sent_id = test-s45
 # text = 国家博物馆和图书馆收藏的文物和书籍转移到山洞里，以为难民腾出住宿空间。
 1	国家	国家	NOUN	NN	_	3	nmod	_	SpaceAfter=No
-2	博物	博物	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+2	博物	博物	NOUN	NN	_	3	compound	_	SpaceAfter=No
 3	馆	馆	PART	SFN	_	7	nsubj	_	SpaceAfter=No
 4	和	和	CCONJ	CC	_	6	cc	_	SpaceAfter=No
-5	图书	图书	NOUN	NN	_	6	case:suff	_	SpaceAfter=No
+5	图书	图书	NOUN	NN	_	6	compound	_	SpaceAfter=No
 6	馆	馆	PART	SFN	_	3	conj	_	SpaceAfter=No
 7	收藏	收藏	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
 8	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
@@ -1209,7 +1209,7 @@
 5	大军	大军	NOUN	NN	_	1	obj	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 7	圣马利诺	圣马利诺	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
-8	共和	共和	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+8	共和	共和	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	国	国	PART	SFN	_	11	nsubj	_	SpaceAfter=No
 10	再度	再度	ADV	RB	_	11	advmod	_	SpaceAfter=No
 11	陷入	陷入	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -1219,7 +1219,7 @@
 
 # sent_id = test-s47
 # text = 圣马洛区辖有9个县，共有63个市镇。
-1	圣马洛	圣马洛	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	圣马洛	圣马洛	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	区	区	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 3	辖有	辖有	VERB	VV	_	9	advcl	_	SpaceAfter=No
 4	9	9	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
@@ -1277,7 +1277,7 @@
 7	成	成	VERB	VV	_	0	root	_	SpaceAfter=No
 8	为	为	VERB	VC	_	7	mark	_	SpaceAfter=No
 9	了	了	PART	AS	Aspect=Perf	7	case:aspect	_	SpaceAfter=No
-10	现代	现代	NOUN	NN	_	11	case:suff	_	SpaceAfter=No
+10	现代	现代	NOUN	NN	_	11	compound	_	SpaceAfter=No
 11	化	化	PART	SFN	_	12	nmod	_	SpaceAfter=No
 12	国家	国家	NOUN	NN	_	24	nmod	_	SpaceAfter=No
 13	在	在	ADP	IN	_	24	det	_	SpaceAfter=No
@@ -1380,23 +1380,23 @@
 52	（	（	PUNCT	(	_	54	punct	_	SpaceAfter=No
 53	又	又	ADV	RB	_	54	mark	_	SpaceAfter=No
 54	称	称	VERB	VV	_	5	parataxis	_	SpaceAfter=No
-55	沙狐	沙狐	NOUN	NN	_	56	case:suff	_	SpaceAfter=No
+55	沙狐	沙狐	NOUN	NN	_	56	compound	_	SpaceAfter=No
 56	球	球	PART	SFN	_	54	obj	_	SpaceAfter=No
 57	）	）	PUNCT	)	_	54	punct	_	SpaceAfter=No
 58	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s53
 # text = 地湾城遗址，位于中国甘肃省金塔县，为一个省级文物保护单位，类型为古遗址。
-1	地湾	地湾	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	地湾	地湾	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	城	城	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	遗址	遗址	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
 5	位	位	VERB	VV	_	19	acl	_	SpaceAfter=No
 6	于	于	VERB	VV	_	5	mark	_	SpaceAfter=No
 7	中国	中国	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
-8	甘肃	甘肃	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	甘肃	甘肃	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	省	省	PART	SFN	_	11	nmod	_	SpaceAfter=No
-10	金塔	金塔	PROPN	NNP	_	11	case:suff	_	SpaceAfter=No
+10	金塔	金塔	PROPN	NNP	_	11	compound	_	SpaceAfter=No
 11	县	县	PART	SFN	_	5	obj	_	SpaceAfter=No
 12	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
 13	为	为	AUX	VC	_	19	cop	_	SpaceAfter=No
@@ -1417,7 +1417,7 @@
 # text = 与其他胰岛素相比较，本品引起夜间低血糖的风险较低，因而可以进行更为积极的剂量调整以实现血糖达标。
 1	与	与	ADP	IN	_	4	case	_	SpaceAfter=No
 2	其他	其他	DET	DT	_	4	det	_	SpaceAfter=No
-3	胰岛	胰岛	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+3	胰岛	胰岛	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	素	素	PART	SFN	_	6	obl	_	SpaceAfter=No
 5	相	相	ADV	RB	_	6	advmod	_	SpaceAfter=No
 6	比较	比较	VERB	VV	_	15	advcl	_	SpaceAfter=No
@@ -1454,9 +1454,9 @@
 5	良好	良好	ADJ	JJ	_	7	csubj	_	SpaceAfter=No
 6	可以	可以	AUX	MD	_	7	aux	_	SpaceAfter=No
 7	降低	降低	VERB	VV	_	0	root	_	SpaceAfter=No
-8	糖尿	糖尿	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+8	糖尿	糖尿	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	病	病	PART	SFN	_	12	advmod	_	SpaceAfter=No
-10	视网	视网	NOUN	NN	_	11	case:suff	_	SpaceAfter=No
+10	视网	视网	NOUN	NN	_	11	compound	_	SpaceAfter=No
 11	膜	膜	PART	SFN	_	12	nsubj	_	SpaceAfter=No
 12	病变	病变	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
 13	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
@@ -1470,7 +1470,7 @@
 3	特区	特区	NOUN	NN	_	21	nsubj	_	SpaceAfter=No
 4	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No
 5	（	（	PUNCT	(	_	9	punct	_	SpaceAfter=No
-6	英	英	PROPN	NNP	_	7	case:suff	_	SpaceAfter=No
+6	英	英	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 7	文	文	PART	SFN	_	9	advcl	_	SpaceAfter=No
 8	：	：	PUNCT	:	_	9	punct	_	SpaceAfter=No
 9	Evolution	Evolution	X	FW	_	3	appos	_	SpaceAfter=No
@@ -1509,7 +1509,7 @@
 5	装备	装备	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 6	只有	只有	VERB	VV	_	15	advcl	_	SpaceAfter=No
 7	等	等	PART	PFA	_	8	case:pref	_	SpaceAfter=No
-8	离子	离子	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+8	离子	离子	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	炮	炮	PART	SFN	_	6	obj	_	SpaceAfter=No
 10	与	与	CCONJ	CC	_	12	cc	_	SpaceAfter=No
 11	氚核	氚核	NOUN	NN	_	12	nmod	_	SpaceAfter=No
@@ -1584,10 +1584,10 @@
 5	世纪	世纪	NOUN	NNB	_	2	conj	_	SpaceAfter=No
 6	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No
 7	现代	现代	NOUN	NN	_	9	nmod	_	SpaceAfter=No
-8	地质	地质	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+8	地质	地质	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	学	学	PART	SFN	_	15	det	_	SpaceAfter=No
 10	和	和	CCONJ	CC	_	12	cc	_	SpaceAfter=No
-11	地理	地理	NOUN	NN	_	12	case:suff	_	SpaceAfter=No
+11	地理	地理	NOUN	NN	_	12	compound	_	SpaceAfter=No
 12	学	学	PART	SFN	_	9	conj	_	SpaceAfter=No
 13	的	的	PART	DEC	Case=Gen	9	case:dec	_	SpaceAfter=No
 14	创立	创立	NOUN	NN	_	15	nmod	_	SpaceAfter=No
@@ -1600,7 +1600,7 @@
 21	领域	领域	NOUN	NN	_	26	nsubj	_	SpaceAfter=No
 22	则	则	ADV	RB	_	26	mark	_	SpaceAfter=No
 23	为	为	ADP	IN	_	25	case	_	SpaceAfter=No
-24	地貌	地貌	NOUN	NN	_	25	case:suff	_	SpaceAfter=No
+24	地貌	地貌	NOUN	NN	_	25	compound	_	SpaceAfter=No
 25	学	学	PART	SFN	_	26	obl	_	SpaceAfter=No
 26	提供	提供	VERB	VV	_	15	parataxis	_	SpaceAfter=No
 27	了	了	PART	AS	Aspect=Perf	26	case:aspect	_	SpaceAfter=No
@@ -1614,7 +1614,7 @@
 3	50	50	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	年代	年代	NOUN	NNB	_	12	nsubj	_	SpaceAfter=No
 5	也是	也是	AUX	VC	_	12	cop	_	SpaceAfter=No
-6	地貌	地貌	NOUN	NN	_	7	case:suff	_	SpaceAfter=No
+6	地貌	地貌	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	学	学	PART	SFN	_	8	nsubj	_	SpaceAfter=No
 8	出现	出现	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 9	分支	分支	NOUN	NN	_	10	nmod	_	SpaceAfter=No
@@ -1625,19 +1625,19 @@
 14	形成	形成	VERB	VV	_	12	parataxis	_	SpaceAfter=No
 15	了	了	PART	AS	Aspect=Perf	14	case:aspect	_	SpaceAfter=No
 16	河流	河流	NOUN	NN	_	17	nmod	_	SpaceAfter=No
-17	地貌	地貌	NOUN	NN	_	18	case:suff	_	SpaceAfter=No
+17	地貌	地貌	NOUN	NN	_	18	compound	_	SpaceAfter=No
 18	学	学	PART	SFN	_	14	obj	_	SpaceAfter=No
 19	、	、	PUNCT	EC	_	22	punct	_	SpaceAfter=No
 20	冰川	冰川	NOUN	NN	_	21	nmod	_	SpaceAfter=No
-21	地貌	地貌	NOUN	NN	_	22	case:suff	_	SpaceAfter=No
+21	地貌	地貌	NOUN	NN	_	22	compound	_	SpaceAfter=No
 22	学	学	PART	SFN	_	18	conj	_	SpaceAfter=No
 23	、	、	PUNCT	EC	_	26	punct	_	SpaceAfter=No
 24	海岸	海岸	NOUN	NN	_	25	nmod	_	SpaceAfter=No
-25	地貌	地貌	NOUN	NN	_	26	case:suff	_	SpaceAfter=No
+25	地貌	地貌	NOUN	NN	_	26	compound	_	SpaceAfter=No
 26	学	学	PART	SFN	_	18	conj	_	SpaceAfter=No
 27	和	和	CCONJ	CC	_	30	cc	_	SpaceAfter=No
 28	构造	构造	NOUN	NN	_	30	nmod	_	SpaceAfter=No
-29	地貌	地貌	NOUN	NN	_	30	case:suff	_	SpaceAfter=No
+29	地貌	地貌	NOUN	NN	_	30	compound	_	SpaceAfter=No
 30	学	学	PART	SFN	_	18	conj	_	SpaceAfter=No
 31	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
@@ -1667,7 +1667,7 @@
 22	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
 23	即	即	VERB	VC	_	15	ccomp	_	SpaceAfter=No
 24	某	某	DET	DT	_	26	det	_	SpaceAfter=No
-25	取代	取代	VERB	VV	_	26	case:suff	_	SpaceAfter=No
+25	取代	取代	VERB	VV	_	26	compound	_	SpaceAfter=No
 26	基	基	PART	SFN	_	29	nsubj	_	SpaceAfter=No
 27	在	在	VERB	VV	_	29	advcl	_	SpaceAfter=No
 28	空间	空间	NOUN	NN	_	27	obj	_	SpaceAfter=No
@@ -1702,7 +1702,7 @@
 10	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
 11	每	每	ADV	RB	_	51	advmod	_	SpaceAfter=No
 12	当	当	ADP	IN	_	11	case	_	SpaceAfter=No
-13	摄影	摄影	VERB	VV	_	14	case:suff	_	SpaceAfter=No
+13	摄影	摄影	VERB	VV	_	14	compound	_	SpaceAfter=No
 14	师	师	PART	SFN	_	20	nsubj	_	SpaceAfter=No
 15	把	把	ADP	BB	_	16	case	_	SpaceAfter=No
 16	镜头	镜头	NOUN	NN	_	17	obl:patient	_	SpaceAfter=No
@@ -1729,7 +1729,7 @@
 37	，	，	PUNCT	,	_	45	punct	_	SpaceAfter=No
 38	需要	需要	AUX	MD	_	45	aux	_	SpaceAfter=No
 39	根据	根据	ADP	IN	_	43	case	_	SpaceAfter=No
-40	摄影	摄影	VERB	VV	_	41	case:suff	_	SpaceAfter=No
+40	摄影	摄影	VERB	VV	_	41	compound	_	SpaceAfter=No
 41	师	师	PART	SFN	_	43	det	_	SpaceAfter=No
 42	的	的	PART	DEC	Case=Gen	41	case:dec	_	SpaceAfter=No
 43	想法	想法	NOUN	NN	_	45	obl	_	SpaceAfter=No
@@ -1788,7 +1788,7 @@
 9	不断	不断	ADV	RB	_	10	advmod	_	SpaceAfter=No
 10	切割	切割	VERB	VV	_	19	ccomp	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
-12	生还	生还	VERB	VV	_	13	case:suff	_	SpaceAfter=No
+12	生还	生还	VERB	VV	_	13	compound	_	SpaceAfter=No
 13	者	者	PART	SFN	_	19	nsubj:pass	_	SpaceAfter=No
 14	被	被	VERB	BB	Voice=Pass	19	aux:pass	_	SpaceAfter=No
 15	逼	逼	VERB	VV	_	19	advcl	_	SpaceAfter=No
@@ -1858,8 +1858,8 @@
 # text = 有些现代神话学家认为，坎珀实际是厄客德娜的一个别名，两者之间有很多相似之处。
 1	有些	有些	VERB	VV	_	0	root	_	SpaceAfter=No
 2	现代	现代	NOUN	NN	_	4	nmod	_	SpaceAfter=No
-3	神话	神话	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
-4	学	学	PART	SFN	_	5	case:suff	_	SpaceAfter=No
+3	神话	神话	NOUN	NN	_	4	compound	_	SpaceAfter=No
+4	学	学	PART	SFN	_	5	compound	_	SpaceAfter=No
 5	家	家	PART	SFN	_	6	nsubj	_	SpaceAfter=No
 6	认为	认为	VERB	VV	_	1	ccomp	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
@@ -1902,7 +1902,7 @@
 
 # sent_id = test-s72
 # text = 统治期内，梅葛处死了三位大学士；他还拥有为数众多的妻子，每个时期通常都不止一个，因此臭名远扬。
-1	统治	统治	VERB	VV	_	2	case:suff	_	SpaceAfter=No
+1	统治	统治	VERB	VV	_	2	compound	_	SpaceAfter=No
 2	期	期	PART	SFN	_	6	nmod:tmod	_	SpaceAfter=No
 3	内	内	ADP	IN	_	2	acl	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
@@ -1943,7 +1943,7 @@
 4	没有	没有	VERB	VV	_	10	advcl	_	SpaceAfter=No
 5	生下	生下	VERB	VV	_	4	xcomp	_	SpaceAfter=No
 6	男性	男性	NOUN	NN	_	8	nmod	_	SpaceAfter=No
-7	继承	继承	VERB	VV	_	8	case:suff	_	SpaceAfter=No
+7	继承	继承	VERB	VV	_	8	compound	_	SpaceAfter=No
 8	人	人	PART	SFN	_	5	obj	_	SpaceAfter=No
 9	就	就	ADV	RB	_	10	mark	_	SpaceAfter=No
 10	死	死	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -1977,7 +1977,7 @@
 4	各自	各自	PRON	PRD	_	6	advmod	_	SpaceAfter=No
 5	抽签	抽签	VERB	VV	_	6	advcl	_	SpaceAfter=No
 6	选定	选定	VERB	VV	Voice=Cau	1	ccomp	_	SpaceAfter=No
-7	主持	主持	VERB	VV	_	8	case:suff	_	SpaceAfter=No
+7	主持	主持	VERB	VV	_	8	compound	_	SpaceAfter=No
 8	人	人	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 9	当	当	VERB	VV	_	6	ccomp	_	SpaceAfter=No
 10	助手	助手	NOUN	NN	_	9	obj	_	SpaceAfter=No
@@ -1995,7 +1995,7 @@
 4	代表	代表	VERB	VV	_	9	advcl	_	SpaceAfter=No
 5	过	过	PART	AS	Aspect=Perf	4	case:aspect	_	SpaceAfter=No
 6	阿根廷	阿根廷	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
-7	国家	国家	NOUN	NN	_	8	case:suff	_	SpaceAfter=No
+7	国家	国家	NOUN	NN	_	8	compound	_	SpaceAfter=No
 8	队	队	PART	SFN	_	4	obj	_	SpaceAfter=No
 9	出赛	出赛	VERB	VV	_	14	advcl	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
@@ -2004,7 +2004,7 @@
 13	未	未	ADV	RB	Polarity=Neg	14	advmod	_	SpaceAfter=No
 14	参与	参与	VERB	VV	_	0	root	_	SpaceAfter=No
 15	任何	任何	DET	DT	_	18	det	_	SpaceAfter=No
-16	世界	世界	NOUN	NN	_	17	case:suff	_	SpaceAfter=No
+16	世界	世界	NOUN	NN	_	17	compound	_	SpaceAfter=No
 17	杯	杯	PART	SFN	_	18	nmod	_	SpaceAfter=No
 18	赛事	赛事	NOUN	NN	_	14	obj	_	SpaceAfter=No
 19	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
@@ -2012,7 +2012,7 @@
 # sent_id = test-s76
 # text = 而埃姆登号的残骸在1950年被一家日本公司打捞上来作废铁处理，但仍有部分残骸未被打捞上来。
 1	而	而	ADV	RB	_	18	mark	_	SpaceAfter=No
-2	埃姆登	埃姆登	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+2	埃姆登	埃姆登	PROPN	NNP	_	3	compound	_	SpaceAfter=No
 3	号	号	PART	SFN	_	5	det	_	SpaceAfter=No
 4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
 5	残骸	残骸	NOUN	NN	_	18	nsubj:pass	_	SpaceAfter=No
@@ -2058,11 +2058,11 @@
 13	于	于	VERB	VV	_	12	mark	_	SpaceAfter=No
 14	希特勒	希特勒	PROPN	NNP	_	12	obj	_	SpaceAfter=No
 15	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
-16	知名	知名	VERB	VV	_	17	case:suff	_	SpaceAfter=No
+16	知名	知名	VERB	VV	_	17	compound	_	SpaceAfter=No
 17	度	度	PART	SFN	_	18	nsubj	_	SpaceAfter=No
 18	最高	最高	ADJ	JJ	_	21	acl:relcl	_	SpaceAfter=No
 19	的	的	PART	DEC	_	18	mark:relcl	_	SpaceAfter=No
-20	德国	德国	PROPN	NNP	_	21	case:suff	_	SpaceAfter=No
+20	德国	德国	PROPN	NNP	_	21	compound	_	SpaceAfter=No
 21	人	人	PART	SFN	_	0	root	_	SpaceAfter=No
 22	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
@@ -2072,7 +2072,7 @@
 2	不	不	ADV	RB	Polarity=Neg	3	advmod	_	SpaceAfter=No
 3	需要	需要	AUX	MD	_	4	aux	_	SpaceAfter=No
 4	保护	保护	VERB	VV	_	10	advcl	_	SpaceAfter=No
-5	补给	补给	VERB	VV	_	6	case:suff	_	SpaceAfter=No
+5	补给	补给	VERB	VV	_	6	compound	_	SpaceAfter=No
 6	线	线	PART	SFN	_	8	det	_	SpaceAfter=No
 7	的	的	PART	DEC	Case=Gen	6	case:dec	_	SpaceAfter=No
 8	安全	安全	NOUN	NN	_	4	obj	_	SpaceAfter=No
@@ -2111,7 +2111,7 @@
 8	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No
 9	但	但	ADV	RB	_	28	mark	_	SpaceAfter=No
 10	回到	回到	VERB	VV	_	28	advcl	_	SpaceAfter=No
-11	司令	司令	NOUN	NN	_	12	case:suff	_	SpaceAfter=No
+11	司令	司令	NOUN	NN	_	12	compound	_	SpaceAfter=No
 12	部	部	PART	SFN	_	10	obj	_	SpaceAfter=No
 13	后	后	ADP	IN	_	10	mark	_	SpaceAfter=No
 14	重新	重新	ADV	RB	_	15	advmod	_	SpaceAfter=No
@@ -2185,7 +2185,7 @@
 
 # sent_id = test-s83
 # text = 埃萨河是白俄罗斯的河流，由明斯克州和维捷布斯克州负责管辖，属于道加瓦河的一部分，该湖长84公里，面积1,040平方公里，最终注入列佩利湖。
-1	埃萨	埃萨	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	埃萨	埃萨	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	河	河	PART	SFN	_	17	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	6	cop	_	SpaceAfter=No
 4	白俄罗斯	白俄罗斯	PROPN	NNP	_	6	det	_	SpaceAfter=No
@@ -2193,17 +2193,17 @@
 6	河流	河流	NOUN	NN	_	17	advcl	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
 8	由	由	VERB	VV	_	17	advcl	_	SpaceAfter=No
-9	明斯克	明斯克	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
+9	明斯克	明斯克	PROPN	NNP	_	10	compound	_	SpaceAfter=No
 10	州	州	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 11	和	和	CCONJ	CC	_	13	cc	_	SpaceAfter=No
-12	维捷布斯克	维捷布斯克	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+12	维捷布斯克	维捷布斯克	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	州	州	PART	SFN	_	10	conj	_	SpaceAfter=No
 14	负责	负责	VERB	VV	_	8	ccomp	_	SpaceAfter=No
 15	管辖	管辖	VERB	VV	_	14	xcomp	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
 17	属	属	VERB	VV	_	0	root	_	SpaceAfter=No
 18	于	于	VERB	VV	_	17	mark	_	SpaceAfter=No
-19	道加瓦	道加瓦	PROPN	NNP	_	20	case:suff	_	SpaceAfter=No
+19	道加瓦	道加瓦	PROPN	NNP	_	20	compound	_	SpaceAfter=No
 20	河	河	PART	SFN	_	23	det	_	SpaceAfter=No
 21	的	的	PART	DEC	Case=Gen	20	case:dec	_	SpaceAfter=No
 22	一	一	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No
@@ -2220,7 +2220,7 @@
 33	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
 34	最终	最终	NOUN	NN	_	35	nmod:tmod	_	SpaceAfter=No
 35	注入	注入	VERB	VV	_	17	parataxis	_	SpaceAfter=No
-36	列佩利	列佩利	PROPN	NNP	_	37	case:suff	_	SpaceAfter=No
+36	列佩利	列佩利	PROPN	NNP	_	37	compound	_	SpaceAfter=No
 37	湖	湖	PART	SFN	_	35	obj	_	SpaceAfter=No
 38	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
@@ -2228,7 +2228,7 @@
 # text = 警方前往工作坊逮捕席勒的同时，也扣押了一百多张被认为是色情物品的画作。
 1	警方	警方	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 2	前往	前往	VERB	VV	_	5	advcl	_	SpaceAfter=No
-3	工作	工作	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+3	工作	工作	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	坊	坊	PART	SFN	_	2	obj	_	SpaceAfter=No
 5	逮捕	逮捕	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No
 6	席勒	席勒	PROPN	NNP	_	5	obj	_	SpaceAfter=No
@@ -2324,7 +2324,7 @@
 14	了	了	PART	AS	Aspect=Perf	13	case:aspect	_	SpaceAfter=No
 15	创建	创建	VERB	VV	_	13	xcomp	_	SpaceAfter=No
 16	德国	德国	PROPN	NNP	_	18	nmod	_	SpaceAfter=No
-17	国防	国防	VERB	VV	_	18	case:suff	_	SpaceAfter=No
+17	国防	国防	VERB	VV	_	18	compound	_	SpaceAfter=No
 18	军	军	PART	SFN	_	20	det	_	SpaceAfter=No
 19	的	的	PART	DEC	Case=Gen	18	case:dec	_	SpaceAfter=No
 20	进程	进程	NOUN	NN	_	15	obj	_	SpaceAfter=No
@@ -2340,7 +2340,7 @@
 30	》	》	PUNCT	)	_	29	punct	_	SpaceAfter=No
 31	限定	限定	VERB	VV	_	3	parataxis	_	SpaceAfter=No
 32	魏玛	魏玛	PROPN	NNP	_	34	nmod	_	SpaceAfter=No
-33	共和	共和	NOUN	NN	_	34	case:suff	_	SpaceAfter=No
+33	共和	共和	NOUN	NN	_	34	compound	_	SpaceAfter=No
 34	国	国	PART	SFN	_	37	nsubj	_	SpaceAfter=No
 35	只	只	ADV	RB	_	37	advmod	_	SpaceAfter=No
 36	能	能	AUX	MD	_	37	aux	_	SpaceAfter=No
@@ -2426,7 +2426,7 @@
 
 # sent_id = test-s91
 # text = 城东湖是一个位于中国安徽省霍丘县的湖泊，面积约为115平方千米。
-1	城东	城东	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	城东	城东	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	湖	湖	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	14	cop	_	SpaceAfter=No
 4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
@@ -2434,9 +2434,9 @@
 6	位	位	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
 7	于	于	VERB	VV	_	6	mark	_	SpaceAfter=No
 8	中国	中国	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
-9	安徽	安徽	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
+9	安徽	安徽	PROPN	NNP	_	10	compound	_	SpaceAfter=No
 10	省	省	PART	SFN	_	12	nmod	_	SpaceAfter=No
-11	霍丘	霍丘	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
+11	霍丘	霍丘	PROPN	NNP	_	12	compound	_	SpaceAfter=No
 12	县	县	PART	SFN	_	6	obj	_	SpaceAfter=No
 13	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
 14	湖泊	湖泊	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -2450,8 +2450,8 @@
 
 # sent_id = test-s92
 # text = 评论家们特别赞赏了阿弗莱克对于抢劫场景的导演手法。
-1	评论	评论	VERB	VV	_	2	case:suff	_	SpaceAfter=No
-2	家	家	PART	SFN	_	3	case:suff	_	SpaceAfter=No
+1	评论	评论	VERB	VV	_	2	compound	_	SpaceAfter=No
+2	家	家	PART	SFN	_	3	compound	_	SpaceAfter=No
 3	们	们	PART	SFN	Number=Plur	5	nsubj	_	SpaceAfter=No
 4	特别	特别	ADV	RB	_	5	advmod	_	SpaceAfter=No
 5	赞赏	赞赏	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -2490,7 +2490,7 @@
 21	体现	体现	VERB	VV	_	20	xcomp	_	SpaceAfter=No
 22	它	它	PRON	PRP	Person=3	25	det	_	SpaceAfter=No
 23	的	的	PART	DEC	Case=Gen	22	case:dec	_	SpaceAfter=No
-24	居住	居住	VERB	VV	_	25	case:suff	_	SpaceAfter=No
+24	居住	居住	VERB	VV	_	25	compound	_	SpaceAfter=No
 25	者	者	PART	SFN	_	27	det	_	SpaceAfter=No
 26	的	的	PART	DEC	Case=Gen	25	case:dec	_	SpaceAfter=No
 27	威望	威望	NOUN	NN	_	21	obj	_	SpaceAfter=No
@@ -2505,7 +2505,7 @@
 3	以	以	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
 4	2008	2008	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	年	年	NOUN	NNB	_	7	nmod	_	SpaceAfter=No
-6	清明	清明	NOUN	NN	_	7	case:suff	_	SpaceAfter=No
+6	清明	清明	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	节	节	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 8	为	为	AUX	VC	_	9	cop	_	SpaceAfter=No
 9	准	准	ADJ	JJ	_	3	ccomp	_	SpaceAfter=No
@@ -2519,13 +2519,13 @@
 4	0545	0545	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	班次	班次	NOUN	NN	_	24	nsubj	_	SpaceAfter=No
 6	到达	到达	VERB	VV	_	24	advcl	_	SpaceAfter=No
-7	石排	石排	PROPN	NNP	_	8	case:suff	_	SpaceAfter=No
-8	湾	湾	PART	SFN	_	9	case:suff	_	SpaceAfter=No
+7	石排	石排	PROPN	NNP	_	8	compound	_	SpaceAfter=No
+8	湾	湾	PART	SFN	_	9	compound	_	SpaceAfter=No
 9	道	道	PART	SFN	_	6	obj	_	SpaceAfter=No
 10	后	后	ADP	IN	_	6	mark	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
 12	绕经	绕经	VERB	VV	_	24	advcl	_	SpaceAfter=No
-13	华富	华富	PROPN	NNP	_	14	case:suff	_	SpaceAfter=No
+13	华富	华富	PROPN	NNP	_	14	compound	_	SpaceAfter=No
 14	道	道	PART	SFN	_	12	obj	_	SpaceAfter=No
 15	及	及	CCONJ	CC	_	21	cc	_	SpaceAfter=No
 16	华富	华富	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
@@ -2537,8 +2537,8 @@
 22	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 23	再	再	ADV	RB	_	24	advmod	_	SpaceAfter=No
 24	返回	返回	VERB	VV	_	0	root	_	SpaceAfter=No
-25	石排	石排	PROPN	NNP	_	26	case:suff	_	SpaceAfter=No
-26	湾	湾	PART	SFN	_	27	case:suff	_	SpaceAfter=No
+25	石排	石排	PROPN	NNP	_	26	compound	_	SpaceAfter=No
+26	湾	湾	PART	SFN	_	27	compound	_	SpaceAfter=No
 27	道	道	PART	SFN	_	29	nmod	_	SpaceAfter=No
 28	原有	原有	NOUN	NN	_	29	nmod	_	SpaceAfter=No
 29	路线	路线	NOUN	NN	_	24	obj	_	SpaceAfter=No
@@ -2556,27 +2556,27 @@
 8	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No
 9	分别	分别	ADV	RB	_	10	advmod	_	SpaceAfter=No
 10	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
-11	英	英	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
+11	英	英	PROPN	NNP	_	12	compound	_	SpaceAfter=No
 12	文	文	PART	SFN	_	26	nmod	_	SpaceAfter=No
 13	、	、	PUNCT	EC	_	15	punct	_	SpaceAfter=No
-14	中	中	PROPN	NNP	_	15	case:suff	_	SpaceAfter=No
+14	中	中	PROPN	NNP	_	15	compound	_	SpaceAfter=No
 15	文	文	PART	SFN	_	12	conj	_	SpaceAfter=No
 16	、	、	PUNCT	EC	_	18	punct	_	SpaceAfter=No
-17	福建	福建	PROPN	NNP	_	18	case:suff	_	SpaceAfter=No
+17	福建	福建	PROPN	NNP	_	18	compound	_	SpaceAfter=No
 18	话	话	PART	SFN	_	12	conj	_	SpaceAfter=No
 19	、	、	PUNCT	EC	_	21	punct	_	SpaceAfter=No
-20	广东	广东	PROPN	NNP	_	21	case:suff	_	SpaceAfter=No
+20	广东	广东	PROPN	NNP	_	21	compound	_	SpaceAfter=No
 21	话	话	PART	SFN	_	12	conj	_	SpaceAfter=No
 22	、	、	PUNCT	EC	_	25	punct	_	SpaceAfter=No
 23	与	与	CCONJ	CC	_	25	cc	_	SpaceAfter=No
-24	印尼	印尼	PROPN	NNP	_	25	case:suff	_	SpaceAfter=No
+24	印尼	印尼	PROPN	NNP	_	25	compound	_	SpaceAfter=No
 25	文	文	PART	SFN	_	12	conj	_	SpaceAfter=No
 26	聚会	聚会	NOUN	NN	_	10	obj	_	SpaceAfter=No
 27	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s97
 # text = 河姆渡遗址和仰韶遗址出土被认为最原始的陶埙均只有吹孔，而无音孔。
-1	河姆	河姆	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	河姆	河姆	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	渡	渡	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	遗址	遗址	NOUN	NN	_	7	advmod	_	SpaceAfter=No
 4	和	和	CCONJ	CC	_	6	cc	_	SpaceAfter=No
@@ -2668,7 +2668,7 @@
 3	推动	推动	VERB	VV	_	11	ccomp	_	SpaceAfter=No
 4	之下	之下	ADP	IN	_	3	mark	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
-6	大陆	大陆	NOUN	NN	_	7	case:suff	_	SpaceAfter=No
+6	大陆	大陆	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	军	军	PART	SFN	_	11	nsubj	_	SpaceAfter=No
 8	在	在	ADP	IN	_	10	case	_	SpaceAfter=No
 9	12	12	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
@@ -2709,14 +2709,14 @@
 7	）	）	PUNCT	)	_	6	punct	_	SpaceAfter=No
 8	一	一	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 9	支	支	NOUN	NNB	_	11	nmod	_	SpaceAfter=No
-10	英	英	PROPN	NNP	_	11	case:suff	_	SpaceAfter=No
+10	英	英	PROPN	NNP	_	11	compound	_	SpaceAfter=No
 11	军	军	PART	SFN	_	19	nsubj	_	SpaceAfter=No
 12	向	向	ADP	IN	_	13	case	_	SpaceAfter=No
 13	北	北	NOUN	NN	_	14	obl	_	SpaceAfter=No
 14	侦察	侦察	VERB	VV	_	19	advcl	_	SpaceAfter=No
 15	时	时	ADP	IN	_	14	mark	_	SpaceAfter=No
 16	与	与	ADP	IN	_	18	case	_	SpaceAfter=No
-17	美	美	PROPN	NNP	_	18	case:suff	_	SpaceAfter=No
+17	美	美	PROPN	NNP	_	18	compound	_	SpaceAfter=No
 18	军	军	PART	SFN	_	19	obl	_	SpaceAfter=No
 19	交火	交火	VERB	VV	_	21	csubj	_	SpaceAfter=No
 20	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No
@@ -2728,11 +2728,11 @@
 
 # sent_id = test-s103
 # text = 英军军舰向基普湾狂轰滥炸近一小时，使滩头浓烟密布。
-1	英	英	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	英	英	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	军	军	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	军舰	军舰	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 4	向	向	ADP	IN	_	6	case	_	SpaceAfter=No
-5	基普	基普	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	基普	基普	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	湾	湾	PART	SFN	_	7	obl	_	SpaceAfter=No
 7	狂轰滥炸	狂轰滥炸	VERB	VV	_	12	csubj	_	SpaceAfter=No
 8	近	近	ADV	RB	_	10	advmod	_	SpaceAfter=No
@@ -2758,7 +2758,7 @@
 9	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 10	然后	然后	ADV	RB	_	15	advmod	_	SpaceAfter=No
 11	把	把	ADP	BB	_	13	case	_	SpaceAfter=No
-12	纽约	纽约	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+12	纽约	纽约	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	市	市	PART	SFN	_	15	obl:patient	_	SpaceAfter=No
 14	彻底	彻底	ADV	RB	_	15	advmod	_	SpaceAfter=No
 15	焚毁	焚毁	VERB	VV	_	2	xcomp	_	SpaceAfter=No
@@ -2771,14 +2771,14 @@
 22	纽约	纽约	PROPN	NNP	_	21	obj	_	SpaceAfter=No
 23	，	，	PUNCT	,	_	31	punct	_	SpaceAfter=No
 24	等待	等待	VERB	VV	_	31	advcl	_	SpaceAfter=No
-25	英	英	PROPN	NNP	_	26	case:suff	_	SpaceAfter=No
+25	英	英	PROPN	NNP	_	26	compound	_	SpaceAfter=No
 26	军	军	PART	SFN	_	28	nsubj	_	SpaceAfter=No
 27	正面	正面	NOUN	NN	_	28	advmod	_	SpaceAfter=No
 28	进攻	进攻	VERB	VV	_	24	ccomp	_	SpaceAfter=No
 29	，	，	PUNCT	,	_	31	punct	_	SpaceAfter=No
 30	以	以	ADV	RB	_	31	mark	_	SpaceAfter=No
 31	重演	重演	VERB	VV	_	20	xcomp	_	SpaceAfter=No
-32	邦克	邦克	PROPN	NNP	_	33	case:suff	_	SpaceAfter=No
+32	邦克	邦克	PROPN	NNP	_	33	compound	_	SpaceAfter=No
 33	山	山	PART	SFN	_	34	nmod	_	SpaceAfter=No
 34	战役	战役	NOUN	NN	_	36	det	_	SpaceAfter=No
 35	的	的	PART	DEC	Case=Gen	34	case:dec	_	SpaceAfter=No
@@ -2791,16 +2791,16 @@
 2	会战	会战	NOUN	NN	_	20	nmod:tmod	_	SpaceAfter=No
 3	后	后	ADP	IN	_	2	acl	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
-5	大陆	大陆	NOUN	NN	_	6	case:suff	_	SpaceAfter=No
+5	大陆	大陆	NOUN	NN	_	6	compound	_	SpaceAfter=No
 6	军	军	PART	SFN	_	20	nsubj	_	SpaceAfter=No
 7	撤回	撤回	VERB	VV	_	20	advcl	_	SpaceAfter=No
-8	曼哈顿	曼哈顿	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	曼哈顿	曼哈顿	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	岛	岛	PART	SFN	_	7	obj	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
 11	但	但	ADV	RB	_	20	mark	_	SpaceAfter=No
 12	在	在	ADP	IN	_	17	case	_	SpaceAfter=No
 13	撤离	撤离	VERB	VV	_	20	obl	_	SpaceAfter=No
-14	纽约	纽约	PROPN	NNP	_	15	case:suff	_	SpaceAfter=No
+14	纽约	纽约	PROPN	NNP	_	15	compound	_	SpaceAfter=No
 15	市	市	PART	SFN	_	13	obj	_	SpaceAfter=No
 16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No
 17	事	事	NOUN	NN	_	13	appos	_	SpaceAfter=No
@@ -2811,7 +2811,7 @@
 
 # sent_id = test-s106
 # text = 程序性给付是在要求国家必须提供一套制度，例如考试制度和选举制度等，其也与正当法律程序条款的要求有关。
-1	程序	程序	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+1	程序	程序	NOUN	NN	_	2	compound	_	SpaceAfter=No
 2	性	性	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	给付	给付	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 4	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
@@ -2852,7 +2852,7 @@
 4	20	20	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	枚	枚	NOUN	NNB	_	14	clf	_	SpaceAfter=No
 6	P-700	P-700	X	FW	_	14	nmod	_	SpaceAfter=No
-7	花岗	花岗	NOUN	NN	_	8	case:suff	_	SpaceAfter=No
+7	花岗	花岗	NOUN	NN	_	8	compound	_	SpaceAfter=No
 8	岩	岩	PART	SFN	_	14	nmod	_	SpaceAfter=No
 9	（	（	PUNCT	(	_	11	punct	_	SpaceAfter=No
 10	厂号	厂号	NOUN	NN	_	14	advcl	_	SpaceAfter=No
@@ -2866,7 +2866,7 @@
 18	20	20	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
 19	座	座	NOUN	NNB	_	22	nmod	_	SpaceAfter=No
 20	垂直	垂直	ADJ	JJ	_	22	amod	_	SpaceAfter=No
-21	发射	发射	VERB	VV	_	22	case:suff	_	SpaceAfter=No
+21	发射	发射	VERB	VV	_	22	compound	_	SpaceAfter=No
 22	器	器	PART	SFN	_	16	obj	_	SpaceAfter=No
 23	里	里	NOUN	NN	_	22	acl	_	SpaceAfter=No
 24	）	）	PUNCT	)	_	16	punct	_	SpaceAfter=No
@@ -2874,7 +2874,7 @@
 26	可以	可以	AUX	MD	_	27	aux	_	SpaceAfter=No
 27	击沉	击沉	VERB	VV	_	16	parataxis	_	SpaceAfter=No
 28	大型	大型	NOUN	NN	_	30	nmod	_	SpaceAfter=No
-29	水面	水面	NOUN	NN	_	30	case:suff	_	SpaceAfter=No
+29	水面	水面	NOUN	NN	_	30	compound	_	SpaceAfter=No
 30	舰	舰	PART	SFN	_	27	obj	_	SpaceAfter=No
 31	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
@@ -2885,7 +2885,7 @@
 3	它	它	PRON	PRP	Person=3	11	det	_	SpaceAfter=No
 4	和	和	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 5	德国	德国	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
-6	209	209	NUM	CD	NumType=Card	7	case:suff	_	SpaceAfter=No
+6	209	209	NUM	CD	NumType=Card	7	compound	_	SpaceAfter=No
 7	型	型	PART	SFN	_	8	nmod	_	SpaceAfter=No
 8	艇	艇	PART	SFN	_	3	conj	_	SpaceAfter=No
 9	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
@@ -2897,7 +2897,7 @@
 
 # sent_id = test-s109
 # text = 基督堂草坪（Christ Church Meadow）是英国牛津一个著名的洪水草甸，和著名的步行和野餐地点。
-1	基督	基督	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	基督	基督	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	堂	堂	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	草坪	草坪	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 4	（	（	PUNCT	(	_	5	punct	_	SpaceAfter=No
@@ -2932,7 +2932,7 @@
 4	过程	过程	NOUN	NN	_	10	obl	_	SpaceAfter=No
 5	中	中	ADP	IN	_	4	acl	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No
-7	报复	报复	VERB	VV	_	8	case:suff	_	SpaceAfter=No
+7	报复	报复	VERB	VV	_	8	compound	_	SpaceAfter=No
 8	者	者	PART	SFN	_	10	nsubj	_	SpaceAfter=No
 9	会	会	AUX	MD	_	10	aux	_	SpaceAfter=No
 10	产生	产生	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -2951,7 +2951,7 @@
 4	称	称	VERB	VV	_	0	root	_	SpaceAfter=No
 5	为	为	VERB	VC	_	4	mark	_	SpaceAfter=No
 6	睿问魔	睿问魔	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
-7	谋杀	谋杀	VERB	VV	_	8	case:suff	_	SpaceAfter=No
+7	谋杀	谋杀	VERB	VV	_	8	compound	_	SpaceAfter=No
 8	案	案	PART	SFN	_	4	obj	_	SpaceAfter=No
 9	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
@@ -2959,7 +2959,7 @@
 # text = 塔尔卡受地中海气候影响，有干燥的夏天和潮湿的冬天，每年平均降雨量749毫米，平均温度摄氏13度。
 1	塔尔卡	塔尔卡	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
 2	受	受	VERB	VV	_	8	advcl	_	SpaceAfter=No
-3	地中	地中	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+3	地中	地中	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	海	海	PART	SFN	_	5	nmod	_	SpaceAfter=No
 5	气候	气候	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 6	影响	影响	VERB	VV	_	2	ccomp	_	SpaceAfter=No
@@ -2975,7 +2975,7 @@
 16	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
 17	每年	每年	DET	DT	_	20	det	_	SpaceAfter=No
 18	平均	平均	ADJ	JJ	_	20	amod	_	SpaceAfter=No
-19	降雨	降雨	VERB	VV	_	20	case:suff	_	SpaceAfter=No
+19	降雨	降雨	VERB	VV	_	20	compound	_	SpaceAfter=No
 20	量	量	PART	SFN	_	22	nsubj	_	SpaceAfter=No
 21	749	749	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No
 22	毫米	毫米	NOUN	NNB	_	8	parataxis	_	SpaceAfter=No
@@ -3016,15 +3016,15 @@
 2	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No
 3	伊朗	伊朗	PROPN	NNP	_	6	det	_	SpaceAfter=No
 4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
-5	巴比	巴比	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	巴比	巴比	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	教	教	PART	SFN	_	11	nmod	_	SpaceAfter=No
 7	有	有	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No
-8	影响	影响	VERB	VV	_	9	case:suff	_	SpaceAfter=No
+8	影响	影响	VERB	VV	_	9	compound	_	SpaceAfter=No
 9	力	力	PART	SFN	_	7	obj	_	SpaceAfter=No
 10	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
 11	诗人	诗人	NOUN	NN	_	0	root	_	SpaceAfter=No
 12	和	和	CCONJ	CC	_	14	cc	_	SpaceAfter=No
-13	神学	神学	NOUN	NN	_	14	case:suff	_	SpaceAfter=No
+13	神学	神学	NOUN	NN	_	14	compound	_	SpaceAfter=No
 14	家	家	PART	SFN	_	11	conj	_	SpaceAfter=No
 15	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
@@ -3065,7 +3065,7 @@
 8	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
 9	专著	专著	NOUN	NN	_	20	obl	_	SpaceAfter=No
 10	《	《	PUNCT	(	_	17	punct	_	SpaceAfter=No
-11	苏门答腊	苏门答腊	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
+11	苏门答腊	苏门答腊	PROPN	NNP	_	12	compound	_	SpaceAfter=No
 12	岛	岛	PART	SFN	_	17	det	_	SpaceAfter=No
 13	与	与	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 14	西	西	NOUN	NN	_	15	nmod	_	SpaceAfter=No
@@ -3126,7 +3126,7 @@
 3	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
 4	阿齐兹	阿齐兹	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
 5	向	向	ADP	IN	_	7	case	_	SpaceAfter=No
-6	美	美	PROPN	NNP	_	7	case:suff	_	SpaceAfter=No
+6	美	美	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 7	军	军	PART	SFN	_	8	obl	_	SpaceAfter=No
 8	投降	投降	VERB	VV	_	0	root	_	SpaceAfter=No
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
@@ -3364,7 +3364,7 @@
 8	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No
 9	并且	并且	ADV	RB	_	13	mark	_	SpaceAfter=No
 10	为	为	ADP	IN	_	12	case	_	SpaceAfter=No
-11	受害	受害	VERB	VV	_	12	case:suff	_	SpaceAfter=No
+11	受害	受害	VERB	VV	_	12	compound	_	SpaceAfter=No
 12	者	者	PART	SFN	_	13	obl	_	SpaceAfter=No
 13	放置	放置	VERB	VV	_	0	root	_	SpaceAfter=No
 14	了	了	PART	AS	Aspect=Perf	13	case:aspect	_	SpaceAfter=No
@@ -3375,7 +3375,7 @@
 # sent_id = test-s129
 # text = 古罗马人利用拱结构来支撑桥身石材与水流的重量。
 1	古	古	PART	PFA	_	2	case:pref	_	SpaceAfter=No
-2	罗马	罗马	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+2	罗马	罗马	PROPN	NNP	_	3	compound	_	SpaceAfter=No
 3	人	人	PART	SFN	_	4	nsubj	_	SpaceAfter=No
 4	利用	利用	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
 5	拱	拱	NOUN	NN	_	6	nmod	_	SpaceAfter=No
@@ -3503,7 +3503,7 @@
 5	铁路	铁路	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 6	计划	计划	VERB	VV	_	14	csubj	_	SpaceAfter=No
 7	兴建	兴建	VERB	VV	_	6	xcomp	_	SpaceAfter=No
-8	落马	落马	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	落马	落马	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	洲	洲	PART	SFN	_	10	nmod	_	SpaceAfter=No
 10	支线	支线	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 11	经过	经过	VERB	VV	_	7	ccomp	_	SpaceAfter=No
@@ -3552,7 +3552,7 @@
 29	具备	具备	VERB	VV	_	0	root	_	SpaceAfter=No
 30	一定	一定	ADJ	JJ	_	33	amod	_	SpaceAfter=No
 31	的	的	PART	DEC	_	30	mark:relcl	_	SpaceAfter=No
-32	影响	影响	VERB	VV	_	33	case:suff	_	SpaceAfter=No
+32	影响	影响	VERB	VV	_	33	compound	_	SpaceAfter=No
 33	力	力	PART	SFN	_	29	obj	_	SpaceAfter=No
 34	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No
 
@@ -3586,7 +3586,7 @@
 7	）	）	PUNCT	)	_	6	punct	_	SpaceAfter=No
 8	北部	北部	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 9	成立	成立	VERB	VV	_	0	root	_	SpaceAfter=No
-10	向岛	向岛	PROPN	NNP	_	11	case:suff	_	SpaceAfter=No
+10	向岛	向岛	PROPN	NNP	_	11	compound	_	SpaceAfter=No
 11	区	区	PART	SFN	_	9	obj	_	SpaceAfter=No
 12	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
@@ -3663,7 +3663,7 @@
 
 # sent_id = test-s140
 # text = 润滑剂中加入其它物质可以控制乳液粘度以及热学性能。
-1	润滑	润滑	VERB	VV	_	2	case:suff	_	SpaceAfter=No
+1	润滑	润滑	VERB	VV	_	2	compound	_	SpaceAfter=No
 2	剂	剂	PART	SFN	_	8	nsubj	_	SpaceAfter=No
 3	中	中	ADP	IN	_	2	acl	_	SpaceAfter=No
 4	加入	加入	VERB	VV	_	8	advcl	_	SpaceAfter=No
@@ -3734,14 +3734,14 @@
 16	压铸	压铸	NOUN	NN	_	20	det	_	SpaceAfter=No
 17	中	中	ADP	IN	_	16	acl	_	SpaceAfter=No
 18	的	的	PART	DEC	Case=Gen	16	case:dec	_	SpaceAfter=No
-19	注射	注射	VERB	VV	_	20	case:suff	_	SpaceAfter=No
+19	注射	注射	VERB	VV	_	20	compound	_	SpaceAfter=No
 20	嘴	嘴	PART	SFN	_	29	obl	_	SpaceAfter=No
 21	或是	或是	CCONJ	CC	_	27	cc	_	SpaceAfter=No
 22	冷室	冷室	NOUN	NN	_	23	nmod	_	SpaceAfter=No
 23	压铸	压铸	NOUN	NN	_	27	det	_	SpaceAfter=No
 24	中	中	ADP	IN	_	23	acl	_	SpaceAfter=No
 25	的	的	PART	DEC	Case=Gen	23	case:dec	_	SpaceAfter=No
-26	注射	注射	VERB	VV	_	27	case:suff	_	SpaceAfter=No
+26	注射	注射	VERB	VV	_	27	compound	_	SpaceAfter=No
 27	室	室	PART	SFN	_	20	conj	_	SpaceAfter=No
 28	相	相	ADV	RB	_	29	advmod	_	SpaceAfter=No
 29	匹配	匹配	VERB	VV	_	6	parataxis	_	SpaceAfter=No
@@ -3756,15 +3756,15 @@
 5	条	条	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 6	河川	河川	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 7	（	（	PUNCT	(	_	9	punct	_	SpaceAfter=No
-8	士别	士别	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	士别	士别	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	川	川	PART	SFN	_	6	appos	_	SpaceAfter=No
 10	、	、	PUNCT	EC	_	12	punct	_	SpaceAfter=No
-11	剑渊	剑渊	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
+11	剑渊	剑渊	PROPN	NNP	_	12	compound	_	SpaceAfter=No
 12	川	川	PART	SFN	_	9	conj	_	SpaceAfter=No
 13	）	）	PUNCT	)	_	9	punct	_	SpaceAfter=No
 14	汇合	汇合	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No
 15	至	至	VERB	VV	_	14	mark	_	SpaceAfter=No
-16	天盐	天盐	PROPN	NNP	_	17	case:suff	_	SpaceAfter=No
+16	天盐	天盐	PROPN	NNP	_	17	compound	_	SpaceAfter=No
 17	川	川	PART	SFN	_	14	obj	_	SpaceAfter=No
 18	的	的	PART	DEC	_	14	mark:relcl	_	SpaceAfter=No
 19	地方	地方	NOUN	NN	_	1	ccomp	_	SpaceAfter=No
@@ -3776,12 +3776,12 @@
 2	雇用	雇用	VERB	VV	_	16	xcomp	_	SpaceAfter=No
 3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	位	位	NOUN	NNB	_	7	clf	_	SpaceAfter=No
-5	法	法	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	法	法	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	语	语	PART	SFN	_	7	nmod	_	SpaceAfter=No
 7	向导	向导	NOUN	NN	_	2	obj	_	SpaceAfter=No
 8	后	后	ADP	IN	_	2	mark	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
-10	旅行	旅行	VERB	VV	_	11	case:suff	_	SpaceAfter=No
+10	旅行	旅行	VERB	VV	_	11	compound	_	SpaceAfter=No
 11	者	者	PART	SFN	_	16	nsubj	_	SpaceAfter=No
 12	及	及	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 13	其	其	PRON	PRP	Person=3	14	nmod	_	SpaceAfter=No
@@ -3822,7 +3822,7 @@
 4	避免	避免	VERB	VV	_	0	root	_	SpaceAfter=No
 5	了	了	PART	AS	Aspect=Perf	4	case:aspect	_	SpaceAfter=No
 6	浊	浊	PART	PFA	_	8	case:pref	_	SpaceAfter=No
-7	送气	送气	VERB	VV	_	8	case:suff	_	SpaceAfter=No
+7	送气	送气	VERB	VV	_	8	compound	_	SpaceAfter=No
 8	音	音	PART	SFN	_	11	det	_	SpaceAfter=No
 9	的	的	PART	DEC	Case=Gen	8	case:dec	_	SpaceAfter=No
 10	不	不	PART	PFA	_	11	case:pref	_	SpaceAfter=No
@@ -3835,11 +3835,11 @@
 17	程度	程度	NOUN	NN	_	19	obl	_	SpaceAfter=No
 18	上	上	ADP	IN	_	17	acl	_	SpaceAfter=No
 19	解释	解释	VERB	VV	_	4	conj	_	SpaceAfter=No
-20	同源	同源	NOUN	NN	_	21	case:suff	_	SpaceAfter=No
+20	同源	同源	NOUN	NN	_	21	compound	_	SpaceAfter=No
 21	词	词	PART	SFN	_	29	nmod	_	SpaceAfter=No
 22	在	在	ADP	IN	_	29	det	_	SpaceAfter=No
 23	各	各	DET	DT	_	25	det	_	SpaceAfter=No
-24	派生	派生	VERB	VV	_	25	case:suff	_	SpaceAfter=No
+24	派生	派生	VERB	VV	_	25	compound	_	SpaceAfter=No
 25	语	语	PART	SFN	_	22	obj	_	SpaceAfter=No
 26	中	中	ADP	IN	_	25	acl	_	SpaceAfter=No
 27	的	的	PART	DEC	Case=Gen	22	case:dec	_	SpaceAfter=No
@@ -3862,7 +3862,7 @@
 11	认为	认为	VERB	VV	_	5	xcomp	_	SpaceAfter=No
 12	弗雷格	弗雷格	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No
 13	首先	首先	ADV	RB	_	15	advmod	_	SpaceAfter=No
-14	公式	公式	NOUN	NN	_	15	case:suff	_	SpaceAfter=No
+14	公式	公式	NOUN	NN	_	15	compound	_	SpaceAfter=No
 15	化	化	PART	SFV	_	11	ccomp	_	SpaceAfter=No
 16	了	了	PART	AS	Aspect=Perf	15	case:aspect	_	SpaceAfter=No
 17	它	它	PRON	PRP	Person=3	15	obj	_	SpaceAfter=No
@@ -3888,7 +3888,7 @@
 16	部类	部类	NOUN	NN	_	13	obj	_	SpaceAfter=No
 17	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
 18	其中	其中	NOUN	NN	_	22	advmod	_	SpaceAfter=No
-19	哲学	哲学	NOUN	NN	_	20	case:suff	_	SpaceAfter=No
+19	哲学	哲学	NOUN	NN	_	20	compound	_	SpaceAfter=No
 20	部	部	PART	SFN	_	22	nsubj	_	SpaceAfter=No
 21	为	为	AUX	VC	_	22	cop	_	SpaceAfter=No
 22	首	首	NOUN	NN	_	26	advcl	_	SpaceAfter=No
@@ -3896,7 +3896,7 @@
 24	并	并	ADV	RB	_	26	mark	_	SpaceAfter=No
 25	亲自	亲自	ADV	RB	_	26	advmod	_	SpaceAfter=No
 26	讲授	讲授	VERB	VV	_	0	root	_	SpaceAfter=No
-27	哲学	哲学	NOUN	NN	_	28	case:suff	_	SpaceAfter=No
+27	哲学	哲学	NOUN	NN	_	28	compound	_	SpaceAfter=No
 28	类	类	PART	SFN	_	29	nmod	_	SpaceAfter=No
 29	课程	课程	NOUN	NN	_	26	obj	_	SpaceAfter=No
 30	；	；	PUNCT	:	_	34	punct	_	SpaceAfter=No
@@ -3913,10 +3913,10 @@
 41	性理	性理	NOUN	NN	_	37	conj	_	SpaceAfter=No
 42	（	（	PUNCT	(	_	43	punct	_	SpaceAfter=No
 43	包括	包括	VERB	VV	_	50	advcl	_	SpaceAfter=No
-44	心理	心理	NOUN	NN	_	45	case:suff	_	SpaceAfter=No
+44	心理	心理	NOUN	NN	_	45	compound	_	SpaceAfter=No
 45	学	学	PART	SFN	_	43	obj	_	SpaceAfter=No
 46	与	与	CCONJ	CC	_	48	cc	_	SpaceAfter=No
-47	形而上	形而上	NOUN	NN	_	48	case:suff	_	SpaceAfter=No
+47	形而上	形而上	NOUN	NN	_	48	compound	_	SpaceAfter=No
 48	学	学	PART	SFN	_	45	conj	_	SpaceAfter=No
 49	）	）	PUNCT	)	_	43	punct	_	SpaceAfter=No
 50	组成	组成	VERB	VV	_	36	ccomp	_	SpaceAfter=No
@@ -3960,7 +3960,7 @@
 13	其	其	PRON	PRP	Person=3	14	nmod	_	SpaceAfter=No
 14	子女	子女	NOUN	NN	_	11	conj	_	SpaceAfter=No
 15	出席	出席	VERB	VV	_	9	ccomp	_	SpaceAfter=No
-16	复活	复活	VERB	VV	_	17	case:suff	_	SpaceAfter=No
+16	复活	复活	VERB	VV	_	17	compound	_	SpaceAfter=No
 17	节	节	PART	SFN	_	20	nmod	_	SpaceAfter=No
 18	滚	滚	VERB	VV	_	20	amod	_	SpaceAfter=No
 19	彩蛋	彩蛋	NOUN	NN	_	18	obj	_	SpaceAfter=No
@@ -3984,7 +3984,7 @@
 13	了	了	PART	AS	Aspect=Perf	12	case:aspect	_	SpaceAfter=No
 14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No
 15	场	场	NOUN	NNB	_	18	clf	_	SpaceAfter=No
-16	预备	预备	VERB	VV	_	17	case:suff	_	SpaceAfter=No
+16	预备	预备	VERB	VV	_	17	compound	_	SpaceAfter=No
 17	组	组	PART	SFN	_	18	nmod	_	SpaceAfter=No
 18	赛事	赛事	NOUN	NN	_	12	obj	_	SpaceAfter=No
 19	后	后	ADP	IN	_	12	mark	_	SpaceAfter=No
@@ -4052,7 +4052,7 @@
 14	权威	权威	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 15	削弱	削弱	VERB	VV	_	6	parataxis	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
-17	东夷	东夷	PROPN	NNP	_	18	case:suff	_	SpaceAfter=No
+17	东夷	东夷	PROPN	NNP	_	18	compound	_	SpaceAfter=No
 18	族	族	PART	SFN	_	22	nmod	_	SpaceAfter=No
 19	太昊	太昊	PROPN	NNP	_	22	nmod	_	SpaceAfter=No
 20	与	与	CCONJ	CC	_	21	cc	_	SpaceAfter=No
@@ -4070,7 +4070,7 @@
 4	年	年	NOUN	NNB	_	9	obl	_	SpaceAfter=No
 5	开始	开始	ADP	IN	_	4	acl	_	SpaceAfter=No
 6	在	在	VERB	VV	_	9	advcl	_	SpaceAfter=No
-7	约克	约克	PROPN	NNP	_	8	case:suff	_	SpaceAfter=No
+7	约克	约克	PROPN	NNP	_	8	compound	_	SpaceAfter=No
 8	郡	郡	PART	SFN	_	6	obj	_	SpaceAfter=No
 9	担任	担任	VERB	VV	_	20	csubj	_	SpaceAfter=No
 10	许多	许多	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
@@ -4104,14 +4104,14 @@
 
 # sent_id = test-s156
 # text = 日本人提出请夏继泉出任山东省省长，后来又提出请他任教育督办等职务，均被夏继泉拒绝。
-1	日本	日本	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	日本	日本	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	人	人	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 3	提出	提出	VERB	VV	_	14	advcl	_	SpaceAfter=No
 4	请	请	VERB	VV	Voice=Cau	3	xcomp	_	SpaceAfter=No
 5	夏	夏	PROPN	NNP	_	7	nsubj	_	SpaceAfter=No
 6	继泉	继泉	PROPN	NNP	_	5	flat:name	_	SpaceAfter=No
 7	出任	出任	VERB	VV	_	4	ccomp	_	SpaceAfter=No
-8	山东	山东	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	山东	山东	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	省	省	PART	SFN	_	10	nmod	_	SpaceAfter=No
 10	省长	省长	NOUN	NN	_	7	obj	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
@@ -4135,15 +4135,15 @@
 
 # sent_id = test-s157
 # text = 夏道镇是中国福建省南平市延平区下辖的一个镇。
-1	夏道	夏道	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	夏道	夏道	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	镇	镇	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No
 4	中国	中国	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
-5	福建	福建	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	福建	福建	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	省	省	PART	SFN	_	10	nmod	_	SpaceAfter=No
-7	南平	南平	PROPN	NNP	_	8	case:suff	_	SpaceAfter=No
+7	南平	南平	PROPN	NNP	_	8	compound	_	SpaceAfter=No
 8	市	市	PART	SFN	_	10	nmod	_	SpaceAfter=No
-9	延平	延平	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
+9	延平	延平	PROPN	NNP	_	10	compound	_	SpaceAfter=No
 10	区	区	PART	SFN	_	11	nsubj	_	SpaceAfter=No
 11	下辖	下辖	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
 12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
@@ -4154,7 +4154,7 @@
 
 # sent_id = test-s158
 # text = 夏须草属（学名：Theropogon）是百合科下的一个属，为多年生草本植物。
-1	夏须草	夏须草	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+1	夏须草	夏须草	NOUN	NN	_	2	compound	_	SpaceAfter=No
 2	属	属	PART	SFN	_	22	nsubj	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No
 4	学名	学名	NOUN	NN	_	2	appos	_	SpaceAfter=No
@@ -4162,7 +4162,7 @@
 6	Theropogon	Theropogon	X	FW	_	4	appos	_	SpaceAfter=No
 7	）	）	PUNCT	)	_	4	punct	_	SpaceAfter=No
 8	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No
-9	百合	百合	NOUN	NN	_	10	case:suff	_	SpaceAfter=No
+9	百合	百合	NOUN	NN	_	10	compound	_	SpaceAfter=No
 10	科	科	PART	SFN	_	15	det	_	SpaceAfter=No
 11	下	下	ADP	IN	_	10	acl	_	SpaceAfter=No
 12	的	的	PART	DEC	Case=Gen	10	case:dec	_	SpaceAfter=No
@@ -4172,7 +4172,7 @@
 16	，	，	PUNCT	,	_	22	punct	_	SpaceAfter=No
 17	为	为	AUX	VC	_	22	cop	_	SpaceAfter=No
 18	多	多	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
-19	年	年	NOUN	NNB	_	20	case:suff	_	SpaceAfter=No
+19	年	年	NOUN	NNB	_	20	compound	_	SpaceAfter=No
 20	生	生	PART	SFN	_	22	nmod	_	SpaceAfter=No
 21	草本	草本	NOUN	NN	_	22	nmod	_	SpaceAfter=No
 22	植物	植物	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -4210,14 +4210,14 @@
 10	物体	物体	NOUN	NN	_	7	conj	_	SpaceAfter=No
 11	碰触	碰触	VERB	VV	_	31	ccomp	_	SpaceAfter=No
 12	到	到	VERB	VV	_	11	mark	_	SpaceAfter=No
-13	触控	触控	VERB	VV	_	14	case:suff	_	SpaceAfter=No
+13	触控	触控	VERB	VV	_	14	compound	_	SpaceAfter=No
 14	式	式	PART	SFN	_	17	nmod	_	SpaceAfter=No
 15	外出	外出	NOUN	NN	_	17	nmod	_	SpaceAfter=No
 16	开关	开关	NOUN	NN	_	17	nmod	_	SpaceAfter=No
 17	面板	面板	NOUN	NN	_	11	obj	_	SpaceAfter=No
 18	时	时	ADP	IN	_	11	mark	_	SpaceAfter=No
 19	，	，	PUNCT	,	_	31	punct	_	SpaceAfter=No
-20	触控	触控	VERB	VV	_	21	case:suff	_	SpaceAfter=No
+20	触控	触控	VERB	VV	_	21	compound	_	SpaceAfter=No
 21	式	式	PART	SFN	_	23	nmod	_	SpaceAfter=No
 22	外出	外出	NOUN	NN	_	23	nmod	_	SpaceAfter=No
 23	开关	开关	NOUN	NN	_	31	nsubj	_	SpaceAfter=No
@@ -4242,7 +4242,7 @@
 
 # sent_id = test-s161
 # text = 科学家认为生命可能曾经存在过或者依然存在的地方包括金星、火星、木星的卫星（如木卫二、木卫六）、土星的卫星（如土卫六和土卫二）。
-1	科学	科学	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+1	科学	科学	NOUN	NN	_	2	compound	_	SpaceAfter=No
 2	家	家	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	认为	认为	VERB	VV	_	0	root	_	SpaceAfter=No
 4	生命	生命	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
@@ -4297,7 +4297,7 @@
 8	作	作	VERB	VV	_	3	ccomp	_	SpaceAfter=No
 9	为	为	VERB	VC	_	8	mark	_	SpaceAfter=No
 10	模糊	模糊	NOUN	NN	_	12	nmod	_	SpaceAfter=No
-11	集合	集合	NOUN	NN	_	12	case:suff	_	SpaceAfter=No
+11	集合	集合	NOUN	NN	_	12	compound	_	SpaceAfter=No
 12	论	论	PART	SFN	_	15	det	_	SpaceAfter=No
 13	的	的	PART	DEC	Case=Gen	12	case:dec	_	SpaceAfter=No
 14	理论	理论	NOUN	NN	_	15	nmod	_	SpaceAfter=No
@@ -4315,13 +4315,13 @@
 7	位	位	VERB	VV	_	19	advcl	_	SpaceAfter=No
 8	于	于	VERB	VV	_	7	mark	_	SpaceAfter=No
 9	该国	该国	NOUN	NN	_	11	nmod	_	SpaceAfter=No
-10	西南	西南	NOUN	NN	_	11	case:suff	_	SpaceAfter=No
+10	西南	西南	NOUN	NN	_	11	compound	_	SpaceAfter=No
 11	部	部	PART	SFN	_	7	obj	_	SpaceAfter=No
 12	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
 13	距离	距离	ADP	IN	_	17	case	_	SpaceAfter=No
 14	伊万诺	伊万诺	PROPN	NNP	_	16	nmod	_	SpaceAfter=No
 15	-	-	PUNCT	HYPH	_	16	punct	_	SpaceAfter=No
-16	弗兰科夫斯克	弗兰科夫斯克	PROPN	NNP	_	17	case:suff	_	SpaceAfter=No
+16	弗兰科夫斯克	弗兰科夫斯克	PROPN	NNP	_	17	compound	_	SpaceAfter=No
 17	州	州	PART	SFN	_	19	nmod	_	SpaceAfter=No
 18	58	58	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
 19	公里	公里	NOUN	NNB	_	29	csubj	_	SpaceAfter=No
@@ -4329,7 +4329,7 @@
 21	由	由	VERB	VV	_	29	advcl	_	SpaceAfter=No
 22	伊万诺	伊万诺	PROPN	NNP	_	24	nmod	_	SpaceAfter=No
 23	-	-	PUNCT	HYPH	_	24	punct	_	SpaceAfter=No
-24	弗兰科夫斯克	弗兰科夫斯克	PROPN	NNP	_	25	case:suff	_	SpaceAfter=No
+24	弗兰科夫斯克	弗兰科夫斯克	PROPN	NNP	_	25	compound	_	SpaceAfter=No
 25	州	州	PART	SFN	_	26	nsubj	_	SpaceAfter=No
 26	负责	负责	VERB	VV	_	21	ccomp	_	SpaceAfter=No
 27	管辖	管辖	VERB	VV	_	26	xcomp	_	SpaceAfter=No
@@ -4379,7 +4379,7 @@
 
 # sent_id = test-s165
 # text = 神经元传递信息，形成思维和感觉，以使大脑控制身体。
-1	神经	神经	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+1	神经	神经	NOUN	NN	_	2	compound	_	SpaceAfter=No
 2	元	元	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	传递	传递	VERB	VV	_	6	csubj	_	SpaceAfter=No
 4	信息	信息	NOUN	NN	_	3	obj	_	SpaceAfter=No
@@ -4411,7 +4411,7 @@
 11	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
 12	全年	全年	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 13	平均	平均	ADJ	JJ	_	15	amod	_	SpaceAfter=No
-14	降雨	降雨	VERB	VV	_	15	case:suff	_	SpaceAfter=No
+14	降雨	降雨	VERB	VV	_	15	compound	_	SpaceAfter=No
 15	量	量	PART	SFN	_	18	nsubj	_	SpaceAfter=No
 16	约	约	ADV	RB	_	18	advmod	_	SpaceAfter=No
 17	570	570	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
@@ -4483,7 +4483,7 @@
 10	徐	徐	PROPN	NNP	_	8	obj	_	SpaceAfter=No
 11	维邦	维邦	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No
 12	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
-13	中国	中国	PROPN	NNP	_	14	case:suff	_	SpaceAfter=No
+13	中国	中国	PROPN	NNP	_	14	compound	_	SpaceAfter=No
 14	人	人	PART	SFN	_	15	nmod	_	SpaceAfter=No
 15	兴趣	兴趣	NOUN	NN	_	3	obj	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
@@ -4492,8 +4492,8 @@
 19	此	此	DET	DT	_	20	det	_	SpaceAfter=No
 20	电影	电影	NOUN	NN	_	21	obl:patient	_	SpaceAfter=No
 21	拍成	拍成	VERB	VV	_	27	csubj	_	SpaceAfter=No
-22	华	华	PROPN	NNP	_	23	case:suff	_	SpaceAfter=No
-23	语	语	PART	SFN	_	24	case:suff	_	SpaceAfter=No
+22	华	华	PROPN	NNP	_	23	compound	_	SpaceAfter=No
+23	语	语	PART	SFN	_	24	compound	_	SpaceAfter=No
 24	版	版	PART	SFN	_	21	iobj	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No
 26	不单	不单	ADV	RB	_	27	advmod	_	SpaceAfter=No
@@ -4505,12 +4505,12 @@
 32	而且	而且	ADV	RB	_	41	mark	_	SpaceAfter=No
 33	更为	更为	AUX	VC	_	41	cop	_	SpaceAfter=No
 34	中国	中国	PROPN	NNP	_	41	nmod	_	SpaceAfter=No
-35	电影	电影	NOUN	NN	_	36	case:suff	_	SpaceAfter=No
+35	电影	电影	NOUN	NN	_	36	compound	_	SpaceAfter=No
 36	史	史	PART	SFN	_	41	nmod	_	SpaceAfter=No
 37	上	上	ADP	IN	_	36	acl	_	SpaceAfter=No
 38	第一	第一	NUM	CD	NumType=Ord	39	nummod	_	SpaceAfter=No
 39	部	部	NOUN	NNB	_	41	nmod	_	SpaceAfter=No
-40	恐怖	恐怖	ADJ	JJ	_	41	case:suff	_	SpaceAfter=No
+40	恐怖	恐怖	ADJ	JJ	_	41	compound	_	SpaceAfter=No
 41	片	片	PART	SFN	_	3	parataxis	_	SpaceAfter=No
 42	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
@@ -4558,9 +4558,9 @@
 10	动画	动画	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 11	开始	开始	VERB	VV	_	0	root	_	SpaceAfter=No
 12	在	在	ADP	IN	_	16	case	_	SpaceAfter=No
-13	TBS	TBS	X	FW	_	14	case:suff	_	SpaceAfter=No
+13	TBS	TBS	X	FW	_	14	compound	_	SpaceAfter=No
 14	系	系	PART	SFN	_	16	nmod	_	SpaceAfter=No
-15	电视	电视	NOUN	NN	_	16	case:suff	_	SpaceAfter=No
+15	电视	电视	NOUN	NN	_	16	compound	_	SpaceAfter=No
 16	台	台	PART	SFN	_	17	obl	_	SpaceAfter=No
 17	放映	放映	VERB	VV	_	11	xcomp	_	SpaceAfter=No
 18	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
@@ -4643,7 +4643,7 @@
 4	皇冠	皇冠	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
 5	就是	就是	AUX	VC	_	10	cop	_	SpaceAfter=No
 6	宫廷	宫廷	NOUN	NN	_	8	nmod	_	SpaceAfter=No
-7	蛋糕	蛋糕	NOUN	NN	_	8	case:suff	_	SpaceAfter=No
+7	蛋糕	蛋糕	NOUN	NN	_	8	compound	_	SpaceAfter=No
 8	师	师	PART	SFN	_	10	det	_	SpaceAfter=No
 9	的	的	PART	DEC	Case=Gen	8	case:dec	_	SpaceAfter=No
 10	印记	印记	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -4697,7 +4697,7 @@
 9	月	月	NOUN	NNB	_	1	appos	_	SpaceAfter=No
 10	）	）	PUNCT	)	_	9	punct	_	SpaceAfter=No
 11	是	是	AUX	VC	_	18	cop	_	SpaceAfter=No
-12	元	元	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+12	元	元	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	朝	朝	PART	SFN	_	14	nmod	_	SpaceAfter=No
 14	时期	时期	NOUN	NN	_	18	nmod	_	SpaceAfter=No
 15	陈	陈	PROPN	NNP	_	18	det	_	SpaceAfter=No
@@ -4716,10 +4716,10 @@
 1	中国	中国	PROPN	NNP	_	5	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	塔什库尔干塔吉克	塔什库尔干塔吉克	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
-4	自治	自治	VERB	VV	_	5	case:suff	_	SpaceAfter=No
+4	自治	自治	VERB	VV	_	5	compound	_	SpaceAfter=No
 5	县	县	PART	SFN	_	11	nsubj	_	SpaceAfter=No
 6	有	有	VERB	VV	_	11	advcl	_	SpaceAfter=No
-7	波斯	波斯	PROPN	NNP	_	8	case:suff	_	SpaceAfter=No
+7	波斯	波斯	PROPN	NNP	_	8	compound	_	SpaceAfter=No
 8	人	人	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 9	聚居	聚居	VERB	VV	_	6	ccomp	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
@@ -4735,7 +4735,7 @@
 3	伊斯兰	伊斯兰	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
 4	时期	时期	NOUN	NN	_	12	obl	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
-6	伊朗	伊朗	PROPN	NNP	_	7	case:suff	_	SpaceAfter=No
+6	伊朗	伊朗	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 7	人	人	PART	SFN	_	12	nsubj	_	SpaceAfter=No
 8	将	将	ADP	BB	_	11	case	_	SpaceAfter=No
 9	他们	他	PRON	PRP	Number=Plur|Person=3	11	det	_	SpaceAfter=No
@@ -4780,7 +4780,7 @@
 18	的	的	PART	DEC	_	17	mark:relcl	_	SpaceAfter=No
 19	福斯	福斯	PROPN	NNP	_	23	nmod	_	SpaceAfter=No
 20	商	商	NOUN	NN	_	21	nsubj	_	SpaceAfter=No
-21	用	用	VERB	VV	_	22	case:suff	_	SpaceAfter=No
+21	用	用	VERB	VV	_	22	compound	_	SpaceAfter=No
 22	车	车	PART	SFN	_	23	nmod	_	SpaceAfter=No
 23	工厂	工厂	NOUN	NN	_	25	nsubj	_	SpaceAfter=No
 24	正式	正式	ADV	RB	_	25	advmod	_	SpaceAfter=No
@@ -4792,7 +4792,7 @@
 30	停止	停止	VERB	VV	_	25	parataxis	_	SpaceAfter=No
 31	生产	生产	VERB	VV	_	30	xcomp	_	SpaceAfter=No
 32	福斯	福斯	PROPN	NNP	_	34	nmod	_	SpaceAfter=No
-33	厢型	厢型	NOUN	NN	_	34	case:suff	_	SpaceAfter=No
+33	厢型	厢型	NOUN	NN	_	34	compound	_	SpaceAfter=No
 34	车	车	PART	SFN	_	31	obj	_	SpaceAfter=No
 35	。	。	PUNCT	.	_	25	punct	_	SpaceAfter=No
 
@@ -4815,16 +4815,16 @@
 15	、	、	PUNCT	EC	_	19	punct	_	SpaceAfter=No
 16	更佳	更佳	ADJ	JJ	_	19	amod	_	SpaceAfter=No
 17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
-18	操控	操控	VERB	VV	_	19	case:suff	_	SpaceAfter=No
+18	操控	操控	VERB	VV	_	19	compound	_	SpaceAfter=No
 19	性	性	PART	SFN	_	14	conj	_	SpaceAfter=No
 20	和	和	CCONJ	CC	_	22	cc	_	SpaceAfter=No
-21	耐用	耐用	ADJ	JJ	_	22	case:suff	_	SpaceAfter=No
+21	耐用	耐用	ADJ	JJ	_	22	compound	_	SpaceAfter=No
 22	度	度	PART	SFN	_	19	conj	_	SpaceAfter=No
 23	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s181
 # text = 大佛口亦为湾仔区议会其中一个选区，现任议员为亲建制的民建联成员李匀颐。
-1	大佛	大佛	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	大佛	大佛	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	口	口	PART	SFN	_	10	nsubj	_	SpaceAfter=No
 3	亦为	亦为	AUX	VC	_	10	cop	_	SpaceAfter=No
 4	湾仔	湾仔	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
@@ -4849,21 +4849,21 @@
 
 # sent_id = test-s182
 # text = 大兴邨位于今天和平区桂林路与衡阳路之间的重庆道上，总建筑面积为5900平方米，其中占地面积为6100平方米。
-1	大兴	大兴	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	大兴	大兴	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	邨	邨	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
 4	于	于	VERB	VV	_	3	mark	_	SpaceAfter=No
 5	今天	今天	NOUN	NN	_	16	nmod	_	SpaceAfter=No
-6	和平	和平	PROPN	NNP	_	7	case:suff	_	SpaceAfter=No
+6	和平	和平	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 7	区	区	PART	SFN	_	9	nmod	_	SpaceAfter=No
-8	桂林	桂林	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	桂林	桂林	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	路	路	PART	SFN	_	16	det	_	SpaceAfter=No
 10	与	与	CCONJ	CC	_	12	cc	_	SpaceAfter=No
-11	衡阳	衡阳	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
+11	衡阳	衡阳	PROPN	NNP	_	12	compound	_	SpaceAfter=No
 12	路	路	PART	SFN	_	9	conj	_	SpaceAfter=No
 13	之间	之间	NOUN	NN	_	9	acl	_	SpaceAfter=No
 14	的	的	PART	DEC	Case=Gen	9	case:dec	_	SpaceAfter=No
-15	重庆	重庆	PROPN	NNP	_	16	case:suff	_	SpaceAfter=No
+15	重庆	重庆	PROPN	NNP	_	16	compound	_	SpaceAfter=No
 16	道	道	PART	SFN	_	3	obj	_	SpaceAfter=No
 17	上	上	NOUN	NN	_	16	acl	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
@@ -4896,7 +4896,7 @@
 10	年	年	NOUN	NNB	_	11	obl	_	SpaceAfter=No
 11	推出	推出	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
 12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
-13	吉祥	吉祥	ADJ	JJ	_	14	case:suff	_	SpaceAfter=No
+13	吉祥	吉祥	ADJ	JJ	_	14	compound	_	SpaceAfter=No
 14	物	物	PART	SFN	_	0	root	_	SpaceAfter=No
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
@@ -4912,18 +4912,18 @@
 8	吸引	吸引	VERB	VV	Voice=Cau	19	advcl	_	SpaceAfter=No
 9	美	美	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
 10	海军	海军	NOUN	NN	_	12	nmod	_	SpaceAfter=No
-11	战斗	战斗	VERB	VV	_	12	case:suff	_	SpaceAfter=No
+11	战斗	战斗	VERB	VV	_	12	compound	_	SpaceAfter=No
 12	机	机	PART	SFN	_	17	nsubj	_	SpaceAfter=No
 13	向	向	ADP	IN	_	16	case	_	SpaceAfter=No
 14	大和	大和	PROPN	NNP	_	16	nmod	_	SpaceAfter=No
-15	攻击	攻击	VERB	VV	_	16	case:suff	_	SpaceAfter=No
+15	攻击	攻击	VERB	VV	_	16	compound	_	SpaceAfter=No
 16	队	队	PART	SFN	_	17	obl	_	SpaceAfter=No
 17	迎战	迎战	VERB	VV	_	8	ccomp	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
 19	缓和	缓和	VERB	VV	_	0	root	_	SpaceAfter=No
 20	对	对	ADP	IN	_	25	det	_	SpaceAfter=No
 21	日本	日本	PROPN	NNP	_	23	nmod	_	SpaceAfter=No
-22	特攻	特攻	VERB	VV	_	23	case:suff	_	SpaceAfter=No
+22	特攻	特攻	VERB	VV	_	23	compound	_	SpaceAfter=No
 23	机	机	PART	SFN	_	20	nmod	_	SpaceAfter=No
 24	的	的	PART	DEC	Case=Gen	20	case:dec	_	SpaceAfter=No
 25	攻击	攻击	NOUN	NN	_	19	obj	_	SpaceAfter=No
@@ -4937,14 +4937,14 @@
 4	30	30	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	日	日	NOUN	NNB	_	16	obl	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
-7	美	美	PROPN	NNP	_	8	case:suff	_	SpaceAfter=No
+7	美	美	PROPN	NNP	_	8	compound	_	SpaceAfter=No
 8	军	军	PART	SFN	_	9	nmod	_	SpaceAfter=No
 9	军机	军机	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 10	在	在	VERB	VV	_	16	advcl	_	SpaceAfter=No
 11	吴	吴	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
 12	军港	军港	NOUN	NN	_	10	obj	_	SpaceAfter=No
 13	及	及	CCONJ	CC	_	15	cc	_	SpaceAfter=No
-14	广岛	广岛	PROPN	NNP	_	15	case:suff	_	SpaceAfter=No
+14	广岛	广岛	PROPN	NNP	_	15	compound	_	SpaceAfter=No
 15	湾	湾	PART	SFN	_	12	conj	_	SpaceAfter=No
 16	布置	布置	VERB	VV	_	29	advcl	_	SpaceAfter=No
 17	了	了	PART	AS	Aspect=Perf	16	case:aspect	_	SpaceAfter=No
@@ -4977,7 +4977,7 @@
 6	第一	第一	NUM	CD	NumType=Ord	7	nummod	_	SpaceAfter=No
 7	炮塔	炮塔	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 8	因	因	ADP	IN	_	12	case	_	SpaceAfter=No
-9	美	美	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
+9	美	美	PROPN	NNP	_	10	compound	_	SpaceAfter=No
 10	军	军	PART	SFN	_	12	det	_	SpaceAfter=No
 11	的	的	PART	DEC	Case=Gen	10	case:dec	_	SpaceAfter=No
 12	轰炸	轰炸	NOUN	NN	_	14	obl	_	SpaceAfter=No
@@ -5069,15 +5069,15 @@
 4	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 5	该县	该县	NOUN	NN	_	11	nsubj:pass	_	SpaceAfter=No
 6	被	被	VERB	BB	Voice=Pass	11	aux:pass	_	SpaceAfter=No
-7	广东	广东	PROPN	NNP	_	8	case:suff	_	SpaceAfter=No
+7	广东	广东	PROPN	NNP	_	8	compound	_	SpaceAfter=No
 8	省	省	PART	SFN	_	10	nmod	_	SpaceAfter=No
-9	文化	文化	NOUN	NN	_	10	case:suff	_	SpaceAfter=No
+9	文化	文化	NOUN	NN	_	10	compound	_	SpaceAfter=No
 10	厅	厅	PART	SFN	_	11	nsubj	_	SpaceAfter=No
 11	授予	授予	VERB	VV	_	0	root	_	SpaceAfter=No
-12	广东	广东	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+12	广东	广东	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	省	省	PART	SFN	_	18	nmod	_	SpaceAfter=No
 14	“	“	PUNCT	``	_	18	punct	_	SpaceAfter=No
-15	汉	汉	PROPN	NNP	_	16	case:suff	_	SpaceAfter=No
+15	汉	汉	PROPN	NNP	_	16	compound	_	SpaceAfter=No
 16	乐	乐	PART	SFN	_	18	det	_	SpaceAfter=No
 17	之	之	PART	DEC	Case=Gen	16	case:dec	_	SpaceAfter=No
 18	乡	乡	NOUN	NN	_	11	obj	_	SpaceAfter=No
@@ -5106,7 +5106,7 @@
 1	大孔多孔菌	大孔多孔菌	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 3	属	属	VERB	VV	_	14	acl	_	SpaceAfter=No
-4	多孔菌	多孔菌	NUM	CD	NumType=Card	5	case:suff	_	SpaceAfter=No
+4	多孔菌	多孔菌	NUM	CD	NumType=Card	5	compound	_	SpaceAfter=No
 5	科	科	PART	SFN	_	7	nmod	_	SpaceAfter=No
 6	一	一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
 7	种	种	NOUN	NNB	_	3	obj	_	SpaceAfter=No
@@ -5128,10 +5128,10 @@
 5	位	位	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No
 6	于	于	VERB	VV	_	5	mark	_	SpaceAfter=No
 7	台湾	台湾	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
-8	台中	台中	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	台中	台中	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	市	市	PART	SFN	_	13	nmod	_	SpaceAfter=No
 10	南区	南区	NOUN	NN	_	13	nmod	_	SpaceAfter=No
-11	忠明	忠明	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+11	忠明	忠明	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 12	南	南	NOUN	NN	_	11	acl	_	SpaceAfter=No
 13	路	路	PART	SFN	_	5	obj	_	SpaceAfter=No
 14	上	上	NOUN	NN	_	13	acl	_	SpaceAfter=No
@@ -5222,7 +5222,7 @@
 10	石头	石头	NOUN	NN	_	24	nsubj	_	SpaceAfter=No
 11	反射	反射	VERB	VV	_	24	acl	_	SpaceAfter=No
 12	着	着	PART	AS	Aspect=Prog	11	case:aspect	_	SpaceAfter=No
-13	通红	通红	VERB	VV	_	14	case:suff	_	SpaceAfter=No
+13	通红	通红	VERB	VV	_	14	compound	_	SpaceAfter=No
 14	色	色	PART	SFN	_	11	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 16	像	像	ADP	IN	_	17	case	_	SpaceAfter=No
@@ -5241,7 +5241,7 @@
 1	最大	最大	ADJ	JJ	_	2	amod	_	SpaceAfter=No
 2	振幅	振幅	NOUN	NN	_	5	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
-4	大气	大气	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+4	大气	大气	NOUN	NN	_	5	compound	_	SpaceAfter=No
 5	潮	潮	PART	SFN	_	6	nsubj	_	SpaceAfter=No
 6	产生	产生	VERB	VV	_	0	root	_	SpaceAfter=No
 7	于	于	ADP	IN	_	24	case	_	SpaceAfter=No
@@ -5249,17 +5249,17 @@
 9	太阳	太阳	NOUN	NN	_	10	nmod	_	SpaceAfter=No
 10	辐射	辐射	NOUN	NN	_	24	nsubj	_	SpaceAfter=No
 11	对	对	ADP	IN	_	16	case	_	SpaceAfter=No
-12	对流	对流	VERB	VV	_	13	case:suff	_	SpaceAfter=No
+12	对流	对流	VERB	VV	_	13	compound	_	SpaceAfter=No
 13	层	层	PART	SFN	_	16	det	_	SpaceAfter=No
 14	的	的	PART	DEC	Case=Gen	13	case:dec	_	SpaceAfter=No
 15	水	水	NOUN	NN	_	16	nmod	_	SpaceAfter=No
 16	蒸气	蒸气	NOUN	NN	_	24	obl	_	SpaceAfter=No
 17	和	和	CCONJ	CC	_	21	cc	_	SpaceAfter=No
-18	平流	平流	VERB	VV	_	19	case:suff	_	SpaceAfter=No
+18	平流	平流	VERB	VV	_	19	compound	_	SpaceAfter=No
 19	层	层	PART	SFN	_	21	det	_	SpaceAfter=No
 20	的	的	PART	DEC	Case=Gen	19	case:dec	_	SpaceAfter=No
 21	臭氧	臭氧	NOUN	NN	_	16	conj	_	SpaceAfter=No
-22	周期	周期	NOUN	NN	_	23	case:suff	_	SpaceAfter=No
+22	周期	周期	NOUN	NN	_	23	compound	_	SpaceAfter=No
 23	性	性	PART	SFN	_	24	advmod	_	SpaceAfter=No
 24	加热	加热	VERB	VV	_	6	ccomp	_	SpaceAfter=No
 25	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
@@ -5346,11 +5346,11 @@
 5	县	县	NOUN	NN	_	6	nmod	_	SpaceAfter=No
 6	政府	政府	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 7	结合	结合	VERB	VV	_	0	root	_	SpaceAfter=No
-8	蒋	蒋	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	蒋	蒋	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	公	公	PART	SFN	_	10	nmod	_	SpaceAfter=No
 10	行馆	行馆	NOUN	NN	_	31	nsubj	_	SpaceAfter=No
 11	、	、	PUNCT	EC	_	14	punct	_	SpaceAfter=No
-12	角板	角板	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+12	角板	角板	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	山	山	PART	SFN	_	14	nmod	_	SpaceAfter=No
 14	行馆	行馆	NOUN	NN	_	10	conj	_	SpaceAfter=No
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No
@@ -5376,7 +5376,7 @@
 # sent_id = test-s201
 # text = 海域东北处有一岛屿名为塔门，形成连接大赤门的海域及连接大鹏湾的塔门口。
 1	海域	海域	NOUN	NN	_	3	nmod	_	SpaceAfter=No
-2	东北	东北	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+2	东北	东北	NOUN	NN	_	3	compound	_	SpaceAfter=No
 3	处	处	PART	SFN	_	4	nsubj	_	SpaceAfter=No
 4	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 5	一	一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
@@ -5393,10 +5393,10 @@
 16	海域	海域	NOUN	NN	_	11	obj	_	SpaceAfter=No
 17	及	及	CCONJ	CC	_	23	cc	_	SpaceAfter=No
 18	连接	连接	VERB	VV	_	23	acl:relcl	_	SpaceAfter=No
-19	大鹏	大鹏	PROPN	NNP	_	20	case:suff	_	SpaceAfter=No
+19	大鹏	大鹏	PROPN	NNP	_	20	compound	_	SpaceAfter=No
 20	湾	湾	PART	SFN	_	18	obj	_	SpaceAfter=No
 21	的	的	PART	DEC	_	18	mark:relcl	_	SpaceAfter=No
-22	塔门	塔门	PROPN	NNP	_	23	case:suff	_	SpaceAfter=No
+22	塔门	塔门	PROPN	NNP	_	23	compound	_	SpaceAfter=No
 23	口	口	PART	SFN	_	16	conj	_	SpaceAfter=No
 24	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
@@ -5432,14 +5432,14 @@
 28	区间	区间	NOUN	NN	_	24	conj	_	SpaceAfter=No
 29	均	均	ADV	RB	_	32	advmod	_	SpaceAfter=No
 30	未	未	ADV	RB	Polarity=Neg	32	advmod	_	SpaceAfter=No
-31	电气	电气	NOUN	NN	_	32	case:suff	_	SpaceAfter=No
+31	电气	电气	NOUN	NN	_	32	compound	_	SpaceAfter=No
 32	化	化	PART	SFV	_	20	parataxis	_	SpaceAfter=No
 33	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s203
 # text = 大石桥乡，是下辖的一个乡镇级行政单位。
-1	大石	大石	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
-2	桥	桥	PART	SFN	_	3	case:suff	_	SpaceAfter=No
+1	大石	大石	PROPN	NNP	_	2	compound	_	SpaceAfter=No
+2	桥	桥	PART	SFN	_	3	compound	_	SpaceAfter=No
 3	乡	乡	PART	SFN	_	13	nsubj	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No
 5	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No
@@ -5447,7 +5447,7 @@
 7	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
 8	一	一	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 9	个	个	NOUN	NNB	_	13	clf	_	SpaceAfter=No
-10	乡镇	乡镇	NOUN	NN	_	11	case:suff	_	SpaceAfter=No
+10	乡镇	乡镇	NOUN	NN	_	11	compound	_	SpaceAfter=No
 11	级	级	PART	SFN	_	13	nmod	_	SpaceAfter=No
 12	行政	行政	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 13	单位	单位	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -5608,23 +5608,23 @@
 4	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
 5	耶茨	耶茨	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No
 6	将	将	ADP	BB	_	8	case	_	SpaceAfter=No
-7	大脚	大脚	NOUN	NN	_	8	case:suff	_	SpaceAfter=No
+7	大脚	大脚	NOUN	NN	_	8	compound	_	SpaceAfter=No
 8	类	类	PART	SFN	_	9	obl:patient	_	SpaceAfter=No
 9	归类	归类	VERB	VV	_	0	root	_	SpaceAfter=No
 10	于	于	VERB	VV	_	9	mark	_	SpaceAfter=No
-11	板龙	板龙	NOUN	NN	_	12	case:suff	_	SpaceAfter=No
+11	板龙	板龙	NOUN	NN	_	12	compound	_	SpaceAfter=No
 12	类	类	PART	SFN	_	10	obj	_	SpaceAfter=No
 13	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s211
 # text = 大脚类包含大椎龙科与里奥哈龙科等科。
-1	大脚	大脚	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+1	大脚	大脚	NOUN	NN	_	2	compound	_	SpaceAfter=No
 2	类	类	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	包含	包含	VERB	VV	_	0	root	_	SpaceAfter=No
-4	大椎龙	大椎龙	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+4	大椎龙	大椎龙	NOUN	NN	_	5	compound	_	SpaceAfter=No
 5	科	科	PART	SFN	_	3	obj	_	SpaceAfter=No
 6	与	与	CCONJ	CC	_	8	cc	_	SpaceAfter=No
-7	里奥哈龙	里奥哈龙	NOUN	NN	_	8	case:suff	_	SpaceAfter=No
+7	里奥哈龙	里奥哈龙	NOUN	NN	_	8	compound	_	SpaceAfter=No
 8	科	科	PART	SFN	_	5	conj	_	SpaceAfter=No
 9	等	等	NOUN	NN	_	5	acl	_	SpaceAfter=No
 10	科	科	NOUN	NN	_	5	appos	_	SpaceAfter=No
@@ -5648,13 +5648,13 @@
 14	（	（	PUNCT	(	_	18	punct	_	SpaceAfter=No
 15	一	一	NUM	CD	NumType=Card	18	nsubj	_	SpaceAfter=No
 16	为	为	AUX	VC	_	18	cop	_	SpaceAfter=No
-17	葡萄牙	葡萄牙	PROPN	NNP	_	18	case:suff	_	SpaceAfter=No
+17	葡萄牙	葡萄牙	PROPN	NNP	_	18	compound	_	SpaceAfter=No
 18	籍	籍	PART	SFN	_	2	parataxis	_	SpaceAfter=No
 19	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 20	另	另	DET	DT	_	21	det	_	SpaceAfter=No
 21	一	一	NUM	CD	NumType=Card	24	nsubj	_	SpaceAfter=No
 22	为	为	AUX	VC	_	24	cop	_	SpaceAfter=No
-23	西班牙	西班牙	PROPN	NNP	_	24	case:suff	_	SpaceAfter=No
+23	西班牙	西班牙	PROPN	NNP	_	24	compound	_	SpaceAfter=No
 24	籍	籍	PART	SFN	_	18	conj	_	SpaceAfter=No
 25	）	）	PUNCT	)	_	18	punct	_	SpaceAfter=No
 26	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
@@ -5663,7 +5663,7 @@
 # text = 大花蕙兰的生产地主要是日本，韩国和中国，澳洲及美国等。
 1	大花蕙兰	大花蕙兰	NOUN	NN	_	4	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
-3	生产	生产	VERB	VV	_	4	case:suff	_	SpaceAfter=No
+3	生产	生产	VERB	VV	_	4	compound	_	SpaceAfter=No
 4	地	地	PART	SFN	_	7	nsubj	_	SpaceAfter=No
 5	主要	主要	ADV	RB	_	7	advmod	_	SpaceAfter=No
 6	是	是	AUX	VC	_	7	cop	_	SpaceAfter=No
@@ -5685,7 +5685,7 @@
 2	受到	受到	VERB	VV	_	12	csubj	_	SpaceAfter=No
 3	野生	野生	NOUN	NN	_	6	nmod	_	SpaceAfter=No
 4	动物	动物	NOUN	NN	_	6	nmod	_	SpaceAfter=No
-5	保护	保护	VERB	VV	_	6	case:suff	_	SpaceAfter=No
+5	保护	保护	VERB	VV	_	6	compound	_	SpaceAfter=No
 6	官	官	PART	SFN	_	8	det	_	SpaceAfter=No
 7	的	的	PART	DEC	Case=Gen	6	case:dec	_	SpaceAfter=No
 8	父亲	父亲	NOUN	NN	_	10	det	_	SpaceAfter=No
@@ -5698,7 +5698,7 @@
 15	有	有	VERB	VV	_	12	ccomp	_	SpaceAfter=No
 16	很强	很强	ADJ	JJ	_	19	amod	_	SpaceAfter=No
 17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
-18	正义	正义	ADJ	JJ	_	19	case:suff	_	SpaceAfter=No
+18	正义	正义	ADJ	JJ	_	19	compound	_	SpaceAfter=No
 19	感	感	PART	SFN	_	15	obj	_	SpaceAfter=No
 20	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
@@ -5736,19 +5736,19 @@
 
 # sent_id = test-s217
 # text = 大葆台站投入使用时是房山线市区一端的终点站，在本站设有临1路公交车前往大兴线新宫站并设置虚拟换乘，以解决房山线无法与其他线路换乘问题。
-1	大葆台	大葆台	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	大葆台	大葆台	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	站	站	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 3	投入	投入	VERB	VV	_	14	acl	_	SpaceAfter=No
 4	使用	使用	VERB	VV	_	3	xcomp	_	SpaceAfter=No
 5	时	时	ADP	IN	_	3	mark	_	SpaceAfter=No
 6	是	是	AUX	VC	_	14	cop	_	SpaceAfter=No
-7	房山	房山	PROPN	NNP	_	8	case:suff	_	SpaceAfter=No
+7	房山	房山	PROPN	NNP	_	8	compound	_	SpaceAfter=No
 8	线	线	PART	SFN	_	11	nmod	_	SpaceAfter=No
 9	市区	市区	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 10	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
 11	端	端	NOUN	NNB	_	14	det	_	SpaceAfter=No
 12	的	的	PART	DEC	Case=Gen	11	case:dec	_	SpaceAfter=No
-13	终点	终点	NOUN	NN	_	14	case:suff	_	SpaceAfter=No
+13	终点	终点	NOUN	NN	_	14	compound	_	SpaceAfter=No
 14	站	站	PART	SFN	_	0	root	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 16	在	在	ADP	IN	_	17	case	_	SpaceAfter=No
@@ -5757,12 +5757,12 @@
 19	临	临	PART	PFA	_	21	case:pref	_	SpaceAfter=No
 20	1	1	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No
 21	路	路	NOUN	NN	_	23	nmod	_	SpaceAfter=No
-22	公交	公交	NOUN	NN	_	23	case:suff	_	SpaceAfter=No
+22	公交	公交	NOUN	NN	_	23	compound	_	SpaceAfter=No
 23	车	车	PART	SFN	_	24	nsubj	_	SpaceAfter=No
 24	前往	前往	VERB	VV	_	18	ccomp	_	SpaceAfter=No
-25	大兴	大兴	PROPN	NNP	_	26	case:suff	_	SpaceAfter=No
+25	大兴	大兴	PROPN	NNP	_	26	compound	_	SpaceAfter=No
 26	线	线	PART	SFN	_	28	nmod	_	SpaceAfter=No
-27	新宫	新宫	PROPN	NNP	_	28	case:suff	_	SpaceAfter=No
+27	新宫	新宫	PROPN	NNP	_	28	compound	_	SpaceAfter=No
 28	站	站	PART	SFN	_	24	obj	_	SpaceAfter=No
 29	并	并	CCONJ	CC	_	30	cc	_	SpaceAfter=No
 30	设置	设置	VERB	VV	_	18	conj	_	SpaceAfter=No
@@ -5771,7 +5771,7 @@
 33	，	，	PUNCT	,	_	35	punct	_	SpaceAfter=No
 34	以	以	ADV	RB	_	35	mark	_	SpaceAfter=No
 35	解决	解决	VERB	VV	_	14	parataxis	_	SpaceAfter=No
-36	房山	房山	PROPN	NNP	_	37	case:suff	_	SpaceAfter=No
+36	房山	房山	PROPN	NNP	_	37	compound	_	SpaceAfter=No
 37	线	线	PART	SFN	_	38	nsubj	_	SpaceAfter=No
 38	无法	无法	VERB	VV	_	43	amod	_	SpaceAfter=No
 39	与	与	ADP	IN	_	41	case	_	SpaceAfter=No
@@ -5788,7 +5788,7 @@
 3	当年	当年	NOUN	NN	_	7	det	_	SpaceAfter=No
 4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
 5	圣丹斯	圣丹斯	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
-6	电影	电影	NOUN	NN	_	7	case:suff	_	SpaceAfter=No
+6	电影	电影	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	节	节	PART	SFN	_	8	obl	_	SpaceAfter=No
 8	首映	首映	VERB	VV	_	0	root	_	SpaceAfter=No
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
@@ -5829,7 +5829,7 @@
 18	面	面	NOUN	NNB	_	22	nmod	_	SpaceAfter=No
 19	巨形	巨形	NOUN	NN	_	22	nmod	_	SpaceAfter=No
 20	LED	LED	X	FW	_	22	nmod	_	SpaceAfter=No
-21	萤幕	萤幕	NOUN	NN	_	22	case:suff	_	SpaceAfter=No
+21	萤幕	萤幕	NOUN	NN	_	22	compound	_	SpaceAfter=No
 22	墙	墙	PART	SFN	_	15	obj	_	SpaceAfter=No
 23	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
@@ -5866,7 +5866,7 @@
 1	尽管	尽管	ADP	IN	_	9	case	_	SpaceAfter=No
 2	本剧	本剧	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 3	在	在	ADP	IN	_	5	case	_	SpaceAfter=No
-4	收视	收视	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+4	收视	收视	NOUN	NN	_	5	compound	_	SpaceAfter=No
 5	率	率	PART	SFN	_	9	nmod	_	SpaceAfter=No
 6	上	上	ADP	IN	_	5	acl	_	SpaceAfter=No
 7	并	并	ADV	RB	_	9	mark	_	SpaceAfter=No
@@ -5896,7 +5896,7 @@
 31	成	成	VERB	VV	_	29	ccomp	_	SpaceAfter=No
 32	为	为	VERB	VC	_	31	mark	_	SpaceAfter=No
 33	“	“	PUNCT	``	_	36	punct	_	SpaceAfter=No
-34	艾美	艾美	PROPN	NNP	_	35	case:suff	_	SpaceAfter=No
+34	艾美	艾美	PROPN	NNP	_	35	compound	_	SpaceAfter=No
 35	奖	奖	PART	SFN	_	36	nmod	_	SpaceAfter=No
 36	宠儿	宠儿	NOUN	NN	_	31	obj	_	SpaceAfter=No
 37	”	”	PUNCT	''	_	36	punct	_	SpaceAfter=No
@@ -5905,7 +5905,7 @@
 # sent_id = test-s223
 # text = 迦陵舍利塔为松柏环绕，南面一棵松树，北面一棵柏树，松树和柏树的枝条向白塔生长，似乎是要伸手将白塔抱住，因此得名松柏抱塔。
 1	迦陵	迦陵	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
-2	舍利	舍利	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+2	舍利	舍利	NOUN	NN	_	3	compound	_	SpaceAfter=No
 3	塔	塔	PART	SFN	_	6	nsubj:pass	_	SpaceAfter=No
 4	为	为	VERB	BB	Voice=Pass	6	aux:pass	_	SpaceAfter=No
 5	松柏	松柏	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
@@ -5996,16 +5996,16 @@
 
 # sent_id = test-s226
 # text = 哥特式建筑，位于中山路和玉光街之间。
-1	哥特	哥特	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	哥特	哥特	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	式	式	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	建筑	建筑	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
 5	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
 6	于	于	VERB	VV	_	5	mark	_	SpaceAfter=No
-7	中山	中山	PROPN	NNP	_	8	case:suff	_	SpaceAfter=No
+7	中山	中山	PROPN	NNP	_	8	compound	_	SpaceAfter=No
 8	路	路	PART	SFN	_	5	obj	_	SpaceAfter=No
 9	和	和	CCONJ	CC	_	11	cc	_	SpaceAfter=No
-10	玉光	玉光	PROPN	NNP	_	11	case:suff	_	SpaceAfter=No
+10	玉光	玉光	PROPN	NNP	_	11	compound	_	SpaceAfter=No
 11	街	街	PART	SFN	_	8	conj	_	SpaceAfter=No
 12	之间	之间	NOUN	NN	_	8	acl	_	SpaceAfter=No
 13	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
@@ -6067,7 +6067,7 @@
 2	大雄	大雄	PROPN	NNP	_	6	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
 4	宇宙	宇宙	NOUN	NN	_	6	nmod	_	SpaceAfter=No
-5	开拓	开拓	VERB	VV	_	6	case:suff	_	SpaceAfter=No
+5	开拓	开拓	VERB	VV	_	6	compound	_	SpaceAfter=No
 6	史	史	PART	SFN	_	45	nsubj	_	SpaceAfter=No
 7	》	》	PUNCT	)	_	6	punct	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	45	punct	_	SpaceAfter=No
@@ -6083,7 +6083,7 @@
 18	1980	1980	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
 19	年	年	NOUN	NNB	_	22	nmod	_	SpaceAfter=No
 20	9	9	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No
-21	月	月	NOUN	NNB	_	22	case:suff	_	SpaceAfter=No
+21	月	月	NOUN	NNB	_	22	compound	_	SpaceAfter=No
 22	号	号	PART	SFN	_	28	obl	_	SpaceAfter=No
 23	到	到	CCONJ	CC	_	27	cc	_	SpaceAfter=No
 24	1981	1981	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No
@@ -6132,7 +6132,7 @@
 18	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 19	韩国	韩国	PROPN	NNP	_	22	nmod	_	SpaceAfter=No
 20	独立	独立	NOUN	NN	_	21	nmod	_	SpaceAfter=No
-21	运动	运动	NOUN	NN	_	22	case:suff	_	SpaceAfter=No
+21	运动	运动	NOUN	NN	_	22	compound	_	SpaceAfter=No
 22	者	者	PART	SFN	_	32	nsubj	_	SpaceAfter=No
 23	在	在	VERB	VV	_	27	advcl	_	SpaceAfter=No
 24	京城	京城	PROPN	NNP	_	26	nmod	_	SpaceAfter=No
@@ -6201,13 +6201,13 @@
 1	大额蛇鳗	大额蛇鳗	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
 3	为	为	AUX	VC	_	15	cop	_	SpaceAfter=No
-4	辐鳍鱼	辐鳍鱼	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+4	辐鳍鱼	辐鳍鱼	NOUN	NN	_	5	compound	_	SpaceAfter=No
 5	纲	纲	PART	SFN	_	11	nmod	_	SpaceAfter=No
-6	鳗鲡	鳗鲡	NOUN	NN	_	7	case:suff	_	SpaceAfter=No
+6	鳗鲡	鳗鲡	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	目	目	PART	SFN	_	11	nmod	_	SpaceAfter=No
-8	糯鳗	糯鳗	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+8	糯鳗	糯鳗	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	亚目	亚目	NOUN	NN	_	11	nmod	_	SpaceAfter=No
-10	蛇鳗	蛇鳗	NOUN	NN	_	11	case:suff	_	SpaceAfter=No
+10	蛇鳗	蛇鳗	NOUN	NN	_	11	compound	_	SpaceAfter=No
 11	科	科	PART	SFN	_	15	det	_	SpaceAfter=No
 12	的	的	PART	DEC	Case=Gen	11	case:dec	_	SpaceAfter=No
 13	其中	其中	NOUN	NN	_	15	nmod	_	SpaceAfter=No
@@ -6217,12 +6217,12 @@
 17	分布	分布	VERB	VV	_	0	root	_	SpaceAfter=No
 18	于	于	ADP	IN	_	22	case	_	SpaceAfter=No
 19	中东	中东	PROPN	NNP	_	22	nmod	_	SpaceAfter=No
-20	太平	太平	PROPN	NNP	_	21	case:suff	_	SpaceAfter=No
-21	洋	洋	PART	SFN	_	22	case:suff	_	SpaceAfter=No
+20	太平	太平	PROPN	NNP	_	21	compound	_	SpaceAfter=No
+21	洋	洋	PART	SFN	_	22	compound	_	SpaceAfter=No
 22	区	区	PART	SFN	_	17	obl	_	SpaceAfter=No
 23	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
 24	从	从	ADP	IN	_	28	advcl	_	SpaceAfter=No
-25	加利福尼亚	加利福尼亚	PROPN	NNP	_	26	case:suff	_	SpaceAfter=No
+25	加利福尼亚	加利福尼亚	PROPN	NNP	_	26	compound	_	SpaceAfter=No
 26	湾	湾	PART	SFN	_	27	nmod	_	SpaceAfter=No
 27	中部	中部	NOUN	NN	_	24	nmod	_	SpaceAfter=No
 28	至	至	ADP	IN	_	17	parataxis	_	SpaceAfter=No
@@ -6249,12 +6249,12 @@
 49	海域	海域	NOUN	NN	_	45	obl	_	SpaceAfter=No
 50	，	，	PUNCT	,	_	56	punct	_	SpaceAfter=No
 51	为	为	AUX	VC	_	54	cop	_	SpaceAfter=No
-52	底栖	底栖	VERB	VV	_	53	case:suff	_	SpaceAfter=No
+52	底栖	底栖	VERB	VV	_	53	compound	_	SpaceAfter=No
 53	性	性	PART	SFN	_	54	nmod	_	SpaceAfter=No
 54	鱼类	鱼类	NOUN	NN	_	56	advcl	_	SpaceAfter=No
 55	，	，	PUNCT	,	_	56	punct	_	SpaceAfter=No
 56	属	属	VERB	VV	_	17	parataxis	_	SpaceAfter=No
-57	肉食	肉食	VERB	VV	_	58	case:suff	_	SpaceAfter=No
+57	肉食	肉食	VERB	VV	_	58	compound	_	SpaceAfter=No
 58	性	性	PART	SFA	_	56	obj	_	SpaceAfter=No
 59	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
 60	生活	生活	NOUN	NN	_	61	nmod	_	SpaceAfter=No
@@ -6299,13 +6299,13 @@
 15	卡哈马卡	卡哈马卡	PROPN	NNP	_	16	nmod	_	SpaceAfter=No
 16	大区	大区	NOUN	NN	_	13	conj	_	SpaceAfter=No
 17	的	的	PART	DEC	Case=Gen	13	case:dec	_	SpaceAfter=No
-18	圣克鲁斯	圣克鲁斯	PROPN	NNP	_	19	case:suff	_	SpaceAfter=No
+18	圣克鲁斯	圣克鲁斯	PROPN	NNP	_	19	compound	_	SpaceAfter=No
 19	省	省	PART	SFN	_	11	obj	_	SpaceAfter=No
 20	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s237
 # text = 天主教安国教区是中国第一批6个国籍教区中教友人数较多的一个。
-1	天主	天主	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	天主	天主	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	教	教	PART	SFN	_	4	nmod	_	SpaceAfter=No
 3	安国	安国	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
 4	教区	教区	PROPN	NNP	_	19	nsubj	_	SpaceAfter=No
@@ -6328,7 +6328,7 @@
 
 # sent_id = test-s238
 # text = 教长区成立于1951年11月14日，1997年有教友10,000人、四个堂区、五名司铎。
-1	教长	教长	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+1	教长	教长	NOUN	NN	_	2	compound	_	SpaceAfter=No
 2	区	区	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 3	成立	成立	VERB	VV	_	14	advcl	_	SpaceAfter=No
 4	于	于	ADP	IN	_	10	case	_	SpaceAfter=No
@@ -6390,14 +6390,14 @@
 7	禁教	禁教	VERB	VV	_	6	xcomp	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
 9	将	将	ADP	BB	_	13	case	_	SpaceAfter=No
-10	法国	法国	PROPN	NNP	_	11	case:suff	_	SpaceAfter=No
+10	法国	法国	PROPN	NNP	_	11	compound	_	SpaceAfter=No
 11	籍	籍	PART	SFN	_	12	nmod	_	SpaceAfter=No
 12	主教	主教	NOUN	NN	_	25	obl:patient	_	SpaceAfter=No
 13	徐德新	徐德新	PROPN	NNP	_	12	appos	_	SpaceAfter=No
 14	等	等	NOUN	NN	_	13	acl	_	SpaceAfter=No
 15	11	11	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No
 16	名	名	NOUN	NNB	_	18	nmod	_	SpaceAfter=No
-17	传教	传教	VERB	VV	_	18	case:suff	_	SpaceAfter=No
+17	传教	传教	VERB	VV	_	18	compound	_	SpaceAfter=No
 18	士	士	PART	SFN	_	13	appos	_	SpaceAfter=No
 19	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
 20	斩首	斩首	VERB	VV	_	25	advcl	_	SpaceAfter=No
@@ -6440,7 +6440,7 @@
 10	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
 11	范围	范围	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 12	包括	包括	VERB	VV	_	2	parataxis	_	SpaceAfter=No
-13	高原	高原	PROPN	NNP	_	14	case:suff	_	SpaceAfter=No
+13	高原	高原	PROPN	NNP	_	14	compound	_	SpaceAfter=No
 14	省	省	PART	SFN	_	12	obj	_	SpaceAfter=No
 15	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
@@ -6458,9 +6458,9 @@
 10	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 11	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
 12	于	于	VERB	VV	_	11	mark	_	SpaceAfter=No
-13	布宜诺斯艾利斯	布宜诺斯艾利斯	PROPN	NNP	_	14	case:suff	_	SpaceAfter=No
+13	布宜诺斯艾利斯	布宜诺斯艾利斯	PROPN	NNP	_	14	compound	_	SpaceAfter=No
 14	省	省	PART	SFN	_	16	nmod	_	SpaceAfter=No
-15	马坦萨	马坦萨	PROPN	NNP	_	16	case:suff	_	SpaceAfter=No
+15	马坦萨	马坦萨	PROPN	NNP	_	16	compound	_	SpaceAfter=No
 16	县	县	PART	SFN	_	11	obj	_	SpaceAfter=No
 17	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
@@ -6485,12 +6485,12 @@
 # text = 那座天后庙位于天后庙道，建于1747年。
 1	那	那	DET	DT	_	2	det	_	SpaceAfter=No
 2	座	座	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
-3	天后	天后	PROPN	NNP	_	4	case:suff	_	SpaceAfter=No
+3	天后	天后	PROPN	NNP	_	4	compound	_	SpaceAfter=No
 4	庙	庙	PART	SFN	_	11	nsubj	_	SpaceAfter=No
 5	位	位	VERB	VV	_	11	advcl	_	SpaceAfter=No
 6	于	于	VERB	VV	_	5	mark	_	SpaceAfter=No
-7	天后	天后	PROPN	NNP	_	8	case:suff	_	SpaceAfter=No
-8	庙	庙	PART	SFN	_	9	case:suff	_	SpaceAfter=No
+7	天后	天后	PROPN	NNP	_	8	compound	_	SpaceAfter=No
+8	庙	庙	PART	SFN	_	9	compound	_	SpaceAfter=No
 9	道	道	PART	SFN	_	5	obj	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 11	建	建	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -6544,7 +6544,7 @@
 7	阿空	阿空	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
 8	穿过	穿过	VERB	VV	_	0	root	_	SpaceAfter=No
 9	了	了	PART	AS	Aspect=Perf	8	case:aspect	_	SpaceAfter=No
-10	基亚那	基亚那	PROPN	NNP	_	11	case:suff	_	SpaceAfter=No
+10	基亚那	基亚那	PROPN	NNP	_	11	compound	_	SpaceAfter=No
 11	山	山	PART	SFN	_	8	obj	_	SpaceAfter=No
 12	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
@@ -6559,7 +6559,7 @@
 7	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
 8	并	并	ADV	RB	_	9	mark	_	SpaceAfter=No
 9	使用	使用	VERB	VV	_	0	root	_	SpaceAfter=No
-10	动作	动作	NOUN	NN	_	11	case:suff	_	SpaceAfter=No
+10	动作	动作	NOUN	NN	_	11	compound	_	SpaceAfter=No
 11	制	制	PART	SFN	_	14	nmod	_	SpaceAfter=No
 12	即时	即时	ADJ	JJ	_	14	amod	_	SpaceAfter=No
 13	战斗	战斗	NOUN	NN	_	14	nmod	_	SpaceAfter=No
@@ -6650,12 +6650,12 @@
 8	指定	指定	VERB	VV	_	0	root	_	SpaceAfter=No
 9	任	任	DET	DT	_	12	det	_	SpaceAfter=No
 10	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
-11	参赛	参赛	VERB	VV	_	12	case:suff	_	SpaceAfter=No
+11	参赛	参赛	VERB	VV	_	12	compound	_	SpaceAfter=No
 12	者	者	PART	SFN	_	13	nsubj	_	SpaceAfter=No
 13	回答	回答	VERB	VV	_	8	ccomp	_	SpaceAfter=No
 14	该题	该题	NOUN	NN	_	13	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
-16	答对	答对	VERB	VV	_	17	case:suff	_	SpaceAfter=No
+16	答对	答对	VERB	VV	_	17	compound	_	SpaceAfter=No
 17	者	者	PART	SFN	_	18	nsubj	_	SpaceAfter=No
 18	加	加	VERB	VV	_	8	parataxis	_	SpaceAfter=No
 19	50	50	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No
@@ -6671,16 +6671,16 @@
 5	总分	总分	NOUN	NN	_	2	obj	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
 7	总分	总分	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
-8	最高	最高	ADJ	JJ	_	9	case:suff	_	SpaceAfter=No
+8	最高	最高	ADJ	JJ	_	9	compound	_	SpaceAfter=No
 9	者	者	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 10	即	即	ADV	RB	_	15	mark	_	SpaceAfter=No
 11	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No
 12	该集	该集	DET	DT	_	15	det	_	SpaceAfter=No
 13	的	的	PART	DEC	Case=Gen	12	case:dec	_	SpaceAfter=No
-14	优胜	优胜	VERB	VV	_	15	case:suff	_	SpaceAfter=No
+14	优胜	优胜	VERB	VV	_	15	compound	_	SpaceAfter=No
 15	队	队	PART	SFN	_	2	parataxis	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
-17	优胜	优胜	VERB	VV	_	18	case:suff	_	SpaceAfter=No
+17	优胜	优胜	VERB	VV	_	18	compound	_	SpaceAfter=No
 18	队	队	PART	SFN	_	19	nmod	_	SpaceAfter=No
 19	队员	队员	NOUN	NN	_	21	nsubj	_	SpaceAfter=No
 20	各	各	DET	DT	_	21	advmod	_	SpaceAfter=No
@@ -6733,13 +6733,13 @@
 5	5	5	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	月	月	NOUN	NNB	_	1	obj	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
-8	天水	天水	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	天水	天水	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	围	围	PART	SFN	_	13	nmod	_	SpaceAfter=No
 10	北	北	NOUN	NN	_	9	acl	_	SpaceAfter=No
 11	唯一	唯一	ADJ	JJ	_	13	amod	_	SpaceAfter=No
 12	私人	私人	ADJ	JJ	_	13	amod	_	SpaceAfter=No
 13	屋苑	屋苑	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
-14	慧景	慧景	PROPN	NNP	_	15	case:suff	_	SpaceAfter=No
+14	慧景	慧景	PROPN	NNP	_	15	compound	_	SpaceAfter=No
 15	轩	轩	PART	SFN	_	13	appos	_	SpaceAfter=No
 16	正式	正式	ADV	RB	_	17	advmod	_	SpaceAfter=No
 17	入伙	入伙	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -6783,7 +6783,7 @@
 3	大	大	PART	PFA	_	4	case:pref	_	SpaceAfter=No
 4	饭店	饭店	NOUN	NN	_	26	nsubj	_	SpaceAfter=No
 5	是	是	AUX	VC	_	14	cop	_	SpaceAfter=No
-6	天津	天津	PROPN	NNP	_	7	case:suff	_	SpaceAfter=No
+6	天津	天津	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 7	市	市	PART	SFN	_	14	nmod	_	SpaceAfter=No
 8	历史	历史	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 9	上	上	ADP	IN	_	8	acl	_	SpaceAfter=No
@@ -6794,7 +6794,7 @@
 14	饭店	饭店	NOUN	NN	_	26	acl	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
 16	在	在	ADP	IN	_	18	case	_	SpaceAfter=No
-17	近代	近代	NOUN	NN	_	18	case:suff	_	SpaceAfter=No
+17	近代	近代	NOUN	NN	_	18	compound	_	SpaceAfter=No
 18	史	史	PART	SFN	_	26	nmod	_	SpaceAfter=No
 19	上	上	ADP	IN	_	18	acl	_	SpaceAfter=No
 20	曾	曾	ADV	RB	_	26	advmod	_	SpaceAfter=No
@@ -6817,7 +6817,7 @@
 37	曾	曾	ADV	RB	_	42	advmod	_	SpaceAfter=No
 38	先后	先后	ADV	RB	_	42	advmod	_	SpaceAfter=No
 39	将	将	ADP	BB	_	41	case	_	SpaceAfter=No
-40	领事	领事	NOUN	NN	_	41	case:suff	_	SpaceAfter=No
+40	领事	领事	NOUN	NN	_	41	compound	_	SpaceAfter=No
 41	馆	馆	PART	SFN	_	42	obl:patient	_	SpaceAfter=No
 42	设	设	VERB	VV	_	26	parataxis	_	SpaceAfter=No
 43	于	于	VERB	VV	_	42	mark	_	SpaceAfter=No
@@ -6828,7 +6828,7 @@
 # sent_id = test-s260
 # text = 根据天津市地域内的地貌、气候、土壤、植被等的自然条件的差异，以满足城市需求为目标天津市的农业可分为都市型、滨海型和城郊型，据此天津市域的农业区划可以划分为都市型环城农业区、都市型滨海农业区、城郊型平原综合农业区和城郊型山区生态农业区四个农业区划。
 1	根据	根据	ADP	IN	_	19	case	_	SpaceAfter=No
-2	天津	天津	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+2	天津	天津	PROPN	NNP	_	3	compound	_	SpaceAfter=No
 3	市	市	PART	SFN	_	4	nmod	_	SpaceAfter=No
 4	地域	地域	NOUN	NN	_	7	det	_	SpaceAfter=No
 5	内	内	NOUN	NN	_	4	acl	_	SpaceAfter=No
@@ -6853,20 +6853,20 @@
 24	需求	需求	NOUN	NN	_	22	obj	_	SpaceAfter=No
 25	为	为	AUX	VC	_	26	cop	_	SpaceAfter=No
 26	目标	目标	NOUN	NN	_	21	ccomp	_	SpaceAfter=No
-27	天津	天津	PROPN	NNP	_	28	case:suff	_	SpaceAfter=No
+27	天津	天津	PROPN	NNP	_	28	compound	_	SpaceAfter=No
 28	市	市	PART	SFN	_	30	det	_	SpaceAfter=No
 29	的	的	PART	DEC	Case=Gen	28	case:dec	_	SpaceAfter=No
 30	农业	农业	NOUN	NN	_	32	nsubj	_	SpaceAfter=No
 31	可	可	AUX	MD	_	32	aux	_	SpaceAfter=No
 32	分	分	VERB	VV	_	0	root	_	SpaceAfter=No
 33	为	为	VERB	VC	_	32	mark	_	SpaceAfter=No
-34	都市	都市	NOUN	NN	_	35	case:suff	_	SpaceAfter=No
+34	都市	都市	NOUN	NN	_	35	compound	_	SpaceAfter=No
 35	型	型	PART	SFN	_	32	obj	_	SpaceAfter=No
 36	、	、	PUNCT	EC	_	38	punct	_	SpaceAfter=No
-37	滨海	滨海	NOUN	NN	_	38	case:suff	_	SpaceAfter=No
+37	滨海	滨海	NOUN	NN	_	38	compound	_	SpaceAfter=No
 38	型	型	PART	SFN	_	35	conj	_	SpaceAfter=No
 39	和	和	CCONJ	CC	_	41	cc	_	SpaceAfter=No
-40	城郊	城郊	NOUN	NN	_	41	case:suff	_	SpaceAfter=No
+40	城郊	城郊	NOUN	NN	_	41	compound	_	SpaceAfter=No
 41	型	型	PART	SFN	_	35	conj	_	SpaceAfter=No
 42	，	，	PUNCT	,	_	32	punct	_	SpaceAfter=No
 43	据此	据此	VERB	VV	_	50	advcl	_	SpaceAfter=No
@@ -6878,30 +6878,30 @@
 49	可以	可以	AUX	MD	_	50	aux	_	SpaceAfter=No
 50	划分	划分	VERB	VV	_	32	parataxis	_	SpaceAfter=No
 51	为	为	VERB	VC	_	50	mark	_	SpaceAfter=No
-52	都市	都市	NOUN	NN	_	53	case:suff	_	SpaceAfter=No
+52	都市	都市	NOUN	NN	_	53	compound	_	SpaceAfter=No
 53	型	型	PART	SFN	_	56	nmod	_	SpaceAfter=No
 54	环城	环城	NOUN	NN	_	56	nmod	_	SpaceAfter=No
 55	农业	农业	NOUN	NN	_	56	nmod	_	SpaceAfter=No
 56	区	区	PART	SFN	_	50	obj	_	SpaceAfter=No
 57	、	、	PUNCT	EC	_	62	punct	_	SpaceAfter=No
-58	都市	都市	NOUN	NN	_	59	case:suff	_	SpaceAfter=No
+58	都市	都市	NOUN	NN	_	59	compound	_	SpaceAfter=No
 59	型	型	PART	SFN	_	62	nmod	_	SpaceAfter=No
 60	滨海	滨海	NOUN	NN	_	62	nmod	_	SpaceAfter=No
-61	农业	农业	NOUN	NN	_	62	case:suff	_	SpaceAfter=No
+61	农业	农业	NOUN	NN	_	62	compound	_	SpaceAfter=No
 62	区	区	PART	SFN	_	56	conj	_	SpaceAfter=No
 63	、	、	PUNCT	EC	_	69	punct	_	SpaceAfter=No
-64	城郊	城郊	NOUN	NN	_	65	case:suff	_	SpaceAfter=No
+64	城郊	城郊	NOUN	NN	_	65	compound	_	SpaceAfter=No
 65	型	型	PART	SFN	_	69	nmod	_	SpaceAfter=No
 66	平原	平原	NOUN	NN	_	69	nmod	_	SpaceAfter=No
 67	综合	综合	NOUN	NN	_	69	nmod	_	SpaceAfter=No
-68	农业	农业	NOUN	NN	_	69	case:suff	_	SpaceAfter=No
+68	农业	农业	NOUN	NN	_	69	compound	_	SpaceAfter=No
 69	区	区	PART	SFN	_	56	conj	_	SpaceAfter=No
 70	和	和	CCONJ	CC	_	76	cc	_	SpaceAfter=No
-71	城郊	城郊	NOUN	NN	_	72	case:suff	_	SpaceAfter=No
+71	城郊	城郊	NOUN	NN	_	72	compound	_	SpaceAfter=No
 72	型	型	PART	SFN	_	76	nmod	_	SpaceAfter=No
 73	山区	山区	NOUN	NN	_	76	nmod	_	SpaceAfter=No
 74	生态	生态	NOUN	NN	_	76	nmod	_	SpaceAfter=No
-75	农业	农业	NOUN	NN	_	76	case:suff	_	SpaceAfter=No
+75	农业	农业	NOUN	NN	_	76	compound	_	SpaceAfter=No
 76	区	区	PART	SFN	_	56	conj	_	SpaceAfter=No
 77	四	四	NUM	CD	NumType=Card	78	nummod	_	SpaceAfter=No
 78	个	个	NOUN	NNB	_	80	clf	_	SpaceAfter=No
@@ -6914,15 +6914,15 @@
 1	除此	除此	VERB	VV	_	9	advcl	_	SpaceAfter=No
 2	之外	之外	ADP	IN	_	1	mark	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
-4	天津	天津	PROPN	NNP	_	5	case:suff	_	SpaceAfter=No
+4	天津	天津	PROPN	NNP	_	5	compound	_	SpaceAfter=No
 5	市	市	PART	SFN	_	7	nmod	_	SpaceAfter=No
-6	河东	河东	PROPN	NNP	_	7	case:suff	_	SpaceAfter=No
+6	河东	河东	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 7	区	区	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 8	还	还	ADV	RB	_	9	mark	_	SpaceAfter=No
 9	管辖	管辖	VERB	VV	_	0	root	_	SpaceAfter=No
 10	位	位	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No
 11	于	于	VERB	VV	_	10	mark	_	SpaceAfter=No
-12	河北	河北	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+12	河北	河北	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	省	省	PART	SFN	_	14	nmod	_	SpaceAfter=No
 14	涉县	涉县	PROPN	NNP	_	10	obj	_	SpaceAfter=No
 15	的	的	PART	DEC	_	10	mark:relcl	_	SpaceAfter=No
@@ -6938,33 +6938,33 @@
 
 # sent_id = test-s262
 # text = 天津市人民政府驻乌鲁木齐办事处，是中华人民共和国天津市人民政府驻乌鲁木齐市的办事处，该办事处负责领导联络协调、招商引资、信息调研、对外宣传、接待服务以及服务驻乌鲁木齐市天津企业等相关事项。
-1	天津	天津	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	天津	天津	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	市	市	PART	SFN	_	4	nmod	_	SpaceAfter=No
 3	人民	人民	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 4	政府	政府	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 5	驻	驻	VERB	VV	_	8	amod	_	SpaceAfter=No
 6	乌鲁木齐	乌鲁木齐	PROPN	NNP	_	5	obj	_	SpaceAfter=No
-7	办事	办事	VERB	VV	_	8	case:suff	_	SpaceAfter=No
+7	办事	办事	VERB	VV	_	8	compound	_	SpaceAfter=No
 8	处	处	PART	SFN	_	24	nsubj	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 10	是	是	AUX	VC	_	24	cop	_	SpaceAfter=No
 11	中华	中华	PROPN	NNP	_	18	nmod	_	SpaceAfter=No
 12	人民	人民	NOUN	NN	_	18	nmod	_	SpaceAfter=No
-13	共和	共和	NOUN	NN	_	14	case:suff	_	SpaceAfter=No
+13	共和	共和	NOUN	NN	_	14	compound	_	SpaceAfter=No
 14	国	国	PART	SFN	_	18	nmod	_	SpaceAfter=No
-15	天津	天津	PROPN	NNP	_	16	case:suff	_	SpaceAfter=No
+15	天津	天津	PROPN	NNP	_	16	compound	_	SpaceAfter=No
 16	市	市	PART	SFN	_	18	nmod	_	SpaceAfter=No
 17	人民	人民	NOUN	NN	_	18	nmod	_	SpaceAfter=No
 18	政府	政府	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
 19	驻	驻	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No
-20	乌鲁木齐	乌鲁木齐	PROPN	NNP	_	21	case:suff	_	SpaceAfter=No
+20	乌鲁木齐	乌鲁木齐	PROPN	NNP	_	21	compound	_	SpaceAfter=No
 21	市	市	PART	SFN	_	19	obj	_	SpaceAfter=No
 22	的	的	PART	DEC	_	19	mark:relcl	_	SpaceAfter=No
-23	办事	办事	VERB	VV	_	24	case:suff	_	SpaceAfter=No
+23	办事	办事	VERB	VV	_	24	compound	_	SpaceAfter=No
 24	处	处	PART	SFN	_	0	root	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 26	该	该	DET	DT	_	28	det	_	SpaceAfter=No
-27	办事	办事	VERB	VV	_	28	case:suff	_	SpaceAfter=No
+27	办事	办事	VERB	VV	_	28	compound	_	SpaceAfter=No
 28	处	处	PART	SFN	_	29	nsubj	_	SpaceAfter=No
 29	负责	负责	VERB	VV	_	24	parataxis	_	SpaceAfter=No
 30	领导	领导	VERB	VV	_	29	obj	_	SpaceAfter=No
@@ -6985,7 +6985,7 @@
 45	以及	以及	CCONJ	CC	_	46	cc	_	SpaceAfter=No
 46	服务	服务	VERB	VV	_	30	conj	_	SpaceAfter=No
 47	驻	驻	VERB	VV	_	51	amod	_	SpaceAfter=No
-48	乌鲁木齐	乌鲁木齐	PROPN	NNP	_	49	case:suff	_	SpaceAfter=No
+48	乌鲁木齐	乌鲁木齐	PROPN	NNP	_	49	compound	_	SpaceAfter=No
 49	市	市	PART	SFN	_	47	obj	_	SpaceAfter=No
 50	天津	天津	PROPN	NNP	_	51	nmod	_	SpaceAfter=No
 51	企业	企业	NOUN	NN	_	46	obj	_	SpaceAfter=No
@@ -7010,7 +7010,7 @@
 12	月	月	NOUN	NNB	_	7	conj	_	SpaceAfter=No
 13	期间	期间	NOUN	NN	_	19	nmod:tmod	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
-15	天津	天津	PROPN	NNP	_	16	case:suff	_	SpaceAfter=No
+15	天津	天津	PROPN	NNP	_	16	compound	_	SpaceAfter=No
 16	市	市	PART	SFN	_	18	nmod	_	SpaceAfter=No
 17	人民	人民	NOUN	NN	_	18	nmod	_	SpaceAfter=No
 18	政府	政府	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
@@ -7021,7 +7021,7 @@
 23	和	和	CCONJ	CC	_	24	cc	_	SpaceAfter=No
 24	驻	驻	VERB	VV	_	21	conj	_	SpaceAfter=No
 25	厦门	厦门	PROPN	NNP	_	24	obj	_	SpaceAfter=No
-26	办事	办事	VERB	VV	_	27	case:suff	_	SpaceAfter=No
+26	办事	办事	VERB	VV	_	27	compound	_	SpaceAfter=No
 27	处	处	PART	SFN	_	19	obj	_	SpaceAfter=No
 28	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
@@ -7056,17 +7056,17 @@
 11	为	为	VERB	VC	_	10	mark	_	SpaceAfter=No
 12	隶属	隶属	VERB	VV	_	19	amod	_	SpaceAfter=No
 13	于	于	VERB	VV	_	12	mark	_	SpaceAfter=No
-14	河北	河北	PROPN	NNP	_	15	case:suff	_	SpaceAfter=No
+14	河北	河北	PROPN	NNP	_	15	compound	_	SpaceAfter=No
 15	省	省	PART	SFN	_	12	obj	_	SpaceAfter=No
 16	化学	化学	NOUN	NN	_	19	nmod	_	SpaceAfter=No
 17	石油	石油	NOUN	NN	_	19	nmod	_	SpaceAfter=No
-18	工业	工业	NOUN	NN	_	19	case:suff	_	SpaceAfter=No
+18	工业	工业	NOUN	NN	_	19	compound	_	SpaceAfter=No
 19	厅	厅	PART	SFN	_	10	obj	_	SpaceAfter=No
 20	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s266
 # text = 参赛者于前三个提示可以允许失误。
-1	参赛	参赛	VERB	VV	_	2	case:suff	_	SpaceAfter=No
+1	参赛	参赛	VERB	VV	_	2	compound	_	SpaceAfter=No
 2	者	者	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 3	于	于	ADP	IN	_	7	case	_	SpaceAfter=No
 4	前	前	DET	DT	_	6	det	_	SpaceAfter=No
@@ -7135,7 +7135,7 @@
 10	整合	整合	NOUN	NN	_	16	obl	_	SpaceAfter=No
 11	于	于	ADP	IN	_	14	case	_	SpaceAfter=No
 12	西元	西元	NOUN	NN	_	14	nmod	_	SpaceAfter=No
-13	1988	1988	NUM	CD	NumType=Card	14	case:suff	_	SpaceAfter=No
+13	1988	1988	NUM	CD	NumType=Card	14	compound	_	SpaceAfter=No
 14	年	年	NOUN	NNB	_	16	obl	_	SpaceAfter=No
 15	正式	正式	ADV	RB	_	16	advmod	_	SpaceAfter=No
 16	成立	成立	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -7144,7 +7144,7 @@
 19	“	“	PUNCT	``	_	24	punct	_	SpaceAfter=No
 20	中华	中华	PROPN	NNP	_	24	nmod	_	SpaceAfter=No
 21	民国	民国	NOUN	NN	_	24	nmod	_	SpaceAfter=No
-22	一贯	一贯	ADJ	JJ	_	23	case:suff	_	SpaceAfter=No
+22	一贯	一贯	ADJ	JJ	_	23	compound	_	SpaceAfter=No
 23	道	道	PART	SFN	_	24	nmod	_	SpaceAfter=No
 24	总会	总会	NOUN	NN	_	18	appos	_	SpaceAfter=No
 25	”	”	PUNCT	''	_	24	punct	_	SpaceAfter=No
@@ -7156,7 +7156,7 @@
 31	登记	登记	VERB	VV	_	16	ccomp	_	SpaceAfter=No
 32	为	为	VERB	VC	_	31	mark	_	SpaceAfter=No
 33	“	“	PUNCT	``	_	35	punct	_	SpaceAfter=No
-34	一贯	一贯	ADJ	JJ	_	35	case:suff	_	SpaceAfter=No
+34	一贯	一贯	ADJ	JJ	_	35	compound	_	SpaceAfter=No
 35	道	道	PART	SFN	_	31	obj	_	SpaceAfter=No
 36	”	”	PUNCT	''	_	35	punct	_	SpaceAfter=No
 37	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
@@ -7186,7 +7186,7 @@
 
 # sent_id = test-s271
 # text = 观景台于2011年4月17日起试业，开放时间为早上10时至晚上8时半。
-1	观景	观景	VERB	VV	_	2	case:suff	_	SpaceAfter=No
+1	观景	观景	VERB	VV	_	2	compound	_	SpaceAfter=No
 2	台	台	PART	SFN	_	11	nsubj	_	SpaceAfter=No
 3	于	于	ADP	IN	_	9	case	_	SpaceAfter=No
 4	2011	2011	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
@@ -7229,7 +7229,7 @@
 2	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 3	真正	真正	ADJ	JJ	_	7	amod	_	SpaceAfter=No
 4	的	的	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No
-5	中情	中情	NOUN	NN	_	6	case:suff	_	SpaceAfter=No
+5	中情	中情	NOUN	NN	_	6	compound	_	SpaceAfter=No
 6	局	局	PART	SFN	_	7	nmod	_	SpaceAfter=No
 7	要员	要员	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 8	林	林	PROPN	NNP	_	7	appos	_	SpaceAfter=No
@@ -7245,7 +7245,7 @@
 
 # sent_id = test-s274
 # text = 太平公主号的理赔问题等将交由保险公司、船公司与香港方面处理。
-1	太平	太平	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+1	太平	太平	PROPN	NNP	_	3	compound	_	SpaceAfter=No
 2	公主	公主	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	号	号	PART	SFN	_	6	det	_	SpaceAfter=No
 4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
@@ -7273,10 +7273,10 @@
 3	4	4	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	月	月	NOUN	NNB	_	19	nmod:tmod	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
-6	日	日	PROPN	NNP	_	7	case:suff	_	SpaceAfter=No
+6	日	日	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 7	军	军	PART	SFN	_	19	nsubj	_	SpaceAfter=No
 8	攻占	攻占	VERB	VV	_	19	advcl	_	SpaceAfter=No
-9	太平	太平	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
+9	太平	太平	PROPN	NNP	_	10	compound	_	SpaceAfter=No
 10	岛	岛	PART	SFN	_	8	obj	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
 12	并	并	ADV	RB	_	19	mark	_	SpaceAfter=No
@@ -7287,7 +7287,7 @@
 17	长岛	长岛	PROPN	NNP	_	15	obj	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
 19	纳入	纳入	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
-20	高雄	高雄	PROPN	NNP	_	21	case:suff	_	SpaceAfter=No
+20	高雄	高雄	PROPN	NNP	_	21	compound	_	SpaceAfter=No
 21	州	州	PART	SFN	_	22	nsubj	_	SpaceAfter=No
 22	管理	管理	VERB	VV	_	19	ccomp	_	SpaceAfter=No
 23	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
@@ -7296,16 +7296,16 @@
 # text = 在岛西南方的防波堤末端竖立起“太平岛”石碑，并在岛之东端，另立“南沙群岛太平岛”石碑。
 1	在	在	VERB	VV	_	9	advcl	_	SpaceAfter=No
 2	岛	岛	NOUN	NN	_	4	nmod	_	SpaceAfter=No
-3	西南	西南	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+3	西南	西南	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	方	方	PART	SFN	_	8	det	_	SpaceAfter=No
 5	的	的	PART	DEC	Case=Gen	4	case:dec	_	SpaceAfter=No
-6	防波	防波	VERB	VV	_	7	case:suff	_	SpaceAfter=No
+6	防波	防波	VERB	VV	_	7	compound	_	SpaceAfter=No
 7	堤	堤	PART	SFN	_	8	nmod	_	SpaceAfter=No
 8	末端	末端	NOUN	NN	_	1	obj	_	SpaceAfter=No
 9	竖立	竖立	VERB	VV	_	23	advcl	_	SpaceAfter=No
 10	起	起	VERB	VV	_	9	mark	_	SpaceAfter=No
 11	“	“	PUNCT	``	_	13	punct	_	SpaceAfter=No
-12	太平	太平	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+12	太平	太平	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	岛	岛	PART	SFN	_	15	nmod	_	SpaceAfter=No
 14	”	”	PUNCT	''	_	13	punct	_	SpaceAfter=No
 15	石碑	石碑	NOUN	NN	_	9	obj	_	SpaceAfter=No
@@ -7320,7 +7320,7 @@
 24	“	“	PUNCT	``	_	30	punct	_	SpaceAfter=No
 25	南沙	南沙	PROPN	NNP	_	30	nmod	_	SpaceAfter=No
 26	群岛	群岛	NOUN	NN	_	30	nmod	_	SpaceAfter=No
-27	太平	太平	PROPN	NNP	_	28	case:suff	_	SpaceAfter=No
+27	太平	太平	PROPN	NNP	_	28	compound	_	SpaceAfter=No
 28	岛	岛	PART	SFN	_	30	nmod	_	SpaceAfter=No
 29	”	”	PUNCT	''	_	30	punct	_	SpaceAfter=No
 30	石碑	石碑	NOUN	NN	_	23	obj	_	SpaceAfter=No
@@ -7334,7 +7334,7 @@
 4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	片	片	NOUN	NNB	_	8	nmod	_	SpaceAfter=No
 6	热带	热带	NOUN	NN	_	8	nmod	_	SpaceAfter=No
-7	海岸	海岸	NOUN	NN	_	8	case:suff	_	SpaceAfter=No
+7	海岸	海岸	NOUN	NN	_	8	compound	_	SpaceAfter=No
 8	林	林	PART	SFN	_	3	obj	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 10	其	其	PRON	PRP	Person=3	11	nmod	_	SpaceAfter=No
@@ -7436,12 +7436,12 @@
 18	经常	经常	ADV	RB	_	19	advmod	_	SpaceAfter=No
 19	列席	列席	VERB	VV	_	11	parataxis	_	SpaceAfter=No
 20	年度	年度	NOUN	NN	_	23	nmod	_	SpaceAfter=No
-21	部长	部长	NOUN	NN	_	22	case:suff	_	SpaceAfter=No
+21	部长	部长	NOUN	NN	_	22	compound	_	SpaceAfter=No
 22	级	级	PART	SFN	_	23	nmod	_	SpaceAfter=No
 23	会议	会议	NOUN	NN	_	19	obj	_	SpaceAfter=No
 24	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 25	美国	美国	PROPN	NNP	_	30	nmod	_	SpaceAfter=No
-26	太平	太平	PROPN	NNP	_	27	case:suff	_	SpaceAfter=No
+26	太平	太平	PROPN	NNP	_	27	compound	_	SpaceAfter=No
 27	洋	洋	PART	SFN	_	30	nmod	_	SpaceAfter=No
 28	地区	地区	NOUN	NN	_	30	nmod	_	SpaceAfter=No
 29	总	总	PART	PFA	_	30	case:pref	_	SpaceAfter=No
@@ -7472,7 +7472,7 @@
 54	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 55	第17	第17	NUM	CD	NumType=Ord	56	nummod	_	SpaceAfter=No
 56	届	届	NOUN	NNB	_	59	clf	_	SpaceAfter=No
-57	部长	部长	NOUN	NN	_	58	case:suff	_	SpaceAfter=No
+57	部长	部长	NOUN	NN	_	58	compound	_	SpaceAfter=No
 58	级	级	PART	SFN	_	59	nmod	_	SpaceAfter=No
 59	会议	会议	NOUN	NN	_	67	nsubj	_	SpaceAfter=No
 60	在	在	ADP	IN	_	64	case	_	SpaceAfter=No
@@ -7552,15 +7552,15 @@
 
 # sent_id = test-s283
 # text = 太平里乡原属湖南省宜章县下辖乡，2012年4月撤销，与沙坪乡一起成建制合并至新设的五岭乡。
-1	太平	太平	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
-2	里	里	PART	SFN	_	3	case:suff	_	SpaceAfter=No
+1	太平	太平	PROPN	NNP	_	2	compound	_	SpaceAfter=No
+2	里	里	PART	SFN	_	3	compound	_	SpaceAfter=No
 3	乡	乡	PART	SFN	_	24	nsubj	_	SpaceAfter=No
 4	原属	原属	VERB	VV	_	24	advcl	_	SpaceAfter=No
-5	湖南	湖南	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	湖南	湖南	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	省	省	PART	SFN	_	10	nmod	_	SpaceAfter=No
-7	宜章	宜章	PROPN	NNP	_	8	case:suff	_	SpaceAfter=No
+7	宜章	宜章	PROPN	NNP	_	8	compound	_	SpaceAfter=No
 8	县	县	PART	SFN	_	10	nmod	_	SpaceAfter=No
-9	下辖	下辖	VERB	VV	_	10	case:suff	_	SpaceAfter=No
+9	下辖	下辖	VERB	VV	_	10	compound	_	SpaceAfter=No
 10	乡	乡	PART	SFN	_	4	obj	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 12	2012	2012	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
@@ -7570,7 +7570,7 @@
 16	撤销	撤销	VERB	VV	_	24	advcl	_	SpaceAfter=No
 17	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 18	与	与	ADP	IN	_	20	case	_	SpaceAfter=No
-19	沙坪	沙坪	PROPN	NNP	_	20	case:suff	_	SpaceAfter=No
+19	沙坪	沙坪	PROPN	NNP	_	20	compound	_	SpaceAfter=No
 20	乡	乡	PART	SFN	_	24	obl	_	SpaceAfter=No
 21	一起	一起	NOUN	NN	_	24	advmod	_	SpaceAfter=No
 22	成	成	VERB	VV	_	24	advcl	_	SpaceAfter=No
@@ -7579,13 +7579,13 @@
 25	至	至	VERB	VV	_	24	mark	_	SpaceAfter=No
 26	新设	新设	VERB	VV	_	29	acl:relcl	_	SpaceAfter=No
 27	的	的	PART	DEC	_	26	mark:relcl	_	SpaceAfter=No
-28	五岭	五岭	PROPN	NNP	_	29	case:suff	_	SpaceAfter=No
+28	五岭	五岭	PROPN	NNP	_	29	compound	_	SpaceAfter=No
 29	乡	乡	PART	SFN	_	24	obj	_	SpaceAfter=No
 30	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No
 
 # sent_id = test-s284
 # text = 太极剑的历史虽不长，但很受太极爱好者欢迎，其流行程度实超过太极刀、枪、棍、杆等器械。
-1	太极	太极	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+1	太极	太极	NOUN	NN	_	2	compound	_	SpaceAfter=No
 2	剑	剑	PART	SFN	_	4	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
 4	历史	历史	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
@@ -7596,7 +7596,7 @@
 9	很	很	ADV	RB	_	10	advmod	_	SpaceAfter=No
 10	受	受	VERB	VV	_	0	root	_	SpaceAfter=No
 11	太极	太极	NOUN	NN	_	13	nmod	_	SpaceAfter=No
-12	爱好	爱好	VERB	VV	_	13	case:suff	_	SpaceAfter=No
+12	爱好	爱好	VERB	VV	_	13	compound	_	SpaceAfter=No
 13	者	者	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 14	欢迎	欢迎	VERB	VV	_	10	ccomp	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No
@@ -7605,7 +7605,7 @@
 18	程度	程度	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
 19	实	实	ADV	RB	_	20	advmod	_	SpaceAfter=No
 20	超过	超过	VERB	VV	_	10	parataxis	_	SpaceAfter=No
-21	太极	太极	NOUN	NN	_	22	case:suff	_	SpaceAfter=No
+21	太极	太极	NOUN	NN	_	22	compound	_	SpaceAfter=No
 22	刀	刀	PART	SFN	_	20	obj	_	SpaceAfter=No
 23	、	、	PUNCT	EC	_	24	punct	_	SpaceAfter=No
 24	枪	枪	PART	SFN	_	22	conj	_	SpaceAfter=No
@@ -7637,13 +7637,13 @@
 16	日	日	NOUN	NNB	_	9	conj	_	SpaceAfter=No
 17	在	在	VERB	VV	_	21	advcl	_	SpaceAfter=No
 18	红磡	红磡	PROPN	NNP	_	20	nmod	_	SpaceAfter=No
-19	体育	体育	NOUN	NN	_	20	case:suff	_	SpaceAfter=No
+19	体育	体育	NOUN	NN	_	20	compound	_	SpaceAfter=No
 20	馆	馆	PART	SFN	_	17	obj	_	SpaceAfter=No
 21	举行	举行	VERB	VV	_	0	root	_	SpaceAfter=No
 22	入行	入行	VERB	VV	_	26	amod	_	SpaceAfter=No
 23	27	27	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
 24	周年	周年	NOUN	NNB	_	22	nmod:tmod	_	SpaceAfter=No
-25	演唱	演唱	VERB	VV	_	26	case:suff	_	SpaceAfter=No
+25	演唱	演唱	VERB	VV	_	26	compound	_	SpaceAfter=No
 26	会	会	PART	SFN	_	21	obj	_	SpaceAfter=No
 27	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
@@ -7654,7 +7654,7 @@
 3	丰臣	丰臣	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
 4	秀吉	秀吉	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
 5	在	在	ADP	IN	_	10	det	_	SpaceAfter=No
-6	日本	日本	PROPN	NNP	_	7	case:suff	_	SpaceAfter=No
+6	日本	日本	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 7	人	人	PART	SFN	_	8	nmod	_	SpaceAfter=No
 8	心中	心中	NOUN	NN	_	5	nmod	_	SpaceAfter=No
 9	的	的	PART	DEC	Case=Gen	5	case:dec	_	SpaceAfter=No
@@ -7700,7 +7700,7 @@
 
 # sent_id = test-s288
 # text = 太阳能发电把阳光转换成电能，可直接使用太阳能光伏（PV），或间接使用聚光太阳能热发电（CSP）。
-1	太阳	太阳	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+1	太阳	太阳	NOUN	NN	_	2	compound	_	SpaceAfter=No
 2	能	能	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	发电	发电	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 4	把	把	ADP	BB	_	5	case	_	SpaceAfter=No
@@ -7712,7 +7712,7 @@
 10	可	可	AUX	MD	_	12	aux	_	SpaceAfter=No
 11	直接	直接	ADV	RB	_	12	advmod	_	SpaceAfter=No
 12	使用	使用	VERB	VV	_	0	root	_	SpaceAfter=No
-13	太阳	太阳	NOUN	NN	_	14	case:suff	_	SpaceAfter=No
+13	太阳	太阳	NOUN	NN	_	14	compound	_	SpaceAfter=No
 14	能	能	PART	SFN	_	15	nmod	_	SpaceAfter=No
 15	光伏	光伏	NOUN	NN	_	12	obj	_	SpaceAfter=No
 16	（	（	PUNCT	(	_	17	punct	_	SpaceAfter=No
@@ -7723,8 +7723,8 @@
 21	间接	间接	ADV	RB	_	22	advmod	_	SpaceAfter=No
 22	使用	使用	VERB	VV	_	27	advcl	_	SpaceAfter=No
 23	聚光	聚光	NOUN	NN	_	26	nmod	_	SpaceAfter=No
-24	太阳	太阳	NOUN	NN	_	25	case:suff	_	SpaceAfter=No
-25	能	能	PART	SFN	_	26	case:suff	_	SpaceAfter=No
+24	太阳	太阳	NOUN	NN	_	25	compound	_	SpaceAfter=No
+25	能	能	PART	SFN	_	26	compound	_	SpaceAfter=No
 26	热	热	PART	SFN	_	22	obj	_	SpaceAfter=No
 27	发电	发电	VERB	VV	_	12	conj	_	SpaceAfter=No
 28	（	（	PUNCT	(	_	29	punct	_	SpaceAfter=No
@@ -7746,7 +7746,7 @@
 10	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 11	几	几	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
 12	名	名	NOUN	NNB	_	14	nmod	_	SpaceAfter=No
-13	看门	看门	VERB	VV	_	14	case:suff	_	SpaceAfter=No
+13	看门	看门	VERB	VV	_	14	compound	_	SpaceAfter=No
 14	妇	妇	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 15	把守	把守	VERB	VV	_	10	ccomp	_	SpaceAfter=No
 16	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
@@ -7828,18 +7828,18 @@
 9	新星	新星	NOUN	NN	_	0	root	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
 11	当	当	ADP	IN	_	14	case	_	SpaceAfter=No
-12	中子	中子	NOUN	NN	_	13	case:suff	_	SpaceAfter=No
+12	中子	中子	NOUN	NN	_	13	compound	_	SpaceAfter=No
 13	星	星	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 14	发生	发生	VERB	VV	_	21	ccomp	_	SpaceAfter=No
-15	自发	自发	VERB	VV	_	16	case:suff	_	SpaceAfter=No
+15	自发	自发	VERB	VV	_	16	compound	_	SpaceAfter=No
 16	性	性	PART	SFN	_	19	det	_	SpaceAfter=No
 17	的	的	PART	DEC	Case=Gen	16	case:dec	_	SpaceAfter=No
-18	塌缩	塌缩	VERB	VV	_	19	case:suff	_	SpaceAfter=No
+18	塌缩	塌缩	VERB	VV	_	19	compound	_	SpaceAfter=No
 19	变	变	PART	SFN	_	14	obj	_	SpaceAfter=No
 20	可能	可能	AUX	MD	_	21	aux	_	SpaceAfter=No
 21	成	成	VERB	VV	_	9	parataxis	_	SpaceAfter=No
 22	为	为	VERB	VC	_	21	mark	_	SpaceAfter=No
-23	夸克	夸克	NOUN	NN	_	24	case:suff	_	SpaceAfter=No
+23	夸克	夸克	NOUN	NN	_	24	compound	_	SpaceAfter=No
 24	星	星	PART	SFN	_	21	obj	_	SpaceAfter=No
 25	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
@@ -7849,7 +7849,7 @@
 2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	4	4	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	日	日	NOUN	NNB	_	7	nmod:tmod	_	SpaceAfter=No
-5	奇尔沙治	奇尔沙治	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	奇尔沙治	奇尔沙治	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	号	号	PART	SFN	_	7	nsubj	_	SpaceAfter=No
 7	离开	离开	VERB	VV	_	15	advcl	_	SpaceAfter=No
 8	舰队	舰队	NOUN	NN	_	7	obj	_	SpaceAfter=No
@@ -7871,12 +7871,12 @@
 5	3	3	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	PART	SFN	_	15	nmod:tmod	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
-8	奇尔沙治	奇尔沙治	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	奇尔沙治	奇尔沙治	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	号	号	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 10	再次	再次	ADV	RB	_	11	advmod	_	SpaceAfter=No
 11	前往	前往	VERB	VV	_	15	advcl	_	SpaceAfter=No
 12	西	西	NOUN	NN	_	14	nmod	_	SpaceAfter=No
-13	太平	太平	PROPN	NNP	_	14	case:suff	_	SpaceAfter=No
+13	太平	太平	PROPN	NNP	_	14	compound	_	SpaceAfter=No
 14	洋	洋	PART	SFN	_	11	obj	_	SpaceAfter=No
 15	巡航	巡航	VERB	VV	_	0	root	_	SpaceAfter=No
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
@@ -7897,7 +7897,7 @@
 12	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 13	南部	南部	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 14	为	为	AUX	VC	_	17	cop	_	SpaceAfter=No
-15	日本	日本	PROPN	NNP	_	16	case:suff	_	SpaceAfter=No
+15	日本	日本	PROPN	NNP	_	16	compound	_	SpaceAfter=No
 16	原	原	PART	SFN	_	17	nmod	_	SpaceAfter=No
 17	高原	高原	NOUN	NN	_	11	parataxis	_	SpaceAfter=No
 18	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
@@ -7937,9 +7937,9 @@
 4	是	是	AUX	VC	_	17	cop	_	SpaceAfter=No
 5	内	内	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 6	蒙古	蒙古	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
-7	自治	自治	VERB	VV	_	8	case:suff	_	SpaceAfter=No
+7	自治	自治	VERB	VV	_	8	compound	_	SpaceAfter=No
 8	区	区	PART	SFN	_	11	nmod	_	SpaceAfter=No
-9	巴彦淖尔	巴彦淖尔	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
+9	巴彦淖尔	巴彦淖尔	PROPN	NNP	_	10	compound	_	SpaceAfter=No
 10	市	市	PART	SFN	_	11	nmod	_	SpaceAfter=No
 11	杭锦后旗	杭锦后旗	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
 12	设立	设立	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
@@ -7952,7 +7952,7 @@
 19	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
 20	于	于	VERB	VV	_	19	mark	_	SpaceAfter=No
 21	杭锦后旗	杭锦后旗	PROPN	NNP	_	23	nmod	_	SpaceAfter=No
-22	陕坝	陕坝	PROPN	NNP	_	23	case:suff	_	SpaceAfter=No
+22	陕坝	陕坝	PROPN	NNP	_	23	compound	_	SpaceAfter=No
 23	镇	镇	PART	SFN	_	19	obj	_	SpaceAfter=No
 24	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
 25	学校	学校	NOUN	NN	_	43	nsubj	_	SpaceAfter=No
@@ -7997,7 +7997,7 @@
 17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
 18	《	《	PUNCT	(	_	21	punct	_	SpaceAfter=No
 19	法国	法国	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
-20	民法	民法	NOUN	NN	_	21	case:suff	_	SpaceAfter=No
+20	民法	民法	NOUN	NN	_	21	compound	_	SpaceAfter=No
 21	典	典	PART	SFN	_	12	obj	_	SpaceAfter=No
 22	》	》	PUNCT	)	_	21	punct	_	SpaceAfter=No
 23	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
@@ -8026,14 +8026,14 @@
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
 4	印度	印度	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
 5	大	大	PART	PFA	_	7	case:pref	_	SpaceAfter=No
-6	哲学	哲学	NOUN	NN	_	7	case:suff	_	SpaceAfter=No
+6	哲学	哲学	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	家	家	PART	SFN	_	17	nsubj	_	SpaceAfter=No
 8	商羯罗	商羯罗	PROPN	NNP	_	7	appos	_	SpaceAfter=No
 9	选出	选出	VERB	VV	_	17	advcl	_	SpaceAfter=No
 10	一些	一些	ADJ	JJ	_	14	amod	_	SpaceAfter=No
 11	重要	重要	ADJ	JJ	_	14	amod	_	SpaceAfter=No
 12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
-13	奥义	奥义	NOUN	NN	_	14	case:suff	_	SpaceAfter=No
+13	奥义	奥义	NOUN	NN	_	14	compound	_	SpaceAfter=No
 14	书	书	PART	SFN	_	9	obj	_	SpaceAfter=No
 15	作注	作注	VERB	VV	_	17	advcl	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
@@ -8042,7 +8042,7 @@
 19	为	为	AUX	VC	_	23	cop	_	SpaceAfter=No
 20	“	“	PUNCT	``	_	23	punct	_	SpaceAfter=No
 21	主要	主要	ADJ	JJ	_	23	amod	_	SpaceAfter=No
-22	奥义	奥义	NOUN	NN	_	23	case:suff	_	SpaceAfter=No
+22	奥义	奥义	NOUN	NN	_	23	compound	_	SpaceAfter=No
 23	书	书	PART	SFN	_	17	ccomp	_	SpaceAfter=No
 24	”	”	PUNCT	''	_	23	punct	_	SpaceAfter=No
 25	（	（	PUNCT	(	_	26	punct	_	SpaceAfter=No
@@ -8071,7 +8071,7 @@
 1	城市	城市	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	地标	地标	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 3	为	为	AUX	VC	_	5	cop	_	SpaceAfter=No
-4	伊欧拉	伊欧拉	PROPN	NNP	_	5	case:suff	_	SpaceAfter=No
+4	伊欧拉	伊欧拉	PROPN	NNP	_	5	compound	_	SpaceAfter=No
 5	湖	湖	PART	SFN	_	0	root	_	SpaceAfter=No
 6	（	（	PUNCT	(	_	7	punct	_	SpaceAfter=No
 7	Lake	Lake	X	FW	_	5	appos	_	_
@@ -8103,8 +8103,8 @@
 8	成	成	VERB	VV	_	0	root	_	SpaceAfter=No
 9	了	了	PART	AS	Aspect=Perf	8	case:aspect	_	SpaceAfter=No
 10	著名	著名	ADJ	JJ	_	13	amod	_	SpaceAfter=No
-11	水文	水文	NOUN	NN	_	12	case:suff	_	SpaceAfter=No
-12	学	学	PART	SFN	_	13	case:suff	_	SpaceAfter=No
+11	水文	水文	NOUN	NN	_	12	compound	_	SpaceAfter=No
+12	学	学	PART	SFN	_	13	compound	_	SpaceAfter=No
 13	家	家	PART	SFN	_	8	obj	_	SpaceAfter=No
 14	和	和	CCONJ	CC	_	22	cc	_	SpaceAfter=No
 15	加州	加州	PROPN	NNP	_	18	nmod	_	SpaceAfter=No
@@ -8112,7 +8112,7 @@
 17	伯克利	伯克利	PROPN	NNP	_	18	nmod	_	SpaceAfter=No
 18	分校	分校	NOUN	NN	_	22	det	_	SpaceAfter=No
 19	的	的	PART	DEC	Case=Gen	18	case:dec	_	SpaceAfter=No
-20	地质	地质	NOUN	NN	_	21	case:suff	_	SpaceAfter=No
+20	地质	地质	NOUN	NN	_	21	compound	_	SpaceAfter=No
 21	学	学	PART	SFN	_	22	nmod	_	SpaceAfter=No
 22	教授	教授	NOUN	NN	_	13	conj	_	SpaceAfter=No
 23	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
@@ -8138,7 +8138,7 @@
 3	很久	很久	ADJ	JJ	_	7	acl:relcl	_	SpaceAfter=No
 4	的	的	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No
 5	阿凯亚	阿凯亚	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
-6	首领	首领	NOUN	NN	_	7	case:suff	_	SpaceAfter=No
+6	首领	首领	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	们	们	PART	SFN	Number=Plur	9	nsubj	_	SpaceAfter=No
 8	纷纷	纷纷	ADV	RB	_	9	advmod	_	SpaceAfter=No
 9	回国	回国	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -8167,7 +8167,7 @@
 3	3	3	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	月	月	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No
 5	，	，	PUNCT	.	_	8	punct	_	SpaceAfter=No
-6	苏	苏	PROPN	NNP	_	7	case:suff	_	SpaceAfter=No
+6	苏	苏	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 7	军	军	PART	SFN	_	8	nsubj	_	SpaceAfter=No
 8	攻打	攻打	VERB	VV	_	0	root	_	SpaceAfter=No
 9	柯尼斯堡	柯尼斯堡	PROPN	NNP	_	8	obj	_	SpaceAfter=No
@@ -8192,7 +8192,7 @@
 15	了	了	PART	AS	Aspect=Perf	14	case:aspect	_	SpaceAfter=No
 16	电影	电影	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 17	制作	制作	NOUN	NN	_	20	nmod	_	SpaceAfter=No
-18	国际	国际	NOUN	NN	_	19	case:suff	_	SpaceAfter=No
+18	国际	国际	NOUN	NN	_	19	compound	_	SpaceAfter=No
 19	化	化	PART	SFN	_	20	nmod	_	SpaceAfter=No
 20	水平	水平	NOUN	NN	_	22	det	_	SpaceAfter=No
 21	的	的	PART	DEC	Case=Gen	20	case:dec	_	SpaceAfter=No
@@ -8259,7 +8259,7 @@
 13	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
 14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No
 15	个	个	NOUN	NNB	_	17	nmod	_	SpaceAfter=No
-16	火车	火车	NOUN	NN	_	17	case:suff	_	SpaceAfter=No
+16	火车	火车	NOUN	NN	_	17	compound	_	SpaceAfter=No
 17	站	站	PART	SFN	_	4	conj	_	SpaceAfter=No
 18	（	（	PUNCT	(	_	19	punct	_	SpaceAfter=No
 19	由	由	VERB	VV	_	4	parataxis	_	SpaceAfter=No
@@ -8275,7 +8275,7 @@
 29	和	和	CCONJ	CC	_	30	cc	_	SpaceAfter=No
 30	斯文堡	斯文堡	PROPN	NNP	_	28	conj	_	SpaceAfter=No
 31	的	的	PART	DEC	_	27	mark:relcl	_	SpaceAfter=No
-32	公交	公交	NOUN	NN	_	33	case:suff	_	SpaceAfter=No
+32	公交	公交	NOUN	NN	_	33	compound	_	SpaceAfter=No
 33	车	车	PART	SFN	_	4	conj	_	SpaceAfter=No
 34	（	（	PUNCT	(	_	35	punct	_	SpaceAfter=No
 35	由	由	VERB	VV	_	2	parataxis	_	SpaceAfter=No
@@ -8294,7 +8294,7 @@
 4	挪威	挪威	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
 5	国会	国会	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 6	宪法	宪法	NOUN	NN	_	8	nmod	_	SpaceAfter=No
-7	委员	委员	NOUN	NN	_	8	case:suff	_	SpaceAfter=No
+7	委员	委员	NOUN	NN	_	8	compound	_	SpaceAfter=No
 8	会	会	PART	SFN	_	20	nsubj	_	SpaceAfter=No
 9	为	为	ADP	IN	_	11	case	_	SpaceAfter=No
 10	此	此	DET	DT	_	11	det	_	SpaceAfter=No
@@ -8303,7 +8303,7 @@
 13	召开	召开	VERB	VV	_	20	advcl	_	SpaceAfter=No
 14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No
 15	项	项	NOUN	NNB	_	17	nmod	_	SpaceAfter=No
-16	公听	公听	VERB	VV	_	17	case:suff	_	SpaceAfter=No
+16	公听	公听	VERB	VV	_	17	compound	_	SpaceAfter=No
 17	会	会	PART	SFN	_	13	obj	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
 19	以	以	ADV	RB	_	20	mark	_	SpaceAfter=No
@@ -8337,7 +8337,7 @@
 6	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 7	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
 8	大型	大型	NOUN	NN	_	11	nmod	_	SpaceAfter=No
-9	地下	地下	NOUN	NN	_	10	case:suff	_	SpaceAfter=No
+9	地下	地下	NOUN	NN	_	10	compound	_	SpaceAfter=No
 10	水	水	PART	SFN	_	11	nmod	_	SpaceAfter=No
 11	地层	地层	NOUN	NN	_	6	obj	_	SpaceAfter=No
 12	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
@@ -8366,7 +8366,7 @@
 12	作用	作用	NOUN	NN	_	5	obj	_	SpaceAfter=No
 13	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 14	使	使	VERB	VV	Voice=Cau	3	xcomp	_	SpaceAfter=No
-15	天王	天王	PROPN	NNP	_	16	case:suff	_	SpaceAfter=No
+15	天王	天王	PROPN	NNP	_	16	compound	_	SpaceAfter=No
 16	星	星	PART	SFN	_	19	det	_	SpaceAfter=No
 17	的	的	PART	DEC	Case=Gen	16	case:dec	_	SpaceAfter=No
 18	轨道	轨道	NOUN	NN	_	19	nmod	_	SpaceAfter=No
@@ -8376,7 +8376,7 @@
 22	，	，	PUNCT	,	_	34	punct	_	SpaceAfter=No
 23	也	也	ADV	RB	_	34	mark	_	SpaceAfter=No
 24	就是	就是	AUX	VC	_	34	cop	_	SpaceAfter=No
-25	天文	天文	NOUN	NN	_	26	case:suff	_	SpaceAfter=No
+25	天文	天文	NOUN	NN	_	26	compound	_	SpaceAfter=No
 26	学	学	PART	SFN	_	29	advmod	_	SpaceAfter=No
 27	上	上	ADP	IN	_	26	acl	_	SpaceAfter=No
 28	所	所	ADV	RB	_	29	mark	_	SpaceAfter=No
@@ -8409,7 +8409,7 @@
 1	工厂	工厂	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 2	在	在	VERB	VV	_	7	advcl	_	SpaceAfter=No
 3	德国	德国	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
-4	西北	西北	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+4	西北	西北	NOUN	NN	_	5	compound	_	SpaceAfter=No
 5	部	部	PART	SFN	_	2	obj	_	SpaceAfter=No
 6	到处	到处	ADV	RB	_	7	advmod	_	SpaceAfter=No
 7	购置	购置	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -8433,7 +8433,7 @@
 13	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 14	决定	决定	VERB	VV	_	0	root	_	SpaceAfter=No
 15	实行	实行	VERB	VV	_	14	xcomp	_	SpaceAfter=No
-16	私有	私有	VERB	VV	_	17	case:suff	_	SpaceAfter=No
+16	私有	私有	VERB	VV	_	17	compound	_	SpaceAfter=No
 17	化	化	PART	SFV	_	18	amod	_	SpaceAfter=No
 18	计划	计划	NOUN	NN	_	15	obj	_	SpaceAfter=No
 19	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
@@ -8517,7 +8517,7 @@
 13	的	的	PART	DEC	Case=Gen	12	case:dec	_	SpaceAfter=No
 14	阿斯顿维拉	阿斯顿维拉	PROPN	NNP	_	0	root	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
-16	转会	转会	VERB	VV	_	17	case:suff	_	SpaceAfter=No
+16	转会	转会	VERB	VV	_	17	compound	_	SpaceAfter=No
 17	费	费	PART	SFN	_	21	nsubj	_	SpaceAfter=No
 18	为	为	AUX	VC	_	21	cop	_	SpaceAfter=No
 19	500万	500万	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No
@@ -8531,10 +8531,10 @@
 2	小镇	小镇	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
 4	于	于	VERB	VV	_	3	mark	_	SpaceAfter=No
-5	布莱克伍德	布莱克伍德	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	布莱克伍德	布莱克伍德	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	河	河	PART	SFN	_	7	nsubj	_	SpaceAfter=No
 7	流入	流入	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No
-8	弗林德斯	弗林德斯	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	弗林德斯	弗林德斯	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	湾	湾	PART	SFN	_	7	obj	_	SpaceAfter=No
 10	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
 11	河口	河口	NOUN	NN	_	3	obj	_	SpaceAfter=No
@@ -8545,7 +8545,7 @@
 # text = 古代，奥塞提亚语曾采用希腊字母拼写，现代则使用一套改良过的西里尔字母。
 1	古代	古代	NOUN	NN	_	6	nmod:tmod	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
-3	奥塞提亚	奥塞提亚	PROPN	NNP	_	4	case:suff	_	SpaceAfter=No
+3	奥塞提亚	奥塞提亚	PROPN	NNP	_	4	compound	_	SpaceAfter=No
 4	语	语	PART	SFN	_	6	nsubj	_	SpaceAfter=No
 5	曾	曾	ADV	RB	_	6	advmod	_	SpaceAfter=No
 6	采用	采用	VERB	VV	_	13	advcl	_	SpaceAfter=No
@@ -8569,7 +8569,7 @@
 # text = 希拉蕊的得票率只有37%。
 1	希拉蕊	希拉蕊	PROPN	NNP	_	4	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
-3	得票	得票	VERB	VV	_	4	case:suff	_	SpaceAfter=No
+3	得票	得票	VERB	VV	_	4	compound	_	SpaceAfter=No
 4	率	率	PART	SFN	_	5	nsubj	_	SpaceAfter=No
 5	只有	只有	VERB	VV	_	0	root	_	SpaceAfter=No
 6	37%	37%	NUM	CD	NumType=Card	5	obj	_	SpaceAfter=No
@@ -8589,16 +8589,16 @@
 # sent_id = test-s323
 # text = 尽管博伊西县、内兹佩尔塞县和肖肖尼县与奥怀希县同时成立，但是因它们是由华盛顿领地成立的，因此直至1864年2月都不被爱达荷领地承认。
 1	尽管	尽管	ADP	IN	_	14	case	_	SpaceAfter=No
-2	博伊西	博伊西	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+2	博伊西	博伊西	PROPN	NNP	_	3	compound	_	SpaceAfter=No
 3	县	县	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 4	、	、	PUNCT	EC	_	6	punct	_	SpaceAfter=No
-5	内兹佩尔塞	内兹佩尔塞	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	内兹佩尔塞	内兹佩尔塞	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	县	县	PART	SFN	_	3	conj	_	SpaceAfter=No
 7	和	和	CCONJ	CC	_	9	cc	_	SpaceAfter=No
-8	肖肖尼	肖肖尼	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	肖肖尼	肖肖尼	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	县	县	PART	SFN	_	3	conj	_	SpaceAfter=No
 10	与	与	ADP	IN	_	12	case	_	SpaceAfter=No
-11	奥怀希	奥怀希	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
+11	奥怀希	奥怀希	PROPN	NNP	_	12	compound	_	SpaceAfter=No
 12	县	县	PART	SFN	_	14	obl	_	SpaceAfter=No
 13	同时	同时	NOUN	NN	_	14	nmod:tmod	_	SpaceAfter=No
 14	成立	成立	VERB	VV	_	38	ccomp	_	SpaceAfter=No
@@ -8653,7 +8653,7 @@
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
 4	农	农	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 5	用	用	VERB	VV	_	6	amod	_	SpaceAfter=No
-6	机械	机械	NOUN	NN	_	7	case:suff	_	SpaceAfter=No
+6	机械	机械	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	厂	厂	PART	SFN	_	13	nsubj	_	SpaceAfter=No
 8	也	也	ADV	RB	_	13	mark	_	SpaceAfter=No
 9	在	在	ADP	IN	_	12	case	_	SpaceAfter=No
@@ -8679,7 +8679,7 @@
 4	时代	时代	NOUN	NN	_	6	obl	_	SpaceAfter=No
 5	就	就	ADV	RB	_	6	mark	_	SpaceAfter=No
 6	喜欢	喜欢	VERB	VV	_	0	root	_	SpaceAfter=No
-7	摩托	摩托	NOUN	NN	_	8	case:suff	_	SpaceAfter=No
+7	摩托	摩托	NOUN	NN	_	8	compound	_	SpaceAfter=No
 8	车	车	PART	SFN	_	6	obj	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 10	他	他	PRON	PRP	Person=3	24	nsubj	_	SpaceAfter=No
@@ -8688,7 +8688,7 @@
 13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
 14	辆	辆	NOUN	NNB	_	17	nmod	_	SpaceAfter=No
 15	竞速	竞速	NOUN	NN	_	17	nmod	_	SpaceAfter=No
-16	摩托	摩托	NOUN	NN	_	17	case:suff	_	SpaceAfter=No
+16	摩托	摩托	NOUN	NN	_	17	compound	_	SpaceAfter=No
 17	车	车	PART	SFN	_	11	obj	_	SpaceAfter=No
 18	并	并	ADV	RB	_	24	mark	_	SpaceAfter=No
 19	在	在	ADP	IN	_	22	case	_	SpaceAfter=No
@@ -8732,15 +8732,15 @@
 
 # sent_id = test-s328
 # text = 莫里逊组过去是个多样化的动物群。
-1	莫里逊	莫里逊	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	莫里逊	莫里逊	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	组	组	PART	SFN	_	10	nsubj	_	SpaceAfter=No
 3	过去	过去	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No
 4	是	是	AUX	VC	_	10	cop	_	SpaceAfter=No
 5	个	个	NOUN	NNB	_	10	nmod	_	SpaceAfter=No
-6	多样	多样	ADJ	JJ	_	7	case:suff	_	SpaceAfter=No
+6	多样	多样	ADJ	JJ	_	7	compound	_	SpaceAfter=No
 7	化	化	PART	SFV	_	10	acl:relcl	_	SpaceAfter=No
 8	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
-9	动物	动物	NOUN	NN	_	10	case:suff	_	SpaceAfter=No
+9	动物	动物	NOUN	NN	_	10	compound	_	SpaceAfter=No
 10	群	群	PART	SFN	_	0	root	_	SpaceAfter=No
 11	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
@@ -8763,7 +8763,7 @@
 15	直挂	直挂	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No
 16	的	的	PART	DEC	_	15	mark:relcl	_	SpaceAfter=No
 17	奥兰治	奥兰治	PROPN	NNP	_	20	nmod	_	SpaceAfter=No
-18	自由	自由	NOUN	NN	_	19	case:suff	_	SpaceAfter=No
+18	自由	自由	NOUN	NN	_	19	compound	_	SpaceAfter=No
 19	邦	邦	PART	SFN	_	20	nmod	_	SpaceAfter=No
 20	国旗	国旗	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
 21	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
@@ -8806,7 +8806,7 @@
 25	并且	并且	CCONJ	CC	_	36	cc	_	SpaceAfter=No
 26	是	是	AUX	VC	_	36	cop	_	SpaceAfter=No
 27	阿方索	阿方索	PROPN	NNP	_	29	nmod	_	SpaceAfter=No
-28	继承	继承	VERB	VV	_	29	case:suff	_	SpaceAfter=No
+28	继承	继承	VERB	VV	_	29	compound	_	SpaceAfter=No
 29	人	人	PART	SFN	_	36	det	_	SpaceAfter=No
 30	残酷	残酷	ADJ	JJ	_	32	amod	_	SpaceAfter=No
 31	的	的	PART	DEC	_	30	mark:relcl	_	SpaceAfter=No
@@ -8848,7 +8848,7 @@
 7	了	了	PART	AS	Aspect=Perf	6	case:aspect	_	SpaceAfter=No
 8	“	“	PUNCT	``	_	13	punct	_	SpaceAfter=No
 9	公认	公认	NOUN	NN	_	11	nmod	_	SpaceAfter=No
-10	候选	候选	VERB	VV	_	11	case:suff	_	SpaceAfter=No
+10	候选	候选	VERB	VV	_	11	compound	_	SpaceAfter=No
 11	人	人	PART	SFN	_	13	nsubj	_	SpaceAfter=No
 12	公开	公开	ADV	RB	_	13	advmod	_	SpaceAfter=No
 13	募集	募集	VERB	VV	_	15	amod	_	SpaceAfter=No
@@ -8874,7 +8874,7 @@
 33	一	一	NUM	CD	NumType=Card	34	nummod	_	SpaceAfter=No
 34	方法	方法	NOUN	NN	_	31	obj	_	SpaceAfter=No
 35	的	的	PART	DEC	_	31	mark:relcl	_	SpaceAfter=No
-36	候选	候选	VERB	VV	_	37	case:suff	_	SpaceAfter=No
+36	候选	候选	VERB	VV	_	37	compound	_	SpaceAfter=No
 37	人	人	PART	SFN	_	27	obj	_	SpaceAfter=No
 38	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
@@ -8889,7 +8889,7 @@
 7	没有	没有	VERB	VV	_	0	root	_	SpaceAfter=No
 8	街名	街名	NOUN	NN	_	7	obj	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No
-10	当地	当地	NOUN	NN	_	11	case:suff	_	SpaceAfter=No
+10	当地	当地	NOUN	NN	_	11	compound	_	SpaceAfter=No
 11	人	人	PART	SFN	_	17	nsubj	_	SpaceAfter=No
 12	仅	仅	ADV	RB	_	17	advmod	_	SpaceAfter=No
 13	以	以	ADP	IN	_	15	case	_	SpaceAfter=No
@@ -8921,12 +8921,12 @@
 17	观众	观众	NOUN	NN	_	18	nsubj	_	SpaceAfter=No
 18	收看	收看	VERB	VV	_	16	ccomp	_	SpaceAfter=No
 19	〈	〈	PUNCT	(	_	21	punct	_	SpaceAfter=No
-20	新闻	新闻	NOUN	NN	_	21	case:suff	_	SpaceAfter=No
+20	新闻	新闻	NOUN	NN	_	21	compound	_	SpaceAfter=No
 21	炮	炮	PART	SFN	_	18	obj	_	SpaceAfter=No
 22	〉	〉	PUNCT	)	_	21	punct	_	SpaceAfter=No
 23	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 24	新闻	新闻	NOUN	NN	_	27	nmod	_	SpaceAfter=No
-25	摄影	摄影	NOUN	NN	_	26	case:suff	_	SpaceAfter=No
+25	摄影	摄影	NOUN	NN	_	26	compound	_	SpaceAfter=No
 26	棚	棚	PART	SFN	_	27	nmod	_	SpaceAfter=No
 27	灯光	灯光	NOUN	NN	_	28	nsubj	_	SpaceAfter=No
 28	调暗	调暗	VERB	VV	_	16	parataxis	_	SpaceAfter=No
@@ -9011,7 +9011,7 @@
 14	而	而	CCONJ	CC	_	16	cc	_	SpaceAfter=No
 15	不	不	ADV	RB	Polarity=Neg	16	advmod	_	SpaceAfter=No
 16	重	重	VERB	VV	_	12	conj	_	SpaceAfter=No
-17	实用	实用	ADJ	JJ	_	18	case:suff	_	SpaceAfter=No
+17	实用	实用	ADJ	JJ	_	18	compound	_	SpaceAfter=No
 18	性	性	PART	SFN	_	16	obj	_	SpaceAfter=No
 19	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
@@ -9054,7 +9054,7 @@
 10	人	人	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 11	来	来	ADV	RB	_	12	mark	_	SpaceAfter=No
 12	援助	援助	VERB	VV	_	7	ccomp	_	SpaceAfter=No
-13	地下	地下	NOUN	NN	_	14	case:suff	_	SpaceAfter=No
+13	地下	地下	NOUN	NN	_	14	compound	_	SpaceAfter=No
 14	军	军	PART	SFN	_	12	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No
 16	但	但	ADV	RB	_	28	mark	_	SpaceAfter=No
@@ -9094,7 +9094,7 @@
 18	出发	出发	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No
 19	的	的	PART	DEC	_	18	mark:relcl	_	SpaceAfter=No
 20	日本	日本	PROPN	NNP	_	22	nmod	_	SpaceAfter=No
-21	战国	战国	NOUN	NN	_	22	case:suff	_	SpaceAfter=No
+21	战国	战国	NOUN	NN	_	22	compound	_	SpaceAfter=No
 22	迷	迷	PART	SFN	_	13	obj	_	SpaceAfter=No
 23	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
 24	也	也	ADV	RB	_	26	mark	_	SpaceAfter=No
@@ -9107,7 +9107,7 @@
 31	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
 32	创下	创下	VERB	VV	_	26	conj	_	SpaceAfter=No
 33	平均	平均	ADJ	JJ	_	35	amod	_	SpaceAfter=No
-34	收视	收视	VERB	VV	_	35	case:suff	_	SpaceAfter=No
+34	收视	收视	VERB	VV	_	35	compound	_	SpaceAfter=No
 35	率	率	PART	SFN	_	36	nsubj	_	SpaceAfter=No
 36	31.8%	31.8%	NUM	CD	NumType=Card	38	det	_	SpaceAfter=No
 37	的	的	PART	DEC	Case=Gen	36	case:dec	_	SpaceAfter=No
@@ -9116,11 +9116,11 @@
 
 # sent_id = test-s340
 # text = 女真语最初使用女真文，后来这种文字渐渐消亡。
-1	女真	女真	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	女真	女真	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	语	语	PART	SFN	_	4	nsubj	_	SpaceAfter=No
 3	最初	最初	NOUN	NN	_	4	nmod:tmod	_	SpaceAfter=No
 4	使用	使用	VERB	VV	_	0	root	_	SpaceAfter=No
-5	女真	女真	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	女真	女真	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	文	文	PART	SFN	_	4	obj	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
 8	后来	后来	NOUN	NN	_	13	nmod:tmod	_	SpaceAfter=No
@@ -9212,7 +9212,7 @@
 19	评断	评断	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 20	印象	印象	NOUN	NN	_	13	obj	_	SpaceAfter=No
 21	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No
-22	千阳	千阳	PROPN	NNP	_	23	case:suff	_	SpaceAfter=No
+22	千阳	千阳	PROPN	NNP	_	23	compound	_	SpaceAfter=No
 23	号	号	PART	SFN	_	28	nsubj	_	SpaceAfter=No
 24	也	也	ADV	RB	_	28	mark	_	SpaceAfter=No
 25	特别	特别	ADV	RB	_	28	advmod	_	SpaceAfter=No
@@ -9246,7 +9246,7 @@
 19	的	的	PART	DEC	Case=Gen	18	case:dec	_	SpaceAfter=No
 20	家	家	NOUN	NN	_	16	obj	_	SpaceAfter=No
 21	和	和	CCONJ	CC	_	23	cc	_	SpaceAfter=No
-22	工作	工作	NOUN	NN	_	23	case:suff	_	SpaceAfter=No
+22	工作	工作	NOUN	NN	_	23	compound	_	SpaceAfter=No
 23	室	室	PART	SFN	_	20	conj	_	SpaceAfter=No
 24	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
@@ -9258,7 +9258,7 @@
 4	止	止	NOUN	NN	_	13	advcl	_	SpaceAfter=No
 5	他	他	PRON	PRP	Person=3	10	nsubj	_	SpaceAfter=No
 6	在	在	ADP	IN	_	8	case	_	SpaceAfter=No
-7	国家	国家	NOUN	NN	_	8	case:suff	_	SpaceAfter=No
+7	国家	国家	NOUN	NN	_	8	compound	_	SpaceAfter=No
 8	队	队	PART	SFN	_	10	nmod	_	SpaceAfter=No
 9	最	最	ADV	RB	_	10	advmod	_	SpaceAfter=No
 10	出名	出名	ADJ	JJ	_	12	acl:relcl	_	SpaceAfter=No
@@ -9281,9 +9281,9 @@
 27	于	于	VERB	VV	_	26	mark	_	SpaceAfter=No
 28	2008	2008	NUM	CD	NumType=Card	29	nummod	_	SpaceAfter=No
 29	年	年	NOUN	NNB	_	33	nmod	_	SpaceAfter=No
-30	欧锦	欧锦	PROPN	NNP	_	31	case:suff	_	SpaceAfter=No
+30	欧锦	欧锦	PROPN	NNP	_	31	compound	_	SpaceAfter=No
 31	赛	赛	PART	SFN	_	33	nmod	_	SpaceAfter=No
-32	决赛	决赛	NOUN	NN	_	33	case:suff	_	SpaceAfter=No
+32	决赛	决赛	NOUN	NN	_	33	compound	_	SpaceAfter=No
 33	圈	圈	PART	SFN	_	27	obj	_	SpaceAfter=No
 34	之外	之外	ADP	IN	Case=Gen	33	acl	_	SpaceAfter=No
 35	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
@@ -9315,7 +9315,7 @@
 1	姆明	姆明	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
 2	小说	小说	NOUN	NN	_	6	nmod	_	SpaceAfter=No
 3	系列	系列	NOUN	NN	_	6	nmod	_	SpaceAfter=No
-4	英	英	PROPN	NNP	_	5	case:suff	_	SpaceAfter=No
+4	英	英	PROPN	NNP	_	5	compound	_	SpaceAfter=No
 5	语	语	PART	SFN	_	6	nmod	_	SpaceAfter=No
 6	版本	版本	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
 7	及	及	CCONJ	CC	_	9	cc	_	SpaceAfter=No
@@ -9330,7 +9330,7 @@
 2	中心	中心	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	前身	前身	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 4	为	为	AUX	VC	_	6	cop	_	SpaceAfter=No
-5	始创	始创	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	始创	始创	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	行	行	PART	SFN	_	0	root	_	SpaceAfter=No
 7	、	、	PUNCT	EC	_	9	punct	_	SpaceAfter=No
 8	凯声	凯声	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
@@ -9340,11 +9340,11 @@
 12	戏院	戏院	NOUN	NN	_	6	conj	_	SpaceAfter=No
 13	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 14	当中	当中	NOUN	NN	_	16	nmod	_	SpaceAfter=No
-15	始创	始创	PROPN	NNP	_	16	case:suff	_	SpaceAfter=No
+15	始创	始创	PROPN	NNP	_	16	compound	_	SpaceAfter=No
 16	行	行	PART	SFN	_	20	det	_	SpaceAfter=No
 17	的	的	PART	DEC	Case=Gen	16	case:dec	_	SpaceAfter=No
-18	圆拱	圆拱	ADJ	JJ	_	19	case:suff	_	SpaceAfter=No
-19	形	形	PART	SFN	_	20	case:suff	_	SpaceAfter=No
+18	圆拱	圆拱	ADJ	JJ	_	19	compound	_	SpaceAfter=No
+19	形	形	PART	SFN	_	20	compound	_	SpaceAfter=No
 20	顶	顶	PART	SFN	_	24	nsubj	_	SpaceAfter=No
 21	为	为	AUX	VC	_	24	cop	_	SpaceAfter=No
 22	其	其	PRON	PRP	Person=3	24	nmod	_	SpaceAfter=No
@@ -9356,13 +9356,13 @@
 28	为	为	VERB	VC	_	27	mark	_	SpaceAfter=No
 29	商场	商场	NOUN	NN	_	27	obj	_	SpaceAfter=No
 30	及	及	CCONJ	CC	_	33	cc	_	SpaceAfter=No
-31	办公	办公	VERB	VV	_	32	case:suff	_	SpaceAfter=No
+31	办公	办公	VERB	VV	_	32	compound	_	SpaceAfter=No
 32	室	室	PART	SFN	_	33	nmod	_	SpaceAfter=No
 33	大厦	大厦	NOUN	NN	_	29	conj	_	SpaceAfter=No
 34	，	，	PUNCT	,	_	45	punct	_	SpaceAfter=No
 35	并	并	ADV	RB	_	36	mark	_	SpaceAfter=No
 36	设	设	VERB	VV	_	45	advcl	_	SpaceAfter=No
-37	停车	停车	VERB	VV	_	38	case:suff	_	SpaceAfter=No
+37	停车	停车	VERB	VV	_	38	compound	_	SpaceAfter=No
 38	场	场	PART	SFN	_	36	obj	_	SpaceAfter=No
 39	，	，	PUNCT	,	_	45	punct	_	SpaceAfter=No
 40	于	于	ADP	IN	_	42	case	_	SpaceAfter=No
@@ -9408,8 +9408,8 @@
 4	时	时	ADP	IN	_	3	acl	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No
 6	古	古	PART	PFA	_	7	case:pref	_	SpaceAfter=No
-7	生物	生物	NOUN	NN	_	8	case:suff	_	SpaceAfter=No
-8	学	学	PART	SFN	_	9	case:suff	_	SpaceAfter=No
+7	生物	生物	NOUN	NN	_	8	compound	_	SpaceAfter=No
+8	学	学	PART	SFN	_	9	compound	_	SpaceAfter=No
 9	家	家	PART	SFN	_	21	nsubj	_	SpaceAfter=No
 10	根据	根据	ADP	IN	_	19	case	_	SpaceAfter=No
 11	在	在	VERB	VV	_	13	advcl	_	SpaceAfter=No
@@ -9417,7 +9417,7 @@
 13	发现	发现	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No
 14	的	的	PART	DEC	_	13	mark:relcl	_	SpaceAfter=No
 15	始	始	PART	PFA	_	16	case:pref	_	SpaceAfter=No
-16	新世	新世	NOUN	NN	_	17	case:suff	_	SpaceAfter=No
+16	新世	新世	NOUN	NN	_	17	compound	_	SpaceAfter=No
 17	晚期	晚期	NOUN	NN	_	19	det	_	SpaceAfter=No
 18	的	的	PART	DEC	Case=Gen	17	case:dec	_	SpaceAfter=No
 19	化石	化石	NOUN	NN	_	21	obl	_	SpaceAfter=No
@@ -9476,9 +9476,9 @@
 4	在	在	ADP	IN	_	10	case	_	SpaceAfter=No
 5	国际	国际	NOUN	NN	_	10	nmod	_	SpaceAfter=No
 6	动物	动物	NOUN	NN	_	10	nmod	_	SpaceAfter=No
-7	命名	命名	VERB	VV	_	8	case:suff	_	SpaceAfter=No
+7	命名	命名	VERB	VV	_	8	compound	_	SpaceAfter=No
 8	法	法	PART	SFN	_	10	nmod	_	SpaceAfter=No
-9	委员	委员	NOUN	NN	_	10	case:suff	_	SpaceAfter=No
+9	委员	委员	NOUN	NN	_	10	compound	_	SpaceAfter=No
 10	会	会	PART	SFN	_	14	nmod	_	SpaceAfter=No
 11	经过	经过	ADP	IN	_	13	case	_	SpaceAfter=No
 12	多	多	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
@@ -9504,7 +9504,7 @@
 
 # sent_id = test-s354
 # text = 始镜猴科有可以抓住东西的手及脚，手指及脚趾有指甲而没有爪。
-1	始镜猴	始镜猴	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+1	始镜猴	始镜猴	NOUN	NN	_	2	compound	_	SpaceAfter=No
 2	科	科	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 4	可以	可以	AUX	MD	_	5	aux	_	SpaceAfter=No
@@ -9552,7 +9552,7 @@
 23	当年	当年	NOUN	NN	_	25	nmod:tmod	_	SpaceAfter=No
 24	最	最	ADV	RB	_	25	advmod	_	SpaceAfter=No
 25	富	富	VERB	VV	_	31	acl:relcl	_	SpaceAfter=No
-26	戏剧	戏剧	NOUN	NN	_	27	case:suff	_	SpaceAfter=No
+26	戏剧	戏剧	NOUN	NN	_	27	compound	_	SpaceAfter=No
 27	性	性	PART	SFN	_	25	obj	_	SpaceAfter=No
 28	的	的	PART	DEC	_	25	mark:relcl	_	SpaceAfter=No
 29	“	“	PUNCT	``	_	31	punct	_	SpaceAfter=No
@@ -9570,7 +9570,7 @@
 5	夏	夏	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 6	就	就	ADV	RB	_	7	mark	_	SpaceAfter=No
 7	入选	入选	VERB	VV	_	0	root	_	SpaceAfter=No
-8	四川	四川	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	四川	四川	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	队	队	PART	SFN	_	7	obj	_	SpaceAfter=No
 10	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
@@ -9581,9 +9581,9 @@
 3	姚	姚	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No
 4	福信	福信	PROPN	NNP	_	3	flat:name	_	SpaceAfter=No
 5	在	在	ADP	IN	_	11	case	_	SpaceAfter=No
-6	辽阳	辽阳	PROPN	NNP	_	7	case:suff	_	SpaceAfter=No
+6	辽阳	辽阳	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 7	市	市	PART	SFN	_	11	nmod	_	SpaceAfter=No
-8	看守	看守	VERB	VV	_	9	case:suff	_	SpaceAfter=No
+8	看守	看守	VERB	VV	_	9	compound	_	SpaceAfter=No
 9	所	所	PART	SFN	_	11	nmod	_	SpaceAfter=No
 10	拘留	拘留	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 11	期间	期间	NOUN	NN	_	13	obl	_	SpaceAfter=No
@@ -9615,14 +9615,14 @@
 2	担任	担任	VERB	VV	_	0	root	_	SpaceAfter=No
 3	多	多	PART	PFA	_	4	case:pref	_	SpaceAfter=No
 4	媒体	媒体	NOUN	NN	_	6	nmod	_	SpaceAfter=No
-5	音乐	音乐	NOUN	NN	_	6	case:suff	_	SpaceAfter=No
+5	音乐	音乐	NOUN	NN	_	6	compound	_	SpaceAfter=No
 6	剧	剧	PART	SFN	_	19	det	_	SpaceAfter=No
 7	《	《	PUNCT	(	_	8	punct	_	SpaceAfter=No
 8	琥珀	琥珀	NOUN	NN	_	6	appos	_	SpaceAfter=No
 9	》	》	PUNCT	)	_	15	punct	_	SpaceAfter=No
 10	以及	以及	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 11	儿童	儿童	NOUN	NN	_	13	nmod	_	SpaceAfter=No
-12	狂欢	狂欢	VERB	VV	_	13	case:suff	_	SpaceAfter=No
+12	狂欢	狂欢	VERB	VV	_	13	compound	_	SpaceAfter=No
 13	剧	剧	PART	SFN	_	8	conj	_	SpaceAfter=No
 14	《	《	PUNCT	(	_	15	punct	_	SpaceAfter=No
 15	魔山	魔山	NOUN	NN	_	13	appos	_	SpaceAfter=No
@@ -9678,7 +9678,7 @@
 42	人气	人气	NOUN	NN	_	38	obj	_	SpaceAfter=No
 43	与	与	CCONJ	CC	_	48	cc	_	SpaceAfter=No
 44	在	在	ADP	IN	_	48	det	_	SpaceAfter=No
-45	时尚	时尚	NOUN	NN	_	46	case:suff	_	SpaceAfter=No
+45	时尚	时尚	NOUN	NN	_	46	compound	_	SpaceAfter=No
 46	界	界	PART	SFN	_	44	nmod	_	SpaceAfter=No
 47	的	的	PART	DEC	Case=Gen	44	case:dec	_	SpaceAfter=No
 48	地位	地位	NOUN	NN	_	42	conj	_	SpaceAfter=No
@@ -9688,7 +9688,7 @@
 # text = 例如，猎户座大星云有单纯的发射谱线，是典型的气体特征；仙女座星系的谱线特征如同恒星。
 1	例如	例如	VERB	VV	_	0	root	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
-3	猎户	猎户	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+3	猎户	猎户	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	座	座	PART	SFN	_	6	nmod	_	SpaceAfter=No
 5	大	大	PART	PFA	_	6	case:pref	_	SpaceAfter=No
 6	星云	星云	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
@@ -9704,7 +9704,7 @@
 16	气体	气体	NOUN	NN	_	17	nmod	_	SpaceAfter=No
 17	特征	特征	NOUN	NN	_	7	ccomp	_	SpaceAfter=No
 18	；	；	PUNCT	:	_	25	punct	_	SpaceAfter=No
-19	仙女	仙女	NOUN	NN	_	20	case:suff	_	SpaceAfter=No
+19	仙女	仙女	NOUN	NN	_	20	compound	_	SpaceAfter=No
 20	座	座	PART	SFN	_	21	nmod	_	SpaceAfter=No
 21	星系	星系	NOUN	NN	_	24	det	_	SpaceAfter=No
 22	的	的	PART	DEC	Case=Gen	21	case:dec	_	SpaceAfter=No
@@ -9725,11 +9725,11 @@
 7	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No
 8	杰文斯	杰文斯	PROPN	NNP	_	18	nsubj	_	SpaceAfter=No
 9	在	在	VERB	VV	_	18	advcl	_	SpaceAfter=No
-10	黑斯廷斯	黑斯廷斯	PROPN	NNP	_	11	case:suff	_	SpaceAfter=No
+10	黑斯廷斯	黑斯廷斯	PROPN	NNP	_	11	compound	_	SpaceAfter=No
 11	城	城	PART	SFN	_	12	nmod	_	SpaceAfter=No
 12	附近	附近	NOUN	NN	_	9	obl	_	SpaceAfter=No
 13	洗	洗	VERB	VV	_	18	advcl	_	SpaceAfter=No
-14	海水	海水	NOUN	NN	_	15	case:suff	_	SpaceAfter=No
+14	海水	海水	NOUN	NN	_	15	compound	_	SpaceAfter=No
 15	澡	澡	PART	SFN	_	13	obj	_	SpaceAfter=No
 16	时	时	ADP	IN	_	13	mark	_	SpaceAfter=No
 17	溺水	溺水	VERB	VV	_	18	advcl	_	SpaceAfter=No
@@ -9749,7 +9749,7 @@
 9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
 10	美国	美国	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
 11	应用	应用	NOUN	NN	_	12	nmod	_	SpaceAfter=No
-12	数学	数学	NOUN	NN	_	13	case:suff	_	SpaceAfter=No
+12	数学	数学	NOUN	NN	_	13	compound	_	SpaceAfter=No
 13	家	家	PART	SFN	_	0	root	_	SpaceAfter=No
 14	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
@@ -9757,7 +9757,7 @@
 # text = 柏洛兹于青春期早期着手开始写文章与报导。
 1	柏洛兹	柏洛兹	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No
 2	于	于	ADP	IN	_	5	case	_	SpaceAfter=No
-3	青春	青春	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+3	青春	青春	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	期	期	PART	SFN	_	5	nmod	_	SpaceAfter=No
 5	早期	早期	NOUN	NN	_	6	obl	_	SpaceAfter=No
 6	着手	着手	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -9797,7 +9797,7 @@
 2	宣布	宣布	VERB	VV	_	0	root	_	SpaceAfter=No
 3	自己	自己	PRON	PRD	_	7	nsubj	_	SpaceAfter=No
 4	为	为	AUX	VC	_	7	cop	_	SpaceAfter=No
-5	共和	共和	NOUN	NN	_	6	case:suff	_	SpaceAfter=No
+5	共和	共和	NOUN	NN	_	6	compound	_	SpaceAfter=No
 6	国	国	PART	SFN	_	7	nmod	_	SpaceAfter=No
 7	总统	总统	NOUN	NN	_	13	advcl	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No
@@ -9811,7 +9811,7 @@
 # sent_id = test-s366
 # text = 回到加利福尼亚州后，他由于支持了一场违反中立法的战争而遭到法庭审判。
 1	回到	回到	VERB	VV	_	18	advcl	_	SpaceAfter=No
-2	加利福尼亚	加利福尼亚	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+2	加利福尼亚	加利福尼亚	PROPN	NNP	_	3	compound	_	SpaceAfter=No
 3	州	州	PART	SFN	_	1	obj	_	SpaceAfter=No
 4	后	后	ADP	IN	_	1	mark	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No
@@ -9822,7 +9822,7 @@
 10	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
 11	场	场	NOUN	NNB	_	16	clf	_	SpaceAfter=No
 12	违反	违反	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
-13	中立	中立	NOUN	NN	_	14	case:suff	_	SpaceAfter=No
+13	中立	中立	NOUN	NN	_	14	compound	_	SpaceAfter=No
 14	法	法	PART	SFN	_	12	obj	_	SpaceAfter=No
 15	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
 16	战争	战争	NOUN	NN	_	8	obj	_	SpaceAfter=No
@@ -9850,7 +9850,7 @@
 # sent_id = test-s368
 # text = 在民主党领袖卡斯特伦的同意下，沃克袭击了位于里瓦斯的保守党势力。
 1	在	在	ADP	IN	_	7	case	_	SpaceAfter=No
-2	民主	民主	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+2	民主	民主	NOUN	NN	_	3	compound	_	SpaceAfter=No
 3	党	党	PART	SFN	_	4	nmod	_	SpaceAfter=No
 4	领袖	领袖	NOUN	NN	_	7	det	_	SpaceAfter=No
 5	卡斯特伦	卡斯特伦	PROPN	NNP	_	4	appos	_	SpaceAfter=No
@@ -9865,7 +9865,7 @@
 14	于	于	VERB	VV	_	13	mark	_	SpaceAfter=No
 15	里瓦斯	里瓦斯	PROPN	NNP	_	13	obj	_	SpaceAfter=No
 16	的	的	PART	DEC	_	13	mark:relcl	_	SpaceAfter=No
-17	保守	保守	NOUN	NN	_	18	case:suff	_	SpaceAfter=No
+17	保守	保守	NOUN	NN	_	18	compound	_	SpaceAfter=No
 18	党	党	PART	SFN	_	19	nmod	_	SpaceAfter=No
 19	势力	势力	NOUN	NN	_	11	obj	_	SpaceAfter=No
 20	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
@@ -9882,7 +9882,7 @@
 8	新堡	新堡	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
 9	西杰斯蒙丹尼	西杰斯蒙丹尼	PROPN	NNP	_	6	obj	_	SpaceAfter=No
 10	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
-11	杰斯蒙丹尼	杰斯蒙丹尼	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
+11	杰斯蒙丹尼	杰斯蒙丹尼	PROPN	NNP	_	12	compound	_	SpaceAfter=No
 12	楼	楼	PART	SFN	_	4	obj	_	SpaceAfter=No
 13	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 14	并	并	ADV	RB	_	15	mark	_	SpaceAfter=No
@@ -9969,7 +9969,7 @@
 35	和	和	CCONJ	CC	_	39	cc	_	SpaceAfter=No
 36	今日	今日	NOUN	NN	_	39	det	_	SpaceAfter=No
 37	的	的	PART	DEC	Case=Gen	36	case:dec	_	SpaceAfter=No
-38	幕僚	幕僚	NOUN	NN	_	39	case:suff	_	SpaceAfter=No
+38	幕僚	幕僚	NOUN	NN	_	39	compound	_	SpaceAfter=No
 39	长	长	PART	SFN	_	30	conj	_	SpaceAfter=No
 40	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
@@ -10051,14 +10051,14 @@
 17	）	）	PUNCT	)	_	14	punct	_	SpaceAfter=No
 18	经	经	ADP	IN	_	23	case	_	SpaceAfter=No
 19	美国	美国	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
-20	参议	参议	VERB	VV	_	21	case:suff	_	SpaceAfter=No
+20	参议	参议	VERB	VV	_	21	compound	_	SpaceAfter=No
 21	院	院	PART	SFN	_	23	nsubj	_	SpaceAfter=No
 22	一致	一致	ADV	RB	_	23	advmod	_	SpaceAfter=No
 23	同意	同意	VERB	VV	_	25	ccomp	_	SpaceAfter=No
 24	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
 25	担任	担任	VERB	VV	_	0	root	_	SpaceAfter=No
 26	美国	美国	PROPN	NNP	_	29	nmod	_	SpaceAfter=No
-27	证监	证监	VERB	VV	_	28	case:suff	_	SpaceAfter=No
+27	证监	证监	VERB	VV	_	28	compound	_	SpaceAfter=No
 28	会	会	PART	SFN	_	29	nmod	_	SpaceAfter=No
 29	主席	主席	NOUN	NN	_	25	obj	_	SpaceAfter=No
 30	。	。	PUNCT	.	_	25	punct	_	SpaceAfter=No
@@ -10084,7 +10084,7 @@
 17	政治	政治	NOUN	NN	_	18	nmod	_	SpaceAfter=No
 18	任务	任务	NOUN	NN	_	21	det	_	SpaceAfter=No
 19	的	的	PART	DEC	Case=Gen	18	case:dec	_	SpaceAfter=No
-20	参与	参与	VERB	VV	_	21	case:suff	_	SpaceAfter=No
+20	参与	参与	VERB	VV	_	21	compound	_	SpaceAfter=No
 21	者	者	PART	SFN	_	23	nsubj	_	SpaceAfter=No
 22	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
 23	包括	包括	VERB	VV	_	9	ccomp	_	SpaceAfter=No
@@ -10097,19 +10097,19 @@
 30	位	位	NOUN	NNB	_	34	clf	_	SpaceAfter=No
 31	独立	独立	NOUN	NN	_	34	nmod	_	SpaceAfter=No
 32	宣言	宣言	NOUN	NN	_	34	nmod	_	SpaceAfter=No
-33	签署	签署	VERB	VV	_	34	case:suff	_	SpaceAfter=No
+33	签署	签署	VERB	VV	_	34	compound	_	SpaceAfter=No
 34	者	者	PART	SFN	_	27	conj	_	SpaceAfter=No
 35	（	（	PUNCT	(	_	40	punct	_	SpaceAfter=No
 36	总共	总共	ADV	RB	_	40	advmod	_	SpaceAfter=No
 37	56	56	NUM	CD	NumType=Card	38	nummod	_	SpaceAfter=No
 38	位	位	NOUN	NNB	_	40	clf	_	SpaceAfter=No
-39	签字	签字	VERB	VV	_	40	case:suff	_	SpaceAfter=No
+39	签字	签字	VERB	VV	_	40	compound	_	SpaceAfter=No
 40	人	人	PART	SFN	_	27	parataxis	_	SpaceAfter=No
 41	，	，	PUNCT	,	_	40	punct	_	SpaceAfter=No
 42	威廉玛丽	威廉玛丽	PROPN	NNP	_	43	nmod	_	SpaceAfter=No
 43	学院	学院	NOUN	NN	_	46	det	_	SpaceAfter=No
 44	的	的	PART	DEC	Case=Gen	43	case:dec	_	SpaceAfter=No
-45	毕业	毕业	VERB	VV	_	46	case:suff	_	SpaceAfter=No
+45	毕业	毕业	VERB	VV	_	46	compound	_	SpaceAfter=No
 46	生	生	PART	SFN	_	47	nsubj	_	SpaceAfter=No
 47	占	占	VERB	VV	_	40	parataxis	_	SpaceAfter=No
 48	了	了	PART	AS	Aspect=Perf	47	case:aspect	_	SpaceAfter=No
@@ -10126,7 +10126,7 @@
 59	许许多多	许许多多	NUM	CD	NumType=Card	63	det	_	SpaceAfter=No
 60	的	的	PART	DEC	Case=Gen	59	case:dec	_	SpaceAfter=No
 61	美国	美国	PROPN	NNP	_	63	nmod	_	SpaceAfter=No
-62	国务	国务	NOUN	NN	_	63	case:suff	_	SpaceAfter=No
+62	国务	国务	NOUN	NN	_	63	compound	_	SpaceAfter=No
 63	卿	卿	PART	SFN	_	27	conj	_	SpaceAfter=No
 64	（	（	PUNCT	(	_	78	punct	_	SpaceAfter=No
 65	举例	举例	VERB	VV	_	67	advcl	_	SpaceAfter=No
@@ -10138,7 +10138,7 @@
 71	的	的	PART	DEC	Case=Gen	70	case:dec	_	SpaceAfter=No
 72	10	10	NUM	CD	NumType=Card	73	nummod	_	SpaceAfter=No
 73	位	位	NOUN	NNB	_	75	clf	_	SpaceAfter=No
-74	国务	国务	NOUN	NN	_	75	case:suff	_	SpaceAfter=No
+74	国务	国务	NOUN	NN	_	75	compound	_	SpaceAfter=No
 75	卿	卿	PART	SFN	_	78	nsubj	_	SpaceAfter=No
 76	，	，	PUNCT	,	_	78	punct	_	SpaceAfter=No
 77	竟	竟	ADV	RB	_	78	advmod	_	SpaceAfter=No
@@ -10209,7 +10209,7 @@
 27	成	成	VERB	VV	_	0	root	_	SpaceAfter=No
 28	为	为	VERB	VC	_	27	mark	_	SpaceAfter=No
 29	现代	现代	NOUN	NN	_	32	nmod	_	SpaceAfter=No
-30	综合	综合	ADJ	JJ	_	31	case:suff	_	SpaceAfter=No
+30	综合	综合	ADJ	JJ	_	31	compound	_	SpaceAfter=No
 31	性	性	PART	SFN	_	32	nmod	_	SpaceAfter=No
 32	大学	大学	NOUN	NN	_	27	obj	_	SpaceAfter=No
 33	。	。	PUNCT	.	_	27	punct	_	SpaceAfter=No
@@ -10250,7 +10250,7 @@
 
 # sent_id = test-s379
 # text = 威斯康辛号在1941年按照11%扩充法案，于费城造船厂开始建造，在1943年下水，于1944年服役。
-1	威斯康辛	威斯康辛	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	威斯康辛	威斯康辛	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	号	号	NOUN	NN	_	26	nsubj	_	SpaceAfter=No
 3	在	在	ADP	IN	_	5	case	_	SpaceAfter=No
 4	1941	1941	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
@@ -10262,7 +10262,7 @@
 10	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 11	于	于	ADP	IN	_	14	case	_	SpaceAfter=No
 12	费城	费城	PROPN	NNP	_	14	nmod	_	SpaceAfter=No
-13	造船	造船	VERB	VV	_	14	case:suff	_	SpaceAfter=No
+13	造船	造船	VERB	VV	_	14	compound	_	SpaceAfter=No
 14	厂	厂	PART	SFN	_	15	obl	_	SpaceAfter=No
 15	开始	开始	VERB	VV	_	26	advcl	_	SpaceAfter=No
 16	建造	建造	VERB	VV	_	15	xcomp	_	SpaceAfter=No
@@ -10358,7 +10358,7 @@
 9	一	一	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
 10	位	位	NOUN	NNB	_	12	clf	_	SpaceAfter=No
 11	老	老	PART	PFA	_	12	case:pref	_	SpaceAfter=No
-12	阿妈	阿妈	NOUN	NN	_	13	case:suff	_	SpaceAfter=No
+12	阿妈	阿妈	NOUN	NN	_	13	compound	_	SpaceAfter=No
 13	家	家	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 14	所	所	ADV	RB	_	15	mark	_	SpaceAfter=No
 15	有	有	VERB	VV	_	8	ccomp	_	SpaceAfter=No
@@ -10367,10 +10367,10 @@
 18	人家	人家	NOUN	NN	_	22	nsubj	_	SpaceAfter=No
 19	均	均	ADV	RB	_	22	advmod	_	SpaceAfter=No
 20	为	为	AUX	VC	_	22	cop	_	SpaceAfter=No
-21	租住	租住	VERB	VV	_	22	case:suff	_	SpaceAfter=No
+21	租住	租住	VERB	VV	_	22	compound	_	SpaceAfter=No
 22	户	户	PART	SFN	_	8	parataxis	_	SpaceAfter=No
 23	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
-24	租住	租住	VERB	VV	_	25	case:suff	_	SpaceAfter=No
+24	租住	租住	VERB	VV	_	25	compound	_	SpaceAfter=No
 25	户	户	PART	SFN	_	31	nsubj	_	SpaceAfter=No
 26	大	大	ADV	RB	_	31	advmod	_	SpaceAfter=No
 27	都	都	ADV	RB	_	31	mark	_	SpaceAfter=No
@@ -10405,7 +10405,7 @@
 # sent_id = test-s384
 # text = 人类婚姻史的第二时期，妇女劳动范围逐渐变小，财富及继承问题日趋突出，于是关于个人至亲骨肉的后代观念便成了婚姻的主导动机。
 1	人类	人类	NOUN	NN	_	3	nmod	_	SpaceAfter=No
-2	婚姻	婚姻	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
+2	婚姻	婚姻	NOUN	NN	_	3	compound	_	SpaceAfter=No
 3	史	史	PART	SFN	_	6	det	_	SpaceAfter=No
 4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
 5	第二	第二	NUM	CD	NumType=Ord	6	nummod	_	SpaceAfter=No
@@ -10464,7 +10464,7 @@
 # sent_id = test-s386
 # text = 青岛天后宫始建于明代成化三年，初称“天妃宫”，是青岛市区现存最古老的明清砖木结构建筑群。
 1	青岛	青岛	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
-2	天后	天后	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+2	天后	天后	PROPN	NNP	_	3	compound	_	SpaceAfter=No
 3	宫	宫	PART	SFN	_	4	nsubj	_	SpaceAfter=No
 4	始建	始建	VERB	VV	_	0	root	_	SpaceAfter=No
 5	于	于	VERB	VV	_	4	mark	_	SpaceAfter=No
@@ -10475,7 +10475,7 @@
 10	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
 11	初称	初称	VERB	VV	_	4	parataxis	_	SpaceAfter=No
 12	“	“	PUNCT	``	_	14	punct	_	SpaceAfter=No
-13	天妃	天妃	PROPN	NNP	_	14	case:suff	_	SpaceAfter=No
+13	天妃	天妃	PROPN	NNP	_	14	compound	_	SpaceAfter=No
 14	宫	宫	PART	SFN	_	11	obj	_	SpaceAfter=No
 15	”	”	PUNCT	''	_	14	punct	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
@@ -10490,7 +10490,7 @@
 25	清	清	PROPN	NNP	_	24	conj	_	SpaceAfter=No
 26	砖木	砖木	NOUN	NN	_	29	nmod	_	SpaceAfter=No
 27	结构	结构	NOUN	NN	_	29	nmod	_	SpaceAfter=No
-28	建筑	建筑	NOUN	NN	_	29	case:suff	_	SpaceAfter=No
+28	建筑	建筑	NOUN	NN	_	29	compound	_	SpaceAfter=No
 29	群	群	PART	SFN	_	4	parataxis	_	SpaceAfter=No
 30	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
@@ -10599,7 +10599,7 @@
 5	来	来	VERB	VV	_	0	root	_	SpaceAfter=No
 6	自	自	VERB	VV	_	5	mark	_	SpaceAfter=No
 7	美国	美国	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
-8	亚利桑那	亚利桑那	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	亚利桑那	亚利桑那	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	州	州	PART	SFN	_	5	obj	_	SpaceAfter=No
 10	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
@@ -10620,7 +10620,7 @@
 1	翅膀	翅膀	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	底色	底色	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	5	cop	_	SpaceAfter=No
-4	锈红	锈红	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+4	锈红	锈红	NOUN	NN	_	5	compound	_	SpaceAfter=No
 5	色	色	PART	SFN	_	0	root	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
 7	翅端	翅端	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
@@ -10661,21 +10661,21 @@
 3	使用	使用	VERB	VV	_	2	xcomp	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 5	形码	形码	NOUN	NN	_	7	nmod	_	SpaceAfter=No
-6	输入	输入	VERB	VV	_	7	case:suff	_	SpaceAfter=No
+6	输入	输入	VERB	VV	_	7	compound	_	SpaceAfter=No
 7	法	法	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 8	大多	大多	ADV	RB	_	9	advmod	_	SpaceAfter=No
 9	设有	设有	VERB	VV	_	16	csubj	_	SpaceAfter=No
-10	容错	容错	VERB	VV	_	11	case:suff	_	SpaceAfter=No
+10	容错	容错	VERB	VV	_	11	compound	_	SpaceAfter=No
 11	码	码	PART	SFN	_	9	obj	_	SpaceAfter=No
 12	、	、	PUNCT	EC	_	14	punct	_	SpaceAfter=No
-13	万用	万用	VERB	VV	_	14	case:suff	_	SpaceAfter=No
+13	万用	万用	VERB	VV	_	14	compound	_	SpaceAfter=No
 14	码	码	PART	SFN	_	11	conj	_	SpaceAfter=No
 15	以	以	ADV	RB	_	16	mark	_	SpaceAfter=No
 16	增加	增加	VERB	VV	_	0	root	_	SpaceAfter=No
-17	输入	输入	VERB	VV	_	18	case:suff	_	SpaceAfter=No
+17	输入	输入	VERB	VV	_	18	compound	_	SpaceAfter=No
 18	法	法	PART	SFN	_	24	nmod	_	SpaceAfter=No
 19	对于	对于	ADP	IN	_	24	det	_	SpaceAfter=No
-20	异体	异体	NOUN	NN	_	21	case:suff	_	SpaceAfter=No
+20	异体	异体	NOUN	NN	_	21	compound	_	SpaceAfter=No
 21	字	字	PART	SFN	_	19	nmod	_	SpaceAfter=No
 22	的	的	PART	DEC	Case=Gen	19	case:dec	_	SpaceAfter=No
 23	处理	处理	NOUN	NN	_	24	nmod	_	SpaceAfter=No
@@ -10696,16 +10696,16 @@
 1	孙	孙	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 2	中山	中山	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 3	故居	故居	NOUN	NN	_	5	nmod	_	SpaceAfter=No
-4	纪念	纪念	VERB	VV	_	5	case:suff	_	SpaceAfter=No
+4	纪念	纪念	VERB	VV	_	5	compound	_	SpaceAfter=No
 5	馆	馆	PART	SFN	_	6	nsubj	_	SpaceAfter=No
 6	坐落	坐落	VERB	VV	_	0	root	_	SpaceAfter=No
 7	于	于	VERB	VV	_	6	mark	_	SpaceAfter=No
 8	中国	中国	PROPN	NNP	_	14	nmod	_	SpaceAfter=No
-9	广东	广东	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
+9	广东	广东	PROPN	NNP	_	10	compound	_	SpaceAfter=No
 10	省	省	PART	SFN	_	14	nmod	_	SpaceAfter=No
-11	中山	中山	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
+11	中山	中山	PROPN	NNP	_	12	compound	_	SpaceAfter=No
 12	市	市	PART	SFN	_	14	nmod	_	SpaceAfter=No
-13	翠亨	翠亨	PROPN	NNP	_	14	case:suff	_	SpaceAfter=No
+13	翠亨	翠亨	PROPN	NNP	_	14	compound	_	SpaceAfter=No
 14	村	村	PART	SFN	_	6	obj	_	SpaceAfter=No
 15	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
@@ -10728,7 +10728,7 @@
 15	工会	工会	NOUN	NN	_	16	nmod	_	SpaceAfter=No
 16	会长	会长	NOUN	NN	_	11	obj	_	SpaceAfter=No
 17	（	（	PUNCT	(	_	19	punct	_	SpaceAfter=No
-18	委员	委员	NOUN	NN	_	19	case:suff	_	SpaceAfter=No
+18	委员	委员	NOUN	NN	_	19	compound	_	SpaceAfter=No
 19	长	长	PART	SFN	_	16	appos	_	SpaceAfter=No
 20	）	）	PUNCT	)	_	19	punct	_	SpaceAfter=No
 21	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
@@ -10752,14 +10752,14 @@
 15	砖木	砖木	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 16	结构	结构	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 17	英	英	PROPN	NNP	_	20	nmod	_	SpaceAfter=No
-18	庭院	庭院	NOUN	NN	_	19	case:suff	_	SpaceAfter=No
+18	庭院	庭院	NOUN	NN	_	19	compound	_	SpaceAfter=No
 19	式	式	PART	SFN	_	20	nmod	_	SpaceAfter=No
 20	楼房	楼房	NOUN	NN	_	8	parataxis	_	SpaceAfter=No
 21	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s398
 # text = 教育部在教育系统开展了“向孟二冬学习”的活动。
-1	教育	教育	VERB	VV	_	2	case:suff	_	SpaceAfter=No
+1	教育	教育	VERB	VV	_	2	compound	_	SpaceAfter=No
 2	部	部	PART	SFN	_	6	nsubj	_	SpaceAfter=No
 3	在	在	ADP	IN	_	5	case	_	SpaceAfter=No
 4	教育	教育	NOUN	NN	_	5	nmod	_	SpaceAfter=No
@@ -10783,7 +10783,7 @@
 3	第十二	第十二	NUM	CD	NumType=Ord	4	nummod	_	SpaceAfter=No
 4	届	届	NOUN	NNB	_	7	nmod	_	SpaceAfter=No
 5	全国	全国	NOUN	NN	_	7	nmod	_	SpaceAfter=No
-6	运动	运动	VERB	VV	_	7	case:suff	_	SpaceAfter=No
+6	运动	运动	VERB	VV	_	7	compound	_	SpaceAfter=No
 7	会	会	PART	SFN	_	14	advmod	_	SpaceAfter=No
 8	上	上	ADP	IN	_	7	acl	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
@@ -10806,7 +10806,7 @@
 8	之	之	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
 9	中国	中国	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
 10	篮球	篮球	NOUN	NN	_	12	nmod	_	SpaceAfter=No
-11	运动	运动	VERB	VV	_	12	case:suff	_	SpaceAfter=No
+11	运动	运动	VERB	VV	_	12	compound	_	SpaceAfter=No
 12	员	员	PART	SFN	_	2	obj	_	SpaceAfter=No
 13	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
 14	于	于	ADP	IN	_	16	case	_	SpaceAfter=No
@@ -10814,7 +10814,7 @@
 16	年	年	NOUN	NNB	_	23	obl	_	SpaceAfter=No
 17	与	与	ADP	IN	_	20	case	_	SpaceAfter=No
 18	丹佛	丹佛	PROPN	NNP	_	20	nmod	_	SpaceAfter=No
-19	掘金	掘金	PROPN	NNP	_	20	case:suff	_	SpaceAfter=No
+19	掘金	掘金	PROPN	NNP	_	20	compound	_	SpaceAfter=No
 20	队	队	PART	SFN	_	21	obl	_	SpaceAfter=No
 21	签约	签约	VERB	VV	_	23	advcl	_	SpaceAfter=No
 22	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
@@ -10873,17 +10873,17 @@
 14	克修	克修	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No
 15	为	为	AUX	VC	_	18	cop	_	SpaceAfter=No
 16	昭义	昭义	PROPN	NNP	_	18	nmod	_	SpaceAfter=No
-17	节度	节度	NOUN	NN	_	18	case:suff	_	SpaceAfter=No
+17	节度	节度	NOUN	NN	_	18	compound	_	SpaceAfter=No
 18	使	使	PART	SFN	_	12	ccomp	_	SpaceAfter=No
 19	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
 20	使得	使得	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
-21	昭义	昭义	PROPN	NNP	_	22	case:suff	_	SpaceAfter=No
+21	昭义	昭义	PROPN	NNP	_	22	compound	_	SpaceAfter=No
 22	镇	镇	PART	SFN	_	23	nsubj	_	SpaceAfter=No
 23	出现	出现	VERB	VV	_	20	ccomp	_	SpaceAfter=No
 24	了	了	PART	AS	Aspect=Perf	23	case:aspect	_	SpaceAfter=No
 25	两	两	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No
 26	位	位	NOUN	NNB	_	28	nmod	_	SpaceAfter=No
-27	节度	节度	NOUN	NN	_	28	case:suff	_	SpaceAfter=No
+27	节度	节度	NOUN	NN	_	28	compound	_	SpaceAfter=No
 28	使	使	PART	SFN	_	23	obj	_	SpaceAfter=No
 29	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
@@ -10897,7 +10897,7 @@
 6	十	十	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
 7	国	国	NOUN	NN	_	10	nmod	_	SpaceAfter=No
 8	邢州	邢州	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
-9	龙冈	龙冈	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
+9	龙冈	龙冈	PROPN	NNP	_	10	compound	_	SpaceAfter=No
 10	人	人	PART	SFN	_	1	appos	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 12	为	为	AUX	VC	_	14	cop	_	SpaceAfter=No
@@ -10911,7 +10911,7 @@
 2	月	月	NOUN	NNB	_	7	nmod:tmod	_	SpaceAfter=No
 3	底	底	ADP	IN	_	2	acl	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No
-5	法	法	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	法	法	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	军	军	PART	SFN	_	7	nsubj	_	SpaceAfter=No
 7	攻占	攻占	VERB	VV	_	0	root	_	SpaceAfter=No
 8	澎湖	澎湖	PROPN	NNP	_	7	obj	_	SpaceAfter=No
@@ -10932,7 +10932,7 @@
 
 # sent_id = test-s405
 # text = 孤子波是一类由于非线性作用引起的横波，它在运动过程中形状保持不变。
-1	孤子	孤子	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+1	孤子	孤子	NOUN	NN	_	2	compound	_	SpaceAfter=No
 2	波	波	PART	SFN	_	12	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	12	cop	_	SpaceAfter=No
 4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
@@ -10967,7 +10967,7 @@
 8	）	）	PUNCT	)	_	4	punct	_	SpaceAfter=No
 9	是	是	AUX	VC	_	20	cop	_	SpaceAfter=No
 10	名	名	PART	PFA	_	12	case:pref	_	SpaceAfter=No
-11	作曲	作曲	VERB	VV	_	12	case:suff	_	SpaceAfter=No
+11	作曲	作曲	VERB	VV	_	12	compound	_	SpaceAfter=No
 12	家	家	PART	SFN	_	20	det	_	SpaceAfter=No
 13	安德鲁	安德鲁	PROPN	NNP	_	12	appos	_	SpaceAfter=No
 14	·	·	PUNCT	/	_	13	punct	_	SpaceAfter=No
@@ -10975,7 +10975,7 @@
 16	·	·	PUNCT	/	_	13	punct	_	SpaceAfter=No
 17	韦伯	韦伯	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No
 18	的	的	PART	DEC	Case=Gen	13	case:dec	_	SpaceAfter=No
-19	音乐	音乐	NOUN	NN	_	20	case:suff	_	SpaceAfter=No
+19	音乐	音乐	NOUN	NN	_	20	compound	_	SpaceAfter=No
 20	剧	剧	PART	SFN	_	0	root	_	SpaceAfter=No
 21	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
 22	原书	原书	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
@@ -10984,14 +10984,14 @@
 25	·	·	PUNCT	/	_	24	punct	_	SpaceAfter=No
 26	汤玛斯	汤玛斯	PROPN	NNP	_	24	flat:name	_	SpaceAfter=No
 27	基于	基于	ADP	IN	_	39	case	_	SpaceAfter=No
-28	慈善	慈善	NOUN	NN	_	29	case:suff	_	SpaceAfter=No
+28	慈善	慈善	NOUN	NN	_	29	compound	_	SpaceAfter=No
 29	家	家	PART	SFN	_	33	nsubj	_	SpaceAfter=No
 30	汤玛斯	汤玛斯	PROPN	NNP	_	29	appos	_	SpaceAfter=No
 31	·	·	PUNCT	/	_	30	punct	_	SpaceAfter=No
 32	约翰	约翰	PROPN	NNP	_	30	flat:name	_	SpaceAfter=No
 33	成立	成立	VERB	VV	_	39	acl:relcl	_	SpaceAfter=No
 34	贫困	贫困	ADJ	JJ	_	36	amod	_	SpaceAfter=No
-35	儿童	儿童	NOUN	NN	_	36	case:suff	_	SpaceAfter=No
+35	儿童	儿童	NOUN	NN	_	36	compound	_	SpaceAfter=No
 36	院	院	PART	SFN	_	33	obj	_	SpaceAfter=No
 37	的	的	PART	DEC	_	33	mark:relcl	_	SpaceAfter=No
 38	真实	真实	ADJ	JJ	_	39	amod	_	SpaceAfter=No
@@ -11005,10 +11005,10 @@
 2	观点	观点	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	认为	认为	VERB	VV	_	1	ccomp	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
-5	朝鲜	朝鲜	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	朝鲜	朝鲜	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	语	语	PART	SFN	_	12	nsubj	_	SpaceAfter=No
 7	和	和	CCONJ	CC	_	9	cc	_	SpaceAfter=No
-8	日	日	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	日	日	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	语	语	PART	SFN	_	6	conj	_	SpaceAfter=No
 10	也是	也是	AUX	VC	_	12	cop	_	SpaceAfter=No
 11	孤立	孤立	ADJ	JJ	_	12	amod	_	SpaceAfter=No
@@ -11035,13 +11035,13 @@
 3	孤立	孤立	ADJ	JJ	_	4	amod	_	SpaceAfter=No
 4	语言	语言	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 5	如	如	VERB	VV	_	0	root	_	SpaceAfter=No
-6	苏美尔	苏美尔	PROPN	NNP	_	7	case:suff	_	SpaceAfter=No
+6	苏美尔	苏美尔	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 7	语	语	PART	SFN	_	5	obj	_	SpaceAfter=No
 8	、	、	PUNCT	EC	_	10	punct	_	SpaceAfter=No
-9	巴斯克	巴斯克	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
+9	巴斯克	巴斯克	PROPN	NNP	_	10	compound	_	SpaceAfter=No
 10	语	语	PART	SFN	_	7	conj	_	SpaceAfter=No
 11	、	、	PUNCT	EC	_	13	punct	_	SpaceAfter=No
-12	阿伊努	阿伊努	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+12	阿伊努	阿伊努	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	语	语	PART	SFN	_	7	conj	_	SpaceAfter=No
 14	等	等	NOUN	NN	_	7	acl	_	SpaceAfter=No
 15	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
@@ -11114,7 +11114,7 @@
 3	参考	参考	VERB	VV	_	0	root	_	SpaceAfter=No
 4	日本	日本	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
 5	知名	知名	ADJ	JJ	_	7	amod	_	SpaceAfter=No
-6	漫画	漫画	NOUN	NN	_	7	case:suff	_	SpaceAfter=No
+6	漫画	漫画	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	家	家	PART	SFN	_	3	obj	_	SpaceAfter=No
 8	永井	永井	PROPN	NNP	_	7	appos	_	SpaceAfter=No
 9	豪	豪	PROPN	NNP	_	8	flat:name	_	SpaceAfter=No
@@ -11146,7 +11146,7 @@
 22	归	归	VERB	VV	_	10	xcomp	_	SpaceAfter=No
 23	俄罗斯	俄罗斯	PROPN	NNP	_	26	nmod	_	SpaceAfter=No
 24	滨海	滨海	PROPN	NNP	_	26	nmod	_	SpaceAfter=No
-25	边疆	边疆	PROPN	NNP	_	26	case:suff	_	SpaceAfter=No
+25	边疆	边疆	PROPN	NNP	_	26	compound	_	SpaceAfter=No
 26	区	区	PART	SFN	_	28	obj	_	SpaceAfter=No
 27	所	所	ADV	RB	_	28	mark	_	SpaceAfter=No
 28	管	管	VERB	VV	_	22	ccomp	_	SpaceAfter=No
@@ -11154,23 +11154,23 @@
 
 # sent_id = test-s413
 # text = 宁武县在中国山西省西北部、汾河和桑干河上游，是忻州市所辖的一个县。
-1	宁武	宁武	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	宁武	宁武	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	县	县	PART	SFN	_	24	nsubj	_	SpaceAfter=No
 3	在	在	VERB	VV	_	24	acl	_	SpaceAfter=No
 4	中国	中国	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
-5	山西	山西	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	山西	山西	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	省	省	PART	SFN	_	8	nmod	_	SpaceAfter=No
-7	西北	西北	NOUN	NN	_	8	case:suff	_	SpaceAfter=No
+7	西北	西北	NOUN	NN	_	8	compound	_	SpaceAfter=No
 8	部	部	PART	SFN	_	3	obj	_	SpaceAfter=No
 9	、	、	PUNCT	EC	_	14	punct	_	SpaceAfter=No
 10	汾河	汾河	PROPN	NNP	_	14	nmod	_	SpaceAfter=No
 11	和	和	CCONJ	CC	_	13	cc	_	SpaceAfter=No
-12	桑干	桑干	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+12	桑干	桑干	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	河	河	PART	SFN	_	10	conj	_	SpaceAfter=No
 14	上游	上游	NOUN	NN	_	8	conj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 16	是	是	AUX	VC	_	24	cop	_	SpaceAfter=No
-17	忻州	忻州	PROPN	NNP	_	18	case:suff	_	SpaceAfter=No
+17	忻州	忻州	PROPN	NNP	_	18	compound	_	SpaceAfter=No
 18	市	市	PART	SFN	_	20	nsubj	_	SpaceAfter=No
 19	所	所	ADV	RB	_	20	mark	_	SpaceAfter=No
 20	辖	辖	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No
@@ -11218,7 +11218,7 @@
 4	为	为	ADP	IN	_	5	case	_	SpaceAfter=No
 5	宁波	宁波	PROPN	NNP	_	6	obl	_	SpaceAfter=No
 6	带来	带来	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
-7	劳动	劳动	VERB	VV	_	8	case:suff	_	SpaceAfter=No
+7	劳动	劳动	VERB	VV	_	8	compound	_	SpaceAfter=No
 8	力	力	PART	SFN	_	6	obj	_	SpaceAfter=No
 9	和	和	CCONJ	CC	_	11	cc	_	SpaceAfter=No
 10	经济	经济	NOUN	NN	_	11	nmod	_	SpaceAfter=No
@@ -11253,7 +11253,7 @@
 9	年	年	NOUN	NNB	_	6	obl	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No
 11	为	为	AUX	VC	_	18	cop	_	SpaceAfter=No
-12	爱好	爱好	VERB	VV	_	13	case:suff	_	SpaceAfter=No
+12	爱好	爱好	VERB	VV	_	13	compound	_	SpaceAfter=No
 13	者	者	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 14	开办	开办	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No
 15	的	的	PART	DEC	_	14	mark:relcl	_	SpaceAfter=No
@@ -11290,7 +11290,7 @@
 9	所	所	ADV	RB	_	10	mark	_	SpaceAfter=No
 10	辖	辖	VERB	VV	_	13	amod	_	SpaceAfter=No
 11	“	“	PUNCT	``	_	13	punct	_	SpaceAfter=No
-12	国际	国际	NOUN	NN	_	13	case:suff	_	SpaceAfter=No
+12	国际	国际	NOUN	NN	_	13	compound	_	SpaceAfter=No
 13	部	部	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 14	”	”	PUNCT	''	_	13	punct	_	SpaceAfter=No
 15	取消	取消	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -11299,7 +11299,7 @@
 18	编制	编制	NOUN	NN	_	27	nsubj	_	SpaceAfter=No
 19	划入	划入	VERB	VV	_	27	advcl	_	SpaceAfter=No
 20	宁波	宁波	PROPN	NNP	_	24	nmod	_	SpaceAfter=No
-21	外国	外国	NOUN	NN	_	22	case:suff	_	SpaceAfter=No
+21	外国	外国	NOUN	NN	_	22	compound	_	SpaceAfter=No
 22	语	语	PART	SFN	_	24	nmod	_	SpaceAfter=No
 23	学校	学校	NOUN	NN	_	24	nmod	_	SpaceAfter=No
 24	编制	编制	NOUN	NN	_	19	obj	_	SpaceAfter=No
@@ -11309,10 +11309,10 @@
 28	为	为	VERB	VC	_	27	mark	_	SpaceAfter=No
 29	“	“	PUNCT	``	_	35	punct	_	SpaceAfter=No
 30	宁波	宁波	PROPN	NNP	_	35	nmod	_	SpaceAfter=No
-31	外国	外国	NOUN	NN	_	32	case:suff	_	SpaceAfter=No
+31	外国	外国	NOUN	NN	_	32	compound	_	SpaceAfter=No
 32	语	语	PART	SFN	_	35	nmod	_	SpaceAfter=No
 33	学校	学校	NOUN	NN	_	35	nmod	_	SpaceAfter=No
-34	高中	高中	NOUN	NN	_	35	case:suff	_	SpaceAfter=No
+34	高中	高中	NOUN	NN	_	35	compound	_	SpaceAfter=No
 35	部	部	PART	SFN	_	27	obj	_	SpaceAfter=No
 36	”	”	PUNCT	''	_	35	punct	_	SpaceAfter=No
 37	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
@@ -11328,9 +11328,9 @@
 7	位	位	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
 8	于	于	VERB	VV	_	7	mark	_	SpaceAfter=No
 9	中国	中国	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
-10	浙江	浙江	PROPN	NNP	_	11	case:suff	_	SpaceAfter=No
+10	浙江	浙江	PROPN	NNP	_	11	compound	_	SpaceAfter=No
 11	省	省	PART	SFN	_	13	nmod	_	SpaceAfter=No
-12	宁波	宁波	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+12	宁波	宁波	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	市	市	PART	SFN	_	7	obj	_	SpaceAfter=No
 14	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
 15	高级	高级	ADJ	JJ	_	16	nmod	_	SpaceAfter=No
@@ -11352,7 +11352,7 @@
 # text = 但在动画版中，由于得到JAXA的协助，得以使用真实姓名。
 1	但	但	ADV	RB	_	15	mark	_	SpaceAfter=No
 2	在	在	ADP	IN	_	4	case	_	SpaceAfter=No
-3	动画	动画	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
+3	动画	动画	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	版	版	PART	SFN	_	15	obl	_	SpaceAfter=No
 5	中	中	ADP	IN	_	4	acl	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
@@ -11404,7 +11404,7 @@
 31	声线	声线	NOUN	NN	_	27	obj	_	SpaceAfter=No
 32	，	，	PUNCT	,	_	38	punct	_	SpaceAfter=No
 33	为	为	ADP	IN	_	36	case	_	SpaceAfter=No
-34	华	华	PROPN	NNP	_	35	case:suff	_	SpaceAfter=No
+34	华	华	PROPN	NNP	_	35	compound	_	SpaceAfter=No
 35	语	语	PART	SFN	_	36	nmod	_	SpaceAfter=No
 36	乐坛	乐坛	NOUN	NN	_	38	obl	_	SpaceAfter=No
 37	又	又	ADV	RB	_	38	mark	_	SpaceAfter=No
@@ -11439,7 +11439,7 @@
 16	任何	任何	DET	DT	_	17	det	_	SpaceAfter=No
 17	媒介	媒介	NOUN	NN	_	15	obj	_	SpaceAfter=No
 18	使	使	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
-19	查克拉	查克拉	NOUN	NN	_	20	case:suff	_	SpaceAfter=No
+19	查克拉	查克拉	NOUN	NN	_	20	compound	_	SpaceAfter=No
 20	刀	刀	PART	SFN	_	22	nsubj	_	SpaceAfter=No
 21	任意	任意	ADV	RB	_	22	advmod	_	SpaceAfter=No
 22	变化	变化	VERB	VV	_	18	ccomp	_	SpaceAfter=No
@@ -11451,7 +11451,7 @@
 2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
 3	财源	财源	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 4	为	为	AUX	VC	_	6	cop	_	SpaceAfter=No
-5	青光	青光	NOUN	NN	_	6	case:suff	_	SpaceAfter=No
+5	青光	青光	NOUN	NN	_	6	compound	_	SpaceAfter=No
 6	石	石	PART	SFN	_	8	advcl	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
 8	由	由	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -11514,14 +11514,14 @@
 3	1990	1990	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	年	年	NOUN	NNB	_	7	nmod	_	SpaceAfter=No
 5	友好	友好	ADJ	JJ	_	7	amod	_	SpaceAfter=No
-6	运动	运动	VERB	VV	_	7	case:suff	_	SpaceAfter=No
+6	运动	运动	VERB	VV	_	7	compound	_	SpaceAfter=No
 7	会	会	PART	SFN	_	18	obl	_	SpaceAfter=No
 8	和	和	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 9	1991	1991	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
 10	年	年	NOUN	NNB	_	14	nmod	_	SpaceAfter=No
 11	世界	世界	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 12	游泳	游泳	NOUN	NN	_	14	nmod	_	SpaceAfter=No
-13	锦标	锦标	NOUN	NN	_	14	case:suff	_	SpaceAfter=No
+13	锦标	锦标	NOUN	NN	_	14	compound	_	SpaceAfter=No
 14	赛	赛	PART	SFN	_	7	conj	_	SpaceAfter=No
 15	上	上	ADP	IN	_	7	acl	_	SpaceAfter=No
 16	也	也	ADV	RB	_	18	mark	_	SpaceAfter=No
@@ -11565,7 +11565,7 @@
 9	的	的	PART	DEC	Case=Gen	8	case:dec	_	SpaceAfter=No
 10	不同	不同	ADJ	JJ	_	13	amod	_	SpaceAfter=No
 11	私人	私人	ADJ	JJ	_	13	amod	_	SpaceAfter=No
-12	收藏	收藏	VERB	VV	_	13	case:suff	_	SpaceAfter=No
+12	收藏	收藏	VERB	VV	_	13	compound	_	SpaceAfter=No
 13	家	家	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 14	收藏	收藏	VERB	VV	_	6	xcomp	_	SpaceAfter=No
 15	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
@@ -11595,7 +11595,7 @@
 21	都	都	ADV	RB	_	23	mark	_	SpaceAfter=No
 22	会	会	AUX	MD	_	23	aux	_	SpaceAfter=No
 23	安装	安装	VERB	VV	_	15	obj	_	SpaceAfter=No
-24	安全	安全	ADJ	JJ	_	25	case:suff	_	SpaceAfter=No
+24	安全	安全	ADJ	JJ	_	25	compound	_	SpaceAfter=No
 25	门	门	PART	SFN	_	23	obj	_	SpaceAfter=No
 26	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 27	为	为	ADP	IN	_	31	case	_	SpaceAfter=No
@@ -11616,7 +11616,7 @@
 5	也	也	ADV	RB	_	6	mark	_	SpaceAfter=No
 6	开始	开始	VERB	VV	_	0	root	_	SpaceAfter=No
 7	提供	提供	VERB	VV	_	6	xcomp	_	SpaceAfter=No
-8	安全	安全	ADJ	JJ	_	9	case:suff	_	SpaceAfter=No
+8	安全	安全	ADJ	JJ	_	9	compound	_	SpaceAfter=No
 9	室	室	PART	SFN	_	10	nsubj	_	SpaceAfter=No
 10	作	作	VERB	VV	_	7	ccomp	_	SpaceAfter=No
 11	为	为	VERB	VC	_	10	mark	_	SpaceAfter=No
@@ -11673,9 +11673,9 @@
 4	还	还	ADV	RB	_	5	mark	_	SpaceAfter=No
 5	创办	创办	VERB	VV	_	16	advcl	_	SpaceAfter=No
 6	了	了	PART	AS	Aspect=Perf	5	case:aspect	_	SpaceAfter=No
-7	北京	北京	PROPN	NNP	_	8	case:suff	_	SpaceAfter=No
+7	北京	北京	PROPN	NNP	_	8	compound	_	SpaceAfter=No
 8	市	市	PART	SFN	_	12	nmod	_	SpaceAfter=No
-9	伊斯兰	伊斯兰	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
+9	伊斯兰	伊斯兰	PROPN	NNP	_	10	compound	_	SpaceAfter=No
 10	教	教	PART	SFN	_	12	nmod	_	SpaceAfter=No
 11	经	经	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 12	学院	学院	NOUN	NN	_	5	obj	_	SpaceAfter=No
@@ -11684,14 +11684,14 @@
 15	曾	曾	ADV	RB	_	16	advmod	_	SpaceAfter=No
 16	任	任	VERB	VV	_	0	root	_	SpaceAfter=No
 17	中国	中国	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
-18	伊斯兰	伊斯兰	PROPN	NNP	_	19	case:suff	_	SpaceAfter=No
+18	伊斯兰	伊斯兰	PROPN	NNP	_	19	compound	_	SpaceAfter=No
 19	教	教	PART	SFN	_	21	nmod	_	SpaceAfter=No
 20	经	经	NOUN	NN	_	21	nmod	_	SpaceAfter=No
 21	学院	学院	NOUN	NN	_	29	nmod	_	SpaceAfter=No
 22	与	与	CCONJ	CC	_	28	cc	_	SpaceAfter=No
-23	北京	北京	PROPN	NNP	_	24	case:suff	_	SpaceAfter=No
+23	北京	北京	PROPN	NNP	_	24	compound	_	SpaceAfter=No
 24	市	市	PART	SFN	_	28	nmod	_	SpaceAfter=No
-25	伊斯兰	伊斯兰	PROPN	NNP	_	26	case:suff	_	SpaceAfter=No
+25	伊斯兰	伊斯兰	PROPN	NNP	_	26	compound	_	SpaceAfter=No
 26	教	教	PART	SFN	_	28	nmod	_	SpaceAfter=No
 27	经	经	NOUN	NN	_	28	nmod	_	SpaceAfter=No
 28	学院	学院	NOUN	NN	_	21	conj	_	SpaceAfter=No
@@ -11730,7 +11730,7 @@
 10	不得	不得	AUX	MD	_	12	aux	_	SpaceAfter=No
 11	不	不	ADV	RB	Polarity=Neg	12	advmod	_	SpaceAfter=No
 12	转入	转入	VERB	VV	_	16	advcl	_	SpaceAfter=No
-13	犹太	犹太	PROPN	NNP	_	14	case:suff	_	SpaceAfter=No
+13	犹太	犹太	PROPN	NNP	_	14	compound	_	SpaceAfter=No
 14	人	人	PART	SFN	_	15	nmod	_	SpaceAfter=No
 15	学校	学校	NOUN	NN	_	12	obj	_	SpaceAfter=No
 16	就读	就读	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -11808,7 +11808,7 @@
 # text = 根据台湾乌克兰籍艺人瑞莎的说法，瑞纱与贝索诺娃在德里乌矜斯学校同时接受韵律体操的训练，住在同一间寝室。
 1	根据	根据	ADP	IN	_	8	case	_	SpaceAfter=No
 2	台湾	台湾	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
-3	乌克兰	乌克兰	PROPN	NNP	_	4	case:suff	_	SpaceAfter=No
+3	乌克兰	乌克兰	PROPN	NNP	_	4	compound	_	SpaceAfter=No
 4	籍	籍	PART	SFN	_	5	nmod	_	SpaceAfter=No
 5	艺人	艺人	NOUN	NN	_	8	det	_	SpaceAfter=No
 6	瑞莎	瑞莎	PROPN	NNP	_	5	appos	_	SpaceAfter=No
@@ -11846,7 +11846,7 @@
 6	1	1	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
 7	时	时	NOUN	NNB	_	16	nmod:tmod	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
-9	国民	国民	NOUN	NN	_	10	case:suff	_	SpaceAfter=No
+9	国民	国民	NOUN	NN	_	10	compound	_	SpaceAfter=No
 10	党	党	PART	SFN	_	12	nmod	_	SpaceAfter=No
 11	成立	成立	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 12	大会	大会	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
@@ -11881,7 +11881,7 @@
 21	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
 22	正	正	ADV	RB	_	23	advmod	_	SpaceAfter=No
 23	如	如	VERB	VV	_	0	root	_	SpaceAfter=No
-24	美国	美国	PROPN	NNP	_	25	case:suff	_	SpaceAfter=No
+24	美国	美国	PROPN	NNP	_	25	compound	_	SpaceAfter=No
 25	人	人	PART	SFN	_	26	nmod	_	SpaceAfter=No
 26	姓名	姓名	NOUN	NN	_	29	det	_	SpaceAfter=No
 27	的	的	PART	DEC	Case=Gen	26	case:dec	_	SpaceAfter=No
@@ -11899,7 +11899,7 @@
 # sent_id = test-s440
 # text = 印度安得拉邦分为23个县：
 1	印度	印度	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
-2	安得拉	安得拉	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+2	安得拉	安得拉	PROPN	NNP	_	3	compound	_	SpaceAfter=No
 3	邦	邦	PART	SFN	_	4	nsubj	_	SpaceAfter=No
 4	分	分	VERB	VV	_	0	root	_	SpaceAfter=No
 5	为	为	VERB	VC	_	4	mark	_	SpaceAfter=No
@@ -11943,7 +11943,7 @@
 12	他	他	PRON	PRP	Person=3	17	nsubj:pass	_	SpaceAfter=No
 13	被	被	VERB	BB	Voice=Pass	17	aux:pass	_	SpaceAfter=No
 14	送到	送到	VERB	VV	_	17	advcl	_	SpaceAfter=No
-15	亲戚	亲戚	NOUN	NN	_	16	case:suff	_	SpaceAfter=No
+15	亲戚	亲戚	NOUN	NN	_	16	compound	_	SpaceAfter=No
 16	处	处	PART	SFN	_	14	obj	_	SpaceAfter=No
 17	寄养	寄养	VERB	VV	_	7	parataxis	_	SpaceAfter=No
 18	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
@@ -11976,7 +11976,7 @@
 
 # sent_id = test-s445
 # text = 手提箱载有的就是他在西班牙内战时间拍摄的3500张底片。
-1	手提	手提	VERB	VV	_	2	case:suff	_	SpaceAfter=No
+1	手提	手提	VERB	VV	_	2	compound	_	SpaceAfter=No
 2	箱	箱	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	载有	载有	VERB	VV	_	15	csubj	_	SpaceAfter=No
 4	的	的	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No
@@ -12040,7 +12040,7 @@
 7	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No
 8	最	最	ADV	RB	_	10	advmod	_	SpaceAfter=No
 9	不	不	ADV	RB	Polarity=Neg	10	advmod	_	SpaceAfter=No
-10	适合	适合	VERB	VV	_	13	case:suff	_	SpaceAfter=No
+10	适合	适合	VERB	VV	_	13	compound	_	SpaceAfter=No
 11	担当	担当	VERB	VV	_	10	xcomp	_	SpaceAfter=No
 12	此职	此职	NOUN	NN	_	11	obj	_	SpaceAfter=No
 13	者	者	PART	SFN	_	15	det	_	SpaceAfter=No
@@ -12058,7 +12058,7 @@
 6	日	日	NOUN	NNB	_	11	nmod:tmod	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 8	安徽	安徽	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
-9	电视	电视	NOUN	NN	_	10	case:suff	_	SpaceAfter=No
+9	电视	电视	NOUN	NN	_	10	compound	_	SpaceAfter=No
 10	台	台	PART	SFN	_	11	nsubj	_	SpaceAfter=No
 11	开播	开播	VERB	VV	_	22	acl	_	SpaceAfter=No
 12	，	，	PUNCT	,	_	22	punct	_	SpaceAfter=No
@@ -12068,7 +12068,7 @@
 16	建立	建立	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No
 17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
 18	省级	省级	NOUN	NN	_	20	nmod	_	SpaceAfter=No
-19	电视	电视	NOUN	NN	_	20	case:suff	_	SpaceAfter=No
+19	电视	电视	NOUN	NN	_	20	compound	_	SpaceAfter=No
 20	台	台	PART	SFN	_	22	det	_	SpaceAfter=No
 21	之	之	PART	DEC	Case=Gen	20	case:dec	_	SpaceAfter=No
 22	一	一	NUM	CD	NumType=Card	0	root	_	SpaceAfter=No
@@ -12080,12 +12080,12 @@
 2	是	是	AUX	VC	_	26	cop	_	SpaceAfter=No
 3	继	继	ADP	IN	_	7	case	_	SpaceAfter=No
 4	CCTV	CCTV	X	FW	_	7	nmod	_	SpaceAfter=No
-5	电视	电视	NOUN	NN	_	6	case:suff	_	SpaceAfter=No
+5	电视	电视	NOUN	NN	_	6	compound	_	SpaceAfter=No
 6	剧	剧	PART	SFN	_	7	nmod	_	SpaceAfter=No
 7	频道	频道	NOUN	NN	_	26	nmod	_	SpaceAfter=No
 8	、	、	PUNCT	EC	_	13	punct	_	SpaceAfter=No
 9	湖南	湖南	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
-10	电视	电视	NOUN	NN	_	11	case:suff	_	SpaceAfter=No
+10	电视	电视	NOUN	NN	_	11	compound	_	SpaceAfter=No
 11	台	台	PART	SFN	_	13	nmod	_	SpaceAfter=No
 12	卫星	卫星	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 13	频道	频道	NOUN	NN	_	7	conj	_	SpaceAfter=No
@@ -12097,7 +12097,7 @@
 19	家	家	NOUN	NNB	_	20	advmod	_	SpaceAfter=No
 20	引进	引进	VERB	VV	_	26	acl:relcl	_	SpaceAfter=No
 21	泰国	泰国	PROPN	NNP	_	23	nmod	_	SpaceAfter=No
-22	电视	电视	NOUN	NN	_	23	case:suff	_	SpaceAfter=No
+22	电视	电视	NOUN	NN	_	23	compound	_	SpaceAfter=No
 23	剧	剧	PART	SFN	_	20	obj	_	SpaceAfter=No
 24	的	的	PART	DEC	_	20	mark:relcl	_	SpaceAfter=No
 25	电视	电视	NOUN	NN	_	26	nmod	_	SpaceAfter=No
@@ -12109,7 +12109,7 @@
 1	当年	当年	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	冬	冬	NOUN	NN	_	11	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
-4	安徽	安徽	PROPN	NNP	_	5	case:suff	_	SpaceAfter=No
+4	安徽	安徽	PROPN	NNP	_	5	compound	_	SpaceAfter=No
 5	省	省	PART	SFN	_	7	nmod	_	SpaceAfter=No
 6	高等	高等	ADJ	JJ	_	7	amod	_	SpaceAfter=No
 7	法院	法院	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
@@ -12152,7 +12152,7 @@
 6	所	所	ADV	RB	_	7	mark	_	SpaceAfter=No
 7	列	列	VERB	VV	_	15	ccomp	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
-9	安检	安检	VERB	VV	_	10	case:suff	_	SpaceAfter=No
+9	安检	安检	VERB	VV	_	10	compound	_	SpaceAfter=No
 10	所	所	PART	SFN	_	13	nmod	_	SpaceAfter=No
 11	内	内	ADP	IN	_	10	acl	_	SpaceAfter=No
 12	一般	一般	ADJ	JJ	_	13	amod	_	SpaceAfter=No
@@ -12190,7 +12190,7 @@
 10	安检	安检	NOUN	NN	_	6	obj	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 12	故	故	ADV	RB	_	16	mark	_	SpaceAfter=No
-13	安检	安检	VERB	VV	_	14	case:suff	_	SpaceAfter=No
+13	安检	安检	VERB	VV	_	14	compound	_	SpaceAfter=No
 14	所	所	PART	SFN	_	16	nsubj	_	SpaceAfter=No
 15	均	均	ADV	RB	_	16	advmod	_	SpaceAfter=No
 16	配合	配合	VERB	VV	_	6	parataxis	_	SpaceAfter=No
@@ -12232,7 +12232,7 @@
 
 # sent_id = test-s455
 # text = 安班加县（Ambanja District）位于马达加斯加北部，是安齐拉纳纳省的一部分，面积6,328平方公里（2,443平方英哩），2001年人口125,056，人口密度为每平方公里19.8人（每平方英哩2,443.3人）。
-1	安班加	安班加	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	安班加	安班加	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	县	县	PART	SFN	_	17	nsubj	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No
 4	Ambanja	Ambanja	X	FW	_	2	appos	_	_
@@ -12244,7 +12244,7 @@
 10	北部	北部	NOUN	NN	_	7	obj	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
 12	是	是	AUX	VC	_	17	cop	_	SpaceAfter=No
-13	安齐拉纳纳	安齐拉纳纳	PROPN	NNP	_	14	case:suff	_	SpaceAfter=No
+13	安齐拉纳纳	安齐拉纳纳	PROPN	NNP	_	14	compound	_	SpaceAfter=No
 14	省	省	PART	SFN	_	17	det	_	SpaceAfter=No
 15	的	的	PART	DEC	Case=Gen	14	case:dec	_	SpaceAfter=No
 16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No
@@ -12282,7 +12282,7 @@
 # text = 现时首席执行官为Stuart Harrison。
 1	现时	现时	NOUN	NN	_	6	nmod:tmod	_	SpaceAfter=No
 2	首席	首席	NOUN	NN	_	4	nmod	_	SpaceAfter=No
-3	执行	执行	VERB	VV	_	4	case:suff	_	SpaceAfter=No
+3	执行	执行	VERB	VV	_	4	compound	_	SpaceAfter=No
 4	官	官	PART	SFN	_	6	nsubj	_	SpaceAfter=No
 5	为	为	AUX	VC	_	6	cop	_	SpaceAfter=No
 6	Stuart	Stuart	X	FW	_	0	root	_	_
@@ -12298,7 +12298,7 @@
 5	最	最	ADV	RB	_	6	advmod	_	SpaceAfter=No
 6	成功	成功	ADJ	JJ	_	10	amod	_	SpaceAfter=No
 7	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
-8	亚	亚	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	亚	亚	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	裔	裔	PART	SFN	_	10	nmod	_	SpaceAfter=No
 10	歌手	歌手	NOUN	NN	_	55	advcl	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	55	punct	_	SpaceAfter=No
@@ -12348,7 +12348,7 @@
 55	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 56	着	着	PART	AS	Aspect=Prog	55	case:aspect	_	SpaceAfter=No
 57	高	高	PART	PFA	_	59	case:pref	_	SpaceAfter=No
-58	知名	知名	ADJ	JJ	_	59	case:suff	_	SpaceAfter=No
+58	知名	知名	ADJ	JJ	_	59	compound	_	SpaceAfter=No
 59	度	度	PART	SFN	_	55	obj	_	SpaceAfter=No
 60	。	。	PUNCT	.	_	55	punct	_	SpaceAfter=No
 
@@ -12356,13 +12356,13 @@
 # text = 恒河和雅鲁藏布江河口均流出至安达曼海。
 1	恒河	恒河	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 2	和	和	CCONJ	CC	_	4	cc	_	SpaceAfter=No
-3	雅鲁藏布	雅鲁藏布	PROPN	NNP	_	4	case:suff	_	SpaceAfter=No
+3	雅鲁藏布	雅鲁藏布	PROPN	NNP	_	4	compound	_	SpaceAfter=No
 4	江	江	PART	SFN	_	1	conj	_	SpaceAfter=No
 5	河口	河口	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 6	均	均	ADV	RB	_	7	advmod	_	SpaceAfter=No
 7	流出	流出	VERB	VV	_	0	root	_	SpaceAfter=No
 8	至	至	VERB	VV	_	7	mark	_	SpaceAfter=No
-9	安达曼	安达曼	PROPN	NNP	_	10	case:suff	_	SpaceAfter=No
+9	安达曼	安达曼	PROPN	NNP	_	10	compound	_	SpaceAfter=No
 10	海	海	PART	SFN	_	7	obj	_	SpaceAfter=No
 11	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
@@ -12441,7 +12441,7 @@
 25	例如	例如	VERB	VV	_	21	ccomp	_	SpaceAfter=No
 26	餐厅	餐厅	NOUN	NN	_	25	obj	_	SpaceAfter=No
 27	及	及	CCONJ	CC	_	29	cc	_	SpaceAfter=No
-28	咖啡	咖啡	NOUN	NN	_	29	case:suff	_	SpaceAfter=No
+28	咖啡	咖啡	NOUN	NN	_	29	compound	_	SpaceAfter=No
 29	厅	厅	PART	SFN	_	26	conj	_	SpaceAfter=No
 30	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
@@ -12464,9 +12464,9 @@
 15	安达臣	安达臣	PROPN	NNP	_	16	nmod	_	SpaceAfter=No
 16	道	道	PART	SFN	_	24	nmod	_	SpaceAfter=No
 17	及	及	CCONJ	CC	_	21	cc	_	SpaceAfter=No
-18	安达臣	安达臣	PROPN	NNP	_	19	case:suff	_	SpaceAfter=No
+18	安达臣	安达臣	PROPN	NNP	_	19	compound	_	SpaceAfter=No
 19	道	道	PART	SFN	_	21	nmod	_	SpaceAfter=No
-20	石矿	石矿	NOUN	NN	_	21	case:suff	_	SpaceAfter=No
+20	石矿	石矿	NOUN	NN	_	21	compound	_	SpaceAfter=No
 21	场	场	PART	SFN	_	16	conj	_	SpaceAfter=No
 22	发展	发展	NOUN	NN	_	24	nmod	_	SpaceAfter=No
 23	计划	计划	NOUN	NN	_	24	nmod	_	SpaceAfter=No
@@ -12506,7 +12506,7 @@
 29	康乐	康乐	NOUN	NN	_	32	nmod	_	SpaceAfter=No
 30	及	及	CCONJ	CC	_	29	cc	_	SpaceAfter=No
 31	文化	文化	NOUN	NN	_	29	nmod	_	SpaceAfter=No
-32	事务	事务	NOUN	NN	_	33	case:suff	_	SpaceAfter=No
+32	事务	事务	NOUN	NN	_	33	compound	_	SpaceAfter=No
 33	署	署	PART	SFN	_	35	nsubj	_	SpaceAfter=No
 34	所	所	ADV	RB	_	35	mark	_	SpaceAfter=No
 35	获得	获得	VERB	VV	_	37	acl:relcl	_	SpaceAfter=No
@@ -12539,7 +12539,7 @@
 9	盆地	盆地	NOUN	NN	_	6	conj	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 11	年	年	NOUN	NNB	_	13	nmod	_	SpaceAfter=No
-12	降雨	降雨	VERB	VV	_	13	case:suff	_	SpaceAfter=No
+12	降雨	降雨	VERB	VV	_	13	compound	_	SpaceAfter=No
 13	量	量	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 14	常常	常常	ADV	RB	_	15	advmod	_	SpaceAfter=No
 15	少	少	ADJ	JJ	_	6	parataxis	_	SpaceAfter=No
@@ -12550,13 +12550,13 @@
 
 # sent_id = test-s466
 # text = 安阳县是中国河南省安阳市下辖的一个县，位于河南省北缘，安阳市北部。
-1	安阳	安阳	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	安阳	安阳	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	县	县	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No
 4	中国	中国	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
-5	河南	河南	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
+5	河南	河南	PROPN	NNP	_	6	compound	_	SpaceAfter=No
 6	省	省	PART	SFN	_	8	nmod	_	SpaceAfter=No
-7	安阳	安阳	PROPN	NNP	_	8	case:suff	_	SpaceAfter=No
+7	安阳	安阳	PROPN	NNP	_	8	compound	_	SpaceAfter=No
 8	市	市	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 9	下辖	下辖	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
 10	的	的	PART	DEC	_	9	mark:relcl	_	SpaceAfter=No
@@ -12566,11 +12566,11 @@
 14	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 15	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
 16	于	于	VERB	VV	_	15	mark	_	SpaceAfter=No
-17	河南	河南	PROPN	NNP	_	18	case:suff	_	SpaceAfter=No
+17	河南	河南	PROPN	NNP	_	18	compound	_	SpaceAfter=No
 18	省	省	PART	SFN	_	19	nmod	_	SpaceAfter=No
 19	北缘	北缘	NOUN	NN	_	15	obj	_	SpaceAfter=No
 20	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
-21	安阳	安阳	PROPN	NNP	_	22	case:suff	_	SpaceAfter=No
+21	安阳	安阳	PROPN	NNP	_	22	compound	_	SpaceAfter=No
 22	市	市	PART	SFN	_	23	nmod	_	SpaceAfter=No
 23	北部	北部	NOUN	NN	_	19	appos	_	SpaceAfter=No
 24	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
@@ -12605,7 +12605,7 @@
 16	到	到	VERB	VV	_	18	advcl	_	SpaceAfter=No
 17	走廊	走廊	NOUN	NN	_	16	obj	_	SpaceAfter=No
 18	欣赏	欣赏	VERB	VV	_	4	parataxis	_	SpaceAfter=No
-19	安顺	安顺	PROPN	NNP	_	20	case:suff	_	SpaceAfter=No
+19	安顺	安顺	PROPN	NNP	_	20	compound	_	SpaceAfter=No
 20	市	市	PART	SFN	_	22	det	_	SpaceAfter=No
 21	的	的	PART	DEC	Case=Gen	20	case:dec	_	SpaceAfter=No
 22	景色	景色	NOUN	NN	_	18	obj	_	SpaceAfter=No
@@ -12614,7 +12614,7 @@
 # sent_id = test-s469
 # text = 由于宋军人数太少，刘平、石元孙被俘。
 1	由于	由于	ADP	IN	_	5	case	_	SpaceAfter=No
-2	宋	宋	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+2	宋	宋	PROPN	NNP	_	3	compound	_	SpaceAfter=No
 3	军	军	PART	SFN	_	4	nmod	_	SpaceAfter=No
 4	人数	人数	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 5	太少	太少	ADJ	JJ	_	13	ccomp	_	SpaceAfter=No
@@ -12668,7 +12668,7 @@
 18	他	他	PRON	PRP	Person=3	50	nsubj	_	SpaceAfter=No
 19	任	任	VERB	VV	_	50	advcl	_	SpaceAfter=No
 20	戒严	戒严	NOUN	NN	_	22	nmod	_	SpaceAfter=No
-21	司令	司令	NOUN	NN	_	22	case:suff	_	SpaceAfter=No
+21	司令	司令	NOUN	NN	_	22	compound	_	SpaceAfter=No
 22	官	官	PART	SFN	_	19	obj	_	SpaceAfter=No
 23	，	，	PUNCT	,	_	50	punct	_	SpaceAfter=No
 24	1960	1960	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No
@@ -12677,7 +12677,7 @@
 27	月	月	NOUN	NNB	_	28	nmod:tmod	_	SpaceAfter=No
 28	辞去	辞去	VERB	VV	_	50	advcl	_	SpaceAfter=No
 29	陆军	陆军	NOUN	NN	_	32	nmod	_	SpaceAfter=No
-30	参谋	参谋	VERB	VV	_	31	case:suff	_	SpaceAfter=No
+30	参谋	参谋	VERB	VV	_	31	compound	_	SpaceAfter=No
 31	长	长	PART	SFN	_	32	nmod	_	SpaceAfter=No
 32	职务	职务	NOUN	NN	_	28	obj	_	SpaceAfter=No
 33	，	，	PUNCT	,	_	50	punct	_	SpaceAfter=No
@@ -12714,12 +12714,12 @@
 5	兼办	兼办	VERB	VV	_	0	root	_	SpaceAfter=No
 6	《	《	PUNCT	(	_	9	punct	_	SpaceAfter=No
 7	天	天	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
-8	行	行	VERB	VV	_	9	case:suff	_	SpaceAfter=No
+8	行	行	VERB	VV	_	9	compound	_	SpaceAfter=No
 9	报	报	PART	SFN	_	5	obj	_	SpaceAfter=No
 10	》	》	PUNCT	)	_	14	punct	_	SpaceAfter=No
 11	、	、	PUNCT	EC	_	14	punct	_	SpaceAfter=No
 12	《	《	PUNCT	(	_	14	punct	_	SpaceAfter=No
-13	原子	原子	NOUN	NN	_	14	case:suff	_	SpaceAfter=No
+13	原子	原子	NOUN	NN	_	14	compound	_	SpaceAfter=No
 14	能	能	PART	SFN	_	9	conj	_	SpaceAfter=No
 15	》	》	PUNCT	)	_	14	punct	_	SpaceAfter=No
 16	杂志	杂志	NOUN	NN	_	9	appos	_	SpaceAfter=No
@@ -12742,10 +12742,10 @@
 13	神学	神学	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 14	有	有	VERB	VV	_	25	advcl	_	SpaceAfter=No
 15	其	其	PRON	PRP	Person=3	17	det	_	SpaceAfter=No
-16	理论	理论	NOUN	NN	_	17	case:suff	_	SpaceAfter=No
+16	理论	理论	NOUN	NN	_	17	compound	_	SpaceAfter=No
 17	化	化	PART	SFN	_	14	obj	_	SpaceAfter=No
 18	及	及	CCONJ	CC	_	20	cc	_	SpaceAfter=No
-19	系统	系统	NOUN	NN	_	20	case:suff	_	SpaceAfter=No
+19	系统	系统	NOUN	NN	_	20	compound	_	SpaceAfter=No
 20	化	化	PART	SFN	_	17	conj	_	SpaceAfter=No
 21	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
 22	而	而	ADV	RB	_	25	mark	_	SpaceAfter=No
@@ -12784,7 +12784,7 @@
 # sent_id = test-s475
 # text = 不料明军舰队挺进江面后，以大斧斫断大铁索，逆流而上。
 1	不料	不料	VERB	VV	_	0	root	_	SpaceAfter=No
-2	明	明	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
+2	明	明	PROPN	NNP	_	3	compound	_	SpaceAfter=No
 3	军	军	PART	SFN	_	4	nmod	_	SpaceAfter=No
 4	舰队	舰队	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 5	挺进	挺进	VERB	VV	_	17	advcl	_	SpaceAfter=No
@@ -12804,7 +12804,7 @@
 
 # sent_id = test-s476
 # text = 英语中定语从句中甚至还可能包含定语从句，即多重定语从句。
-1	英	英	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	英	英	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	语	语	PART	SFN	_	5	nmod	_	SpaceAfter=No
 3	中	中	ADP	IN	_	2	acl	_	SpaceAfter=No
 4	定语	定语	NOUN	NN	_	5	nmod	_	SpaceAfter=No
@@ -12838,7 +12838,7 @@
 10	家居	家居	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 11	吸引	吸引	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
 12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
-13	消费	消费	VERB	VV	_	14	case:suff	_	SpaceAfter=No
+13	消费	消费	VERB	VV	_	14	compound	_	SpaceAfter=No
 14	者	者	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 15	来	来	VERB	VV	_	0	root	_	SpaceAfter=No
 16	自	自	VERB	VV	_	15	mark	_	SpaceAfter=No
@@ -12861,7 +12861,7 @@
 7	出	出	VERB	VV	_	6	mark	_	SpaceAfter=No
 8	具有	具有	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
 9	高度	高度	ADJ	JJ	_	11	amod	_	SpaceAfter=No
-10	适应	适应	VERB	VV	_	11	case:suff	_	SpaceAfter=No
+10	适应	适应	VERB	VV	_	11	compound	_	SpaceAfter=No
 11	力	力	PART	SFN	_	8	obj	_	SpaceAfter=No
 12	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
 13	家具	家具	NOUN	NN	_	6	obj	_	SpaceAfter=No
@@ -12893,28 +12893,28 @@
 
 # sent_id = test-s479
 # text = 宜都市是地处中华人民共和国湖北省西南部的一个县级市，隶属地级宜昌市管辖，位于长江南岸，长江与其支流清江交汇处。
-1	宜都	宜都	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	宜都	宜都	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	市	市	PART	SFN	_	26	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	18	cop	_	SpaceAfter=No
 4	地	地	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 5	处	处	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No
 6	中华	中华	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
 7	人民	人民	NOUN	NN	_	13	nmod	_	SpaceAfter=No
-8	共和	共和	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+8	共和	共和	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	国	国	PART	SFN	_	13	nmod	_	SpaceAfter=No
-10	湖北	湖北	PROPN	NNP	_	11	case:suff	_	SpaceAfter=No
+10	湖北	湖北	PROPN	NNP	_	11	compound	_	SpaceAfter=No
 11	省	省	PART	SFN	_	13	nmod	_	SpaceAfter=No
-12	西南	西南	NOUN	NN	_	13	case:suff	_	SpaceAfter=No
+12	西南	西南	NOUN	NN	_	13	compound	_	SpaceAfter=No
 13	部	部	PART	SFN	_	5	obj	_	SpaceAfter=No
 14	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
 15	一	一	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No
 16	个	个	NOUN	NNB	_	18	nmod	_	SpaceAfter=No
-17	县级	县级	NOUN	NN	_	18	case:suff	_	SpaceAfter=No
+17	县级	县级	NOUN	NN	_	18	compound	_	SpaceAfter=No
 18	市	市	PART	SFN	_	26	advcl	_	SpaceAfter=No
 19	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
 20	隶属	隶属	VERB	VV	_	26	advcl	_	SpaceAfter=No
 21	地级	地级	NOUN	NN	_	23	nmod	_	SpaceAfter=No
-22	宜昌	宜昌	PROPN	NNP	_	23	case:suff	_	SpaceAfter=No
+22	宜昌	宜昌	PROPN	NNP	_	23	compound	_	SpaceAfter=No
 23	市	市	PART	SFN	_	24	nsubj	_	SpaceAfter=No
 24	管辖	管辖	VERB	VV	_	20	ccomp	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
@@ -12928,13 +12928,13 @@
 33	其	其	PRON	PRP	Person=3	35	nmod	_	SpaceAfter=No
 34	支流	支流	NOUN	NN	_	35	nmod	_	SpaceAfter=No
 35	清江	清江	PROPN	NNP	_	31	conj	_	SpaceAfter=No
-36	交汇	交汇	VERB	VV	_	37	case:suff	_	SpaceAfter=No
+36	交汇	交汇	VERB	VV	_	37	compound	_	SpaceAfter=No
 37	处	处	PART	SFN	_	29	appos	_	SpaceAfter=No
 38	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No
 
 # sent_id = test-s480
 # text = 宜都市处于鄂西山地和江汉平原过渡地带，地势西南高、东北低，由西南向东北倾斜，是一个丘陵起伏的半山区。
-1	宜都	宜都	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
+1	宜都	宜都	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	市	市	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	处	处	VERB	VV	_	0	root	_	SpaceAfter=No
 4	于	于	VERB	VV	_	3	mark	_	SpaceAfter=No
@@ -13005,7 +13005,7 @@
 1	实德	实德	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 2	集团	集团	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No
-4	大连	大连	PROPN	NNP	_	5	case:suff	_	SpaceAfter=No
+4	大连	大连	PROPN	NNP	_	5	compound	_	SpaceAfter=No
 5	市	市	PART	SFN	_	11	det	_	SpaceAfter=No
 6	的	的	PART	DEC	Case=Gen	5	case:dec	_	SpaceAfter=No
 7	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
@@ -13025,11 +13025,11 @@
 1	总部	总部	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
 3	于	于	VERB	VV	_	2	mark	_	SpaceAfter=No
-4	大连	大连	PROPN	NNP	_	5	case:suff	_	SpaceAfter=No
+4	大连	大连	PROPN	NNP	_	5	compound	_	SpaceAfter=No
 5	市	市	PART	SFN	_	11	nmod	_	SpaceAfter=No
-6	西岗	西岗	PROPN	NNP	_	7	case:suff	_	SpaceAfter=No
+6	西岗	西岗	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 7	区	区	PART	SFN	_	11	nmod	_	SpaceAfter=No
-8	高尔基	高尔基	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
+8	高尔基	高尔基	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	路	路	PART	SFN	_	11	nmod	_	SpaceAfter=No
 10	38	38	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
 11	号	号	NOUN	NN	_	2	obj	_	SpaceAfter=No
@@ -13109,14 +13109,14 @@
 2	日	日	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	上午	上午	NOUN	NN	_	20	nmod:tmod	_	SpaceAfter=No
 4	在	在	ADP	IN	_	8	case	_	SpaceAfter=No
-5	陆军	陆军	NOUN	NN	_	6	case:suff	_	SpaceAfter=No
+5	陆军	陆军	NOUN	NN	_	6	compound	_	SpaceAfter=No
 6	省	省	PART	SFN	_	8	det	_	SpaceAfter=No
 7	的	的	PART	DEC	Case=Gen	6	case:dec	_	SpaceAfter=No
 8	会议	会议	NOUN	NN	_	20	obl	_	SpaceAfter=No
 9	中	中	ADP	IN	_	8	acl	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
 11	青年	青年	NOUN	NN	_	13	nmod	_	SpaceAfter=No
-12	军官	军官	NOUN	NN	_	13	case:suff	_	SpaceAfter=No
+12	军官	军官	NOUN	NN	_	13	compound	_	SpaceAfter=No
 13	们	们	PART	SFN	Number=Plur	20	nsubj	_	SpaceAfter=No
 14	要求	要求	VERB	VV	Voice=Cau	20	advcl	_	SpaceAfter=No
 15	阿南	阿南	PROPN	NNP	_	17	nsubj	_	SpaceAfter=No
@@ -13291,7 +13291,7 @@
 37	，	，	PUNCT	,	_	43	punct	_	SpaceAfter=No
 38	军方	军方	NOUN	NN	_	41	nmod	_	SpaceAfter=No
 39	总	总	PART	PFA	_	41	case:pref	_	SpaceAfter=No
-40	指挥	指挥	VERB	VV	_	41	case:suff	_	SpaceAfter=No
+40	指挥	指挥	VERB	VV	_	41	compound	_	SpaceAfter=No
 41	官	官	PART	SFN	_	43	nsubj	_	SpaceAfter=No
 42	曾	曾	ADV	RB	_	43	advmod	_	SpaceAfter=No
 43	有	有	VERB	VV	_	58	advcl	_	SpaceAfter=No
@@ -13320,7 +13320,7 @@
 # text = 家用伺服器通常都会扮演网路储存设备的角色，为所有使用者提供安全的档案储存服务，而且拥有存取控制管理。
 1	家	家	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	用	用	VERB	VV	_	4	amod	_	SpaceAfter=No
-3	伺服	伺服	VERB	VV	_	4	case:suff	_	SpaceAfter=No
+3	伺服	伺服	VERB	VV	_	4	compound	_	SpaceAfter=No
 4	器	器	PART	SFN	_	27	nsubj	_	SpaceAfter=No
 5	通常	通常	ADV	RB	_	8	advmod	_	SpaceAfter=No
 6	都	都	ADV	RB	_	8	mark	_	SpaceAfter=No
@@ -13334,7 +13334,7 @@
 14	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No
 15	为	为	ADP	IN	_	18	case	_	SpaceAfter=No
 16	所有	所有	DET	DT	_	18	det	_	SpaceAfter=No
-17	使用	使用	VERB	VV	_	18	case:suff	_	SpaceAfter=No
+17	使用	使用	VERB	VV	_	18	compound	_	SpaceAfter=No
 18	者	者	PART	SFN	_	19	obl	_	SpaceAfter=No
 19	提供	提供	VERB	VV	_	27	advcl	_	SpaceAfter=No
 20	安全	安全	ADJ	JJ	_	24	amod	_	SpaceAfter=No
@@ -13352,14 +13352,14 @@
 
 # sent_id = test-s495
 # text = 酪梨糖是利用高科技分子蒸馏法由天然酪梨中萃取。
-1	酪梨	酪梨	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
+1	酪梨	酪梨	NOUN	NN	_	2	compound	_	SpaceAfter=No
 2	糖	糖	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
 4	利用	利用	VERB	VV	_	14	advcl	_	SpaceAfter=No
 5	高	高	PART	PFA	_	6	case:pref	_	SpaceAfter=No
 6	科技	科技	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 7	分子	分子	NOUN	NN	_	9	nmod	_	SpaceAfter=No
-8	蒸馏	蒸馏	VERB	VV	_	9	case:suff	_	SpaceAfter=No
+8	蒸馏	蒸馏	VERB	VV	_	9	compound	_	SpaceAfter=No
 9	法	法	PART	SFN	_	4	obj	_	SpaceAfter=No
 10	由	由	ADP	IN	_	12	case	_	SpaceAfter=No
 11	天然	天然	ADJ	JJ	_	12	amod	_	SpaceAfter=No
@@ -13380,7 +13380,7 @@
 8	交配	交配	VERB	VV	_	18	advcl	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No
 10	在	在	ADP	IN	_	12	case	_	SpaceAfter=No
-11	自然	自然	NOUN	NN	_	12	case:suff	_	SpaceAfter=No
+11	自然	自然	NOUN	NN	_	12	compound	_	SpaceAfter=No
 12	界	界	PART	SFN	_	18	obl	_	SpaceAfter=No
 13	和	和	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 14	圈养	圈养	NOUN	NN	_	15	nmod	_	SpaceAfter=No
@@ -13398,7 +13398,7 @@
 # text = 宵禁就是管理员下班（0:00 AM）到次日上班之前（9:00 AM）禁止发帖和回复，该规则在2010上海世博会期间实行，导致大量海外网友由于时差缘故无法正常发帖。
 1	宵禁	宵禁	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	就是	就是	VERB	VC	_	0	root	_	SpaceAfter=No
-3	管理	管理	VERB	VV	_	4	case:suff	_	SpaceAfter=No
+3	管理	管理	VERB	VV	_	4	compound	_	SpaceAfter=No
 4	员	员	PART	SFN	_	5	nsubj	_	SpaceAfter=No
 5	下班	下班	VERB	VV	_	18	advcl	_	SpaceAfter=No
 6	（	（	PUNCT	(	_	8	punct	_	SpaceAfter=No
@@ -13423,7 +13423,7 @@
 25	在	在	ADP	IN	_	30	case	_	SpaceAfter=No
 26	2010	2010	NUM	CD	NumType=Card	29	nummod	_	SpaceAfter=No
 27	上海	上海	PROPN	NNP	_	29	nmod	_	SpaceAfter=No
-28	世博	世博	NOUN	NN	_	29	case:suff	_	SpaceAfter=No
+28	世博	世博	NOUN	NN	_	29	compound	_	SpaceAfter=No
 29	会	会	PART	SFN	_	30	nmod	_	SpaceAfter=No
 30	期间	期间	NOUN	NN	_	31	obl	_	SpaceAfter=No
 31	实行	实行	VERB	VV	_	33	advcl	_	SpaceAfter=No
@@ -13445,7 +13445,7 @@
 1	分布	分布	VERB	VV	_	18	advcl	_	SpaceAfter=No
 2	于	于	ADP	IN	_	7	case	_	SpaceAfter=No
 3	西达	西达	VERB	VV	_	7	amod	_	SpaceAfter=No
-4	印度	印度	PROPN	NNP	_	5	case:suff	_	SpaceAfter=No
+4	印度	印度	PROPN	NNP	_	5	compound	_	SpaceAfter=No
 5	洋	洋	PART	SFN	_	3	obj	_	SpaceAfter=No
 6	塞席尔	塞席尔	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
 7	群岛	群岛	NOUN	NN	_	1	obl	_	SpaceAfter=No
@@ -13453,7 +13453,7 @@
 9	马尔地夫	马尔地夫	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
 10	群岛	群岛	NOUN	NN	_	7	conj	_	SpaceAfter=No
 11	以及	以及	CCONJ	CC	_	15	cc	_	SpaceAfter=No
-12	海南	海南	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
+12	海南	海南	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	省	省	PART	SFN	_	15	nmod	_	SpaceAfter=No
 14	中沙	中沙	PROPN	NNP	_	15	nmod	_	SpaceAfter=No
 15	群岛	群岛	NOUN	NN	_	7	conj	_	SpaceAfter=No
@@ -13464,7 +13464,7 @@
 20	热带	热带	NOUN	NN	_	24	nmod	_	SpaceAfter=No
 21	浅	浅	PART	PFA	_	22	case:pref	_	SpaceAfter=No
 22	海	海	NOUN	NN	_	24	nmod	_	SpaceAfter=No
-23	底层	底层	NOUN	NN	_	24	case:suff	_	SpaceAfter=No
+23	底层	底层	NOUN	NN	_	24	compound	_	SpaceAfter=No
 24	鱼	鱼	PART	SFN	_	18	obj	_	SpaceAfter=No
 25	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
