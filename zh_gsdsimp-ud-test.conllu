@@ -9619,7 +9619,7 @@
 6	剧	剧	PART	SFN	_	19	det	_	SpaceAfter=No
 7	《	《	PUNCT	(	_	8	punct	_	SpaceAfter=No
 8	琥珀	琥珀	NOUN	NN	_	6	appos	_	SpaceAfter=No
-9	》	》	PUNCT	)	_	15	punct	_	SpaceAfter=No
+9	》	》	PUNCT	)	_	8	punct	_	SpaceAfter=No
 10	以及	以及	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 11	儿童	儿童	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 12	狂欢	狂欢	VERB	VV	_	13	compound	_	SpaceAfter=No
