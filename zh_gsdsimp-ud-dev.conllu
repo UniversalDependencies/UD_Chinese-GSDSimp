@@ -611,7 +611,7 @@
 11	密度	密度	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
 12	127.2	127.2	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
 13	人	人	NOUN	NN	_	4	parataxis	_	SpaceAfter=No
-14	/	/	SYM	/	_	13	punct	_	SpaceAfter=No
+14	/	/	PUNCT	/	_	13	punct	_	SpaceAfter=No
 15	平方公里	平方公里	NOUN	NNB	_	13	acl	_	SpaceAfter=No
 16	（	（	PUNCT	(	_	18	punct	_	SpaceAfter=No
 17	2009	2009	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
@@ -1339,7 +1339,7 @@
 30	都	都	ADV	RB	_	36	mark	_	SpaceAfter=No
 31	以	以	ADP	IN	_	35	case	_	SpaceAfter=No
 32	A	A	X	FW	_	35	nmod	_	SpaceAfter=No
-33	/	/	SYM	/	_	32	punct	_	SpaceAfter=No
+33	/	/	PUNCT	/	_	32	punct	_	SpaceAfter=No
 34	B	B	X	FW	_	32	flat:foreign	_	SpaceAfter=No
 35	字母	字母	NOUN	NN	_	36	obl	_	SpaceAfter=No
 36	作结	作结	VERB	VV	_	9	parataxis	_	SpaceAfter=No
@@ -4235,7 +4235,7 @@
 11	密度	密度	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
 12	43.4	43.4	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
 13	人	人	NOUN	NN	_	4	parataxis	_	SpaceAfter=No
-14	/	/	SYM	/	_	13	punct	_	SpaceAfter=No
+14	/	/	PUNCT	/	_	13	punct	_	SpaceAfter=No
 15	平方公里	平方公里	NOUN	NNB	_	13	acl	_	SpaceAfter=No
 16	（	（	PUNCT	(	_	18	punct	_	SpaceAfter=No
 17	2009	2009	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
@@ -4964,7 +4964,7 @@
 16	密度	密度	NOUN	NN	_	18	nsubj	_	SpaceAfter=No
 17	16	16	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
 18	人	人	NOUN	NN	_	4	parataxis	_	SpaceAfter=No
-19	/	/	SYM	/	_	18	punct	_	SpaceAfter=No
+19	/	/	PUNCT	/	_	18	punct	_	SpaceAfter=No
 20	平方公里	平方公里	NOUN	NNB	_	18	acl	_	SpaceAfter=No
 21	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
@@ -12968,9 +12968,9 @@
 10	词	词	NOUN	NN	_	8	appos	_	SpaceAfter=No
 11	加上	加上	VERB	VV	_	17	advcl	_	SpaceAfter=No
 12	后缀	后缀	NOUN	NN	_	11	obj	_	SpaceAfter=No
-13	/	/	SYM	/	_	14	punct	_	SpaceAfter=No
+13	/	/	PUNCT	/	_	14	punct	_	SpaceAfter=No
 14	-an	-an	X	FW	_	12	appos	_	SpaceAfter=No
-15	/	/	SYM	/	_	14	punct	_	SpaceAfter=No
+15	/	/	PUNCT	/	_	14	punct	_	SpaceAfter=No
 16	等	等	NOUN	NN	_	14	acl	_	SpaceAfter=No
 17	表示	表示	VERB	VV	_	0	root	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
