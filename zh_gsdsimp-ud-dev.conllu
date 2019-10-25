@@ -2066,7 +2066,7 @@
 20	、	、	PUNCT	EC	_	22	punct	_	SpaceAfter=No
 21	茶楼	茶楼	NOUN	NN	_	22	nmod	_	SpaceAfter=No
 22	酒吧	酒吧	NOUN	NN	_	19	conj	_	SpaceAfter=No
-23	和	和	CCONJ	CC	_	29	cc	_	SpaceAfter=No
+23	和	和	CCONJ	CC	_	27	cc	_	SpaceAfter=No
 24	各式	各式	DET	DT	_	27	det	_	SpaceAfter=No
 25	工艺	工艺	NOUN	NN	_	26	compound	_	SpaceAfter=No
 26	品	品	PART	SFN	_	27	nmod	_	SpaceAfter=No
@@ -3373,7 +3373,7 @@
 19	并	并	ADV	RB	_	20	mark	_	SpaceAfter=No
 20	演化	演化	VERB	VV	_	0	root	_	SpaceAfter=No
 21	为	为	VERB	VC	_	20	mark	_	SpaceAfter=No
-22	明	明	PROPN	NNP	_	28	nmod	_	SpaceAfter=No
+22	明	明	PROPN	NNP	_	26	nmod	_	SpaceAfter=No
 23	清	清	PROPN	NNP	_	22	conj	_	SpaceAfter=No
 24	的	的	PART	DEC	Case=Gen	22	case:dec	_	SpaceAfter=No
 25	主要	主要	ADJ	JJ	_	26	amod	_	SpaceAfter=No
@@ -7305,7 +7305,7 @@
 13	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No
 14	以及	以及	CCONJ	CC	_	28	cc	_	SpaceAfter=No
 15	原本	原本	ADV	RB	_	16	advmod	_	SpaceAfter=No
-16	领导	领导	VERB	VV	_	26	acl:relcl	_	SpaceAfter=No
+16	领导	领导	VERB	VV	_	25	acl:relcl	_	SpaceAfter=No
 17	游击	游击	NOUN	NN	_	18	compound	_	SpaceAfter=No
 18	战	战	PART	SFN	_	16	obj	_	SpaceAfter=No
 19	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
@@ -7695,7 +7695,7 @@
 9	中	中	ADP	IN	_	7	advcl	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No
 11	曾	曾	ADV	RB	_	28	advmod	_	SpaceAfter=No
-12	于	于	ADP	IN	_	25	case	_	SpaceAfter=No
+12	于	于	ADP	IN	_	20	case	_	SpaceAfter=No
 13	蜘蛛	蜘蛛	NOUN	NN	_	14	compound	_	SpaceAfter=No
 14	人	人	PART	SFN	_	18	nsubj	_	SpaceAfter=No
 15	和	和	CCONJ	CC	_	17	cc	_	SpaceAfter=No
@@ -9932,7 +9932,7 @@
 18	1960	1960	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
 19	年代	年代	NOUN	NNB	_	65	obl	_	SpaceAfter=No
 20	，	，	PUNCT	,	_	65	punct	_	SpaceAfter=No
-21	由于	由于	ADP	IN	_	26	case	_	SpaceAfter=No
+21	由于	由于	ADP	IN	_	23	case	_	SpaceAfter=No
 22	政府	政府	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
 23	削减	削减	VERB	VV	_	65	obl	_	SpaceAfter=No
 24	资助	资助	NOUN	NN	_	23	obj	_	SpaceAfter=No
@@ -10783,7 +10783,7 @@
 19	妹妹	妹妹	NOUN	NN	_	14	obj	_	SpaceAfter=No
 20	，	，	PUNCT	,	_	31	punct	_	SpaceAfter=No
 21	她	她	PRON	PRP	Person=3	26	nmod	_	SpaceAfter=No
-22	与	与	ADP	IN	_	25	case	_	SpaceAfter=No
+22	与	与	ADP	IN	_	23	case	_	SpaceAfter=No
 23	弟弟	弟弟	NOUN	NN	_	26	nmod	_	SpaceAfter=No
 24	庄献	庄献	PROPN	NNP	_	25	nmod	_	SpaceAfter=No
 25	世子	世子	NOUN	NN	_	23	appos	_	SpaceAfter=No
@@ -12464,7 +12464,7 @@
 11	姐姐	姐姐	NOUN	NN	_	19	nmod	_	SpaceAfter=No
 12	奥尔加	奥尔加	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
 13	公主	公主	NOUN	NN	_	11	appos	_	SpaceAfter=No
-14	和	和	CCONJ	CC	_	17	cc	_	SpaceAfter=No
+14	和	和	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 15	姐夫	姐夫	NOUN	NN	_	13	conj	_	SpaceAfter=No
 16	保罗	保罗	PROPN	NNP	_	17	nmod	_	SpaceAfter=No
 17	王子	王子	NOUN	NN	_	15	appos	_	SpaceAfter=No
