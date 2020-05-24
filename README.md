@@ -9,6 +9,9 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
 
 # Changelog
 
+* 2020-11-15 v2.7
+  * Aspect markers relations are corrected from `case:aspect` to `aux:aspect`.
+
 * 2019-11-15 v2.5
   * Initial release in Universal Dependencies, converted from UD_Chinese-GSD.
   * Google gave permission to drop the "NC" restriction from the license.
