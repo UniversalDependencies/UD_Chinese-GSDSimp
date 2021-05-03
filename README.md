@@ -12,6 +12,7 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
 * 2021-05-15 v2.8
   * Changed mark:relcl to mark:rel (as in the other Chinese treebanks).
   * Removed the relation case:dec (for 的 between two nouns; the other treebanks use just `case` here).
+  * Removed the relation aux:aspect (the particles 了 (le), 过 (guo), 着 (zhe) use just `aux` in the other treebanks).
 * 2020-11-15 v2.7
   * Aspect markers relations are corrected from `case:aspect` to `aux:aspect`.
 * 2019-11-15 v2.5
