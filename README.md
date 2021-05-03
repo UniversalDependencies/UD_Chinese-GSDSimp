@@ -14,6 +14,7 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
   * Removed the relation case:dec (for 的 between two nouns; the other treebanks use just `case` here).
   * Removed the relation aux:aspect (the aspect particles 了 (le), 过 (guo), 着 (zhe) use just `aux` in the other treebanks).
   * Question particles changed from Mood=Inter to PartType=Int, and from discourse to discourse:sp.
+  * Undocumented relation subtypes case:pref and case:suff changed to case.
 * 2020-11-15 v2.7
   * Aspect markers relations are corrected from `case:aspect` to `aux:aspect`.
 * 2019-11-15 v2.5
