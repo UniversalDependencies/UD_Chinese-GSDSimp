@@ -78,7 +78,7 @@
     <dep name="mark">4553</dep>
     <dep name="mark:advb">104</dep>
     <dep name="mark:comp">25</dep>
-    <dep name="mark:relcl">2428</dep>
+    <dep name="mark:rel">2428</dep>
     <dep name="nmod">16195</dep>
     <dep name="nmod:tmod">1615</dep>
     <dep name="nsubj">9426</dep>

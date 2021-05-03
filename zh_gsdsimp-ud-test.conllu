@@ -22,7 +22,7 @@
 6	兴建	兴建	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No
 7	人文	人文	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
 8	大楼	大楼	NOUN	NN	_	6	obj	_	SpaceAfter=No
-9	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+9	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 10	构想	构想	NOUN	NN	_	4	obj	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 12	企业	企业	NOUN	NN	_	13	compound	_	SpaceAfter=No
@@ -118,7 +118,7 @@
 12	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
 13	参与	参与	VERB	VV	_	17	csubj	_	SpaceAfter=No
 14	会务	会务	NOUN	NN	_	13	obj	_	SpaceAfter=No
-15	的	的	PART	DEC	_	13	mark:relcl	_	SpaceAfter=No
+15	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No
 16	还	还	ADV	RB	_	17	mark	_	SpaceAfter=No
 17	有	有	VERB	VV	_	9	parataxis	_	SpaceAfter=No
 18	来	来	VERB	VV	_	38	acl:relcl	_	SpaceAfter=No
@@ -140,7 +140,7 @@
 34	英国	英国	PROPN	NNP	_	20	conj	_	SpaceAfter=No
 35	和	和	CCONJ	CC	_	36	cc	_	SpaceAfter=No
 36	美国	美国	PROPN	NNP	_	20	conj	_	SpaceAfter=No
-37	的	的	PART	DEC	_	18	mark:relcl	_	SpaceAfter=No
+37	的	的	PART	DEC	_	18	mark:rel	_	SpaceAfter=No
 38	代表	代表	NOUN	NN	_	17	obj	_	SpaceAfter=No
 39	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
@@ -211,7 +211,7 @@
 6	处理	处理	VERB	VV	_	0	root	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 8	使用	使用	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No
-9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 10	媒介	媒介	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 11	包括	包括	VERB	VV	_	6	parataxis	_	SpaceAfter=No
 12	海底	海底	NOUN	NN	_	13	nmod	_	SpaceAfter=No
@@ -448,7 +448,7 @@
 6	浪漫	浪漫	ADJ	JJ	_	10	amod	_	SpaceAfter=No
 7	和	和	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 8	传奇	传奇	ADJ	JJ	_	6	conj	_	SpaceAfter=No
-9	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+9	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 10	入野松原	入野松原	PROPN	NNP	_	3	obj	_	SpaceAfter=No
 11	”	”	PUNCT	''	_	10	punct	_	SpaceAfter=No
 12	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
@@ -502,9 +502,9 @@
 25	总	总	PART	PFA	_	26	case:pref	_	SpaceAfter=No
 26	产值	产值	NOUN	NN	_	27	nmod	_	SpaceAfter=No
 27	90%	90%	NUM	CD	NumType=Card	22	obj	_	SpaceAfter=No
-28	的	的	PART	DEC	_	22	mark:relcl	_	SpaceAfter=No
+28	的	的	PART	DEC	_	22	mark:rel	_	SpaceAfter=No
 29	分散	分散	VERB	VV	_	31	acl:relcl	_	SpaceAfter=No
-30	的	的	PART	DEC	_	29	mark:relcl	_	SpaceAfter=No
+30	的	的	PART	DEC	_	29	mark:rel	_	SpaceAfter=No
 31	个体	个体	NOUN	NN	_	34	nmod	_	SpaceAfter=No
 32	的	的	PART	DEC	Case=Gen	31	case:dec	_	SpaceAfter=No
 33	农业	农业	NOUN	NN	_	34	nmod	_	SpaceAfter=No
@@ -536,13 +536,13 @@
 59	和	和	CCONJ	CC	_	61	cc	_	SpaceAfter=No
 60	集体	集体	NOUN	NN	_	61	compound	_	SpaceAfter=No
 61	化	化	PART	SFV	_	58	conj	_	SpaceAfter=No
-62	的	的	PART	DEC	_	58	mark:relcl	_	SpaceAfter=No
+62	的	的	PART	DEC	_	58	mark:rel	_	SpaceAfter=No
 63	方向	方向	NOUN	NN	_	55	obj	_	SpaceAfter=No
 64	发展	发展	VERB	VV	_	53	ccomp	_	SpaceAfter=No
 65	的	的	PART	UH	_	53	discourse	_	SpaceAfter=No
 66	，	，	PUNCT	,	_	71	punct	_	SpaceAfter=No
 67	任其自流	任其自流	VERB	VV	_	69	acl:relcl	_	SpaceAfter=No
-68	的	的	PART	DEC	_	67	mark:relcl	_	SpaceAfter=No
+68	的	的	PART	DEC	_	67	mark:rel	_	SpaceAfter=No
 69	观点	观点	NOUN	NN	_	71	nsubj	_	SpaceAfter=No
 70	是	是	AUX	VC	_	71	cop	_	SpaceAfter=No
 71	错误	错误	ADJ	JJ	_	19	ccomp	_	SpaceAfter=No
@@ -581,7 +581,7 @@
 1	土壤	土壤	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	6	cop	_	SpaceAfter=No
 3	重要	重要	ADJ	JJ	_	6	amod	_	SpaceAfter=No
-4	的	的	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No
+4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No
 5	自然	自然	NOUN	NN	_	6	nmod	_	SpaceAfter=No
 6	资源	资源	NOUN	NN	_	0	root	_	SpaceAfter=No
 7	和	和	CCONJ	CC	_	9	cc	_	SpaceAfter=No
@@ -598,7 +598,7 @@
 18	土壤	土壤	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 19	资源	资源	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 20	质量	质量	NOUN	NN	_	17	obj	_	SpaceAfter=No
-21	的	的	PART	DEC	_	17	mark:relcl	_	SpaceAfter=No
+21	的	的	PART	DEC	_	17	mark:rel	_	SpaceAfter=No
 22	标志	标志	NOUN	NN	_	6	parataxis	_	SpaceAfter=No
 23	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
@@ -630,7 +630,7 @@
 3	位	位	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
 4	于	于	VERB	VV	_	3	mark	_	SpaceAfter=No
 5	亨茨维尔	亨茨维尔	PROPN	NNP	_	3	obj	_	SpaceAfter=No
-6	的	的	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No
+6	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No
 7	空间	空间	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 8	系统	系统	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 9	中心	中心	NOUN	NN	_	2	obj	_	SpaceAfter=No
@@ -655,7 +655,7 @@
 14	S-IVB	S-IVB	X	FW	_	16	nmod	_	SpaceAfter=No
 15	推进	推进	VERB	VV	_	16	compound	_	SpaceAfter=No
 16	器	器	PART	SFN	_	13	obj	_	SpaceAfter=No
-17	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 18	操作	操作	NOUN	NN	_	19	nmod	_	SpaceAfter=No
 19	过程	过程	NOUN	NN	_	5	obj	_	SpaceAfter=No
 20	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
@@ -925,7 +925,7 @@
 11	环绕	环绕	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
 12	安娜费雷拉	安娜费雷拉	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	峰	峰	PART	SFN	_	11	obj	_	SpaceAfter=No
-14	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 15	马术	马术	NOUN	NN	_	16	nmod	_	SpaceAfter=No
 16	中心	中心	NOUN	NN	_	7	conj	_	SpaceAfter=No
 17	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
@@ -941,7 +941,7 @@
 7	外	外	ADP	IN	_	5	mark	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No
 9	参考	参考	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
-10	的	的	PART	DEC	_	9	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No
 11	考古	考古	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 12	文献	文献	NOUN	NN	_	21	nsubj	_	SpaceAfter=No
 13	则	则	ADV	RB	_	21	mark	_	SpaceAfter=No
@@ -956,7 +956,7 @@
 22	和	和	CCONJ	CC	_	21	cc	_	SpaceAfter=No
 23	教会	教会	NOUN	NN	_	24	nsubj	_	SpaceAfter=No
 24	用	用	VERB	VV	_	27	acl:relcl	_	SpaceAfter=No
-25	的	的	PART	DEC	_	24	mark:relcl	_	SpaceAfter=No
+25	的	的	PART	DEC	_	24	mark:rel	_	SpaceAfter=No
 26	拉丁	拉丁	PROPN	NNP	_	27	compound	_	SpaceAfter=No
 27	文	文	PART	SFN	_	21	parataxis	_	SpaceAfter=No
 28	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
@@ -983,7 +983,7 @@
 # text = 最古老的是安德里亚·皮萨诺的作品，作于1330年到1336年。
 1	最	最	ADV	RB	_	2	advmod	_	SpaceAfter=No
 2	古老	古老	ADJ	JJ	_	4	csubj	_	SpaceAfter=No
-3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No
 4	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
 5	安德里亚	安德里亚	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
 6	·	·	PUNCT	/	_	5	punct	_	SpaceAfter=No
@@ -1049,7 +1049,7 @@
 9	印度	印度	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
 10	人民	人民	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 11	自由	自由	NOUN	NN	_	8	obj	_	SpaceAfter=No
-12	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 13	政府	政府	NOUN	NN	_	7	obj	_	SpaceAfter=No
 14	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
@@ -1072,7 +1072,7 @@
 15	报纸	报纸	NOUN	NN	_	14	obj	_	SpaceAfter=No
 16	“	“	PUNCT	``	_	19	punct	_	SpaceAfter=No
 17	年轻	年轻	ADJ	JJ	_	19	amod	_	SpaceAfter=No
-18	的	的	PART	DEC	_	17	mark:relcl	_	SpaceAfter=No
+18	的	的	PART	DEC	_	17	mark:rel	_	SpaceAfter=No
 19	印度	印度	PROPN	NNP	_	15	appos	_	SpaceAfter=No
 20	”	”	PUNCT	''	_	19	punct	_	SpaceAfter=No
 21	（	（	PUNCT	(	_	22	punct	_	SpaceAfter=No
@@ -1112,7 +1112,7 @@
 27	抛弃	抛弃	VERB	VV	_	13	conj	_	SpaceAfter=No
 28	英国	英国	PROPN	NNP	_	29	nsubj	_	SpaceAfter=No
 29	给	给	VERB	VV	_	31	acl:relcl	_	SpaceAfter=No
-30	的	的	PART	DEC	_	29	mark:relcl	_	SpaceAfter=No
+30	的	的	PART	DEC	_	29	mark:rel	_	SpaceAfter=No
 31	称号	称号	NOUN	NN	_	27	obj	_	SpaceAfter=No
 32	和	和	CCONJ	CC	_	33	cc	_	SpaceAfter=No
 33	荣誉	荣誉	NOUN	NN	_	31	conj	_	SpaceAfter=No
@@ -1126,7 +1126,7 @@
 4	一些	一些	ADJ	JJ	_	9	amod	_	SpaceAfter=No
 5	反	反	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
 6	法西斯	法西斯	PROPN	NNP	_	5	obj	_	SpaceAfter=No
-7	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
+7	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No
 8	社会	社会	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	党	党	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 10	和	和	CCONJ	CC	_	13	cc	_	SpaceAfter=No
@@ -1147,7 +1147,7 @@
 25	个	个	NOUN	NNB	_	30	clf	_	SpaceAfter=No
 26	反	反	VERB	VV	_	30	acl:relcl	_	SpaceAfter=No
 27	法西斯	法西斯	PROPN	NNP	_	26	obj	_	SpaceAfter=No
-28	的	的	PART	DEC	_	26	mark:relcl	_	SpaceAfter=No
+28	的	的	PART	DEC	_	26	mark:rel	_	SpaceAfter=No
 29	政治	政治	NOUN	NN	_	30	nmod	_	SpaceAfter=No
 30	运动	运动	NOUN	NN	_	22	obj	_	SpaceAfter=No
 31	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
@@ -1169,7 +1169,7 @@
 47	一	一	NUM	CD	NumType=Card	48	nummod	_	SpaceAfter=No
 48	支	支	NOUN	NNB	_	52	clf	_	SpaceAfter=No
 49	可观	可观	ADJ	JJ	_	52	amod	_	SpaceAfter=No
-50	的	的	PART	DEC	_	49	mark:relcl	_	SpaceAfter=No
+50	的	的	PART	DEC	_	49	mark:rel	_	SpaceAfter=No
 51	政治	政治	NOUN	NN	_	52	nmod	_	SpaceAfter=No
 52	力量	力量	NOUN	NN	_	45	obj	_	SpaceAfter=No
 53	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
@@ -1183,7 +1183,7 @@
 5	图书	图书	NOUN	NN	_	6	compound	_	SpaceAfter=No
 6	馆	馆	PART	SFN	_	3	conj	_	SpaceAfter=No
 7	收藏	收藏	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
-8	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
+8	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No
 9	文物	文物	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 10	和	和	CCONJ	CC	_	11	cc	_	SpaceAfter=No
 11	书籍	书籍	NOUN	NN	_	9	conj	_	SpaceAfter=No
@@ -1204,7 +1204,7 @@
 # text = 面对南下的德国大军，圣马利诺共和国再度陷入惊慌之中。
 1	面对	面对	VERB	VV	_	11	advcl	_	SpaceAfter=No
 2	南下	南下	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
-3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No
 4	德国	德国	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 5	大军	大军	NOUN	NN	_	1	obj	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
@@ -1304,7 +1304,7 @@
 6	如果	如果	ADP	IN	_	12	case	_	SpaceAfter=No
 7	每个	每个	DET	DT	_	10	det	_	SpaceAfter=No
 8	标注	标注	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No
-9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 10	点	点	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 11	都	都	ADV	RB	_	12	mark	_	SpaceAfter=No
 12	在	在	VERB	VV	_	26	ccomp	_	SpaceAfter=No
@@ -1317,7 +1317,7 @@
 19	条	条	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 20	线	线	NOUN	NN	_	21	nsubj	_	SpaceAfter=No
 21	代表	代表	VERB	VV	_	26	csubj	_	SpaceAfter=No
-22	的	的	PART	DEC	_	21	mark:relcl	_	SpaceAfter=No
+22	的	的	PART	DEC	_	21	mark:rel	_	SpaceAfter=No
 23	就是	就是	AUX	VC	_	26	cop	_	SpaceAfter=No
 24	100	100	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No
 25	米	米	NOUN	NNB	_	26	clf	_	SpaceAfter=No
@@ -1427,7 +1427,7 @@
 10	夜间	夜间	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 11	低	低	PART	PFA	_	12	case:pref	_	SpaceAfter=No
 12	血糖	血糖	NOUN	NN	_	9	obj	_	SpaceAfter=No
-13	的	的	PART	DEC	_	9	mark:relcl	_	SpaceAfter=No
+13	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No
 14	风险	风险	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 15	较低	较低	ADJ	JJ	_	0	root	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
@@ -1436,7 +1436,7 @@
 19	进行	进行	VERB	VV	_	26	advcl	_	SpaceAfter=No
 20	更为	更为	ADV	RB	_	21	advmod	_	SpaceAfter=No
 21	积极	积极	ADJ	JJ	_	24	amod	_	SpaceAfter=No
-22	的	的	PART	DEC	_	21	mark:relcl	_	SpaceAfter=No
+22	的	的	PART	DEC	_	21	mark:rel	_	SpaceAfter=No
 23	剂量	剂量	NOUN	NN	_	24	nmod	_	SpaceAfter=No
 24	调整	调整	NOUN	NN	_	19	obj	_	SpaceAfter=No
 25	以	以	ADV	RB	_	26	mark	_	SpaceAfter=No
@@ -1459,7 +1459,7 @@
 10	视网	视网	NOUN	NN	_	11	compound	_	SpaceAfter=No
 11	膜	膜	PART	SFN	_	12	nsubj	_	SpaceAfter=No
 12	病变	病变	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
-13	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+13	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 14	风险	风险	NOUN	NN	_	7	obj	_	SpaceAfter=No
 15	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
@@ -1479,7 +1479,7 @@
 12	2001	2001	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
 13	年	年	NOUN	NNB	_	14	nmod:tmod	_	SpaceAfter=No
 14	首映	首映	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No
-15	的	的	PART	DEC	_	14	mark:relcl	_	SpaceAfter=No
+15	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No
 16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No
 17	部	部	NOUN	NNB	_	21	clf	_	SpaceAfter=No
 18	美国	美国	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
@@ -1619,7 +1619,7 @@
 8	出现	出现	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 9	分支	分支	NOUN	NN	_	10	nmod	_	SpaceAfter=No
 10	学科	学科	NOUN	NN	_	8	obj	_	SpaceAfter=No
-11	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+11	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 12	时期	时期	NOUN	NN	_	0	root	_	SpaceAfter=No
 13	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
 14	形成	形成	VERB	VV	_	12	parataxis	_	SpaceAfter=No
@@ -1766,7 +1766,7 @@
 4	解决	解决	VERB	VV	_	0	root	_	SpaceAfter=No
 5	运费	运费	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 6	高昂	高昂	ADJ	JJ	_	8	acl:relcl	_	SpaceAfter=No
-7	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 8	问题	问题	NOUN	NN	_	4	obj	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
 10	又	又	CCONJ	CC	_	12	cc	_	SpaceAfter=No
@@ -1878,7 +1878,7 @@
 20	有	有	VERB	VV	_	6	ccomp	_	SpaceAfter=No
 21	很多	很多	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
 22	相似	相似	ADJ	JJ	_	24	amod	_	SpaceAfter=No
-23	之	之	PART	DEC	_	22	mark:relcl	_	SpaceAfter=No
+23	之	之	PART	DEC	_	22	mark:rel	_	SpaceAfter=No
 24	处	处	NOUN	NN	_	20	obj	_	SpaceAfter=No
 25	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
@@ -1919,7 +1919,7 @@
 15	拥有	拥有	VERB	VV	_	6	parataxis	_	SpaceAfter=No
 16	为数	为数	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 17	众多	众多	ADJ	JJ	_	19	acl:relcl	_	SpaceAfter=No
-18	的	的	PART	DEC	_	17	mark:relcl	_	SpaceAfter=No
+18	的	的	PART	DEC	_	17	mark:rel	_	SpaceAfter=No
 19	妻子	妻子	NOUN	NN	_	15	obj	_	SpaceAfter=No
 20	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
 21	每个	每个	DET	DT	_	22	det	_	SpaceAfter=No
@@ -2057,11 +2057,11 @@
 12	次	次	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 13	于	于	VERB	VV	_	12	mark	_	SpaceAfter=No
 14	希特勒	希特勒	PROPN	NNP	_	12	obj	_	SpaceAfter=No
-15	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+15	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 16	知名	知名	VERB	VV	_	17	compound	_	SpaceAfter=No
 17	度	度	PART	SFN	_	18	nsubj	_	SpaceAfter=No
 18	最高	最高	ADJ	JJ	_	21	acl:relcl	_	SpaceAfter=No
-19	的	的	PART	DEC	_	18	mark:relcl	_	SpaceAfter=No
+19	的	的	PART	DEC	_	18	mark:rel	_	SpaceAfter=No
 20	德国	德国	PROPN	NNP	_	21	compound	_	SpaceAfter=No
 21	人	人	PART	SFN	_	0	root	_	SpaceAfter=No
 22	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
@@ -2232,7 +2232,7 @@
 4	坊	坊	PART	SFN	_	2	obj	_	SpaceAfter=No
 5	逮捕	逮捕	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No
 6	席勒	席勒	PROPN	NNP	_	5	obj	_	SpaceAfter=No
-7	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
+7	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No
 8	同时	同时	NOUN	NN	_	11	nmod:tmod	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 10	也	也	ADV	RB	_	11	mark	_	SpaceAfter=No
@@ -2245,7 +2245,7 @@
 17	是	是	AUX	VC	_	19	cop	_	SpaceAfter=No
 18	色情	色情	ADJ	JJ	_	19	amod	_	SpaceAfter=No
 19	物品	物品	NOUN	NN	_	16	xcomp	_	SpaceAfter=No
-20	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
+20	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No
 21	画作	画作	NOUN	NN	_	11	obj	_	SpaceAfter=No
 22	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
@@ -2260,7 +2260,7 @@
 7	同学	同学	NOUN	NN	_	8	obl	_	SpaceAfter=No
 8	在	在	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
 9	一起	一起	NOUN	NN	_	8	obj	_	SpaceAfter=No
-10	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 11	生日	生日	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 12	派对	派对	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 13	视频	视频	NOUN	NN	_	2	obj	_	SpaceAfter=No
@@ -2363,7 +2363,7 @@
 7	指挥	指挥	VERB	VV	_	6	xcomp	_	SpaceAfter=No
 8	占领	占领	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 9	白俄罗斯	白俄罗斯	PROPN	NNP	_	8	obj	_	SpaceAfter=No
-10	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 11	第十	第十	NUM	CD	NumType=Ord	12	nummod	_	SpaceAfter=No
 12	军	军	NOUN	NN	_	7	obj	_	SpaceAfter=No
 13	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
@@ -2419,7 +2419,7 @@
 16	19	19	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No
 17	世纪	世纪	NOUN	NNB	_	18	nmod:tmod	_	SpaceAfter=No
 18	流行	流行	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No
-19	的	的	PART	DEC	_	18	mark:relcl	_	SpaceAfter=No
+19	的	的	PART	DEC	_	18	mark:rel	_	SpaceAfter=No
 20	商场	商场	NOUN	NN	_	21	nmod	_	SpaceAfter=No
 21	设计	设计	NOUN	NN	_	5	parataxis	_	SpaceAfter=No
 22	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
@@ -2438,7 +2438,7 @@
 10	省	省	PART	SFN	_	12	nmod	_	SpaceAfter=No
 11	霍丘	霍丘	PROPN	NNP	_	12	compound	_	SpaceAfter=No
 12	县	县	PART	SFN	_	6	obj	_	SpaceAfter=No
-13	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+13	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 14	湖泊	湖泊	NOUN	NN	_	0	root	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 16	面积	面积	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
@@ -2551,7 +2551,7 @@
 3	有	有	VERB	VV	_	10	advcl	_	SpaceAfter=No
 4	许多	许多	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
 5	不同	不同	ADJ	JJ	_	7	amod	_	SpaceAfter=No
-6	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
+6	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No
 7	聚会	聚会	NOUN	NN	_	3	obj	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No
 9	分别	分别	ADV	RB	_	10	advmod	_	SpaceAfter=No
@@ -2587,7 +2587,7 @@
 9	认为	认为	AUX	VV	_	11	cop	_	SpaceAfter=No
 10	最	最	ADV	RB	_	11	advmod	_	SpaceAfter=No
 11	原始	原始	ADJ	JJ	_	13	acl:relcl	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	陶埙	陶埙	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
 14	均	均	ADV	RB	_	15	advmod	_	SpaceAfter=No
 15	只有	只有	VERB	VV	_	19	advcl	_	SpaceAfter=No
@@ -2624,19 +2624,19 @@
 7	两	两	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
 8	种	种	NOUN	NNB	_	11	clf	_	SpaceAfter=No
 9	复制	复制	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No
-10	的	的	PART	DEC	_	9	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No
 11	基因	基因	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 12	同样	同样	ADV	RB	_	15	advmod	_	SpaceAfter=No
 13	都	都	ADV	RB	_	15	mark	_	SpaceAfter=No
 14	会	会	AUX	MD	_	15	aux	_	SpaceAfter=No
 15	累积	累积	VERB	VV	_	26	advcl	_	SpaceAfter=No
 16	退化	退化	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No
-17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No
 18	突变	突变	NOUN	NN	_	15	obj	_	SpaceAfter=No
 19	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
 20	基因	基因	NOUN	NN	_	21	nsubj	_	SpaceAfter=No
 21	重复	重复	VERB	VV	_	23	acl:relcl	_	SpaceAfter=No
-22	的	的	PART	DEC	_	21	mark:relcl	_	SpaceAfter=No
+22	的	的	PART	DEC	_	21	mark:rel	_	SpaceAfter=No
 23	缺陷	缺陷	NOUN	NN	_	26	nsubj	_	SpaceAfter=No
 24	也	也	ADV	RB	_	26	mark	_	SpaceAfter=No
 25	能	能	AUX	MD	_	26	aux	_	SpaceAfter=No
@@ -2657,7 +2657,7 @@
 10	了	了	PART	AS	Aspect=Perf	9	aux:aspect	_	SpaceAfter=No
 11	应	应	AUX	MD	_	12	aux	_	SpaceAfter=No
 12	有	有	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
-13	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+13	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 14	界限	界限	NOUN	NN	_	9	obj	_	SpaceAfter=No
 15	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
@@ -2911,13 +2911,13 @@
 12	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
 13	个	个	NOUN	NNB	_	17	clf	_	SpaceAfter=No
 14	著名	著名	ADJ	JJ	_	17	amod	_	SpaceAfter=No
-15	的	的	PART	DEC	_	14	mark:relcl	_	SpaceAfter=No
+15	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No
 16	洪水	洪水	NOUN	NN	_	17	nmod	_	SpaceAfter=No
 17	草甸	草甸	NOUN	NN	_	0	root	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
 19	和	和	CCONJ	CC	_	25	cc	_	SpaceAfter=No
 20	著名	著名	ADJ	JJ	_	25	amod	_	SpaceAfter=No
-21	的	的	PART	DEC	_	20	mark:relcl	_	SpaceAfter=No
+21	的	的	PART	DEC	_	20	mark:rel	_	SpaceAfter=No
 22	步行	步行	NOUN	NN	_	25	nmod	_	SpaceAfter=No
 23	和	和	CCONJ	CC	_	24	cc	_	SpaceAfter=No
 24	野餐	野餐	NOUN	NN	_	22	conj	_	SpaceAfter=No
@@ -2928,7 +2928,7 @@
 # text = 在报复的过程中，报复者会产生一种罪恶的快感。
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No
 2	报复	报复	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
-3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No
 4	过程	过程	NOUN	NN	_	10	obl	_	SpaceAfter=No
 5	中	中	ADP	IN	_	4	acl	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No
@@ -2966,11 +2966,11 @@
 7	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
 8	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 9	干燥	干燥	ADJ	JJ	_	11	amod	_	SpaceAfter=No
-10	的	的	PART	DEC	_	9	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No
 11	夏天	夏天	NOUN	NN	_	8	obj	_	SpaceAfter=No
 12	和	和	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 13	潮湿	潮湿	ADJ	JJ	_	15	amod	_	SpaceAfter=No
-14	的	的	PART	DEC	_	13	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No
 15	冬天	冬天	NOUN	NN	_	11	conj	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
 17	每年	每年	DET	DT	_	20	det	_	SpaceAfter=No
@@ -2991,7 +2991,7 @@
 # text = 她出生的日期已无法确定，因为她的出生记录已在处决时被销毁。
 1	她	她	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No
 2	出生	出生	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
-3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No
 4	日期	日期	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 5	已	已	ADV	RB	_	6	advmod	_	SpaceAfter=No
 6	无法	无法	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -3021,7 +3021,7 @@
 7	有	有	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No
 8	影响	影响	VERB	VV	_	9	compound	_	SpaceAfter=No
 9	力	力	PART	SFN	_	7	obj	_	SpaceAfter=No
-10	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No
 11	诗人	诗人	NOUN	NN	_	0	root	_	SpaceAfter=No
 12	和	和	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 13	神学	神学	NOUN	NN	_	14	compound	_	SpaceAfter=No
@@ -3042,7 +3042,7 @@
 10	和	和	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 11	“	“	PUNCT	``	_	14	punct	_	SpaceAfter=No
 12	无畏	无畏	ADJ	JJ	_	14	amod	_	SpaceAfter=No
-13	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+13	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 14	忠信	忠信	NOUN	NN	_	9	conj	_	SpaceAfter=No
 15	”	”	PUNCT	''	_	14	punct	_	SpaceAfter=No
 16	同时	同时	NOUN	NN	_	17	nmod:tmod	_	SpaceAfter=No
@@ -3062,7 +3062,7 @@
 5	其	其	PRON	PRP	Person=3	7	nsubj	_	SpaceAfter=No
 6	同年	同年	ADV	RB	_	7	nmod:tmod	_	SpaceAfter=No
 7	出版	出版	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
-8	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
+8	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No
 9	专著	专著	NOUN	NN	_	20	obl	_	SpaceAfter=No
 10	《	《	PUNCT	(	_	17	punct	_	SpaceAfter=No
 11	苏门答腊	苏门答腊	PROPN	NNP	_	12	compound	_	SpaceAfter=No
@@ -3181,7 +3181,7 @@
 19	有些	有些	VERB	VV	_	29	csubj	_	SpaceAfter=No
 20	已	已	ADV	RB	_	21	advmod	_	SpaceAfter=No
 21	建成	建成	VERB	VV	_	23	acl:relcl	_	SpaceAfter=No
-22	的	的	PART	DEC	_	21	mark:relcl	_	SpaceAfter=No
+22	的	的	PART	DEC	_	21	mark:rel	_	SpaceAfter=No
 23	公路	公路	NOUN	NN	_	19	obj	_	SpaceAfter=No
 24	由于	由于	ADP	IN	_	27	case	_	SpaceAfter=No
 25	固沙	固沙	NOUN	NN	_	26	nmod	_	SpaceAfter=No
@@ -3192,7 +3192,7 @@
 30	公路	公路	NOUN	NN	_	31	nsubj	_	SpaceAfter=No
 31	抵御	抵御	VERB	VV	_	34	acl:relcl	_	SpaceAfter=No
 32	流沙	流沙	NOUN	NN	_	31	obj	_	SpaceAfter=No
-33	的	的	PART	DEC	_	31	mark:relcl	_	SpaceAfter=No
+33	的	的	PART	DEC	_	31	mark:rel	_	SpaceAfter=No
 34	力度	力度	NOUN	NN	_	35	nsubj	_	SpaceAfter=No
 35	不够	不够	VERB	VV	_	29	ccomp	_	SpaceAfter=No
 36	，	，	PUNCT	,	_	52	punct	_	SpaceAfter=No
@@ -3200,12 +3200,12 @@
 38	连接	连接	VERB	VV	_	43	acl:relcl	_	SpaceAfter=No
 39	油田	油田	NOUN	NN	_	40	nmod	_	SpaceAfter=No
 40	基地	基地	NOUN	NN	_	38	obj	_	SpaceAfter=No
-41	的	的	PART	DEC	_	38	mark:relcl	_	SpaceAfter=No
+41	的	的	PART	DEC	_	38	mark:rel	_	SpaceAfter=No
 42	沥青	沥青	NOUN	NN	_	43	nmod	_	SpaceAfter=No
 43	路面	路面	NOUN	NN	_	50	nsubj:pass	_	SpaceAfter=No
 44	被	被	VERB	BB	Voice=Pass	50	aux:pass	_	SpaceAfter=No
 45	强大	强大	ADJ	JJ	_	48	amod	_	SpaceAfter=No
-46	的	的	PART	DEC	_	45	mark:relcl	_	SpaceAfter=No
+46	的	的	PART	DEC	_	45	mark:rel	_	SpaceAfter=No
 47	流动	流动	NOUN	NN	_	48	nmod	_	SpaceAfter=No
 48	沙丘	沙丘	NOUN	NN	_	50	nsubj	_	SpaceAfter=No
 49	所	所	ADV	RB	_	50	mark	_	SpaceAfter=No
@@ -3226,7 +3226,7 @@
 7	小心	小心	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No
 8	恶犬	恶犬	NOUN	NN	_	7	obj	_	SpaceAfter=No
 9	”	”	PUNCT	''	_	7	punct	_	SpaceAfter=No
-10	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No
 11	标语	标语	NOUN	NN	_	5	obj	_	SpaceAfter=No
 12	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
@@ -3251,7 +3251,7 @@
 17	而	而	ADV	RB	_	31	mark	_	SpaceAfter=No
 18	具有	具有	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No
 19	效力	效力	NOUN	NN	_	18	obj	_	SpaceAfter=No
-20	的	的	PART	DEC	_	18	mark:relcl	_	SpaceAfter=No
+20	的	的	PART	DEC	_	18	mark:rel	_	SpaceAfter=No
 21	法律	法律	NOUN	NN	_	31	advcl	_	SpaceAfter=No
 22	，	，	PUNCT	,	_	31	punct	_	SpaceAfter=No
 23	其	其	PRON	PRP	Person=3	25	nmod	_	SpaceAfter=No
@@ -3294,7 +3294,7 @@
 14	了	了	PART	AS	Aspect=Perf	13	aux:aspect	_	SpaceAfter=No
 15	个别	个别	ADV	RB	_	16	advmod	_	SpaceAfter=No
 16	例外	例外	VERB	VV	_	13	xcomp	_	SpaceAfter=No
-17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
 19	妇女	妇女	NOUN	NN	_	25	nsubj	_	SpaceAfter=No
 20	还	还	ADV	RB	_	25	mark	_	SpaceAfter=No
@@ -3318,7 +3318,7 @@
 7	无权	无权	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No
 8	参与	参与	VERB	VV	_	7	xcomp	_	SpaceAfter=No
 9	制定	制定	VERB	VV	_	8	conj	_	SpaceAfter=No
-10	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No
 11	法律	法律	NOUN	NN	_	4	obj	_	SpaceAfter=No
 12	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
@@ -3333,7 +3333,7 @@
 7	权益	权益	NOUN	NN	_	8	obl	_	SpaceAfter=No
 8	持	持	VERB	VV	_	0	root	_	SpaceAfter=No
 9	相反	相反	ADJ	JJ	_	11	amod	_	SpaceAfter=No
-10	的	的	PART	DEC	_	9	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No
 11	态度	态度	NOUN	NN	_	8	obj	_	SpaceAfter=No
 12	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
@@ -3401,7 +3401,7 @@
 7	的	的	PART	DEC	Case=Gen	6	case:dec	_	SpaceAfter=No
 8	游戏	游戏	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 9	体验	体验	NOUN	NN	_	4	obj	_	SpaceAfter=No
-10	的	的	PART	DEC	_	4	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	4	mark:rel	_	SpaceAfter=No
 11	老版	老版	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 12	程序	程序	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 13	错误	错误	NOUN	NN	_	2	obj	_	SpaceAfter=No
@@ -3422,7 +3422,7 @@
 28	笛	笛	NOUN	NN	_	30	nsubj	_	SpaceAfter=No
 29	》	》	PUNCT	)	_	28	punct	_	SpaceAfter=No
 30	存在	存在	VERB	VV	_	32	acl:relcl	_	SpaceAfter=No
-31	的	的	PART	DEC	_	30	mark:relcl	_	SpaceAfter=No
+31	的	的	PART	DEC	_	30	mark:rel	_	SpaceAfter=No
 32	bug	bug	X	FW	_	35	nsubj	_	SpaceAfter=No
 33	将	将	ADV	RB	_	35	advmod	_	SpaceAfter=No
 34	不复	不复	ADV	RB	_	35	advmod	_	SpaceAfter=No
@@ -3551,7 +3551,7 @@
 28	都	都	ADV	RB	_	29	mark	_	SpaceAfter=No
 29	具备	具备	VERB	VV	_	0	root	_	SpaceAfter=No
 30	一定	一定	ADJ	JJ	_	33	amod	_	SpaceAfter=No
-31	的	的	PART	DEC	_	30	mark:relcl	_	SpaceAfter=No
+31	的	的	PART	DEC	_	30	mark:rel	_	SpaceAfter=No
 32	影响	影响	VERB	VV	_	33	compound	_	SpaceAfter=No
 33	力	力	PART	SFN	_	29	obj	_	SpaceAfter=No
 34	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No
@@ -3563,7 +3563,7 @@
 3	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No
 4	历史	历史	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 5	悠久	悠久	ADJ	JJ	_	8	acl:relcl	_	SpaceAfter=No
-6	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
+6	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No
 7	墨尔本	墨尔本	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
 8	大学	大学	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
 9	即将	即将	ADV	RB	_	10	advmod	_	SpaceAfter=No
@@ -3657,7 +3657,7 @@
 33	国家	国家	NOUN	NN	_	34	nsubj	_	SpaceAfter=No
 34	参与	参与	VERB	VV	_	37	acl:relcl	_	SpaceAfter=No
 35	壁球	壁球	NOUN	NN	_	34	obj	_	SpaceAfter=No
-36	的	的	PART	DEC	_	34	mark:relcl	_	SpaceAfter=No
+36	的	的	PART	DEC	_	34	mark:rel	_	SpaceAfter=No
 37	活动	活动	NOUN	NN	_	30	obj	_	SpaceAfter=No
 38	。	。	PUNCT	.	_	30	punct	_	SpaceAfter=No
 
@@ -3766,7 +3766,7 @@
 15	至	至	VERB	VV	_	14	mark	_	SpaceAfter=No
 16	天盐	天盐	PROPN	NNP	_	17	compound	_	SpaceAfter=No
 17	川	川	PART	SFN	_	14	obj	_	SpaceAfter=No
-18	的	的	PART	DEC	_	14	mark:relcl	_	SpaceAfter=No
+18	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No
 19	地方	地方	NOUN	NN	_	1	ccomp	_	SpaceAfter=No
 20	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No
 
@@ -3799,7 +3799,7 @@
 4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	件	件	NOUN	NNB	_	8	clf	_	SpaceAfter=No
 6	微不足道	微不足道	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No
-7	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 8	事	事	NOUN	NN	_	0	root	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
 10	景色	景色	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
@@ -3920,7 +3920,7 @@
 48	学	学	PART	SFN	_	45	conj	_	SpaceAfter=No
 49	）	）	PUNCT	)	_	43	punct	_	SpaceAfter=No
 50	组成	组成	VERB	VV	_	36	ccomp	_	SpaceAfter=No
-51	的	的	PART	DEC	_	36	mark:relcl	_	SpaceAfter=No
+51	的	的	PART	DEC	_	36	mark:rel	_	SpaceAfter=No
 52	哲学	哲学	NOUN	NN	_	54	nmod	_	SpaceAfter=No
 53	教学	教学	NOUN	NN	_	54	nmod	_	SpaceAfter=No
 54	体系	体系	NOUN	NN	_	34	obj	_	SpaceAfter=No
@@ -4146,7 +4146,7 @@
 9	延平	延平	PROPN	NNP	_	10	compound	_	SpaceAfter=No
 10	区	区	PART	SFN	_	11	nsubj	_	SpaceAfter=No
 11	下辖	下辖	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
 14	个	个	NOUN	NNB	_	15	clf	_	SpaceAfter=No
 15	镇	镇	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -4225,7 +4225,7 @@
 25	启动	启动	VERB	VV	_	31	advcl	_	SpaceAfter=No
 26	内部	内部	NOUN	NN	_	27	advmod	_	SpaceAfter=No
 27	设计	设计	VERB	VV	_	30	acl:relcl	_	SpaceAfter=No
-28	的	的	PART	DEC	_	27	mark:relcl	_	SpaceAfter=No
+28	的	的	PART	DEC	_	27	mark:rel	_	SpaceAfter=No
 29	NC	NC	X	FW	_	30	nmod	_	SpaceAfter=No
 30	接点	接点	NOUN	NN	_	25	obj	_	SpaceAfter=No
 31	切换	切换	VERB	VV	_	40	advcl	_	SpaceAfter=No
@@ -4253,7 +4253,7 @@
 9	或者	或者	CCONJ	CC	_	11	cc	_	SpaceAfter=No
 10	依然	依然	ADV	RB	_	11	advmod	_	SpaceAfter=No
 11	存在	存在	VERB	VV	_	7	conj	_	SpaceAfter=No
-12	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No
 13	地方	地方	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 14	包括	包括	VERB	VV	_	3	ccomp	_	SpaceAfter=No
 15	金星	金星	PROPN	NNP	_	14	obj	_	SpaceAfter=No
@@ -4366,7 +4366,7 @@
 13	这些	这些	DET	DT	_	17	det	_	SpaceAfter=No
 14	MS	MS	X	FW	_	15	nsubj	_	SpaceAfter=No
 15	常见	常见	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
-16	的	的	PART	DEC	_	15	mark:relcl	_	SpaceAfter=No
+16	的	的	PART	DEC	_	15	mark:rel	_	SpaceAfter=No
 17	区域	区域	NOUN	NN	_	12	obj	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 19	某些	某些	DET	DT	_	20	det	_	SpaceAfter=No
@@ -4435,7 +4435,7 @@
 35	属	属	VERB	VV	_	2	parataxis	_	SpaceAfter=No
 36	相对	相对	ADV	RB	_	37	advmod	_	SpaceAfter=No
 37	干燥	干燥	ADJ	JJ	_	39	amod	_	SpaceAfter=No
-38	的	的	PART	DEC	_	37	mark:relcl	_	SpaceAfter=No
+38	的	的	PART	DEC	_	37	mark:rel	_	SpaceAfter=No
 39	旱季	旱季	NOUN	NN	_	35	obj	_	SpaceAfter=No
 40	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
@@ -4461,7 +4461,7 @@
 # text = 结合起来的火箭称为运载火箭。
 1	结合	结合	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
 2	起来	起来	VERB	VV	_	1	mark	_	SpaceAfter=No
-3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
 4	火箭	火箭	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 5	称	称	VERB	VV	_	0	root	_	SpaceAfter=No
 6	为	为	VERB	VC	_	5	mark	_	SpaceAfter=No
@@ -4482,7 +4482,7 @@
 9	马	马	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
 10	徐	徐	PROPN	NNP	_	8	obj	_	SpaceAfter=No
 11	维邦	维邦	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No
-12	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 13	中国	中国	PROPN	NNP	_	14	compound	_	SpaceAfter=No
 14	人	人	PART	SFN	_	15	nmod	_	SpaceAfter=No
 15	兴趣	兴趣	NOUN	NN	_	3	obj	_	SpaceAfter=No
@@ -4499,7 +4499,7 @@
 26	不单	不单	ADV	RB	_	27	advmod	_	SpaceAfter=No
 27	引起	引起	VERB	VV	_	3	parataxis	_	SpaceAfter=No
 28	更大	更大	ADJ	JJ	_	30	amod	_	SpaceAfter=No
-29	的	的	PART	DEC	_	28	mark:relcl	_	SpaceAfter=No
+29	的	的	PART	DEC	_	28	mark:rel	_	SpaceAfter=No
 30	轰动	轰动	NOUN	NN	_	27	obj	_	SpaceAfter=No
 31	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 32	而且	而且	ADV	RB	_	41	mark	_	SpaceAfter=No
@@ -4528,7 +4528,7 @@
 10	且	且	CCONJ	CC	_	12	cc	_	SpaceAfter=No
 11	家庭	家庭	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 12	乱七八糟	乱七八糟	ADJ	JJ	_	7	conj	_	SpaceAfter=No
-13	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
+13	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No
 14	关系	关系	NOUN	NN	_	24	obl	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 16	于是	于是	ADV	RB	_	24	mark	_	SpaceAfter=No
@@ -4554,7 +4554,7 @@
 6	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 7	本作	本作	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
 8	改编	改编	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No
-9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 10	动画	动画	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 11	开始	开始	VERB	VV	_	0	root	_	SpaceAfter=No
 12	在	在	ADP	IN	_	16	case	_	SpaceAfter=No
@@ -4579,7 +4579,7 @@
 10	迪士尼	迪士尼	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
 11	公司	公司	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 12	推出	推出	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
-13	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+13	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 14	动画	动画	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 15	影集	影集	NOUN	NN	_	23	advcl	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
@@ -4777,7 +4777,7 @@
 15	汉诺威	汉诺威	PROPN	NNP	_	12	obj	_	SpaceAfter=No
 16	新	新	ADV	RB	_	17	advmod	_	SpaceAfter=No
 17	建成	建成	VERB	VV	_	23	acl:relcl	_	SpaceAfter=No
-18	的	的	PART	DEC	_	17	mark:relcl	_	SpaceAfter=No
+18	的	的	PART	DEC	_	17	mark:rel	_	SpaceAfter=No
 19	福斯	福斯	PROPN	NNP	_	23	nmod	_	SpaceAfter=No
 20	商	商	NOUN	NN	_	21	nsubj	_	SpaceAfter=No
 21	用	用	VERB	VV	_	22	compound	_	SpaceAfter=No
@@ -4809,12 +4809,12 @@
 9	具有	具有	VERB	VV	_	0	root	_	SpaceAfter=No
 10	了	了	PART	AS	Aspect=Perf	9	aux:aspect	_	SpaceAfter=No
 11	更低	更低	ADJ	JJ	_	14	amod	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	风阻	风阻	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 14	系数	系数	NOUN	NN	_	9	obj	_	SpaceAfter=No
 15	、	、	PUNCT	EC	_	19	punct	_	SpaceAfter=No
 16	更佳	更佳	ADJ	JJ	_	19	amod	_	SpaceAfter=No
-17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No
 18	操控	操控	VERB	VV	_	19	compound	_	SpaceAfter=No
 19	性	性	PART	SFN	_	14	conj	_	SpaceAfter=No
 20	和	和	CCONJ	CC	_	22	cc	_	SpaceAfter=No
@@ -4840,7 +4840,7 @@
 14	为	为	AUX	VC	_	19	cop	_	SpaceAfter=No
 15	亲	亲	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No
 16	建制	建制	NOUN	NN	_	15	obj	_	SpaceAfter=No
-17	的	的	PART	DEC	_	15	mark:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	15	mark:rel	_	SpaceAfter=No
 18	民建联	民建联	PROPN	NNP	_	19	nmod	_	SpaceAfter=No
 19	成员	成员	NOUN	NN	_	10	parataxis	_	SpaceAfter=No
 20	李	李	PROPN	NNP	_	19	appos	_	SpaceAfter=No
@@ -4895,7 +4895,7 @@
 9	1969	1969	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
 10	年	年	NOUN	NNB	_	11	obl	_	SpaceAfter=No
 11	推出	推出	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	吉祥	吉祥	ADJ	JJ	_	14	compound	_	SpaceAfter=No
 14	物	物	PART	SFN	_	0	root	_	SpaceAfter=No
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
@@ -4970,7 +4970,7 @@
 # sent_id = test-s186
 # text = 往返的航程中，第一炮塔因美军的轰炸而中了4枚炸弹，但对后续战斗没有影响。
 1	往返	往返	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No
-2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+2	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
 3	航程	航程	NOUN	NN	_	14	advmod	_	SpaceAfter=No
 4	中	中	ADP	IN	_	3	acl	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
@@ -5000,14 +5000,14 @@
 # text = 唯一出现的人类角色，也是养育大嘴鸟的人，角色原型是凡尔纳的小说环游世界八十天中名为“万事通”的助手。
 1	唯一	唯一	ADJ	JJ	_	5	amod	_	SpaceAfter=No
 2	出现	出现	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
-3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No
 4	人类	人类	NOUN	NN	_	5	nmod	_	SpaceAfter=No
 5	角色	角色	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 7	也是	也是	AUX	VC	_	11	cop	_	SpaceAfter=No
 8	养育	养育	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No
 9	大嘴鸟	大嘴鸟	NOUN	NN	_	8	obj	_	SpaceAfter=No
-10	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 11	人	人	NOUN	NN	_	0	root	_	SpaceAfter=No
 12	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 13	角色	角色	NOUN	NN	_	14	nmod	_	SpaceAfter=No
@@ -5028,7 +5028,7 @@
 28	事	事	NOUN	NN	_	29	nsubj	_	SpaceAfter=No
 29	通	通	VERB	VV	_	25	ccomp	_	SpaceAfter=No
 30	”	”	PUNCT	''	_	29	punct	_	SpaceAfter=No
-31	的	的	PART	DEC	_	25	mark:relcl	_	SpaceAfter=No
+31	的	的	PART	DEC	_	25	mark:rel	_	SpaceAfter=No
 32	助手	助手	NOUN	NN	_	11	parataxis	_	SpaceAfter=No
 33	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
@@ -5057,7 +5057,7 @@
 21	舌头	舌头	NOUN	NN	_	25	nsubj	_	SpaceAfter=No
 22	是	是	AUX	VC	_	25	cop	_	SpaceAfter=No
 23	漆红	漆红	VERB	VV	_	25	acl:relcl	_	SpaceAfter=No
-24	的	的	PART	DEC	_	23	mark:relcl	_	SpaceAfter=No
+24	的	的	PART	DEC	_	23	mark:rel	_	SpaceAfter=No
 25	木片	木片	NOUN	NN	_	2	parataxis	_	SpaceAfter=No
 26	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
@@ -5114,7 +5114,7 @@
 9	是	是	AUX	VC	_	14	cop	_	SpaceAfter=No
 10	木栖	木栖	VERB	VV	_	11	advcl	_	SpaceAfter=No
 11	腐生	腐生	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	中小型	中小型	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 14	菇类	菇类	NOUN	NN	_	0	root	_	SpaceAfter=No
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
@@ -5135,7 +5135,7 @@
 12	南	南	NOUN	NN	_	11	acl	_	SpaceAfter=No
 13	路	路	PART	SFN	_	5	obj	_	SpaceAfter=No
 14	上	上	NOUN	NN	_	13	acl	_	SpaceAfter=No
-15	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
+15	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No
 16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No
 17	幢	幢	NOUN	NNB	_	19	clf	_	SpaceAfter=No
 18	摩天	摩天	ADJ	JJ	_	19	amod	_	SpaceAfter=No
@@ -5389,13 +5389,13 @@
 12	连接	连接	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
 13	大	大	PART	PFA	_	14	case:pref	_	SpaceAfter=No
 14	赤门	赤门	PROPN	NNP	_	12	obj	_	SpaceAfter=No
-15	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+15	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 16	海域	海域	NOUN	NN	_	11	obj	_	SpaceAfter=No
 17	及	及	CCONJ	CC	_	23	cc	_	SpaceAfter=No
 18	连接	连接	VERB	VV	_	23	acl:relcl	_	SpaceAfter=No
 19	大鹏	大鹏	PROPN	NNP	_	20	compound	_	SpaceAfter=No
 20	湾	湾	PART	SFN	_	18	obj	_	SpaceAfter=No
-21	的	的	PART	DEC	_	18	mark:relcl	_	SpaceAfter=No
+21	的	的	PART	DEC	_	18	mark:rel	_	SpaceAfter=No
 22	塔门	塔门	PROPN	NNP	_	23	compound	_	SpaceAfter=No
 23	口	口	PART	SFN	_	16	conj	_	SpaceAfter=No
 24	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
@@ -5444,7 +5444,7 @@
 4	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No
 5	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No
 6	下辖	下辖	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
-7	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 8	一	一	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 9	个	个	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 10	乡镇	乡镇	NOUN	NN	_	11	compound	_	SpaceAfter=No
@@ -5490,7 +5490,7 @@
 10	加拿大	加拿大	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
 11	资金	资金	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 12	经营	经营	VERB	VV	_	9	ccomp	_	SpaceAfter=No
-13	的	的	PART	DEC	_	9	mark:relcl	_	SpaceAfter=No
+13	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No
 14	本地	本地	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 15	公司	公司	NOUN	NN	_	5	obj	_	SpaceAfter=No
 16	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
@@ -5512,7 +5512,7 @@
 13	在	在	ADP	IN	_	17	case	_	SpaceAfter=No
 14	加固	加固	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 15	护岸	护岸	NOUN	NN	_	14	obj	_	SpaceAfter=No
-16	的	的	PART	DEC	_	14	mark:relcl	_	SpaceAfter=No
+16	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No
 17	同时	同时	NOUN	NN	_	21	obl	_	SpaceAfter=No
 18	还	还	ADV	RB	_	19	mark	_	SpaceAfter=No
 19	加大	加大	VERB	VV	_	21	advcl	_	SpaceAfter=No
@@ -5596,7 +5596,7 @@
 18	侨民	侨民	NOUN	NN	_	14	conj	_	SpaceAfter=No
 19	在	在	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No
 20	中国	中国	PROPN	NNP	_	19	obj	_	SpaceAfter=No
-21	的	的	PART	DEC	_	19	mark:relcl	_	SpaceAfter=No
+21	的	的	PART	DEC	_	19	mark:rel	_	SpaceAfter=No
 22	活动	活动	NOUN	NN	_	13	obj	_	SpaceAfter=No
 23	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
@@ -5639,11 +5639,11 @@
 5	选择	选择	VERB	VV	_	2	conj	_	SpaceAfter=No
 6	游戏	游戏	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 7	提供	提供	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
-8	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
+8	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No
 9	两	两	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
 10	个	个	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 11	虚拟	虚拟	ADJ	JJ	_	13	amod	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	主角	主角	NOUN	NN	_	5	obj	_	SpaceAfter=No
 14	（	（	PUNCT	(	_	18	punct	_	SpaceAfter=No
 15	一	一	NUM	CD	NumType=Card	18	nsubj	_	SpaceAfter=No
@@ -5697,7 +5697,7 @@
 14	也	也	ADV	RB	_	15	mark	_	SpaceAfter=No
 15	有	有	VERB	VV	_	12	ccomp	_	SpaceAfter=No
 16	很强	很强	ADJ	JJ	_	19	amod	_	SpaceAfter=No
-17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No
 18	正义	正义	ADJ	JJ	_	19	compound	_	SpaceAfter=No
 19	感	感	PART	SFN	_	15	obj	_	SpaceAfter=No
 20	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
@@ -5730,7 +5730,7 @@
 11	了	了	PART	AS	Aspect=Perf	10	aux:aspect	_	SpaceAfter=No
 12	股本	股本	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
 13	衰退	衰退	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
-14	的	的	PART	DEC	_	13	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No
 15	假设	假设	NOUN	NN	_	10	obj	_	SpaceAfter=No
 16	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
@@ -6170,7 +6170,7 @@
 11	与	与	CCONJ	CC	_	12	cc	_	SpaceAfter=No
 12	独裁	独裁	NOUN	NN	_	10	conj	_	SpaceAfter=No
 13	统治	统治	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
-14	的	的	PART	DEC	_	13	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No
 15	反复	反复	ADJ	JJ	_	16	amod	_	SpaceAfter=No
 16	交替	交替	NOUN	NN	_	8	obj	_	SpaceAfter=No
 17	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
@@ -6321,7 +6321,7 @@
 14	教友	教友	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 15	人数	人数	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 16	较多	较多	ADJ	JJ	_	19	acl:relcl	_	SpaceAfter=No
-17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No
 18	一	一	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
 19	个	个	NOUN	NNB	_	0	root	_	SpaceAfter=No
 20	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
@@ -6529,7 +6529,7 @@
 26	行动	行动	NOUN	NN	_	28	nsubj	_	SpaceAfter=No
 27	可能	可能	AUX	MD	_	28	aux	_	SpaceAfter=No
 28	带来	带来	VERB	VV	_	30	acl:relcl	_	SpaceAfter=No
-29	的	的	PART	DEC	_	28	mark:relcl	_	SpaceAfter=No
+29	的	的	PART	DEC	_	28	mark:rel	_	SpaceAfter=No
 30	效果	效果	NOUN	NN	_	24	obj	_	SpaceAfter=No
 31	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
@@ -6582,7 +6582,7 @@
 30	可	可	AUX	MD	_	31	aux	_	SpaceAfter=No
 31	使用	使用	VERB	VV	_	9	parataxis	_	SpaceAfter=No
 32	不同	不同	ADJ	JJ	_	34	amod	_	SpaceAfter=No
-33	的	的	PART	DEC	_	32	mark:relcl	_	SpaceAfter=No
+33	的	的	PART	DEC	_	32	mark:rel	_	SpaceAfter=No
 34	技能	技能	NOUN	NN	_	31	obj	_	SpaceAfter=No
 35	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
@@ -6634,7 +6634,7 @@
 6	喜欢	喜欢	VERB	VV	_	3	xcomp	_	SpaceAfter=No
 7	她	她	PRON	PRP	Person=3	8	nsubj	_	SpaceAfter=No
 8	出	出	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No
-9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 10	谜题	谜题	NOUN	NN	_	6	obj	_	SpaceAfter=No
 11	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
@@ -6800,7 +6800,7 @@
 20	曾	曾	ADV	RB	_	26	advmod	_	SpaceAfter=No
 21	是	是	AUX	VC	_	26	cop	_	SpaceAfter=No
 22	重要	重要	ADJ	JJ	_	26	amod	_	SpaceAfter=No
-23	的	的	PART	DEC	_	22	mark:relcl	_	SpaceAfter=No
+23	的	的	PART	DEC	_	22	mark:rel	_	SpaceAfter=No
 24	外交	外交	NOUN	NN	_	26	nmod	_	SpaceAfter=No
 25	活动	活动	NOUN	NN	_	26	nmod	_	SpaceAfter=No
 26	场所	场所	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -6925,7 +6925,7 @@
 12	河北	河北	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	省	省	PART	SFN	_	14	nmod	_	SpaceAfter=No
 14	涉县	涉县	PROPN	NNP	_	10	obj	_	SpaceAfter=No
-15	的	的	PART	DEC	_	10	mark:relcl	_	SpaceAfter=No
+15	的	的	PART	DEC	_	10	mark:rel	_	SpaceAfter=No
 16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No
 17	块	块	NOUN	NNB	_	18	clf	_	SpaceAfter=No
 18	飞地	飞地	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
@@ -6959,7 +6959,7 @@
 19	驻	驻	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No
 20	乌鲁木齐	乌鲁木齐	PROPN	NNP	_	21	compound	_	SpaceAfter=No
 21	市	市	PART	SFN	_	19	obj	_	SpaceAfter=No
-22	的	的	PART	DEC	_	19	mark:relcl	_	SpaceAfter=No
+22	的	的	PART	DEC	_	19	mark:rel	_	SpaceAfter=No
 23	办事	办事	VERB	VV	_	24	compound	_	SpaceAfter=No
 24	处	处	PART	SFN	_	0	root	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
@@ -7097,7 +7097,7 @@
 15	个	个	NOUN	NNB	_	17	clf	_	SpaceAfter=No
 16	显赫	显赫	ADJ	JJ	_	17	amod	_	SpaceAfter=No
 17	家族	家族	NOUN	NN	_	11	obj	_	SpaceAfter=No
-18	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+18	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 19	二	二	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No
 20	少爷	少爷	NOUN	NN	_	0	root	_	SpaceAfter=No
 21	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
@@ -7170,7 +7170,7 @@
 5	许多	许多	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 6	给	给	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
 7	管乐团	管乐团	NOUN	NN	_	6	obj	_	SpaceAfter=No
-8	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+8	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 9	曲目	曲目	NOUN	NN	_	3	obj	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 11	其	其	PRON	PRP	Person=3	12	nmod	_	SpaceAfter=No
@@ -7228,7 +7228,7 @@
 1	此时	此时	NOUN	NN	_	15	nmod:tmod	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 3	真正	真正	ADJ	JJ	_	7	amod	_	SpaceAfter=No
-4	的	的	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No
+4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No
 5	中情	中情	NOUN	NN	_	6	compound	_	SpaceAfter=No
 6	局	局	PART	SFN	_	7	nmod	_	SpaceAfter=No
 7	要员	要员	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
@@ -7236,7 +7236,7 @@
 9	奇	奇	PROPN	NNP	_	8	flat:name	_	SpaceAfter=No
 10	把	把	ADP	BB	_	13	case	_	SpaceAfter=No
 11	叛变	叛变	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	林	林	PROPN	NNP	_	15	obl:patient	_	SpaceAfter=No
 14	奇	奇	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No
 15	带走	带走	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -7408,7 +7408,7 @@
 25	我们	我	PRON	PRP	Number=Plur|Person=1	27	nsubj	_	SpaceAfter=No
 26	能够	能够	AUX	MD	_	27	aux	_	SpaceAfter=No
 27	合作	合作	VERB	VV	_	29	acl:relcl	_	SpaceAfter=No
-28	的	的	PART	DEC	_	27	mark:relcl	_	SpaceAfter=No
+28	的	的	PART	DEC	_	27	mark:rel	_	SpaceAfter=No
 29	事情	事情	NOUN	NN	_	24	obj	_	SpaceAfter=No
 30	上	上	ADP	IN	_	29	acl	_	SpaceAfter=No
 31	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
@@ -7546,7 +7546,7 @@
 13	吉川	吉川	PROPN	NNP	_	14	nmod	_	SpaceAfter=No
 14	原作	原作	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 15	没有	没有	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
-16	的	的	PART	DEC	_	15	mark:relcl	_	SpaceAfter=No
+16	的	的	PART	DEC	_	15	mark:rel	_	SpaceAfter=No
 17	创作	创作	NOUN	NN	_	0	root	_	SpaceAfter=No
 18	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
@@ -7578,7 +7578,7 @@
 24	合并	合并	VERB	VV	_	0	root	_	SpaceAfter=No
 25	至	至	VERB	VV	_	24	mark	_	SpaceAfter=No
 26	新设	新设	VERB	VV	_	29	acl:relcl	_	SpaceAfter=No
-27	的	的	PART	DEC	_	26	mark:relcl	_	SpaceAfter=No
+27	的	的	PART	DEC	_	26	mark:rel	_	SpaceAfter=No
 28	五岭	五岭	PROPN	NNP	_	29	compound	_	SpaceAfter=No
 29	乡	乡	PART	SFN	_	24	obj	_	SpaceAfter=No
 30	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No
@@ -7664,7 +7664,7 @@
 13	把	把	ADP	BB	_	17	case	_	SpaceAfter=No
 14	平民	平民	NOUN	NN	_	15	advmod	_	SpaceAfter=No
 15	出身	出身	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
-16	的	的	PART	DEC	_	15	mark:relcl	_	SpaceAfter=No
+16	的	的	PART	DEC	_	15	mark:rel	_	SpaceAfter=No
 17	政要	政要	NOUN	NN	_	23	obl:patient	_	SpaceAfter=No
 18	与	与	ADP	IN	_	20	case	_	SpaceAfter=No
 19	丰	丰	PROPN	NNP	_	20	nmod	_	SpaceAfter=No
@@ -7800,7 +7800,7 @@
 4	多	多	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	种	种	NOUN	NNB	_	9	clf	_	SpaceAfter=No
 6	不同	不同	ADJ	JJ	_	9	amod	_	SpaceAfter=No
-7	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 8	内在	内在	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 9	特性	特性	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
@@ -7823,7 +7823,7 @@
 4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	种	种	NOUN	NNB	_	9	clf	_	SpaceAfter=No
 6	假设	假设	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
-7	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 8	超	超	PART	PFA	_	9	case:pref	_	SpaceAfter=No
 9	新星	新星	NOUN	NN	_	0	root	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
@@ -7943,7 +7943,7 @@
 10	市	市	PART	SFN	_	11	nmod	_	SpaceAfter=No
 11	杭锦后旗	杭锦后旗	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
 12	设立	设立	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
-13	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+13	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No
 15	个	个	NOUN	NNB	_	17	clf	_	SpaceAfter=No
 16	高级	高级	ADJ	JJ	_	17	amod	_	SpaceAfter=No
@@ -7994,7 +7994,7 @@
 14	1804	1804	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No
 15	年	年	NOUN	NNB	_	16	nmod:tmod	_	SpaceAfter=No
 16	颁布	颁布	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No
-17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No
 18	《	《	PUNCT	(	_	21	punct	_	SpaceAfter=No
 19	法国	法国	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
 20	民法	民法	NOUN	NN	_	21	compound	_	SpaceAfter=No
@@ -8032,7 +8032,7 @@
 9	选出	选出	VERB	VV	_	17	advcl	_	SpaceAfter=No
 10	一些	一些	ADJ	JJ	_	14	amod	_	SpaceAfter=No
 11	重要	重要	ADJ	JJ	_	14	amod	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	奥义	奥义	NOUN	NN	_	14	compound	_	SpaceAfter=No
 14	书	书	PART	SFN	_	9	obj	_	SpaceAfter=No
 15	作注	作注	VERB	VV	_	17	advcl	_	SpaceAfter=No
@@ -8057,7 +8057,7 @@
 2	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 3	吸引	吸引	VERB	VV	_	11	csubj	_	SpaceAfter=No
 4	游客	游客	NOUN	NN	_	3	obj	_	SpaceAfter=No
-5	的	的	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No
+5	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No
 6	不	不	ADV	RB	Polarity=Neg	11	advmod	_	SpaceAfter=No
 7	只	只	ADV	RB	_	11	advmod	_	SpaceAfter=No
 8	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No
@@ -8136,7 +8136,7 @@
 1	离开	离开	AUX	VV	_	3	cop	_	SpaceAfter=No
 2	本国	本国	NOUN	NN	_	3	obj	_	SpaceAfter=No
 3	很久	很久	ADJ	JJ	_	7	acl:relcl	_	SpaceAfter=No
-4	的	的	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No
+4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No
 5	阿凯亚	阿凯亚	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
 6	首领	首领	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	们	们	PART	SFN	Number=Plur	9	nsubj	_	SpaceAfter=No
@@ -8205,7 +8205,7 @@
 28	谓	谓	VERB	VV	_	32	acl:relcl	_	SpaceAfter=No
 29	好莱坞	好莱坞	PROPN	NNP	_	30	nmod	_	SpaceAfter=No
 30	电影	电影	NOUN	NN	_	28	obj	_	SpaceAfter=No
-31	的	的	PART	DEC	_	28	mark:relcl	_	SpaceAfter=No
+31	的	的	PART	DEC	_	28	mark:rel	_	SpaceAfter=No
 32	定义	定义	NOUN	NN	_	25	obj	_	SpaceAfter=No
 33	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
@@ -8219,7 +8219,7 @@
 6	王朝	王朝	NOUN	NN	_	7	nmod	_	SpaceAfter=No
 7	苏丹	苏丹	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 8	使用	使用	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
-9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 10	任何	任何	DET	DT	_	12	det	_	SpaceAfter=No
 11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
 12	面	面	NOUN	NNB	_	13	nmod	_	SpaceAfter=No
@@ -8238,7 +8238,7 @@
 25	不同	不同	ADJ	JJ	_	26	amod	_	SpaceAfter=No
 26	场合	场合	NOUN	NN	_	27	obl	_	SpaceAfter=No
 27	使用	使用	VERB	VV	_	29	acl:relcl	_	SpaceAfter=No
-28	的	的	PART	DEC	_	27	mark:relcl	_	SpaceAfter=No
+28	的	的	PART	DEC	_	27	mark:rel	_	SpaceAfter=No
 29	旗帜	旗帜	NOUN	NN	_	20	conj	_	SpaceAfter=No
 30	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
@@ -8274,7 +8274,7 @@
 28	欧登塞	欧登塞	PROPN	NNP	_	27	obj	_	SpaceAfter=No
 29	和	和	CCONJ	CC	_	30	cc	_	SpaceAfter=No
 30	斯文堡	斯文堡	PROPN	NNP	_	28	conj	_	SpaceAfter=No
-31	的	的	PART	DEC	_	27	mark:relcl	_	SpaceAfter=No
+31	的	的	PART	DEC	_	27	mark:rel	_	SpaceAfter=No
 32	公交	公交	NOUN	NN	_	33	compound	_	SpaceAfter=No
 33	车	车	PART	SFN	_	4	conj	_	SpaceAfter=No
 34	（	（	PUNCT	(	_	35	punct	_	SpaceAfter=No
@@ -8313,7 +8313,7 @@
 23	时期	时期	NOUN	NN	_	29	nmod	_	SpaceAfter=No
 24	所有	所有	DET	DT	_	29	det	_	SpaceAfter=No
 25	可疑	可疑	ADJ	JJ	_	29	amod	_	SpaceAfter=No
-26	的	的	PART	DEC	_	25	mark:relcl	_	SpaceAfter=No
+26	的	的	PART	DEC	_	25	mark:rel	_	SpaceAfter=No
 27	不	不	ADV	RB	Polarity=Neg	28	advmod	_	SpaceAfter=No
 28	正当	正当	ADJ	JJ	_	29	amod	_	SpaceAfter=No
 29	事件	事件	NOUN	NN	_	20	obj	_	SpaceAfter=No
@@ -8381,7 +8381,7 @@
 27	上	上	ADP	IN	_	26	acl	_	SpaceAfter=No
 28	所	所	ADV	RB	_	29	mark	_	SpaceAfter=No
 29	谓	谓	VERB	VV	_	34	acl:relcl	_	SpaceAfter=No
-30	的	的	PART	DEC	_	29	mark:relcl	_	SpaceAfter=No
+30	的	的	PART	DEC	_	29	mark:rel	_	SpaceAfter=No
 31	“	“	PUNCT	``	_	32	punct	_	SpaceAfter=No
 32	摄动	摄动	NOUN	NN	_	34	nmod	_	SpaceAfter=No
 33	”	”	PUNCT	''	_	32	punct	_	SpaceAfter=No
@@ -8426,7 +8426,7 @@
 6	面对	面对	VERB	VV	_	14	advcl	_	SpaceAfter=No
 7	负债	负债	AUX	VV	_	8	cop	_	SpaceAfter=No
 8	累累	累累	ADJ	JJ	_	12	acl:relcl	_	SpaceAfter=No
-9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 10	奥林匹克	奥林匹克	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
 11	航空	航空	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 12	公司	公司	NOUN	NN	_	6	obj	_	SpaceAfter=No
@@ -8463,7 +8463,7 @@
 21	法国	法国	PROPN	NNP	_	22	obl	_	SpaceAfter=No
 22	发生	发生	VERB	VV	_	8	parataxis	_	SpaceAfter=No
 23	激烈	激烈	ADJ	JJ	_	27	amod	_	SpaceAfter=No
-24	的	的	PART	DEC	_	23	mark:relcl	_	SpaceAfter=No
+24	的	的	PART	DEC	_	23	mark:rel	_	SpaceAfter=No
 25	大	大	PART	PFA	_	26	case:pref	_	SpaceAfter=No
 26	同盟	同盟	NOUN	NN	_	27	nmod	_	SpaceAfter=No
 27	战争	战争	NOUN	NN	_	53	nsubj	_	SpaceAfter=No
@@ -8510,7 +8510,7 @@
 6	2001	2001	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
 7	年	年	NOUN	NNB	_	8	obl	_	SpaceAfter=No
 8	转会	转会	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No
-9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 10	球队	球队	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 11	却是	却是	AUX	VC	_	14	cop	_	SpaceAfter=No
 12	英超	英超	PROPN	NNP	_	14	nmod	_	SpaceAfter=No
@@ -8536,7 +8536,7 @@
 7	流入	流入	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No
 8	弗林德斯	弗林德斯	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	湾	湾	PART	SFN	_	7	obj	_	SpaceAfter=No
-10	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No
 11	河口	河口	NOUN	NN	_	3	obj	_	SpaceAfter=No
 12	旁	旁	NOUN	NN	_	11	acl	_	SpaceAfter=No
 13	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
@@ -8560,7 +8560,7 @@
 15	套	套	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 16	改良	改良	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No
 17	过	过	PART	AS	Aspect=Perf	16	aux:aspect	_	SpaceAfter=No
-18	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
+18	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No
 19	西里尔	西里尔	PROPN	NNP	_	20	nmod	_	SpaceAfter=No
 20	字母	字母	NOUN	NN	_	13	obj	_	SpaceAfter=No
 21	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
@@ -8739,7 +8739,7 @@
 5	个	个	NOUN	NNB	_	10	nmod	_	SpaceAfter=No
 6	多样	多样	ADJ	JJ	_	7	compound	_	SpaceAfter=No
 7	化	化	PART	SFV	_	10	acl:relcl	_	SpaceAfter=No
-8	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
+8	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No
 9	动物	动物	NOUN	NN	_	10	compound	_	SpaceAfter=No
 10	群	群	PART	SFN	_	0	root	_	SpaceAfter=No
 11	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
@@ -8761,7 +8761,7 @@
 13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
 14	支	支	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 15	直挂	直挂	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No
-16	的	的	PART	DEC	_	15	mark:relcl	_	SpaceAfter=No
+16	的	的	PART	DEC	_	15	mark:rel	_	SpaceAfter=No
 17	奥兰治	奥兰治	PROPN	NNP	_	20	nmod	_	SpaceAfter=No
 18	自由	自由	NOUN	NN	_	19	compound	_	SpaceAfter=No
 19	邦	邦	PART	SFN	_	20	nmod	_	SpaceAfter=No
@@ -8809,7 +8809,7 @@
 28	继承	继承	VERB	VV	_	29	compound	_	SpaceAfter=No
 29	人	人	PART	SFN	_	36	nmod	_	SpaceAfter=No
 30	残酷	残酷	ADJ	JJ	_	32	amod	_	SpaceAfter=No
-31	的	的	PART	DEC	_	30	mark:relcl	_	SpaceAfter=No
+31	的	的	PART	DEC	_	30	mark:rel	_	SpaceAfter=No
 32	弗鲁埃拉	弗鲁埃拉	PROPN	NNP	_	29	appos	_	SpaceAfter=No
 33	的	的	PART	DEC	Case=Gen	32	case:dec	_	SpaceAfter=No
 34	一	一	NUM	CD	NumType=Card	35	nummod	_	SpaceAfter=No
@@ -8824,7 +8824,7 @@
 3	唯一	唯一	ADV	RB	_	4	advmod	_	SpaceAfter=No
 4	有	有	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
 5	记载	记载	VERB	VV	_	4	xcomp	_	SpaceAfter=No
-6	的	的	PART	DEC	_	4	mark:relcl	_	SpaceAfter=No
+6	的	的	PART	DEC	_	4	mark:rel	_	SpaceAfter=No
 7	他	他	PRON	PRP	Person=3	9	det	_	SpaceAfter=No
 8	的	的	PART	DEC	Case=Gen	7	case:dec	_	SpaceAfter=No
 9	事迹	事迹	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
@@ -8859,7 +8859,7 @@
 18	直至	直至	ADP	IN	_	22	case	_	SpaceAfter=No
 19	选举	选举	NOUN	NN	_	22	nmod	_	SpaceAfter=No
 20	公示	公示	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No
-21	之	之	PART	DEC	_	20	mark:relcl	_	SpaceAfter=No
+21	之	之	PART	DEC	_	20	mark:rel	_	SpaceAfter=No
 22	日	日	NOUN	NN	_	26	obl	_	SpaceAfter=No
 23	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
 24	该党	该党	NOUN	NN	_	26	nsubj	_	SpaceAfter=No
@@ -8873,7 +8873,7 @@
 32	这	这	DET	DT	_	34	det	_	SpaceAfter=No
 33	一	一	NUM	CD	NumType=Card	34	nummod	_	SpaceAfter=No
 34	方法	方法	NOUN	NN	_	31	obj	_	SpaceAfter=No
-35	的	的	PART	DEC	_	31	mark:relcl	_	SpaceAfter=No
+35	的	的	PART	DEC	_	31	mark:rel	_	SpaceAfter=No
 36	候选	候选	VERB	VV	_	37	compound	_	SpaceAfter=No
 37	人	人	PART	SFN	_	27	obj	_	SpaceAfter=No
 38	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
@@ -8907,7 +8907,7 @@
 3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	个	个	NOUN	NNB	_	7	clf	_	SpaceAfter=No
 5	无厘头	无厘头	ADJ	JJ	_	7	amod	_	SpaceAfter=No
-6	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
+6	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No
 7	新闻	新闻	NOUN	NN	_	2	obj	_	SpaceAfter=No
 8	后	后	ADP	IN	_	2	mark	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
@@ -9063,7 +9063,7 @@
 19	拥有	拥有	VERB	VV	_	23	acl:relcl	_	SpaceAfter=No
 20	五十五万	五十五万	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No
 21	大军	大军	NOUN	NN	_	19	obj	_	SpaceAfter=No
-22	的	的	PART	DEC	_	19	mark:relcl	_	SpaceAfter=No
+22	的	的	PART	DEC	_	19	mark:rel	_	SpaceAfter=No
 23	情况	情况	NOUN	NN	_	25	obl	_	SpaceAfter=No
 24	来	来	ADV	RB	_	25	mark	_	SpaceAfter=No
 25	说	说	VERB	VV	_	28	advcl	_	SpaceAfter=No
@@ -9092,7 +9092,7 @@
 16	视角	视角	NOUN	NN	_	17	nmod	_	SpaceAfter=No
 17	观点	观点	NOUN	NN	_	18	advmod	_	SpaceAfter=No
 18	出发	出发	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No
-19	的	的	PART	DEC	_	18	mark:relcl	_	SpaceAfter=No
+19	的	的	PART	DEC	_	18	mark:rel	_	SpaceAfter=No
 20	日本	日本	PROPN	NNP	_	22	nmod	_	SpaceAfter=No
 21	战国	战国	NOUN	NN	_	22	compound	_	SpaceAfter=No
 22	迷	迷	PART	SFN	_	13	obj	_	SpaceAfter=No
@@ -9165,7 +9165,7 @@
 4	分期	分期	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 5	没有	没有	VERB	VV	_	11	ccomp	_	SpaceAfter=No
 6	严格	严格	ADJ	JJ	_	8	amod	_	SpaceAfter=No
-7	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 8	规则	规则	NOUN	NN	_	5	obj	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 10	但是	但是	ADV	RB	_	11	mark	_	SpaceAfter=No
@@ -9194,7 +9194,7 @@
 1	由于	由于	ADP	IN	_	5	case	_	SpaceAfter=No
 2	喜欢	喜欢	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
 3	花	花	NOUN	NN	_	2	obj	_	SpaceAfter=No
-4	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
+4	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No
 5	缘故	缘故	NOUN	NN	_	13	obl	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No
 7	罗宾	罗宾	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No
@@ -9262,7 +9262,7 @@
 8	队	队	PART	SFN	_	10	nmod	_	SpaceAfter=No
 9	最	最	ADV	RB	_	10	advmod	_	SpaceAfter=No
 10	出名	出名	ADJ	JJ	_	12	acl:relcl	_	SpaceAfter=No
-11	的	的	PART	DEC	_	10	mark:relcl	_	SpaceAfter=No
+11	的	的	PART	DEC	_	10	mark:rel	_	SpaceAfter=No
 12	举动	举动	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
 13	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
 14	在	在	VERB	VV	_	20	advcl	_	SpaceAfter=No
@@ -9415,7 +9415,7 @@
 11	在	在	VERB	VV	_	13	advcl	_	SpaceAfter=No
 12	阿尔及利亚	阿尔及利亚	PROPN	NNP	_	11	obj	_	SpaceAfter=No
 13	发现	发现	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No
-14	的	的	PART	DEC	_	13	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No
 15	始	始	PART	PFA	_	16	case:pref	_	SpaceAfter=No
 16	新世	新世	NOUN	NN	_	17	compound	_	SpaceAfter=No
 17	晚期	晚期	NOUN	NN	_	19	nmod	_	SpaceAfter=No
@@ -9427,7 +9427,7 @@
 23	一	一	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
 24	个	个	NOUN	NNB	_	27	clf	_	SpaceAfter=No
 25	最新	最新	ADJ	JJ	_	27	amod	_	SpaceAfter=No
-26	的	的	PART	DEC	_	25	mark:relcl	_	SpaceAfter=No
+26	的	的	PART	DEC	_	25	mark:rel	_	SpaceAfter=No
 27	种	种	NOUN	NN	_	21	obj	_	SpaceAfter=No
 28	：	：	PUNCT	:	_	27	punct	_	SpaceAfter=No
 29	Moeritherium	Moeritherium	X	FW	_	27	appos	_	_
@@ -9464,7 +9464,7 @@
 26	始祖鸟	始祖鸟	NOUN	NN	_	28	nmod	_	SpaceAfter=No
 27	更为	更为	ADV	RB	_	28	advmod	_	SpaceAfter=No
 28	古老	古老	ADJ	JJ	_	30	amod	_	SpaceAfter=No
-29	的	的	PART	DEC	_	28	mark:relcl	_	SpaceAfter=No
+29	的	的	PART	DEC	_	28	mark:rel	_	SpaceAfter=No
 30	鸟类	鸟类	NOUN	NN	_	21	obj	_	SpaceAfter=No
 31	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
@@ -9510,7 +9510,7 @@
 4	可以	可以	AUX	MD	_	5	aux	_	SpaceAfter=No
 5	抓住	抓住	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No
 6	东西	东西	NOUN	NN	_	5	obj	_	SpaceAfter=No
-7	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
+7	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No
 8	手	手	NOUN	NN	_	3	obj	_	SpaceAfter=No
 9	及	及	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 10	脚	脚	NOUN	NN	_	8	conj	_	SpaceAfter=No
@@ -9543,7 +9543,7 @@
 14	回到	回到	VERB	VV	_	21	csubj	_	SpaceAfter=No
 15	了	了	PART	AS	Aspect=Perf	14	aux:aspect	_	SpaceAfter=No
 16	熟悉	熟悉	ADJ	JJ	_	19	amod	_	SpaceAfter=No
-17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No
 18	康桥	康桥	PROPN	NNP	_	19	nmod	_	SpaceAfter=No
 19	基地	基地	NOUN	NN	_	14	obj	_	SpaceAfter=No
 20	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No
@@ -9554,7 +9554,7 @@
 25	富	富	VERB	VV	_	31	acl:relcl	_	SpaceAfter=No
 26	戏剧	戏剧	NOUN	NN	_	27	compound	_	SpaceAfter=No
 27	性	性	PART	SFN	_	25	obj	_	SpaceAfter=No
-28	的	的	PART	DEC	_	25	mark:relcl	_	SpaceAfter=No
+28	的	的	PART	DEC	_	25	mark:rel	_	SpaceAfter=No
 29	“	“	PUNCT	``	_	31	punct	_	SpaceAfter=No
 30	转会	转会	NOUN	NN	_	31	nmod	_	SpaceAfter=No
 31	案例	案例	NOUN	NN	_	21	obj	_	SpaceAfter=No
@@ -9605,7 +9605,7 @@
 27	落下	落下	VERB	VV	_	22	ccomp	_	SpaceAfter=No
 28	了	了	PART	AS	Aspect=Perf	27	aux:aspect	_	SpaceAfter=No
 29	抽搐	抽搐	VERB	VV	_	31	acl:relcl	_	SpaceAfter=No
-30	的	的	PART	DEC	_	29	mark:relcl	_	SpaceAfter=No
+30	的	的	PART	DEC	_	29	mark:rel	_	SpaceAfter=No
 31	毛病	毛病	NOUN	NN	_	27	obj	_	SpaceAfter=No
 32	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No
 
@@ -9651,7 +9651,7 @@
 15	》	》	PUNCT	)	_	14	punct	_	SpaceAfter=No
 16	杂志	杂志	NOUN	NN	_	14	appos	_	SpaceAfter=No
 17	评选	评选	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No
-18	的	的	PART	DEC	_	17	mark:relcl	_	SpaceAfter=No
+18	的	的	PART	DEC	_	17	mark:rel	_	SpaceAfter=No
 19	“	“	PUNCT	``	_	24	punct	_	SpaceAfter=No
 20	十	十	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
 21	大	大	PART	PFA	_	24	case:pref	_	SpaceAfter=No
@@ -9694,7 +9694,7 @@
 6	星云	星云	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 7	有	有	VERB	VV	_	25	advcl	_	SpaceAfter=No
 8	单纯	单纯	ADJ	JJ	_	11	amod	_	SpaceAfter=No
-9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 10	发射	发射	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 11	谱线	谱线	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 12	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
@@ -9746,7 +9746,7 @@
 6	在	在	VERB	VV	_	8	advcl	_	SpaceAfter=No
 7	德国	德国	PROPN	NNP	_	6	obj	_	SpaceAfter=No
 8	出生	出生	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
-9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 10	美国	美国	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
 11	应用	应用	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 12	数学	数学	NOUN	NN	_	13	compound	_	SpaceAfter=No
@@ -9772,7 +9772,7 @@
 # text = 身为颓废的一代的主要成员，他是影响流行文化以及文学的前卫作家。
 1	身为	身为	VERB	VV	_	19	acl	_	SpaceAfter=No
 2	颓废	颓废	ADJ	JJ	_	5	amod	_	SpaceAfter=No
-3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No
 4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	代	代	NOUN	NNB	_	8	nmod	_	SpaceAfter=No
 6	的	的	PART	DEC	Case=Gen	5	case:dec	_	SpaceAfter=No
@@ -9786,7 +9786,7 @@
 14	文化	文化	NOUN	NN	_	12	obj	_	SpaceAfter=No
 15	以及	以及	CCONJ	CC	_	16	cc	_	SpaceAfter=No
 16	文学	文学	NOUN	NN	_	14	conj	_	SpaceAfter=No
-17	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 18	前卫	前卫	ADJ	JJ	_	19	amod	_	SpaceAfter=No
 19	作家	作家	NOUN	NN	_	0	root	_	SpaceAfter=No
 20	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
@@ -9824,7 +9824,7 @@
 12	违反	违反	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
 13	中立	中立	NOUN	NN	_	14	compound	_	SpaceAfter=No
 14	法	法	PART	SFN	_	12	obj	_	SpaceAfter=No
-15	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+15	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 16	战争	战争	NOUN	NN	_	8	obj	_	SpaceAfter=No
 17	而	而	ADV	RB	_	18	mark	_	SpaceAfter=No
 18	遭到	遭到	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -9864,7 +9864,7 @@
 13	位	位	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No
 14	于	于	VERB	VV	_	13	mark	_	SpaceAfter=No
 15	里瓦斯	里瓦斯	PROPN	NNP	_	13	obj	_	SpaceAfter=No
-16	的	的	PART	DEC	_	13	mark:relcl	_	SpaceAfter=No
+16	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No
 17	保守	保守	NOUN	NN	_	18	compound	_	SpaceAfter=No
 18	党	党	PART	SFN	_	19	nmod	_	SpaceAfter=No
 19	势力	势力	NOUN	NN	_	11	obj	_	SpaceAfter=No
@@ -9881,7 +9881,7 @@
 7	于	于	VERB	VV	_	6	mark	_	SpaceAfter=No
 8	新堡	新堡	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
 9	西杰斯蒙丹尼	西杰斯蒙丹尼	PROPN	NNP	_	6	obj	_	SpaceAfter=No
-10	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 11	杰斯蒙丹尼	杰斯蒙丹尼	PROPN	NNP	_	12	compound	_	SpaceAfter=No
 12	楼	楼	PART	SFN	_	4	obj	_	SpaceAfter=No
 13	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
@@ -10026,7 +10026,7 @@
 26	内政	内政	NOUN	NN	_	25	obj	_	SpaceAfter=No
 27	和	和	CCONJ	CC	_	28	cc	_	SpaceAfter=No
 28	外交	外交	NOUN	NN	_	26	conj	_	SpaceAfter=No
-29	的	的	PART	DEC	_	25	mark:relcl	_	SpaceAfter=No
+29	的	的	PART	DEC	_	25	mark:rel	_	SpaceAfter=No
 30	实权	实权	NOUN	NN	_	23	obj	_	SpaceAfter=No
 31	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
@@ -10070,7 +10070,7 @@
 3	威廉玛丽	威廉玛丽	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
 4	学院	学院	NOUN	NN	_	5	obl	_	SpaceAfter=No
 5	毕业	毕业	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No
-6	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
+6	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No
 7	学生	学生	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
 9	成	成	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -10173,7 +10173,7 @@
 6	第二	第二	NUM	CD	NumType=Ord	8	advmod	_	SpaceAfter=No
 7	历史	历史	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 8	悠久	悠久	ADJ	JJ	_	11	acl:relcl	_	SpaceAfter=No
-9	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 10	高等	高等	ADJ	JJ	_	11	amod	_	SpaceAfter=No
 11	学府	学府	NOUN	NN	_	0	root	_	SpaceAfter=No
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
@@ -10291,7 +10291,7 @@
 9	和	和	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 10	代表	代表	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
 11	法国	法国	PROPN	NNP	_	10	obj	_	SpaceAfter=No
-12	的	的	PART	DEC	_	10	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	10	mark:rel	_	SpaceAfter=No
 13	大	大	PART	PFA	_	14	case:pref	_	SpaceAfter=No
 14	鹰	鹰	NOUN	NN	_	8	conj	_	SpaceAfter=No
 15	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
@@ -10320,7 +10320,7 @@
 20	前者	前者	NOUN	NN	_	25	nsubj	_	SpaceAfter=No
 21	是	是	AUX	VC	_	25	cop	_	SpaceAfter=No
 22	真正	真正	ADJ	JJ	_	25	amod	_	SpaceAfter=No
-23	的	的	PART	DEC	_	22	mark:relcl	_	SpaceAfter=No
+23	的	的	PART	DEC	_	22	mark:rel	_	SpaceAfter=No
 24	独裁	独裁	NOUN	NN	_	25	nmod	_	SpaceAfter=No
 25	政体	政体	NOUN	NN	_	5	parataxis	_	SpaceAfter=No
 26	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
@@ -10333,13 +10333,13 @@
 33	政教	政教	NOUN	NN	_	34	nsubj	_	SpaceAfter=No
 34	合	合	VERB	VV	_	29	conj	_	SpaceAfter=No
 35	一	一	NUM	CD	NumType=Card	34	obj	_	SpaceAfter=No
-36	的	的	PART	DEC	_	29	mark:relcl	_	SpaceAfter=No
+36	的	的	PART	DEC	_	29	mark:rel	_	SpaceAfter=No
 37	制度	制度	NOUN	NN	_	44	advcl	_	SpaceAfter=No
 38	，	，	PUNCT	,	_	44	punct	_	SpaceAfter=No
 39	常	常	ADV	RB	_	44	advmod	_	SpaceAfter=No
 40	以	以	ADP	IN	_	43	case	_	SpaceAfter=No
 41	世袭	世袭	VERB	VV	_	43	acl:relcl	_	SpaceAfter=No
-42	的	的	PART	DEC	_	41	mark:relcl	_	SpaceAfter=No
+42	的	的	PART	DEC	_	41	mark:rel	_	SpaceAfter=No
 43	方式	方式	NOUN	NN	_	44	obl	_	SpaceAfter=No
 44	固定	固定	VERB	VV	_	5	parataxis	_	SpaceAfter=No
 45	下来	下来	VERB	VV	_	44	mark	_	SpaceAfter=No
@@ -10397,7 +10397,7 @@
 10	1	1	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
 11	日	日	NOUN	NNB	_	12	nmod:tmod	_	SpaceAfter=No
 12	上映	上映	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
-13	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+13	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 14	日本	日本	PROPN	NNP	_	15	nmod	_	SpaceAfter=No
 15	电影	电影	NOUN	NN	_	0	root	_	SpaceAfter=No
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
@@ -10449,7 +10449,7 @@
 4	是	是	AUX	VC	_	8	cop	_	SpaceAfter=No
 5	组成	组成	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No
 6	家庭	家庭	NOUN	NN	_	5	obj	_	SpaceAfter=No
-7	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
+7	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No
 8	基础	基础	NOUN	NN	_	16	acl	_	SpaceAfter=No
 9	和	和	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 10	根据	根据	NOUN	NN	_	8	conj	_	SpaceAfter=No
@@ -10457,7 +10457,7 @@
 12	是	是	AUX	VC	_	16	cop	_	SpaceAfter=No
 13	家庭	家庭	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 14	成立	成立	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
-15	的	的	PART	DEC	_	14	mark:relcl	_	SpaceAfter=No
+15	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No
 16	标志	标志	NOUN	NN	_	0	root	_	SpaceAfter=No
 17	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
@@ -10485,7 +10485,7 @@
 20	现存	现存	VERB	VV	_	29	amod	_	SpaceAfter=No
 21	最	最	ADV	RB	_	22	advmod	_	SpaceAfter=No
 22	古老	古老	ADJ	JJ	_	29	amod	_	SpaceAfter=No
-23	的	的	PART	DEC	_	22	mark:relcl	_	SpaceAfter=No
+23	的	的	PART	DEC	_	22	mark:rel	_	SpaceAfter=No
 24	明	明	PROPN	NNP	_	29	nmod	_	SpaceAfter=No
 25	清	清	PROPN	NNP	_	24	conj	_	SpaceAfter=No
 26	砖木	砖木	NOUN	NN	_	29	nmod	_	SpaceAfter=No
@@ -10586,7 +10586,7 @@
 60	世界	世界	NOUN	NN	_	62	advmod	_	SpaceAfter=No
 61	上	上	ADP	IN	_	60	acl	_	SpaceAfter=No
 62	最宽	最宽	ADJ	JJ	_	64	amod	_	SpaceAfter=No
-63	的	的	PART	DEC	_	62	mark:relcl	_	SpaceAfter=No
+63	的	的	PART	DEC	_	62	mark:rel	_	SpaceAfter=No
 64	瀑布	瀑布	NOUN	NN	_	59	obj	_	SpaceAfter=No
 65	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
@@ -10611,7 +10611,7 @@
 4	是	是	AUX	VC	_	8	cop	_	SpaceAfter=No
 5	较为	较为	ADV	RB	_	6	advmod	_	SpaceAfter=No
 6	普遍	普遍	ADJ	JJ	_	8	amod	_	SpaceAfter=No
-7	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 8	蝴蝶	蝴蝶	NOUN	NN	_	0	root	_	SpaceAfter=No
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
@@ -10772,7 +10772,7 @@
 11	二冬	二冬	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No
 12	学习	学习	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
 13	”	”	PUNCT	''	_	12	punct	_	SpaceAfter=No
-14	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 15	活动	活动	NOUN	NN	_	6	obj	_	SpaceAfter=No
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
@@ -10803,7 +10803,7 @@
 5	位	位	NOUN	NNB	_	12	nmod	_	SpaceAfter=No
 6	加盟	加盟	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 7	NBA	NBA	X	FW	_	6	obj	_	SpaceAfter=No
-8	之	之	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+8	之	之	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 9	中国	中国	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
 10	篮球	篮球	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 11	运动	运动	VERB	VV	_	12	compound	_	SpaceAfter=No
@@ -10825,7 +10825,7 @@
 27	在	在	ADP	IN	_	28	case	_	SpaceAfter=No
 28	NBA	NBA	X	FW	_	29	obl	_	SpaceAfter=No
 29	首发	首发	VERB	VV	_	32	acl:relcl	_	SpaceAfter=No
-30	的	的	PART	DEC	_	29	mark:relcl	_	SpaceAfter=No
+30	的	的	PART	DEC	_	29	mark:rel	_	SpaceAfter=No
 31	中国	中国	PROPN	NNP	_	32	nmod	_	SpaceAfter=No
 32	球员	球员	NOUN	NN	_	23	obj	_	SpaceAfter=No
 33	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
@@ -10836,7 +10836,7 @@
 2	是	是	AUX	VC	_	6	cop	_	SpaceAfter=No
 3	较为	较为	ADV	RB	_	4	advmod	_	SpaceAfter=No
 4	细小	细小	ADJ	JJ	_	6	amod	_	SpaceAfter=No
-5	的	的	PART	DEC	_	4	mark:relcl	_	SpaceAfter=No
+5	的	的	PART	DEC	_	4	mark:rel	_	SpaceAfter=No
 6	狐狸	狐狸	NOUN	NN	_	0	root	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 8	吻	吻	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
@@ -10942,7 +10942,7 @@
 8	线性	线性	NOUN	NN	_	9	amod	_	SpaceAfter=No
 9	作用	作用	NOUN	NN	_	10	obl	_	SpaceAfter=No
 10	引起	引起	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
-11	的	的	PART	DEC	_	10	mark:relcl	_	SpaceAfter=No
+11	的	的	PART	DEC	_	10	mark:rel	_	SpaceAfter=No
 12	横波	横波	NOUN	NN	_	0	root	_	SpaceAfter=No
 13	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
 14	它	它	PRON	PRP	Person=3	12	parataxis	_	SpaceAfter=No
@@ -10993,7 +10993,7 @@
 34	贫困	贫困	ADJ	JJ	_	36	amod	_	SpaceAfter=No
 35	儿童	儿童	NOUN	NN	_	36	compound	_	SpaceAfter=No
 36	院	院	PART	SFN	_	33	obj	_	SpaceAfter=No
-37	的	的	PART	DEC	_	33	mark:relcl	_	SpaceAfter=No
+37	的	的	PART	DEC	_	33	mark:rel	_	SpaceAfter=No
 38	真实	真实	ADJ	JJ	_	39	amod	_	SpaceAfter=No
 39	故事	故事	NOUN	NN	_	40	obl	_	SpaceAfter=No
 40	创作	创作	VERB	VV	_	23	ccomp	_	SpaceAfter=No
@@ -11020,7 +11020,7 @@
 17	世界	世界	NOUN	NN	_	19	advmod	_	SpaceAfter=No
 18	上	上	ADP	IN	_	17	acl	_	SpaceAfter=No
 19	已知	已知	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No
-20	的	的	PART	DEC	_	19	mark:relcl	_	SpaceAfter=No
+20	的	的	PART	DEC	_	19	mark:rel	_	SpaceAfter=No
 21	语系	语系	NOUN	NN	_	24	obl	_	SpaceAfter=No
 22	可能	可能	AUX	MD	_	24	aux	_	SpaceAfter=No
 23	都	都	ADV	RB	_	24	mark	_	SpaceAfter=No
@@ -11031,7 +11031,7 @@
 # sent_id = test-s408
 # text = 知名的孤立语言如苏美尔语、巴斯克语、阿伊努语等。
 1	知名	知名	ADJ	JJ	_	4	amod	_	SpaceAfter=No
-2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+2	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
 3	孤立	孤立	ADJ	JJ	_	4	amod	_	SpaceAfter=No
 4	语言	语言	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 5	如	如	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -11125,7 +11125,7 @@
 1	1860	1860	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	3	nmod:tmod	_	SpaceAfter=No
 3	签订	签订	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No
-4	的	的	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No
+4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No
 5	中	中	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
 6	俄	俄	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
 7	北京	北京	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
@@ -11174,7 +11174,7 @@
 18	市	市	PART	SFN	_	20	nsubj	_	SpaceAfter=No
 19	所	所	ADV	RB	_	20	mark	_	SpaceAfter=No
 20	辖	辖	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No
-21	的	的	PART	DEC	_	20	mark:relcl	_	SpaceAfter=No
+21	的	的	PART	DEC	_	20	mark:rel	_	SpaceAfter=No
 22	一	一	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No
 23	个	个	NOUN	NNB	_	24	clf	_	SpaceAfter=No
 24	县	县	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -11223,7 +11223,7 @@
 9	和	和	CCONJ	CC	_	11	cc	_	SpaceAfter=No
 10	经济	经济	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 11	发展	发展	NOUN	NN	_	8	conj	_	SpaceAfter=No
-12	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 13	同时	同时	NOUN	NN	_	16	obl	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 15	也	也	ADV	RB	_	16	mark	_	SpaceAfter=No
@@ -11244,7 +11244,7 @@
 # text = 宁波最早的广播电台开办于1932年，为爱好者开办的业余广播电台。
 1	宁波	宁波	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 2	最早	最早	ADJ	JJ	_	5	amod	_	SpaceAfter=No
-3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No
 4	广播	广播	NOUN	NN	_	5	nmod	_	SpaceAfter=No
 5	电台	电台	NOUN	NN	_	18	nsubj	_	SpaceAfter=No
 6	开办	开办	VERB	VV	_	18	acl	_	SpaceAfter=No
@@ -11256,7 +11256,7 @@
 12	爱好	爱好	VERB	VV	_	13	compound	_	SpaceAfter=No
 13	者	者	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 14	开办	开办	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No
-15	的	的	PART	DEC	_	14	mark:relcl	_	SpaceAfter=No
+15	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No
 16	业余	业余	ADJ	JJ	_	18	amod	_	SpaceAfter=No
 17	广播	广播	NOUN	NN	_	18	nmod	_	SpaceAfter=No
 18	电台	电台	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -11332,7 +11332,7 @@
 11	省	省	PART	SFN	_	13	nmod	_	SpaceAfter=No
 12	宁波	宁波	PROPN	NNP	_	13	compound	_	SpaceAfter=No
 13	市	市	PART	SFN	_	7	obj	_	SpaceAfter=No
-14	的	的	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No
 15	高级	高级	ADJ	JJ	_	16	nmod	_	SpaceAfter=No
 16	中学	中学	NOUN	NN	_	27	acl	_	SpaceAfter=No
 17	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No
@@ -11414,7 +11414,7 @@
 41	首	首	NOUN	NNB	_	46	clf	_	SpaceAfter=No
 42	独特	独特	ADJ	JJ	_	43	advcl	_	SpaceAfter=No
 43	清新	清新	ADJ	JJ	_	46	amod	_	SpaceAfter=No
-44	的	的	PART	DEC	_	43	mark:relcl	_	SpaceAfter=No
+44	的	的	PART	DEC	_	43	mark:rel	_	SpaceAfter=No
 45	民谣	民谣	NOUN	NN	_	46	nmod	_	SpaceAfter=No
 46	新作	新作	NOUN	NN	_	38	obj	_	SpaceAfter=No
 47	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
@@ -11448,7 +11448,7 @@
 # sent_id = test-s423
 # text = 唯一的财源为青光石，由附近的邻国以谷物来购买。
 1	唯一	唯一	ADJ	JJ	_	3	amod	_	SpaceAfter=No
-2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+2	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
 3	财源	财源	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 4	为	为	AUX	VC	_	6	cop	_	SpaceAfter=No
 5	青光	青光	NOUN	NN	_	6	compound	_	SpaceAfter=No
@@ -11479,7 +11479,7 @@
 11	“	“	PUNCT	``	_	12	punct	_	SpaceAfter=No
 12	天道	天道	NOUN	NN	_	9	obj	_	SpaceAfter=No
 13	”	”	PUNCT	''	_	12	punct	_	SpaceAfter=No
-14	的	的	PART	DEC	_	9	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No
 15	学问	学问	NOUN	NN	_	18	nsubj	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No
 17	来	来	ADV	RB	_	18	mark	_	SpaceAfter=No
@@ -11498,7 +11498,7 @@
 30	拥有	拥有	VERB	VV	_	34	acl:relcl	_	SpaceAfter=No
 31	广泛	广泛	ADJ	JJ	_	32	amod	_	SpaceAfter=No
 32	才能	才能	NOUN	NN	_	30	obj	_	SpaceAfter=No
-33	的	的	PART	DEC	_	30	mark:relcl	_	SpaceAfter=No
+33	的	的	PART	DEC	_	30	mark:rel	_	SpaceAfter=No
 34	人	人	NOUN	NN	_	38	obl	_	SpaceAfter=No
 35	就	就	ADV	RB	_	38	mark	_	SpaceAfter=No
 36	能	能	AUX	MD	_	38	aux	_	SpaceAfter=No
@@ -11548,7 +11548,7 @@
 13	发挥	发挥	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 14	他	他	PRON	PRP	Person=3	15	nmod	_	SpaceAfter=No
 15	才华	才华	NOUN	NN	_	13	obj	_	SpaceAfter=No
-16	的	的	PART	DEC	_	13	mark:relcl	_	SpaceAfter=No
+16	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No
 17	地方	地方	NOUN	NN	_	9	obj	_	SpaceAfter=No
 18	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
@@ -11611,7 +11611,7 @@
 # text = 越来越多的轮船也开始提供安全室作为反海盗的手段。
 1	越来越	越来越	ADV	RB	_	2	advmod	_	SpaceAfter=No
 2	多	多	ADJ	JJ	_	4	amod	_	SpaceAfter=No
-3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
+3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No
 4	轮船	轮船	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 5	也	也	ADV	RB	_	6	mark	_	SpaceAfter=No
 6	开始	开始	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -11622,7 +11622,7 @@
 11	为	为	VERB	VC	_	10	mark	_	SpaceAfter=No
 12	反	反	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
 13	海盗	海盗	NOUN	NN	_	12	obj	_	SpaceAfter=No
-14	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 15	手段	手段	NOUN	NN	_	10	obj	_	SpaceAfter=No
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
@@ -11761,7 +11761,7 @@
 13	居	居	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 14	于	于	VERB	VV	_	13	mark	_	SpaceAfter=No
 15	亚琛	亚琛	PROPN	NNP	_	13	obl	_	SpaceAfter=No
-16	的	的	PART	DEC	_	13	mark:relcl	_	SpaceAfter=No
+16	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No
 17	外婆	外婆	NOUN	NN	_	22	nmod	_	SpaceAfter=No
 18	罗莎	罗莎	PROPN	NNP	_	17	appos	_	SpaceAfter=No
 19	·	·	PUNCT	/	_	18	punct	_	SpaceAfter=No
@@ -11786,7 +11786,7 @@
 38	阿姆斯特丹	阿姆斯特丹	PROPN	NNP	_	36	obj	_	SpaceAfter=No
 39	开设	开设	VERB	VV	_	42	acl:relcl	_	SpaceAfter=No
 40	公司	公司	NOUN	NN	_	39	obj	_	SpaceAfter=No
-41	的	的	PART	DEC	_	39	mark:relcl	_	SpaceAfter=No
+41	的	的	PART	DEC	_	39	mark:rel	_	SpaceAfter=No
 42	邀请	邀请	NOUN	NN	_	35	obj	_	SpaceAfter=No
 43	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
@@ -11797,7 +11797,7 @@
 3	俄罗斯	俄罗斯	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
 4	最	最	ADV	RB	_	5	advmod	_	SpaceAfter=No
 5	有名	有名	ADJ	JJ	_	8	amod	_	SpaceAfter=No
-6	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
+6	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No
 7	女	女	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 8	保镖	保镖	NOUN	NN	_	10	nmod	_	SpaceAfter=No
 9	之	之	PART	DEC	Case=Gen	8	case:dec	_	SpaceAfter=No
@@ -11876,7 +11876,7 @@
 16	个	个	NOUN	NNB	_	20	nmod	_	SpaceAfter=No
 17	被	被	VERB	BB	Voice=Pass	18	aux:pass	_	SpaceAfter=No
 18	接受	接受	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No
-19	的	的	PART	DEC	_	18	mark:relcl	_	SpaceAfter=No
+19	的	的	PART	DEC	_	18	mark:rel	_	SpaceAfter=No
 20	惯例	惯例	NOUN	NN	_	23	advcl	_	SpaceAfter=No
 21	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
 22	正	正	ADV	RB	_	23	advmod	_	SpaceAfter=No
@@ -11979,7 +11979,7 @@
 1	手提	手提	VERB	VV	_	2	compound	_	SpaceAfter=No
 2	箱	箱	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	载有	载有	VERB	VV	_	15	csubj	_	SpaceAfter=No
-4	的	的	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No
+4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No
 5	就是	就是	AUX	VC	_	15	cop	_	SpaceAfter=No
 6	他	他	PRON	PRP	Person=3	11	nsubj	_	SpaceAfter=No
 7	在	在	ADP	IN	_	10	case	_	SpaceAfter=No
@@ -11987,7 +11987,7 @@
 9	内战	内战	NOUN	NN	_	10	nmod	_	SpaceAfter=No
 10	时间	时间	NOUN	NN	_	11	obl	_	SpaceAfter=No
 11	拍摄	拍摄	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	3500	3500	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
 14	张	张	NOUN	NNB	_	15	clf	_	SpaceAfter=No
 15	底片	底片	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -12066,7 +12066,7 @@
 14	中国	中国	PROPN	NNP	_	16	nsubj	_	SpaceAfter=No
 15	最早	最早	ADV	RB	_	16	advmod	_	SpaceAfter=No
 16	建立	建立	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No
-17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No
 18	省级	省级	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 19	电视	电视	NOUN	NN	_	20	compound	_	SpaceAfter=No
 20	台	台	PART	SFN	_	22	nmod	_	SpaceAfter=No
@@ -12099,7 +12099,7 @@
 21	泰国	泰国	PROPN	NNP	_	23	nmod	_	SpaceAfter=No
 22	电视	电视	NOUN	NN	_	23	compound	_	SpaceAfter=No
 23	剧	剧	PART	SFN	_	20	obj	_	SpaceAfter=No
-24	的	的	PART	DEC	_	20	mark:relcl	_	SpaceAfter=No
+24	的	的	PART	DEC	_	20	mark:rel	_	SpaceAfter=No
 25	电视	电视	NOUN	NN	_	26	nmod	_	SpaceAfter=No
 26	机构	机构	NOUN	NN	_	0	root	_	SpaceAfter=No
 27	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No
@@ -12138,7 +12138,7 @@
 15	建立	建立	VERB	VV	_	8	parataxis	_	SpaceAfter=No
 16	了	了	PART	AS	Aspect=Perf	15	aux:aspect	_	SpaceAfter=No
 17	伟大	伟大	ADJ	JJ	_	19	amod	_	SpaceAfter=No
-18	的	的	PART	DEC	_	17	mark:relcl	_	SpaceAfter=No
+18	的	的	PART	DEC	_	17	mark:rel	_	SpaceAfter=No
 19	友谊	友谊	NOUN	NN	_	15	obj	_	SpaceAfter=No
 20	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
@@ -12179,7 +12179,7 @@
 # sent_id = test-s453
 # text = 进出港的船只均需经过海巡人员的安检，故安检所均配合派员执行此一勤务。
 1	进出港	进出港	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No
-2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+2	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
 3	船只	船只	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 4	均	均	ADV	RB	_	6	advmod	_	SpaceAfter=No
 5	需	需	AUX	MD	_	6	aux	_	SpaceAfter=No
@@ -12297,7 +12297,7 @@
 4	上	上	ADP	IN	_	3	acl	_	SpaceAfter=No
 5	最	最	ADV	RB	_	6	advmod	_	SpaceAfter=No
 6	成功	成功	ADJ	JJ	_	10	amod	_	SpaceAfter=No
-7	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 8	亚	亚	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	裔	裔	PART	SFN	_	10	nmod	_	SpaceAfter=No
 10	歌手	歌手	NOUN	NN	_	55	advcl	_	SpaceAfter=No
@@ -12427,7 +12427,7 @@
 11	提供	提供	VERB	VV	_	0	root	_	SpaceAfter=No
 12	无	无	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
 13	障碍	障碍	NOUN	NN	_	12	obj	_	SpaceAfter=No
-14	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 15	便利	便利	ADJ	JJ	_	16	amod	_	SpaceAfter=No
 16	连接	连接	NOUN	NN	_	11	obj	_	SpaceAfter=No
 17	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No
@@ -12498,7 +12498,7 @@
 21	概念	概念	NOUN	NN	_	23	nmod	_	SpaceAfter=No
 22	设计	设计	NOUN	NN	_	23	nmod	_	SpaceAfter=No
 23	比赛	比赛	NOUN	NN	_	26	acl:relcl	_	SpaceAfter=No
-24	的	的	PART	DEC	_	23	mark:relcl	_	SpaceAfter=No
+24	的	的	PART	DEC	_	23	mark:rel	_	SpaceAfter=No
 25	参赛	参赛	NOUN	NN	_	26	nmod	_	SpaceAfter=No
 26	作品	作品	NOUN	NN	_	13	obj	_	SpaceAfter=No
 27	，	，	PUNCT	,	_	38	punct	_	SpaceAfter=No
@@ -12510,7 +12510,7 @@
 33	署	署	PART	SFN	_	35	nsubj	_	SpaceAfter=No
 34	所	所	ADV	RB	_	35	mark	_	SpaceAfter=No
 35	获得	获得	VERB	VV	_	37	acl:relcl	_	SpaceAfter=No
-36	的	的	PART	DEC	_	35	mark:relcl	_	SpaceAfter=No
+36	的	的	PART	DEC	_	35	mark:rel	_	SpaceAfter=No
 37	拨款	拨款	NOUN	NN	_	38	obl	_	SpaceAfter=No
 38	进行	进行	VERB	VV	_	0	root	_	SpaceAfter=No
 39	。	。	PUNCT	.	_	38	punct	_	SpaceAfter=No
@@ -12529,7 +12529,7 @@
 # sent_id = test-s465
 # text = 最热的地区是科尼亚盆地和马拉蒂亚盆地，年降雨量常常少于300毫米。
 1	最热	最热	ADJ	JJ	_	3	amod	_	SpaceAfter=No
-2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
+2	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
 3	地区	地区	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 4	是	是	AUX	VC	_	6	cop	_	SpaceAfter=No
 5	科尼亚	科尼亚	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
@@ -12559,7 +12559,7 @@
 7	安阳	安阳	PROPN	NNP	_	8	compound	_	SpaceAfter=No
 8	市	市	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 9	下辖	下辖	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
-10	的	的	PART	DEC	_	9	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No
 11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
 12	个	个	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 13	县	县	NOUN	NN	_	15	advcl	_	SpaceAfter=No
@@ -12597,7 +12597,7 @@
 8	6	6	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 9	尺	尺	NOUN	NNB	_	10	clf	_	SpaceAfter=No
 10	宽	宽	ADJ	JJ	_	12	amod	_	SpaceAfter=No
-11	的	的	PART	DEC	_	10	mark:relcl	_	SpaceAfter=No
+11	的	的	PART	DEC	_	10	mark:rel	_	SpaceAfter=No
 12	走廊	走廊	NOUN	NN	_	4	obj	_	SpaceAfter=No
 13	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
 14	游客	游客	NOUN	NN	_	18	nsubj	_	SpaceAfter=No
@@ -12775,7 +12775,7 @@
 12	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 13	一切	一切	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 14	存在	存在	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
-15	的	的	PART	DEC	_	14	mark:relcl	_	SpaceAfter=No
+15	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No
 16	根基	根基	NOUN	NN	_	9	conj	_	SpaceAfter=No
 17	及	及	CCONJ	CC	_	18	cc	_	SpaceAfter=No
 18	依据	依据	NOUN	NN	_	16	conj	_	SpaceAfter=No
@@ -12837,7 +12837,7 @@
 9	宜家	宜家	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
 10	家居	家居	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 11	吸引	吸引	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	消费	消费	VERB	VV	_	14	compound	_	SpaceAfter=No
 14	者	者	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 15	来	来	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -12846,7 +12846,7 @@
 18	范围	范围	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
 19	非常	非常	ADV	RB	_	20	advmod	_	SpaceAfter=No
 20	广大	广大	ADJ	JJ	_	22	acl:relcl	_	SpaceAfter=No
-21	的	的	PART	DEC	_	20	mark:relcl	_	SpaceAfter=No
+21	的	的	PART	DEC	_	20	mark:rel	_	SpaceAfter=No
 22	地区	地区	NOUN	NN	_	15	obj	_	SpaceAfter=No
 23	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
@@ -12863,7 +12863,7 @@
 9	高度	高度	ADJ	JJ	_	11	amod	_	SpaceAfter=No
 10	适应	适应	VERB	VV	_	11	compound	_	SpaceAfter=No
 11	力	力	PART	SFN	_	8	obj	_	SpaceAfter=No
-12	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 13	家具	家具	NOUN	NN	_	6	obj	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
 15	无论	无论	ADP	IN	_	18	case	_	SpaceAfter=No
@@ -12877,7 +12877,7 @@
 23	却	却	ADV	RB	_	24	mark	_	SpaceAfter=No
 24	受到	受到	VERB	VV	_	28	acl:relcl	_	SpaceAfter=No
 25	忽略	忽略	VERB	VV	_	24	xcomp	_	SpaceAfter=No
-26	的	的	PART	DEC	_	24	mark:relcl	_	SpaceAfter=No
+26	的	的	PART	DEC	_	24	mark:rel	_	SpaceAfter=No
 27	小型	小型	NOUN	NN	_	28	nmod	_	SpaceAfter=No
 28	寓所	寓所	NOUN	NN	_	18	conj	_	SpaceAfter=No
 29	，	，	PUNCT	,	_	37	punct	_	SpaceAfter=No
@@ -12906,7 +12906,7 @@
 11	省	省	PART	SFN	_	13	nmod	_	SpaceAfter=No
 12	西南	西南	NOUN	NN	_	13	compound	_	SpaceAfter=No
 13	部	部	PART	SFN	_	5	obj	_	SpaceAfter=No
-14	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No
 15	一	一	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No
 16	个	个	NOUN	NNB	_	18	nmod	_	SpaceAfter=No
 17	县级	县级	NOUN	NN	_	18	compound	_	SpaceAfter=No
@@ -12965,7 +12965,7 @@
 29	个	个	NOUN	NNB	_	34	clf	_	SpaceAfter=No
 30	丘陵	丘陵	NOUN	NN	_	31	nsubj	_	SpaceAfter=No
 31	起伏	起伏	VERB	VV	_	34	acl:relcl	_	SpaceAfter=No
-32	的	的	PART	DEC	_	31	mark:relcl	_	SpaceAfter=No
+32	的	的	PART	DEC	_	31	mark:rel	_	SpaceAfter=No
 33	半	半	PART	PFA	_	34	case:pref	_	SpaceAfter=No
 34	山区	山区	NOUN	NN	_	3	parataxis	_	SpaceAfter=No
 35	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
@@ -13073,7 +13073,7 @@
 13	对号	对号	VERB	VV	_	14	advcl	_	SpaceAfter=No
 14	入座	入座	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 15	”	”	PUNCT	)	_	14	punct	_	SpaceAfter=No
-16	的	的	PART	DEC	_	14	mark:relcl	_	SpaceAfter=No
+16	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No
 17	现象	现象	NOUN	NN	_	10	obj	_	SpaceAfter=No
 18	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
@@ -13135,7 +13135,7 @@
 28	无	无	VERB	VV	_	30	advcl	_	SpaceAfter=No
 29	条件	条件	NOUN	NN	_	28	obj	_	SpaceAfter=No
 30	投降	投降	VERB	VV	_	32	acl:relcl	_	SpaceAfter=No
-31	的	的	PART	DEC	_	30	mark:relcl	_	SpaceAfter=No
+31	的	的	PART	DEC	_	30	mark:rel	_	SpaceAfter=No
 32	目的	目的	NOUN	NN	_	27	obj	_	SpaceAfter=No
 33	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No
 
@@ -13175,7 +13175,7 @@
 14	接受	接受	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No
 15	波茨坦	波茨坦	PROPN	NNP	_	16	nmod	_	SpaceAfter=No
 16	宣言	宣言	NOUN	NN	_	14	obj	_	SpaceAfter=No
-17	的	的	PART	DEC	_	14	mark:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No
 18	决定	决定	NOUN	NN	_	12	obj	_	SpaceAfter=No
 19	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
@@ -13184,7 +13184,7 @@
 1	宫城	宫城	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No
 2	因为	因为	ADP	IN	_	5	case	_	SpaceAfter=No
 3	自负	自负	ADJ	JJ	_	5	amod	_	SpaceAfter=No
-4	的	的	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No
+4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No
 5	性格	性格	NOUN	NN	_	11	obl	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 7	曾经	曾经	ADV	RB	_	11	advmod	_	SpaceAfter=No
@@ -13214,7 +13214,7 @@
 11	临时	临时	ADJ	JJ	_	13	amod	_	SpaceAfter=No
 12	大	大	PART	PFA	_	13	case:pref	_	SpaceAfter=No
 13	总统	总统	NOUN	NN	_	10	obj	_	SpaceAfter=No
-14	的	的	PART	DEC	_	10	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	10	mark:rel	_	SpaceAfter=No
 15	仪式	仪式	NOUN	NN	_	6	obj	_	SpaceAfter=No
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
@@ -13246,7 +13246,7 @@
 24	作出	作出	VERB	VV	_	8	parataxis	_	SpaceAfter=No
 25	了	了	PART	AS	Aspect=Perf	24	aux:aspect	_	SpaceAfter=No
 26	惊人	惊人	ADJ	JJ	_	28	amod	_	SpaceAfter=No
-27	之	之	PART	DEC	_	26	mark:relcl	_	SpaceAfter=No
+27	之	之	PART	DEC	_	26	mark:rel	_	SpaceAfter=No
 28	举	举	NOUN	NN	_	24	obj	_	SpaceAfter=No
 29	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
@@ -13277,7 +13277,7 @@
 23	还是	还是	CCONJ	CC	_	25	cc	_	SpaceAfter=No
 24	集体	集体	NOUN	NN	_	25	advmod	_	SpaceAfter=No
 25	自杀	自杀	VERB	VV	_	21	conj	_	SpaceAfter=No
-26	的	的	PART	DEC	_	21	mark:relcl	_	SpaceAfter=No
+26	的	的	PART	DEC	_	21	mark:rel	_	SpaceAfter=No
 27	责任	责任	NOUN	NN	_	29	xcomp	_	SpaceAfter=No
 28	都	都	ADV	RB	_	29	mark	_	SpaceAfter=No
 29	在	在	VERB	VV	_	58	advcl	_	SpaceAfter=No
@@ -13338,7 +13338,7 @@
 18	者	者	PART	SFN	_	19	obl	_	SpaceAfter=No
 19	提供	提供	VERB	VV	_	27	advcl	_	SpaceAfter=No
 20	安全	安全	ADJ	JJ	_	24	amod	_	SpaceAfter=No
-21	的	的	PART	DEC	_	20	mark:relcl	_	SpaceAfter=No
+21	的	的	PART	DEC	_	20	mark:rel	_	SpaceAfter=No
 22	档案	档案	NOUN	NN	_	24	nmod	_	SpaceAfter=No
 23	储存	储存	NOUN	NN	_	24	nmod	_	SpaceAfter=No
 24	服务	服务	NOUN	NN	_	19	obj	_	SpaceAfter=No
@@ -13504,7 +13504,7 @@
 14	推理	推理	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 15	小说	小说	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 16	常见	常见	ADJ	JJ	_	20	acl:relcl	_	SpaceAfter=No
-17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No
 18	一	一	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
 19	种	种	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 20	类型	类型	NOUN	NN	_	0	root	_	SpaceAfter=No
