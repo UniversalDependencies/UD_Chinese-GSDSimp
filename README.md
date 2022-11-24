@@ -11,6 +11,7 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
 
 * 2023-05-15 v2.12
   * Fixed: PUNCT nodes must be attached via punct relations.
+  * Fixed: Only some UPOS categories are compatible with mark.
 * 2021-05-15 v2.8
   * Changed mark:relcl to mark:rel (as in the other Chinese treebanks).
   * Removed the relation case:dec (for 的 between two nouns; the other treebanks use just `case` here).

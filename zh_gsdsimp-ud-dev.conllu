@@ -11635,7 +11635,7 @@
 3	在	在	ADP	IN	_	8	case	_	SpaceAfter=No
 4	罗斯福	罗斯福	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
 5	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No
-6	身体	身体	NOUN	NN	_	7	mark:rel	_	SpaceAfter=No
+6	身体	身体	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	健康	健康	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 8	每况愈下	每况愈下	VERB	VV	_	11	ccomp	_	SpaceAfter=No
 9	时	时	ADP	IN	_	8	mark	_	SpaceAfter=No
