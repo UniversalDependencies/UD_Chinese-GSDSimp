@@ -525,7 +525,7 @@
 6	中间	中间	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	数	数	PART	SFN	_	10	nsubj	_	SpaceAfter=No
 8	为	为	AUX	VC	_	10	cop	_	SpaceAfter=No
-9	$	$	SYM	/	_	10	punct	_	SpaceAfter=No
+9	$	$	SYM	/	_	10	nmod	_	SpaceAfter=No
 10	16,250	16,250	NUM	CD	NumType=Card	0	root	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
 12	家庭	家庭	NOUN	NN	_	13	nmod	_	SpaceAfter=No
@@ -534,14 +534,14 @@
 15	中间	中间	NOUN	NN	_	16	compound	_	SpaceAfter=No
 16	数	数	PART	SFN	_	19	nsubj	_	SpaceAfter=No
 17	为	为	AUX	VC	_	19	cop	_	SpaceAfter=No
-18	$	$	SYM	/	_	19	punct	_	SpaceAfter=No
+18	$	$	SYM	/	_	19	nmod	_	SpaceAfter=No
 19	16,250	16,250	NUM	CD	NumType=Card	10	parataxis	_	SpaceAfter=No
 20	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
 21	国民	国民	NOUN	NN	_	23	nmod	_	SpaceAfter=No
 22	平均	平均	ADJ	JJ	_	23	amod	_	SpaceAfter=No
 23	收入	收入	NOUN	NN	_	26	nsubj	_	SpaceAfter=No
 24	为	为	AUX	VC	_	26	cop	_	SpaceAfter=No
-25	$	$	SYM	/	_	26	punct	_	SpaceAfter=No
+25	$	$	SYM	/	_	26	nmod	_	SpaceAfter=No
 26	5,467	5,467	NUM	CD	NumType=Card	10	parataxis	_	SpaceAfter=No
 27	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 

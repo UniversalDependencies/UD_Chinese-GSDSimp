@@ -2869,7 +2869,7 @@
 21	发射	发射	VERB	VV	_	22	compound	_	SpaceAfter=No
 22	器	器	PART	SFN	_	16	obj	_	SpaceAfter=No
 23	里	里	NOUN	NN	_	22	acl	_	SpaceAfter=No
-24	）	）	PUNCT	)	_	16	punct	_	SpaceAfter=No
+24	）	）	PUNCT	)	_	27	punct	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No
 26	可以	可以	AUX	MD	_	27	aux	_	SpaceAfter=No
 27	击沉	击沉	VERB	VV	_	16	parataxis	_	SpaceAfter=No
