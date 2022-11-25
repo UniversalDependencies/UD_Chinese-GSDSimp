@@ -2980,8 +2980,8 @@
 16	区	区	PART	SFN	_	11	obj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
 17	”	”	PUNCT	''	_	16	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 18	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-19	非	非	AUX	VC	_	20	cop	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
-20	主权	主权	NOUN	NN	_	22	amod	_	SpaceAfter=No|Translit=zhǔquán|LTranslit=zhǔquán
+19	非	非	VERB	VC	_	22	amod	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
+20	主权	主权	NOUN	NN	_	19	xcomp	_	SpaceAfter=No|Translit=zhǔquán|LTranslit=zhǔquán
 21	政治	政治	NOUN	NN	_	22	nmod	_	SpaceAfter=No|Translit=zhèngzhì|LTranslit=zhèngzhì
 22	实体	实体	NOUN	NN	_	24	nsubj	_	SpaceAfter=No|Translit=shítǐ|LTranslit=shítǐ
 23	渐渐	渐渐	ADV	RB	_	24	advmod	_	SpaceAfter=No|Translit=jiànjiàn|LTranslit=jiànjiàn
@@ -12690,10 +12690,10 @@
 11	边	边	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=biān|LTranslit=biān
 12	单位	单位	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=dānwèi|LTranslit=dānwèi
 13	比	比	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=bǐ|LTranslit=bǐ
-14	非	非	AUX	VC	_	16	cop	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
+14	非	非	VERB	VC	_	18	acl:relcl	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
 15	单	单	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=dān|LTranslit=dān
-16	边	边	NOUN	NN	_	18	acl:relcl	_	SpaceAfter=No|Translit=biān|LTranslit=biān
-17	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+16	边	边	NOUN	NN	_	14	xcomp	_	SpaceAfter=No|Translit=biān|LTranslit=biān
+17	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 18	呎价	呎价	NOUN	NN	_	20	nmod	_	SpaceAfter=No|Translit=呎jià|LTranslit=呎jià
 19	约	约	ADV	RB	_	20	advmod	_	SpaceAfter=No|Translit=yuē|LTranslit=yuē
 20	贵	贵	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=guì|LTranslit=guì
