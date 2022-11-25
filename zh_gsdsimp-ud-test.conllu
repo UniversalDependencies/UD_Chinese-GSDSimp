@@ -65,7 +65,7 @@
 
 # sent_id = test-s4
 # text = 台大医学人文博物馆是一栋两层楼的建筑，沿中山南路与仁爱路成L型。
-# translit = táidàyīxuérénwénbówùguǎnshìyī栋liǎngcénglóudejiànzhù,yánzhōngshānnánlùyǔ仁'àilùchéngLxíng.
+# translit = táidàyīxuérénwénbówùguǎnshìyī栋liǎngcénglóudejiànzhù,yánzhōngshānnánlùyǔrén'àilùchéngLxíng.
 1	台大	台大	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=táidà|LTranslit=táidà
 2	医学	医学	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=yīxué|LTranslit=yīxué
 3	人文	人文	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=rénwén|LTranslit=rénwén
@@ -85,7 +85,7 @@
 17	南	南	NOUN	NN	_	16	acl	_	SpaceAfter=No|Translit=nán|LTranslit=nán
 18	路	路	PART	SFN	_	22	obl	_	SpaceAfter=No|Translit=lù|LTranslit=lù
 19	与	与	CCONJ	CC	_	21	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
-20	仁爱	仁爱	PROPN	NNP	_	21	compound	_	SpaceAfter=No|Translit=仁'ài|LTranslit=仁'ài
+20	仁爱	仁爱	PROPN	NNP	_	21	compound	_	SpaceAfter=No|Translit=rén'ài|LTranslit=rén'ài
 21	路	路	PART	SFN	_	18	conj	_	SpaceAfter=No|Translit=lù|LTranslit=lù
 22	成	成	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chéng|LTranslit=chéng
 23	L	L	X	FW	_	24	compound	_	SpaceAfter=No|Translit=L|LTranslit=L
@@ -109,7 +109,7 @@
 
 # sent_id = test-s6
 # text = 国际北极研究中心的主要伙伴是日本和美国，参与会务的还有来自加拿大、中国、丹麦、德国、日本、挪威、俄罗斯、英国和美国的代表。
-# translit = guójìběijíyánjiūzhōngxīndezhǔyàohuǒbànshìrìběnhéměiguó,cānyǔhuìwudeháiyǒuláizìjiānádà,zhōngguó,dānmài,déguó,rìběn,挪wēi,'é罗sī,yīngguóhéměiguódedàibiǎo.
+# translit = guójìběijíyánjiūzhōngxīndezhǔyàohuǒbànshìrìběnhéměiguó,cānyǔhuìwudeháiyǒuláizìjiānádà,zhōngguó,dānmài,déguó,rìběn,挪wēi,'éluōsī,yīngguóhéměiguódedàibiǎo.
 1	国际	国际	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=guójì|LTranslit=guójì
 2	北极	北极	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=běijí|LTranslit=běijí
 3	研究	研究	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=yánjiū|LTranslit=yánjiū
@@ -141,7 +141,7 @@
 29	、	、	PUNCT	EC	_	30	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 30	挪威	挪威	PROPN	NNP	_	20	conj	_	SpaceAfter=No|Translit=挪wēi|LTranslit=挪wēi
 31	、	、	PUNCT	EC	_	32	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-32	俄罗斯	俄罗斯	PROPN	NNP	_	20	conj	_	SpaceAfter=No|Translit='é罗sī|LTranslit='é罗sī
+32	俄罗斯	俄罗斯	PROPN	NNP	_	20	conj	_	SpaceAfter=No|Translit='éluōsī|LTranslit='éluōsī
 33	、	、	PUNCT	EC	_	34	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 34	英国	英国	PROPN	NNP	_	20	conj	_	SpaceAfter=No|Translit=yīngguó|LTranslit=yīngguó
 35	和	和	CCONJ	CC	_	36	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
@@ -186,18 +186,18 @@
 
 # sent_id = test-s8
 # text = 同年9月7日，亚奥理事会主席萨巴赫亲王为国际射击中心主持铜像揭幕仪式。
-# translit = tóngnián9yuè7rì,yà奥lǐshìhuìzhǔxísàba赫qīnwángwèiguójìshèjīzhōngxīnzhǔchítóngxiàngjiēmùyíshì.
+# translit = tóngnián9yuè7rì,yà'àolǐshìhuìzhǔxísàbahèqīnwángwèiguójìshèjīzhōngxīnzhǔchítóngxiàngjiēmùyíshì.
 1	同年	同年	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=tóngnián|LTranslit=tóngnián
 2	9	9	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=9|LTranslit=9
 3	月	月	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 4	7	7	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=7|LTranslit=7
 5	日	日	NOUN	NNB	_	17	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 6	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	亚奥	亚奥	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|Translit=yà奥|LTranslit=yà奥
+7	亚奥	亚奥	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|Translit=yà'ào|LTranslit=yà'ào
 8	理事	理事	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=lǐshì|LTranslit=lǐshì
 9	会	会	PART	SFN	_	10	nmod	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 10	主席	主席	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=zhǔxí|LTranslit=zhǔxí
-11	萨巴赫	萨巴赫	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=sàba赫|LTranslit=sàba赫
+11	萨巴赫	萨巴赫	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=sàbahè|LTranslit=sàbahè
 12	亲王	亲王	NOUN	NN	_	10	appos	_	SpaceAfter=No|Translit=qīnwáng|LTranslit=qīnwáng
 13	为	为	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 14	国际	国际	NOUN	NN	_	16	nmod	_	SpaceAfter=No|Translit=guójì|LTranslit=guójì
@@ -211,7 +211,7 @@
 
 # sent_id = test-s9
 # text = 这些电话经交换机处理，使用的媒介包括海底电缆、人造卫星、无线电、光纤及IP电话（VOIP）。
-# translit = zhèxiēdiànhuàjīngjiāohuànjīchùlǐ,shǐyòngde媒jièbāokuòhǎidǐdiàn缆,rénzàowèixīng,wúxiàndiàn,guāngxiānjíIPdiànhuà(VOIP).
+# translit = zhèxiēdiànhuàjīngjiāohuànjīchùlǐ,shǐyòngdeméijièbāokuòhǎidǐdiàn缆,rénzàowèixīng,wúxiàndiàn,guāngxiānjíIPdiànhuà(VOIP).
 1	这些	这些	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhèxiē|LTranslit=zhèxiē
 2	电话	电话	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=diànhuà|LTranslit=diànhuà
 3	经	经	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=jīng|LTranslit=jīng
@@ -221,7 +221,7 @@
 7	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	使用	使用	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=shǐyòng|LTranslit=shǐyòng
 9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-10	媒介	媒介	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=媒jiè|LTranslit=媒jiè
+10	媒介	媒介	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=méijiè|LTranslit=méijiè
 11	包括	包括	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=bāokuò|LTranslit=bāokuò
 12	海底	海底	NOUN	NN	_	13	nmod	_	SpaceAfter=No|Translit=hǎidǐ|LTranslit=hǎidǐ
 13	电缆	电缆	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=diàn缆|LTranslit=diàn缆
@@ -244,7 +244,7 @@
 
 # sent_id = test-s10
 # text = 《圆月弯刀》为古龙晚期作品，1976年6月至1978年5月，香港〈武侠春秋〉282至348期断续连载，原名《刀神》，1978年汉麟出版改名《圆月弯刀》。
-# translit = «yuányuèwāndāo»wèigǔlóngwǎnqīzuòpǐn,1976nián6yuèzhì1978nián5yuè,xiānggǎng〈wǔ侠chūnqiū〉282zhì348qīduànxùliánzài,yuánmíng«dāoshén»,1978niánhàn麟chūbǎngǎimíng«yuányuèwāndāo».
+# translit = «yuányuèwāndāo»wèigǔlóngwǎnqīzuòpǐn,1976nián6yuèzhì1978nián5yuè,xiānggǎng<wǔ侠chūnqiū>282zhì348qīduànxùliánzài,yuánmíng«dāoshén»,1978niánhàn麟chūbǎngǎimíng«yuányuèwāndāo».
 1	《	《	PUNCT	(	_	5	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
 2	圆	圆	PART	PFA	_	3	case	_	SpaceAfter=No|Translit=yuán|LTranslit=yuán
 3	月	月	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
@@ -267,10 +267,10 @@
 20	月	月	NOUN	NNB	_	15	conj	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 21	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 22	香港	香港	PROPN	NNP	_	30	nmod	_	SpaceAfter=No|Translit=xiānggǎng|LTranslit=xiānggǎng
-23	〈	〈	PUNCT	(	_	22	punct	_	SpaceAfter=No|Translit=〈|LTranslit=〈
+23	〈	〈	PUNCT	(	_	22	punct	_	SpaceAfter=No|Translit=<|LTranslit=<
 24	武侠	武侠	NOUN	NN	_	30	nmod	_	SpaceAfter=No|Translit=wǔ侠|LTranslit=wǔ侠
 25	春秋	春秋	NOUN	NN	_	30	nmod	_	SpaceAfter=No|Translit=chūnqiū|LTranslit=chūnqiū
-26	〉	〉	PUNCT	)	_	25	punct	_	SpaceAfter=No|Translit=〉|LTranslit=〉
+26	〉	〉	PUNCT	)	_	25	punct	_	SpaceAfter=No|Translit=>|LTranslit=>
 27	282	282	NUM	CD	NumType=Card	30	nummod	_	SpaceAfter=No|Translit=282|LTranslit=282
 28	至	至	CCONJ	CC	_	29	cc	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
 29	348	348	NUM	CD	NumType=Card	27	conj	_	SpaceAfter=No|Translit=348|LTranslit=348
@@ -711,7 +711,7 @@
 
 # sent_id = test-s25
 # text = 圣伯多禄堂（Iglesia de San Pedro）是西班牙南部城市科尔多瓦的一座罗马天主教教堂，供奉圣伯多禄，位于同名的广场上。
-# translit = shèngbóduō禄táng(Iglesia de San Pedro)shìxibānyánánbùchéngshìkē'ěrduōwǎdeyīzuò罗mǎtiānzhǔjiàojiàotáng,gōngfèngshèngbóduō禄,wèiyútóngmíngdeguǎngchǎngshàng.
+# translit = shèngbóduō禄táng(Iglesia de San Pedro)shìxibānyánánbùchéngshìkē'ěrduōwǎdeyīzuòluōmǎtiānzhǔjiàojiàotáng,gōngfèngshèngbóduō禄,wèiyútóngmíngdeguǎngchǎngshàng.
 1	圣伯多禄	圣伯多禄	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=shèngbóduō禄|LTranslit=shèngbóduō禄
 2	堂	堂	PART	SFN	_	25	nsubj	_	SpaceAfter=No|Translit=táng|LTranslit=táng
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
@@ -728,7 +728,7 @@
 14	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 15	一	一	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 16	座	座	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
-17	罗马	罗马	PROPN	NNP	_	20	nmod	_	SpaceAfter=No|Translit=罗mǎ|LTranslit=罗mǎ
+17	罗马	罗马	PROPN	NNP	_	20	nmod	_	SpaceAfter=No|Translit=luōmǎ|LTranslit=luōmǎ
 18	天主	天主	PROPN	NNP	_	19	compound	_	SpaceAfter=No|Translit=tiānzhǔ|LTranslit=tiānzhǔ
 19	教	教	PART	SFN	_	20	nmod	_	SpaceAfter=No|Translit=jiào|LTranslit=jiào
 20	教堂	教堂	NOUN	NN	_	25	advcl	_	SpaceAfter=No|Translit=jiàotáng|LTranslit=jiàotáng
@@ -830,7 +830,7 @@
 
 # sent_id = test-s30
 # text = 除了在1900年到1950年间人口上升了大约25%，在此后人口一直下降，现在圣奥斯瓦尔德乡的居民总数比2005年还要少大约35%。
-# translit = chúlezài1900niándào1950niánjiānrénkǒushàngshēngledàyuē25%,zàicǐhòurénkǒuyīzhíxiàjiàng,xiànzàishèng奥sīwǎ'ěrdéxiāngdejūmínzǒngshùbǐ2005niánháiyàoshǎodàyuē35%.
+# translit = chúlezài1900niándào1950niánjiānrénkǒushàngshēngledàyuē25%,zàicǐhòurénkǒuyīzhíxiàjiàng,xiànzàishèng'àosīwǎ'ěrdéxiāngdejūmínzǒngshùbǐ2005niánháiyàoshǎodàyuē35%.
 1	除	除	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chú|LTranslit=chú
 2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 3	在	在	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -853,7 +853,7 @@
 20	下降	下降	VERB	VV	_	1	parataxis	_	SpaceAfter=No|Translit=xiàjiàng|LTranslit=xiàjiàng
 21	，	，	PUNCT	,	_	33	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 22	现在	现在	NOUN	NN	_	33	nmod:tmod	_	SpaceAfter=No|Translit=xiànzài|LTranslit=xiànzài
-23	圣奥斯瓦尔德	圣奥斯瓦尔德	PROPN	NNP	_	24	compound	_	SpaceAfter=No|Translit=shèng奥sīwǎ'ěrdé|LTranslit=shèng奥sīwǎ'ěrdé
+23	圣奥斯瓦尔德	圣奥斯瓦尔德	PROPN	NNP	_	24	compound	_	SpaceAfter=No|Translit=shèng'àosīwǎ'ěrdé|LTranslit=shèng'àosīwǎ'ěrdé
 24	乡	乡	PART	SFN	_	27	nmod	_	SpaceAfter=No|Translit=xiāng|LTranslit=xiāng
 25	的	的	PART	DEC	Case=Gen	24	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 26	居民	居民	NOUN	NN	_	27	nmod	_	SpaceAfter=No|Translit=jūmín|LTranslit=jūmín
@@ -891,7 +891,7 @@
 
 # sent_id = test-s32
 # text = 1907年到1911年，教堂立面改建为目前的巴伐利亚巴洛克式。
-# translit = 1907niándào1911nián,jiàotánglìmiàngǎijiànwèimùqiándebafálìyàba洛kèshì.
+# translit = 1907niándào1911nián,jiàotánglìmiàngǎijiànwèimùqiándebafálìyàbaluòkèshì.
 1	1907	1907	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1907|LTranslit=1907
 2	年	年	NOUN	NNB	_	9	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	到	到	CCONJ	CC	_	5	cc	_	SpaceAfter=No|Translit=dào|LTranslit=dào
@@ -905,7 +905,7 @@
 11	目前	目前	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=mùqián|LTranslit=mùqián
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	巴伐利亚	巴伐利亚	PROPN	NNP	_	15	nmod	_	SpaceAfter=No|Translit=bafálìyà|LTranslit=bafálìyà
-14	巴洛克	巴洛克	PROPN	NNP	_	15	compound	_	SpaceAfter=No|Translit=ba洛kè|LTranslit=ba洛kè
+14	巴洛克	巴洛克	PROPN	NNP	_	15	compound	_	SpaceAfter=No|Translit=baluòkè|LTranslit=baluòkè
 15	式	式	PART	SFN	_	9	obj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 16	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -1078,12 +1078,12 @@
 
 # sent_id = test-s41
 # text = 但是甘地更相信尼赫鲁能建立保障印度人民自由的政府。
-# translit = dànshìgāndegèngxiāngxìn尼赫鲁néngjiànlìbǎozhàngyìndùrénmínzìyóudezhèngfǔ.
+# translit = dànshìgāndegèngxiāngxìnníhèlǔnéngjiànlìbǎozhàngyìndùrénmínzìyóudezhèngfǔ.
 1	但是	但是	ADV	RB	_	4	mark	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
 2	甘地	甘地	PROPN	NNP	_	4	nsubj	_	SpaceAfter=No|Translit=gānde|LTranslit=gānde
 3	更	更	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=gèng|LTranslit=gèng
 4	相信	相信	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xiāngxìn|LTranslit=xiāngxìn
-5	尼赫鲁	尼赫鲁	PROPN	NNP	_	7	nsubj	_	SpaceAfter=No|Translit=尼赫鲁|LTranslit=尼赫鲁
+5	尼赫鲁	尼赫鲁	PROPN	NNP	_	7	nsubj	_	SpaceAfter=No|Translit=níhèlǔ|LTranslit=níhèlǔ
 6	能	能	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 7	建立	建立	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=jiànlì|LTranslit=jiànlì
 8	保障	保障	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=bǎozhàng|LTranslit=bǎozhàng
@@ -1096,9 +1096,9 @@
 
 # sent_id = test-s42
 # text = 在艾哈迈达巴德建立了Sabarmati Ashram（高僧修行所），还有报纸“年轻的印度”（Young India）。
-# translit = zài艾hāmàidábadéjiànlìleSabarmati Ashram(gāo僧xiūxíngsuǒ),háiyǒubàozhǐ“niánqīngdeyìndù”(Young India).
+# translit = zài'àihāmàidábadéjiànlìleSabarmati Ashram(gāo僧xiūxíngsuǒ),háiyǒubàozhǐ“niánqīngdeyìndù”(Young India).
 1	在	在	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-2	艾哈迈达巴德	艾哈迈达巴德	PROPN	NNP	_	1	obj	_	SpaceAfter=No|Translit=艾hāmàidábadé|LTranslit=艾hāmàidábadé
+2	艾哈迈达巴德	艾哈迈达巴德	PROPN	NNP	_	1	obj	_	SpaceAfter=No|Translit='àihāmàidábadé|LTranslit='àihāmàidábadé
 3	建立	建立	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jiànlì|LTranslit=jiànlì
 4	了	了	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 5	Sabarmati	Sabarmati	X	FW	_	3	obj	_	Translit=Sabarmati|LTranslit=Sabarmati
@@ -1265,10 +1265,10 @@
 
 # sent_id = test-s47
 # text = 圣马洛区辖有9个县，共有63个市镇。
-# translit = shèngmǎ洛qū辖yǒu9gèxiàn,gòngyǒu63gèshìzhèn.
-1	圣马洛	圣马洛	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=shèngmǎ洛|LTranslit=shèngmǎ洛
+# translit = shèngmǎluòqūxiáyǒu9gèxiàn,gòngyǒu63gèshìzhèn.
+1	圣马洛	圣马洛	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=shèngmǎluò|LTranslit=shèngmǎluò
 2	区	区	PART	SFN	_	9	nsubj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
-3	辖有	辖有	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=辖yǒu|LTranslit=辖yǒu
+3	辖有	辖有	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=xiáyǒu|LTranslit=xiáyǒu
 4	9	9	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=9|LTranslit=9
 5	个	个	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 6	县	县	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
@@ -1583,7 +1583,7 @@
 
 # sent_id = test-s59
 # text = 但在另一方面，少数变化使得分子的复制变得更快或更佳；这些“品系”的数量较多也较“成功”。
-# translit = dànzàilìngyīfāngmiàn,shǎoshùbiànhuàshǐdefēnzidefùzhìbiàndegèngkuàihuògèngjiā；zhèxiē“pǐnxì”deshùliàngjiàoduōyějiào“chénggōng”.
+# translit = dànzàilìngyīfāngmiàn,shǎoshùbiànhuàshǐdefēnzidefùzhìbiàndegèngkuàihuògèngjiā;zhèxiē“pǐnxì”deshùliàngjiàoduōyějiào“chénggōng”.
 1	但	但	ADV	RB	_	9	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
 2	在	在	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 3	另	另	DET	DT	_	5	det	_	SpaceAfter=No|Translit=lìng|LTranslit=lìng
@@ -1601,7 +1601,7 @@
 15	更快	更快	ADJ	JJ	_	13	xcomp	_	SpaceAfter=No|Translit=gèngkuài|LTranslit=gèngkuài
 16	或	或	CCONJ	CC	_	17	cc	_	SpaceAfter=No|Translit=huò|LTranslit=huò
 17	更佳	更佳	ADJ	JJ	_	13	conj	_	SpaceAfter=No|Translit=gèngjiā|LTranslit=gèngjiā
-18	；	；	PUNCT	:	_	29	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+18	；	；	PUNCT	:	_	29	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 19	这些	这些	DET	DT	_	21	det	_	SpaceAfter=No|Translit=zhèxiē|LTranslit=zhèxiē
 20	“	“	PUNCT	``	_	21	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 21	品系	品系	NOUN	NN	_	24	nmod	_	SpaceAfter=No|Translit=pǐnxì|LTranslit=pǐnxì
@@ -1618,15 +1618,15 @@
 
 # sent_id = test-s60
 # text = 1788年，他来到了所罗门圣克鲁斯群岛的，之后便杳无踪迹。
-# translit = 1788nián,tāláidàolesuǒ罗ménshèngkè鲁sīqúndǎode,zhīhòubiàn杳wúzōngjī.
+# translit = 1788nián,tāláidàolesuǒluōménshèngkèlǔsīqúndǎode,zhīhòubiàn杳wúzōngjī.
 1	1788	1788	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1788|LTranslit=1788
 2	年	年	NOUN	NNB	_	5	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 4	他	他	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 5	来到	来到	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=láidào|LTranslit=láidào
 6	了	了	AUX	AS	Aspect=Perf	5	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-7	所罗门	所罗门	PROPN	NNP	_	9	nmod	_	SpaceAfter=No|Translit=suǒ罗mén|LTranslit=suǒ罗mén
-8	圣克鲁斯	圣克鲁斯	PROPN	NNP	_	9	nmod	_	SpaceAfter=No|Translit=shèngkè鲁sī|LTranslit=shèngkè鲁sī
+7	所罗门	所罗门	PROPN	NNP	_	9	nmod	_	SpaceAfter=No|Translit=suǒluōmén|LTranslit=suǒluōmén
+8	圣克鲁斯	圣克鲁斯	PROPN	NNP	_	9	nmod	_	SpaceAfter=No|Translit=shèngkèlǔsī|LTranslit=shèngkèlǔsī
 9	群岛	群岛	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=qúndǎo|LTranslit=qúndǎo
 10	的	的	PART	UH	_	5	discourse	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -1670,7 +1670,7 @@
 
 # sent_id = test-s62
 # text = 20世纪50年代也是地貌学出现分支学科的时期，形成了河流地貌学、冰川地貌学、海岸地貌学和构造地貌学。
-# translit = 20shìjì50niándàiyěshìdemàoxuéchūxiànfēnzhīxuékēdeshíqī,xíngchénglehéliúdemàoxué,bīng川demàoxué,hǎi'àndemàoxuéhégòuzàodemàoxué.
+# translit = 20shìjì50niándàiyěshìdemàoxuéchūxiànfēnzhīxuékēdeshíqī,xíngchénglehéliúdemàoxué,bīngchuāndemàoxué,hǎi'àndemàoxuéhégòuzàodemàoxué.
 1	20	20	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=20|LTranslit=20
 2	世纪	世纪	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=shìjì|LTranslit=shìjì
 3	50	50	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=50|LTranslit=50
@@ -1690,7 +1690,7 @@
 17	地貌	地貌	NOUN	NN	_	18	compound	_	SpaceAfter=No|Translit=demào|LTranslit=demào
 18	学	学	PART	SFN	_	14	obj	_	SpaceAfter=No|Translit=xué|LTranslit=xué
 19	、	、	PUNCT	EC	_	22	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-20	冰川	冰川	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=bīng川|LTranslit=bīng川
+20	冰川	冰川	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=bīngchuān|LTranslit=bīngchuān
 21	地貌	地貌	NOUN	NN	_	22	compound	_	SpaceAfter=No|Translit=demào|LTranslit=demào
 22	学	学	PART	SFN	_	18	conj	_	SpaceAfter=No|Translit=xué|LTranslit=xué
 23	、	、	PUNCT	EC	_	26	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -1843,8 +1843,8 @@
 
 # sent_id = test-s67
 # text = 波利比奥斯记述道：“当其被不断切割，生还者被逼站在原地引颈就戮。”
-# translit = bōlìbǐ奥sījìshùdào:“dāngqíbèibùduànqiègē,shēngháizhěbèibīzhànzàiyuándeyǐnjǐngjiù戮.”
-1	波利比奥斯	波利比奥斯	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=bōlìbǐ奥sī|LTranslit=bōlìbǐ奥sī
+# translit = bōlìbǐ'àosījìshùdào:“dāngqíbèibùduànqiègē,shēngháizhěbèibīzhànzàiyuándeyǐnjǐngjiù戮.”
+1	波利比奥斯	波利比奥斯	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=bōlìbǐ'àosī|LTranslit=bōlìbǐ'àosī
 2	记述	记述	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jìshù|LTranslit=jìshù
 3	道	道	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 4	：	：	PUNCT	:	_	19	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
@@ -1973,7 +1973,7 @@
 
 # sent_id = test-s72
 # text = 统治期内，梅葛处死了三位大学士；他还拥有为数众多的妻子，每个时期通常都不止一个，因此臭名远扬。
-# translit = tǒngzhìqīnèi,méi葛chùsǐlesānwèidàxuéshì；tāháiyōngyǒuwèishùzhòngduōdeqīzi,měigèshíqītōngchángdōubùzhǐyīgè,yīncǐchòumíngyuǎnyáng.
+# translit = tǒngzhìqīnèi,méi葛chùsǐlesānwèidàxuéshì;tāháiyōngyǒuwèishùzhòngduōdeqīzi,měigèshíqītōngchángdōubùzhǐyīgè,yīncǐchòumíngyuǎnyáng.
 1	统治	统治	VERB	VV	_	2	compound	_	SpaceAfter=No|Translit=tǒngzhì|LTranslit=tǒngzhì
 2	期	期	PART	SFN	_	6	nmod:tmod	_	SpaceAfter=No|Translit=qī|LTranslit=qī
 3	内	内	ADP	IN	_	2	acl	_	SpaceAfter=No|Translit=nèi|LTranslit=nèi
@@ -1985,7 +1985,7 @@
 9	位	位	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 10	大	大	PART	PFA	_	11	case	_	SpaceAfter=No|Translit=dà|LTranslit=dà
 11	学士	学士	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=xuéshì|LTranslit=xuéshì
-12	；	；	PUNCT	:	_	15	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+12	；	；	PUNCT	:	_	15	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 13	他	他	PRON	PRP	Person=3	15	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 14	还	还	ADV	RB	_	15	mark	_	SpaceAfter=No|Translit=hái|LTranslit=hái
 15	拥有	拥有	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=yōngyǒu|LTranslit=yōngyǒu
@@ -2063,13 +2063,13 @@
 
 # sent_id = test-s75
 # text = 他亦曾代表过阿根廷国家队出赛，但并未参与任何世界杯赛事。
-# translit = tāyìcéngdàibiǎoguò'āgēn廷guójiāduìchūsài,dànbìngwèicānyǔrènhéshìjièbēisàishì.
+# translit = tāyìcéngdàibiǎoguò'āgēntíngguójiāduìchūsài,dànbìngwèicānyǔrènhéshìjièbēisàishì.
 1	他	他	PRON	PRP	Person=3	14	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	亦	亦	ADV	RB	_	4	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
 3	曾	曾	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 4	代表	代表	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=dàibiǎo|LTranslit=dàibiǎo
 5	过	过	AUX	AS	Aspect=Perf	4	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
-6	阿根廷	阿根廷	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit='āgēn廷|LTranslit='āgēn廷
+6	阿根廷	阿根廷	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit='āgēntíng|LTranslit='āgēntíng
 7	国家	国家	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=guójiā|LTranslit=guójiā
 8	队	队	PART	SFN	_	4	obj	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 9	出赛	出赛	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=chūsài|LTranslit=chūsài
@@ -2235,7 +2235,7 @@
 
 # sent_id = test-s82
 # text = 几个月后的一次采访，艾米说到：“如果我们没有变化的话，是没法做出第二张专辑的。”
-# translit = jǐgèyuèhòudeyīcìcǎifǎng,艾mǐshuōdào:“rúguǒwǒmenméiyǒubiànhuàdehuà,shìméifǎzuòchūdì'èrzhāngzhuānjide.”
+# translit = jǐgèyuèhòudeyīcìcǎifǎng,'àimǐshuōdào:“rúguǒwǒmenméiyǒubiànhuàdehuà,shìméifǎzuòchūdì'èrzhāngzhuānjide.”
 1	几	几	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=jǐ|LTranslit=jǐ
 2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	月	月	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
@@ -2245,7 +2245,7 @@
 7	次	次	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 8	采访	采访	NOUN	NN	_	11	obl	_	SpaceAfter=No|Translit=cǎifǎng|LTranslit=cǎifǎng
 9	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-10	艾米	艾米	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No|Translit=艾mǐ|LTranslit=艾mǐ
+10	艾米	艾米	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No|Translit='àimǐ|LTranslit='àimǐ
 11	说到	说到	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shuōdào|LTranslit=shuōdào
 12	：	：	PUNCT	:	_	20	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
 13	“	“	PUNCT	``	_	20	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
@@ -2267,11 +2267,11 @@
 
 # sent_id = test-s83
 # text = 埃萨河是白俄罗斯的河流，由明斯克州和维捷布斯克州负责管辖，属于道加瓦河的一部分，该湖长84公里，面积1,040平方公里，最终注入列佩利湖。
-# translit = 'āisàhéshìbái'é罗sīdehéliú,yóumíngsīkèzhōuhéwéijiébùsīkèzhōufùzéguǎn辖,shǔyúdàojiāwǎhédeyībùfēn,gāihúzhǎng84gōnglǐ,miànjī1,040píngfānggōnglǐ,zuìzhōngzhùrùlièpèilìhú.
+# translit = 'āisàhéshìbái'éluōsīdehéliú,yóumíngsīkèzhōuhéwéijiébùsīkèzhōufùzéguǎnxiá,shǔyúdàojiāwǎhédeyībùfēn,gāihúzhǎng84gōnglǐ,miànjī1,040píngfānggōnglǐ,zuìzhōngzhùrùlièpèilìhú.
 1	埃萨	埃萨	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit='āisà|LTranslit='āisà
 2	河	河	PART	SFN	_	17	nsubj	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 3	是	是	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-4	白俄罗斯	白俄罗斯	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=bái'é罗sī|LTranslit=bái'é罗sī
+4	白俄罗斯	白俄罗斯	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=bái'éluōsī|LTranslit=bái'éluōsī
 5	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	河流	河流	NOUN	NN	_	17	advcl	_	SpaceAfter=No|Translit=héliú|LTranslit=héliú
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -2282,7 +2282,7 @@
 12	维捷布斯克	维捷布斯克	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit=wéijiébùsīkè|LTranslit=wéijiébùsīkè
 13	州	州	PART	SFN	_	10	conj	_	SpaceAfter=No|Translit=zhōu|LTranslit=zhōu
 14	负责	负责	VERB	VV	_	8	ccomp	_	SpaceAfter=No|Translit=fùzé|LTranslit=fùzé
-15	管辖	管辖	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=guǎn辖|LTranslit=guǎn辖
+15	管辖	管辖	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=guǎnxiá|LTranslit=guǎnxiá
 16	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 17	属	属	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shǔ|LTranslit=shǔ
 18	于	于	VERB	VV	_	17	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
@@ -2335,8 +2335,8 @@
 
 # sent_id = test-s85
 # text = 卡斯特罗出现在了埃连与同学在一起的生日派对视频中。
-# translit = kǎsītè罗chūxiànzàile'āiliányǔtóngxuézàiyīqǐdeshēngrìpàiduìshìpínzhōng.
-1	卡斯特罗	卡斯特罗	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=kǎsītè罗|LTranslit=kǎsītè罗
+# translit = kǎsītèluōchūxiànzàile'āiliányǔtóngxuézàiyīqǐdeshēngrìpàiduìshìpínzhōng.
+1	卡斯特罗	卡斯特罗	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=kǎsītèluō|LTranslit=kǎsītèluō
 2	出现	出现	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chūxiàn|LTranslit=chūxiàn
 3	在	在	VERB	VV	_	2	mark	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 4	了	了	AUX	AS	Aspect=Perf	2	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -2354,7 +2354,7 @@
 
 # sent_id = test-s86
 # text = 1916年至1917年，他在美国巡回演讲，之后的1920年，他被派任苏门答腊瑞典领事，1921年至1925年，他又来到美国学习。
-# translit = 1916niánzhì1917nián,tāzàiměiguóxúnhuíyǎnjiǎng,zhīhòude1920nián,tābèipàirènsūméndá腊瑞diǎnlǐngshì,1921niánzhì1925nián,tāyòuláidàoměiguóxuéxí.
+# translit = 1916niánzhì1917nián,tāzàiměiguóxúnhuíyǎnjiǎng,zhīhòude1920nián,tābèipàirènsūméndá腊ruìdiǎnlǐngshì,1921niánzhì1925nián,tāyòuláidàoměiguóxuéxí.
 1	1916	1916	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1916|LTranslit=1916
 2	年	年	NOUN	NNB	_	10	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	至	至	CCONJ	CC	_	5	cc	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
@@ -2376,7 +2376,7 @@
 19	被	被	AUX	BB	Voice=Pass	20	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 20	派任	派任	VERB	VV	_	10	parataxis	_	SpaceAfter=No|Translit=pàirèn|LTranslit=pàirèn
 21	苏门答腊	苏门答腊	PROPN	NNP	_	23	nmod	_	SpaceAfter=No|Translit=sūméndá腊|LTranslit=sūméndá腊
-22	瑞典	瑞典	PROPN	NNP	_	23	nmod	_	SpaceAfter=No|Translit=瑞diǎn|LTranslit=瑞diǎn
+22	瑞典	瑞典	PROPN	NNP	_	23	nmod	_	SpaceAfter=No|Translit=ruìdiǎn|LTranslit=ruìdiǎn
 23	领事	领事	NOUN	NN	_	20	obj	_	SpaceAfter=No|Translit=lǐngshì|LTranslit=lǐngshì
 24	，	，	PUNCT	,	_	35	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 25	1921	1921	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No|Translit=1921|LTranslit=1921
@@ -2394,8 +2394,8 @@
 
 # sent_id = test-s87
 # text = 曼施坦因战后继续留在军队，在1920年代，他参与了创建德国国防军的进程，1919年5月的《凡尔赛条约》限定魏玛共和国只能拥有最多10万人的军队。
-# translit = 曼shītǎnyīnzhànhòujìxùliúzàijūnduì,zài1920niándài,tācānyǔlechuàngjiàndéguóguófángjūndejìnchéng,1919nián5yuède«fán'ěrsàitiáoyuē»xiàndìng魏玛gònghéguózhǐnéngyōngyǒuzuìduō10wànréndejūnduì.
-1	曼施坦因	曼施坦因	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=曼shītǎnyīn|LTranslit=曼shītǎnyīn
+# translit = mànshītǎnyīnzhànhòujìxùliúzàijūnduì,zài1920niándài,tācānyǔlechuàngjiàndéguóguófángjūndejìnchéng,1919nián5yuède«fán'ěrsàitiáoyuē»xiàndìng魏mǎgònghéguózhǐnéngyōngyǒuzuìduō10wànréndejūnduì.
+1	曼施坦因	曼施坦因	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=mànshītǎnyīn|LTranslit=mànshītǎnyīn
 2	战后	战后	NOUN	NN	_	3	nmod:tmod	_	SpaceAfter=No|Translit=zhànhòu|LTranslit=zhànhòu
 3	继续	继续	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jìxù|LTranslit=jìxù
 4	留	留	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=liú|LTranslit=liú
@@ -2426,7 +2426,7 @@
 29	条约	条约	NOUN	NN	_	31	nsubj	_	SpaceAfter=No|Translit=tiáoyuē|LTranslit=tiáoyuē
 30	》	》	PUNCT	)	_	29	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
 31	限定	限定	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=xiàndìng|LTranslit=xiàndìng
-32	魏玛	魏玛	PROPN	NNP	_	34	nmod	_	SpaceAfter=No|Translit=魏玛|LTranslit=魏玛
+32	魏玛	魏玛	PROPN	NNP	_	34	nmod	_	SpaceAfter=No|Translit=魏mǎ|LTranslit=魏mǎ
 33	共和	共和	NOUN	NN	_	34	compound	_	SpaceAfter=No|Translit=gònghé|LTranslit=gònghé
 34	国	国	PART	SFN	_	37	nsubj	_	SpaceAfter=No|Translit=guó|LTranslit=guó
 35	只	只	ADV	RB	_	37	advmod	_	SpaceAfter=No|Translit=zhǐ|LTranslit=zhǐ
@@ -2441,7 +2441,7 @@
 
 # sent_id = test-s88
 # text = 1918年，他被派去指挥占领白俄罗斯的第十军，在那里他一直待到战争结束。
-# translit = 1918nián,tābèipàiqùzhǐhuīzhànlǐngbái'é罗sīdedìshíjūn,zàinàlǐtāyīzhídàidàozhànzhēngjiéshù.
+# translit = 1918nián,tābèipàiqùzhǐhuīzhànlǐngbái'éluōsīdedìshíjūn,zàinàlǐtāyīzhídàidàozhànzhēngjiéshù.
 1	1918	1918	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1918|LTranslit=1918
 2	年	年	NOUN	NNB	_	6	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -2450,7 +2450,7 @@
 6	派去	派去	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=pàiqù|LTranslit=pàiqù
 7	指挥	指挥	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=zhǐhuī|LTranslit=zhǐhuī
 8	占领	占领	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=zhànlǐng|LTranslit=zhànlǐng
-9	白俄罗斯	白俄罗斯	PROPN	NNP	_	8	obj	_	SpaceAfter=No|Translit=bái'é罗sī|LTranslit=bái'é罗sī
+9	白俄罗斯	白俄罗斯	PROPN	NNP	_	8	obj	_	SpaceAfter=No|Translit=bái'éluōsī|LTranslit=bái'éluōsī
 10	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	第十	第十	NUM	CD	NumType=Ord	12	nummod	_	SpaceAfter=No|Translit=dìshí|LTranslit=dìshí
 12	军	军	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
@@ -2541,14 +2541,14 @@
 
 # sent_id = test-s92
 # text = 评论家们特别赞赏了阿弗莱克对于抢劫场景的导演手法。
-# translit = pínglùnjiāmentèbiézànshǎngle'ā弗莱kèduìyúqiǎng劫chǎngjǐngdedǎoyǎnshǒufǎ.
+# translit = pínglùnjiāmentèbiézànshǎngle'āfú莱kèduìyúqiǎng劫chǎngjǐngdedǎoyǎnshǒufǎ.
 1	评论	评论	VERB	VV	_	2	compound	_	SpaceAfter=No|Translit=pínglùn|LTranslit=pínglùn
 2	家	家	PART	SFN	_	3	compound	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
 3	们	们	PART	SFN	Number=Plur	5	nsubj	_	SpaceAfter=No|Translit=men|LTranslit=men
 4	特别	特别	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=tèbié|LTranslit=tèbié
 5	赞赏	赞赏	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zànshǎng|LTranslit=zànshǎng
 6	了	了	AUX	AS	Aspect=Perf	5	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-7	阿弗莱克	阿弗莱克	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit='ā弗莱kè|LTranslit='ā弗莱kè
+7	阿弗莱克	阿弗莱克	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit='āfú莱kè|LTranslit='āfú莱kè
 8	对于	对于	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=duìyú|LTranslit=duìyú
 9	抢劫	抢劫	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=qiǎng劫|LTranslit=qiǎng劫
 10	场景	场景	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=chǎngjǐng|LTranslit=chǎngjǐng
@@ -2641,7 +2641,7 @@
 
 # sent_id = test-s96
 # text = 教会每周有许多不同的聚会，分别有英文、中文、福建话、广东话、与印尼文聚会。
-# translit = jiàohuìměizhōuyǒuxǔduōbùtóngdejùhuì,fēnbiéyǒuyīngwén,zhōngwén,fújiànhuà,guǎngdōnghuà,yǔyìn尼wénjùhuì.
+# translit = jiàohuìměizhōuyǒuxǔduōbùtóngdejùhuì,fēnbiéyǒuyīngwén,zhōngwén,fújiànhuà,guǎngdōnghuà,yǔyìnníwénjùhuì.
 1	教会	教会	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=jiàohuì|LTranslit=jiàohuì
 2	每周	每周	DET	DT	_	10	nmod:tmod	_	SpaceAfter=No|Translit=měizhōu|LTranslit=měizhōu
 3	有	有	VERB	VV	_	10	advcl	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
@@ -2665,7 +2665,7 @@
 21	话	话	PART	SFN	_	12	conj	_	SpaceAfter=No|Translit=huà|LTranslit=huà
 22	、	、	PUNCT	EC	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 23	与	与	CCONJ	CC	_	25	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
-24	印尼	印尼	PROPN	NNP	_	25	compound	_	SpaceAfter=No|Translit=yìn尼|LTranslit=yìn尼
+24	印尼	印尼	PROPN	NNP	_	25	compound	_	SpaceAfter=No|Translit=yìnní|LTranslit=yìnní
 25	文	文	PART	SFN	_	12	conj	_	SpaceAfter=No|Translit=wén|LTranslit=wén
 26	聚会	聚会	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=jùhuì|LTranslit=jùhuì
 27	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -2850,7 +2850,7 @@
 
 # sent_id = test-s104
 # text = 华盛顿希望先获得大陆议会准许撤退，然后把纽约市彻底焚毁；部分将军则主张死守纽约，等待英军正面进攻，以重演邦克山战役的战果。
-# translit = huáshèngdùnxīwàngxiānhuòdedàlùyìhuìzhǔnxǔchètuì,ránhòubǎniǔyuēshìchèdǐ焚huǐ；bùfēnjiāngjūnzézhǔzhāngsǐshǒuniǔyuē,děngdàiyīngjūnzhèngmiànjìngōng,yǐzhòngyǎnbāngkèshānzhànyìdezhànguǒ.
+# translit = huáshèngdùnxīwàngxiānhuòdedàlùyìhuìzhǔnxǔchètuì,ránhòubǎniǔyuēshìchèdǐ焚huǐ;bùfēnjiāngjūnzézhǔzhāngsǐshǒuniǔyuē,děngdàiyīngjūnzhèngmiànjìngōng,yǐzhòngyǎnbāngkèshānzhànyìdezhànguǒ.
 1	华盛顿	华盛顿	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=huáshèngdùn|LTranslit=huáshèngdùn
 2	希望	希望	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xīwàng|LTranslit=xīwàng
 3	先	先	ADV	RB	_	4	mark	_	SpaceAfter=No|Translit=xiān|LTranslit=xiān
@@ -2866,7 +2866,7 @@
 13	市	市	PART	SFN	_	15	obl:patient	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 14	彻底	彻底	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=chèdǐ|LTranslit=chèdǐ
 15	焚毁	焚毁	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=焚huǐ|LTranslit=焚huǐ
-16	；	；	PUNCT	:	_	20	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+16	；	；	PUNCT	:	_	20	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 17	部分	部分	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=bùfēn|LTranslit=bùfēn
 18	将军	将军	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=jiāngjūn|LTranslit=jiāngjūn
 19	则	则	ADV	RB	_	20	mark	_	SpaceAfter=No|Translit=zé|LTranslit=zé
@@ -2891,7 +2891,7 @@
 
 # sent_id = test-s105
 # text = 长岛会战后，大陆军撤回曼哈顿岛，但在撤离纽约市一事上仍然犹豫不决。
-# translit = zhǎngdǎohuìzhànhòu,dàlùjūnchèhuí曼hādùndǎo,dànzàichèlíniǔyuēshìyīshìshàngréngrányóuyùbùjué.
+# translit = zhǎngdǎohuìzhànhòu,dàlùjūnchèhuímànhādùndǎo,dànzàichèlíniǔyuēshìyīshìshàngréngrányóuyùbùjué.
 1	长岛	长岛	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=zhǎngdǎo|LTranslit=zhǎngdǎo
 2	会战	会战	NOUN	NN	_	20	nmod:tmod	_	SpaceAfter=No|Translit=huìzhàn|LTranslit=huìzhàn
 3	后	后	ADP	IN	_	2	acl	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
@@ -2899,7 +2899,7 @@
 5	大陆	大陆	NOUN	NN	_	6	compound	_	SpaceAfter=No|Translit=dàlù|LTranslit=dàlù
 6	军	军	PART	SFN	_	20	nsubj	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
 7	撤回	撤回	VERB	VV	_	20	advcl	_	SpaceAfter=No|Translit=chèhuí|LTranslit=chèhuí
-8	曼哈顿	曼哈顿	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=曼hādùn|LTranslit=曼hādùn
+8	曼哈顿	曼哈顿	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=mànhādùn|LTranslit=mànhādùn
 9	岛	岛	PART	SFN	_	7	obj	_	SpaceAfter=No|Translit=dǎo|LTranslit=dǎo
 10	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	但	但	ADV	RB	_	20	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
@@ -3198,7 +3198,7 @@
 
 # sent_id = test-s117
 # text = 他先在印度西姆拉上学，后来毕业于加州帕萨迪纳的艺术设计中心学院。
-# translit = tāxiānzàiyìndùximǔlāshàngxué,hòuláibìyèyújiāzhōupàsà迪nàdeyìshùshèjìzhōngxīnxuéyuàn.
+# translit = tāxiānzàiyìndùximǔlāshàngxué,hòuláibìyèyújiāzhōupàsàdínàdeyìshùshèjìzhōngxīnxuéyuàn.
 1	他	他	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	先	先	ADV	RB	_	9	mark	_	SpaceAfter=No|Translit=xiān|LTranslit=xiān
 3	在	在	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -3210,7 +3210,7 @@
 9	毕业	毕业	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bìyè|LTranslit=bìyè
 10	于	于	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 11	加州	加州	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=jiāzhōu|LTranslit=jiāzhōu
-12	帕萨迪纳	帕萨迪纳	PROPN	NNP	_	17	nmod	_	SpaceAfter=No|Translit=pàsà迪nà|LTranslit=pàsà迪nà
+12	帕萨迪纳	帕萨迪纳	PROPN	NNP	_	17	nmod	_	SpaceAfter=No|Translit=pàsàdínà|LTranslit=pàsàdínà
 13	的	的	PART	DEC	Case=Gen	12	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 14	艺术	艺术	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=yìshù|LTranslit=yìshù
 15	设计	设计	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=shèjì|LTranslit=shèjì
@@ -3220,7 +3220,7 @@
 
 # sent_id = test-s118
 # text = 1553年，太美斯普一世抵御了奥斯曼帝国苏丹苏里曼一世的进攻。
-# translit = 1553nián,tàiměisīpǔyīshìdǐyùle奥sī曼dìguósūdānsūlǐ曼yīshìdejìngōng.
+# translit = 1553nián,tàiměisīpǔyīshìdǐyùle'àosīmàndìguósūdānsūlǐmànyīshìdejìngōng.
 1	1553	1553	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1553|LTranslit=1553
 2	年	年	NOUN	NNB	_	6	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -3228,10 +3228,10 @@
 5	一世	一世	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No|Translit=yīshì|LTranslit=yīshì
 6	抵御	抵御	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dǐyù|LTranslit=dǐyù
 7	了	了	AUX	AS	Aspect=Perf	6	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-8	奥斯曼	奥斯曼	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|Translit=奥sī曼|LTranslit=奥sī曼
+8	奥斯曼	奥斯曼	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|Translit='àosīmàn|LTranslit='àosīmàn
 9	帝国	帝国	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=dìguó|LTranslit=dìguó
 10	苏丹	苏丹	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=sūdān|LTranslit=sūdān
-11	苏里曼	苏里曼	PROPN	NNP	_	10	appos	_	SpaceAfter=No|Translit=sūlǐ曼|LTranslit=sūlǐ曼
+11	苏里曼	苏里曼	PROPN	NNP	_	10	appos	_	SpaceAfter=No|Translit=sūlǐmàn|LTranslit=sūlǐmàn
 12	一世	一世	PROPN	NNP	_	11	flat:name	_	SpaceAfter=No|Translit=yīshì|LTranslit=yīshì
 13	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 14	进攻	进攻	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=jìngōng|LTranslit=jìngōng
@@ -3280,11 +3280,11 @@
 
 # sent_id = test-s121
 # text = 塔里木盆地的塔克拉玛干沙漠流沙严重，从谷歌卫星图片可以清晰看到，沙漠腹地有些已建成的公路由于固沙措施不力，导致公路抵御流沙的力度不够，许多连接油田基地的沥青路面被强大的流动沙丘所淹没，阻断交通。
-# translit = tǎlǐmùpéndedetǎkèlā玛gànshāmòliúshāyánzhòng,cónggǔgēwèixīngtúpiànkěyǐqīngxīkàndào,shāmòfùdeyǒuxiēyǐjiànchéngdegōnglùyóuyúgùshācuòshībùlì,dǎozhìgōnglùdǐyùliúshādelìdùbùgòu,xǔduōliánjiēyóutiánjīdedelìqīnglùmiànbèiqiángdàdeliúdòngshāqiūsuǒyānméi,zǔduànjiāotōng.
+# translit = tǎlǐmùpéndedetǎkèlāmǎgànshāmòliúshāyánzhòng,cónggǔgēwèixīngtúpiànkěyǐqīngxīkàndào,shāmòfùdeyǒuxiēyǐjiànchéngdegōnglùyóuyúgùshācuòshībùlì,dǎozhìgōnglùdǐyùliúshādelìdùbùgòu,xǔduōliánjiēyóutiánjīdedelìqīnglùmiànbèiqiángdàdeliúdòngshāqiūsuǒyānméi,zǔduànjiāotōng.
 1	塔里木	塔里木	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=tǎlǐmù|LTranslit=tǎlǐmù
 2	盆地	盆地	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=pénde|LTranslit=pénde
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-4	塔克拉玛干	塔克拉玛干	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=tǎkèlā玛gàn|LTranslit=tǎkèlā玛gàn
+4	塔克拉玛干	塔克拉玛干	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=tǎkèlāmǎgàn|LTranslit=tǎkèlāmǎgàn
 5	沙漠	沙漠	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=shāmò|LTranslit=shāmò
 6	流沙	流沙	AUX	VV	_	7	cop	_	SpaceAfter=No|Translit=liúshā|LTranslit=liúshā
 7	严重	严重	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=yánzhòng|LTranslit=yánzhòng
@@ -3354,7 +3354,7 @@
 
 # sent_id = test-s123
 # text = 任何人类的法则倘若与此法则相矛盾，便丧失其效力；而具有效力的法律，其全部法力、效力和权威则都是间接地或直接地从这一根源产生的。
-# translit = rènhérénlèidefǎzétǎngruòyǔcǐfǎzéxiāngmáodùn,biànsàngshīqíxiàolì；'érjùyǒuxiàolìdefǎlǜ,qíquánbùfǎlì,xiàolìhéquánwēizédōushìjiānjiēdehuòzhíjiēdecóngzhèyīgēnyuánchǎnshēngde.
+# translit = rènhérénlèidefǎzétǎngruòyǔcǐfǎzéxiāngmáodùn,biànsàngshīqíxiàolì;'érjùyǒuxiàolìdefǎlǜ,qíquánbùfǎlì,xiàolìhéquánwēizédōushìjiānjiēdehuòzhíjiēdecóngzhèyīgēnyuánchǎnshēngde.
 1	任何	任何	DET	DT	_	4	det	_	SpaceAfter=No|Translit=rènhé|LTranslit=rènhé
 2	人类	人类	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=rénlèi|LTranslit=rénlèi
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -3370,7 +3370,7 @@
 13	丧失	丧失	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=sàngshī|LTranslit=sàngshī
 14	其	其	PRON	PRP	Person=3	15	nmod	_	SpaceAfter=No|Translit=qí|LTranslit=qí
 15	效力	效力	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=xiàolì|LTranslit=xiàolì
-16	；	；	PUNCT	:	_	31	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+16	；	；	PUNCT	:	_	31	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 17	而	而	ADV	RB	_	31	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 18	具有	具有	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No|Translit=jùyǒu|LTranslit=jùyǒu
 19	效力	效力	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=xiàolì|LTranslit=xiàolì
@@ -3502,9 +3502,9 @@
 
 # sent_id = test-s129
 # text = 古罗马人利用拱结构来支撑桥身石材与水流的重量。
-# translit = gǔ罗mǎrénlìyònggǒngjiégòuláizhīchēngqiáoshēnshícáiyǔshuǐliúdezhòngliàng.
+# translit = gǔluōmǎrénlìyònggǒngjiégòuláizhīchēngqiáoshēnshícáiyǔshuǐliúdezhòngliàng.
 1	古	古	PART	PFA	_	2	case	_	SpaceAfter=No|Translit=gǔ|LTranslit=gǔ
-2	罗马	罗马	PROPN	NNP	_	3	compound	_	SpaceAfter=No|Translit=罗mǎ|LTranslit=罗mǎ
+2	罗马	罗马	PROPN	NNP	_	3	compound	_	SpaceAfter=No|Translit=luōmǎ|LTranslit=luōmǎ
 3	人	人	PART	SFN	_	4	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 4	利用	利用	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No|Translit=lìyòng|LTranslit=lìyòng
 5	拱	拱	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=gǒng|LTranslit=gǒng
@@ -3655,7 +3655,7 @@
 
 # sent_id = test-s135
 # text = 墨尔本在服饰、艺术、音乐、电视制作、电影及舞蹈等潮流文化领域引领澳洲，甚至于全球该领域范围都具备一定的影响力。
-# translit = mò'ěrběnzàifúshì,yìshù,yīnlè,diànshìzhìzuò,diànyǐngjíwǔdǎoděngcháoliúwénhuàlǐngyùyǐnlǐng澳zhōu,shénzhìyúquánqiúgāilǐngyùfànwéidōujùbèiyīdìngdeyǐngxiǎnglì.
+# translit = mò'ěrběnzàifúshì,yìshù,yīnlè,diànshìzhìzuò,diànyǐngjíwǔdǎoděngcháoliúwénhuàlǐngyùyǐnlǐng'àozhōu,shénzhìyúquánqiúgāilǐngyùfànwéidōujùbèiyīdìngdeyǐngxiǎnglì.
 1	墨尔本	墨尔本	PROPN	NNP	_	29	nsubj	_	SpaceAfter=No|Translit=mò'ěrběn|LTranslit=mò'ěrběn
 2	在	在	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 3	服饰	服饰	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=fúshì|LTranslit=fúshì
@@ -3675,7 +3675,7 @@
 17	文化	文化	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=wénhuà|LTranslit=wénhuà
 18	领域	领域	NOUN	NN	_	3	appos	_	SpaceAfter=No|Translit=lǐngyù|LTranslit=lǐngyù
 19	引领	引领	VERB	VV	_	29	advcl	_	SpaceAfter=No|Translit=yǐnlǐng|LTranslit=yǐnlǐng
-20	澳洲	澳洲	PROPN	NNP	_	19	obj	_	SpaceAfter=No|Translit=澳zhōu|LTranslit=澳zhōu
+20	澳洲	澳洲	PROPN	NNP	_	19	obj	_	SpaceAfter=No|Translit='àozhōu|LTranslit='àozhōu
 21	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 22	甚至	甚至	ADV	RB	_	29	mark	_	SpaceAfter=No|Translit=shénzhì|LTranslit=shénzhì
 23	于	于	ADP	IN	_	27	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
@@ -3891,24 +3891,24 @@
 
 # sent_id = test-s143
 # text = 因为这里是两条河川（士别川、剑渊川）汇合至天盐川的地方。
-# translit = yīnwèizhèlǐshìliǎngtiáohé川(shìbié川,jiàn渊川)huìhézhìtiānyán川dedefāng.
+# translit = yīnwèizhèlǐshìliǎngtiáohéchuān(shìbiéchuān,jiàn渊chuān)huìhézhìtiānyánchuāndedefāng.
 1	因为	因为	ADP	IN	_	0	root	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 2	这里	这里	PRON	PRD	_	19	nsubj	_	SpaceAfter=No|Translit=zhèlǐ|LTranslit=zhèlǐ
 3	是	是	AUX	VC	_	19	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 4	两	两	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
 5	条	条	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
-6	河川	河川	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=hé川|LTranslit=hé川
+6	河川	河川	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=héchuān|LTranslit=héchuān
 7	（	（	PUNCT	(	_	9	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 8	士别	士别	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=shìbié|LTranslit=shìbié
-9	川	川	PART	SFN	_	6	appos	_	SpaceAfter=No|Translit=川|LTranslit=川
+9	川	川	PART	SFN	_	6	appos	_	SpaceAfter=No|Translit=chuān|LTranslit=chuān
 10	、	、	PUNCT	EC	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	剑渊	剑渊	PROPN	NNP	_	12	compound	_	SpaceAfter=No|Translit=jiàn渊|LTranslit=jiàn渊
-12	川	川	PART	SFN	_	9	conj	_	SpaceAfter=No|Translit=川|LTranslit=川
+12	川	川	PART	SFN	_	9	conj	_	SpaceAfter=No|Translit=chuān|LTranslit=chuān
 13	）	）	PUNCT	)	_	9	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 14	汇合	汇合	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No|Translit=huìhé|LTranslit=huìhé
 15	至	至	VERB	VV	_	14	mark	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
 16	天盐	天盐	PROPN	NNP	_	17	compound	_	SpaceAfter=No|Translit=tiānyán|LTranslit=tiānyán
-17	川	川	PART	SFN	_	14	obj	_	SpaceAfter=No|Translit=川|LTranslit=川
+17	川	川	PART	SFN	_	14	obj	_	SpaceAfter=No|Translit=chuān|LTranslit=chuān
 18	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 19	地方	地方	NOUN	NN	_	1	ccomp	_	SpaceAfter=No|Translit=defāng|LTranslit=defāng
 20	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -3995,19 +3995,19 @@
 
 # sent_id = test-s147
 # text = 这个原理有时叫做弗雷格原理，因为普遍认为弗雷格首先公式化了它。
-# translit = zhègèyuánlǐyǒushíjiàozuò弗léigéyuánlǐ,yīnwèipǔbiànrènwèi弗léigéshǒuxiāngōngshìhuàletā.
+# translit = zhègèyuánlǐyǒushíjiàozuòfúléigéyuánlǐ,yīnwèipǔbiànrènwèifúléigéshǒuxiāngōngshìhuàletā.
 1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	原理	原理	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=yuánlǐ|LTranslit=yuánlǐ
 4	有时	有时	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=yǒushí|LTranslit=yǒushí
 5	叫做	叫做	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jiàozuò|LTranslit=jiàozuò
-6	弗雷格	弗雷格	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit=弗léigé|LTranslit=弗léigé
+6	弗雷格	弗雷格	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit=fúléigé|LTranslit=fúléigé
 7	原理	原理	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=yuánlǐ|LTranslit=yuánlǐ
 8	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	因为	因为	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 10	普遍	普遍	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=pǔbiàn|LTranslit=pǔbiàn
 11	认为	认为	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
-12	弗雷格	弗雷格	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit=弗léigé|LTranslit=弗léigé
+12	弗雷格	弗雷格	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit=fúléigé|LTranslit=fúléigé
 13	首先	首先	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=shǒuxiān|LTranslit=shǒuxiān
 14	公式	公式	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=gōngshì|LTranslit=gōngshì
 15	化	化	PART	SFV	_	11	ccomp	_	SpaceAfter=No|Translit=huà|LTranslit=huà
@@ -4017,7 +4017,7 @@
 
 # sent_id = test-s148
 # text = 1915年，时任校长李登辉改革课程体系，课程分成八大部类，其中哲学部为首，并亲自讲授哲学类课程；复旦大学逐渐建立起由逻辑、伦理、性理（包括心理学与形而上学）组成的哲学教学体系。
-# translit = 1915nián,shírènxiàozhǎnglidēnghuīgǎigékèchéngtǐxì,kèchéngfēnchéngbādàbùlèi,qízhōngzhéxuébùwèishǒu,bìngqīnzìjiǎngshòuzhéxuélèikèchéng；fùdàndàxuézhújiànjiànlìqǐyóuluóji,伦lǐ,xìnglǐ(bāokuòxīnlǐxuéyǔxíng'érshàngxué)zǔchéngdezhéxuéjiàoxuétǐxì.
+# translit = 1915nián,shírènxiàozhǎnglidēnghuīgǎigékèchéngtǐxì,kèchéngfēnchéngbādàbùlèi,qízhōngzhéxuébùwèishǒu,bìngqīnzìjiǎngshòuzhéxuélèikèchéng;fùdàndàxuézhújiànjiànlìqǐyóuluóji,lúnlǐ,xìnglǐ(bāokuòxīnlǐxuéyǔxíng'érshàngxué)zǔchéngdezhéxuéjiàoxuétǐxì.
 1	1915	1915	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1915|LTranslit=1915
 2	年	年	NOUN	NNB	_	26	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -4047,7 +4047,7 @@
 27	哲学	哲学	NOUN	NN	_	28	compound	_	SpaceAfter=No|Translit=zhéxué|LTranslit=zhéxué
 28	类	类	PART	SFN	_	29	nmod	_	SpaceAfter=No|Translit=lèi|LTranslit=lèi
 29	课程	课程	NOUN	NN	_	26	obj	_	SpaceAfter=No|Translit=kèchéng|LTranslit=kèchéng
-30	；	；	PUNCT	:	_	34	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+30	；	；	PUNCT	:	_	34	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 31	复旦	复旦	PROPN	NNP	_	32	nmod	_	SpaceAfter=No|Translit=fùdàn|LTranslit=fùdàn
 32	大学	大学	NOUN	NN	_	34	nsubj	_	SpaceAfter=No|Translit=dàxué|LTranslit=dàxué
 33	逐渐	逐渐	ADV	RB	_	34	advmod	_	SpaceAfter=No|Translit=zhújiàn|LTranslit=zhújiàn
@@ -4056,7 +4056,7 @@
 36	由	由	VERB	VV	_	54	acl:relcl	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
 37	逻辑	逻辑	NOUN	NN	_	50	nsubj	_	SpaceAfter=No|Translit=luóji|LTranslit=luóji
 38	、	、	PUNCT	EC	_	39	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-39	伦理	伦理	NOUN	NN	_	37	conj	_	SpaceAfter=No|Translit=伦lǐ|LTranslit=伦lǐ
+39	伦理	伦理	NOUN	NN	_	37	conj	_	SpaceAfter=No|Translit=lúnlǐ|LTranslit=lúnlǐ
 40	、	、	PUNCT	EC	_	41	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 41	性理	性理	NOUN	NN	_	37	conj	_	SpaceAfter=No|Translit=xìnglǐ|LTranslit=xìnglǐ
 42	（	（	PUNCT	(	_	43	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
@@ -4094,13 +4094,13 @@
 
 # sent_id = test-s150
 # text = 2009年，贝拉克·奥巴马正式地邀请同性配偶及其子女出席复活节滚彩蛋活动。
-# translit = 2009nián,bèilākè·奥bamǎzhèngshìdeyāoqǐngtóngxìngpèi'ǒujíqízinǚchūxífùhuójiégǔncǎidànhuódòng.
+# translit = 2009nián,bèilākè·'àobamǎzhèngshìdeyāoqǐngtóngxìngpèi'ǒujíqízinǚchūxífùhuójiégǔncǎidànhuódòng.
 1	2009	2009	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2009|LTranslit=2009
 2	年	年	NOUN	NNB	_	9	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 4	贝拉克	贝拉克	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No|Translit=bèilākè|LTranslit=bèilākè
 5	·	·	PUNCT	/	_	6	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
-6	奥巴马	奥巴马	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No|Translit=奥bamǎ|LTranslit=奥bamǎ
+6	奥巴马	奥巴马	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No|Translit='àobamǎ|LTranslit='àobamǎ
 7	正式	正式	ADJ	JJ	_	9	advmod	_	SpaceAfter=No|Translit=zhèngshì|LTranslit=zhèngshì
 8	地	地	PART	DEV	_	7	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
 9	邀请	邀请	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No|Translit=yāoqǐng|LTranslit=yāoqǐng
@@ -4217,8 +4217,8 @@
 
 # sent_id = test-s154
 # text = 夏绿蒂从1839年开始在约克郡担任许多家庭的女教师，直到1841年为止。
-# translit = xiàlǜ蒂cóng1839niánkāishǐzàiyuēkè郡dānrènxǔduōjiātíngdenǚjiàoshī,zhídào1841niánwèizhǐ.
-1	夏绿蒂	夏绿蒂	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No|Translit=xiàlǜ蒂|LTranslit=xiàlǜ蒂
+# translit = xiàlǜdìcóng1839niánkāishǐzàiyuēkè郡dānrènxǔduōjiātíngdenǚjiàoshī,zhídào1841niánwèizhǐ.
+1	夏绿蒂	夏绿蒂	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No|Translit=xiàlǜdì|LTranslit=xiàlǜdì
 2	从	从	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
 3	1839	1839	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1839|LTranslit=1839
 4	年	年	NOUN	NNB	_	9	obl	_	SpaceAfter=No|Translit=nián|LTranslit=nián
@@ -4242,7 +4242,7 @@
 
 # sent_id = test-s155
 # text = 1965年12月14日，夏继泉在北京病逝。
-# translit = 1965nián12yuè14rì,xiàjìquánzàiběi京bìngshì.
+# translit = 1965nián12yuè14rì,xiàjìquánzàiběijīngbìngshì.
 1	1965	1965	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1965|LTranslit=1965
 2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	12	12	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
@@ -4253,7 +4253,7 @@
 8	夏	夏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No|Translit=xià|LTranslit=xià
 9	继泉	继泉	PROPN	NNP	_	8	flat:name	_	SpaceAfter=No|Translit=jìquán|LTranslit=jìquán
 10	在	在	VERB	VV	_	12	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-11	北京	北京	PROPN	NNP	_	10	obj	_	SpaceAfter=No|Translit=běi京|LTranslit=běi京
+11	北京	北京	PROPN	NNP	_	10	obj	_	SpaceAfter=No|Translit=běijīng|LTranslit=běijīng
 12	病逝	病逝	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bìngshì|LTranslit=bìngshì
 13	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -4291,7 +4291,7 @@
 
 # sent_id = test-s157
 # text = 夏道镇是中国福建省南平市延平区下辖的一个镇。
-# translit = xiàdàozhènshìzhōngguófújiànshěngnánpíngshìyánpíngqūxià辖deyīgèzhèn.
+# translit = xiàdàozhènshìzhōngguófújiànshěngnánpíngshìyánpíngqūxiàxiádeyīgèzhèn.
 1	夏道	夏道	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=xiàdào|LTranslit=xiàdào
 2	镇	镇	PART	SFN	_	15	nsubj	_	SpaceAfter=No|Translit=zhèn|LTranslit=zhèn
 3	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -4302,7 +4302,7 @@
 8	市	市	PART	SFN	_	10	nmod	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 9	延平	延平	PROPN	NNP	_	10	compound	_	SpaceAfter=No|Translit=yánpíng|LTranslit=yánpíng
 10	区	区	PART	SFN	_	11	nsubj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
-11	下辖	下辖	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=xià辖|LTranslit=xià辖
+11	下辖	下辖	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=xiàxiá|LTranslit=xiàxiá
 12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 14	个	个	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
@@ -4468,10 +4468,10 @@
 
 # sent_id = test-s163
 # text = 多利纳是乌克兰的城市，位于该国西南部，距离伊万诺-弗兰科夫斯克州58公里，由伊万诺-弗兰科夫斯克州负责管辖，始建于979年，面积27平方公里，2011年人口20,453。
-# translit = duōlìnàshìwūkè兰dechéngshì,wèiyúgāiguóxinánbù,jùlíyīwàn诺-弗兰kēfusīkèzhōu58gōnglǐ,yóuyīwàn诺-弗兰kēfusīkèzhōufùzéguǎn辖,shǐjiànyú979nián,miànjī27píngfānggōnglǐ,2011niánrénkǒu20,453.
+# translit = duōlìnàshìwūkèlándechéngshì,wèiyúgāiguóxinánbù,jùlíyīwàn诺-fúlánkēfusīkèzhōu58gōnglǐ,yóuyīwàn诺-fúlánkēfusīkèzhōufùzéguǎnxiá,shǐjiànyú979nián,miànjī27píngfānggōnglǐ,2011niánrénkǒu20,453.
 1	多利纳	多利纳	PROPN	NNP	_	19	nsubj	_	SpaceAfter=No|Translit=duōlìnà|LTranslit=duōlìnà
 2	是	是	AUX	VC	_	5	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-3	乌克兰	乌克兰	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=wūkè兰|LTranslit=wūkè兰
+3	乌克兰	乌克兰	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=wūkèlán|LTranslit=wūkèlán
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	城市	城市	NOUN	NN	_	19	advcl	_	SpaceAfter=No|Translit=chéngshì|LTranslit=chéngshì
 6	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -4484,7 +4484,7 @@
 13	距离	距离	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=jùlí|LTranslit=jùlí
 14	伊万诺	伊万诺	PROPN	NNP	_	16	nmod	_	SpaceAfter=No|Translit=yīwàn诺|LTranslit=yīwàn诺
 15	-	-	PUNCT	HYPH	_	14	punct	_	SpaceAfter=No|Translit=-|LTranslit=-
-16	弗兰科夫斯克	弗兰科夫斯克	PROPN	NNP	_	17	compound	_	SpaceAfter=No|Translit=弗兰kēfusīkè|LTranslit=弗兰kēfusīkè
+16	弗兰科夫斯克	弗兰科夫斯克	PROPN	NNP	_	17	compound	_	SpaceAfter=No|Translit=fúlánkēfusīkè|LTranslit=fúlánkēfusīkè
 17	州	州	PART	SFN	_	19	nmod	_	SpaceAfter=No|Translit=zhōu|LTranslit=zhōu
 18	58	58	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=58|LTranslit=58
 19	公里	公里	NOUN	NNB	_	29	csubj	_	SpaceAfter=No|Translit=gōnglǐ|LTranslit=gōnglǐ
@@ -4492,10 +4492,10 @@
 21	由	由	VERB	VV	_	29	advcl	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
 22	伊万诺	伊万诺	PROPN	NNP	_	24	nmod	_	SpaceAfter=No|Translit=yīwàn诺|LTranslit=yīwàn诺
 23	-	-	PUNCT	HYPH	_	22	punct	_	SpaceAfter=No|Translit=-|LTranslit=-
-24	弗兰科夫斯克	弗兰科夫斯克	PROPN	NNP	_	25	compound	_	SpaceAfter=No|Translit=弗兰kēfusīkè|LTranslit=弗兰kēfusīkè
+24	弗兰科夫斯克	弗兰科夫斯克	PROPN	NNP	_	25	compound	_	SpaceAfter=No|Translit=fúlánkēfusīkè|LTranslit=fúlánkēfusīkè
 25	州	州	PART	SFN	_	26	nsubj	_	SpaceAfter=No|Translit=zhōu|LTranslit=zhōu
 26	负责	负责	VERB	VV	_	21	ccomp	_	SpaceAfter=No|Translit=fùzé|LTranslit=fùzé
-27	管辖	管辖	VERB	VV	_	26	xcomp	_	SpaceAfter=No|Translit=guǎn辖|LTranslit=guǎn辖
+27	管辖	管辖	VERB	VV	_	26	xcomp	_	SpaceAfter=No|Translit=guǎnxiá|LTranslit=guǎnxiá
 28	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 29	始建	始建	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shǐjiàn|LTranslit=shǐjiàn
 30	于	于	VERB	VV	_	29	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
@@ -4563,8 +4563,8 @@
 
 # sent_id = test-s166
 # text = 杜笃玛属半干旱气候，全年气候相对温暖，全年平均降雨量约570毫米，降雨主要集中于12月至翌年3月的雨季，其他月份属相对干燥的旱季。
-# translit = dù笃玛shǔbàngànhànqìhou,quánniánqìhouxiāngduìwēnnuǎn,quánniánpíngjūnjiàngyǔliàngyuē570háomǐ,jiàngyǔzhǔyàojízhōngyú12yuèzhì翌nián3yuèdeyǔjì,qítāyuèfènshǔxiāngduìgànzàodehànjì.
-1	杜笃玛	杜笃玛	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=dù笃玛|LTranslit=dù笃玛
+# translit = dù笃mǎshǔbàngànhànqìhou,quánniánqìhouxiāngduìwēnnuǎn,quánniánpíngjūnjiàngyǔliàngyuē570háomǐ,jiàngyǔzhǔyàojízhōngyú12yuèzhì翌nián3yuèdeyǔjì,qítāyuèfènshǔxiāngduìgànzàodehànjì.
+1	杜笃玛	杜笃玛	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=dù笃mǎ|LTranslit=dù笃mǎ
 2	属	属	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shǔ|LTranslit=shǔ
 3	半	半	PART	PFA	_	4	case	_	SpaceAfter=No|Translit=bàn|LTranslit=bàn
 4	干旱	干旱	ADJ	JJ	_	5	amod	_	SpaceAfter=No|Translit=gànhàn|LTranslit=gànhàn
@@ -4738,7 +4738,7 @@
 
 # sent_id = test-s172
 # text = 《夜行神龙》（Gargoyles）是美国迪士尼公司推出的动画影集，从1994年到1997年播出，共78集，每集30分钟（含广告的时间）。
-# translit = «yèxíngshénlóng»(Gargoyles)shìměiguó迪shì尼gōngsītuīchūdedònghuàyǐngjí,cóng1994niándào1997niánbōchū,gòng78jí,měijí30fēnzhōng(hánguǎnggàodeshíjiān).
+# translit = «yèxíngshénlóng»(Gargoyles)shìměiguódíshìnígōngsītuīchūdedònghuàyǐngjí,cóng1994niándào1997niánbōchū,gòng78jí,měijí30fēnzhōng(hánguǎnggàodeshíjiān).
 1	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
 2	夜行	夜行	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=yèxíng|LTranslit=yèxíng
 3	神龙	神龙	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=shénlóng|LTranslit=shénlóng
@@ -4748,7 +4748,7 @@
 7	）	）	PUNCT	)	_	6	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 8	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 9	美国	美国	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=měiguó|LTranslit=měiguó
-10	迪士尼	迪士尼	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=迪shì尼|LTranslit=迪shì尼
+10	迪士尼	迪士尼	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=díshìní|LTranslit=díshìní
 11	公司	公司	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=gōngsī|LTranslit=gōngsī
 12	推出	推出	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=tuīchū|LTranslit=tuīchū
 13	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -4810,13 +4810,13 @@
 
 # sent_id = test-s174
 # text = 头上发饰的皇冠就是宫廷蛋糕师的印记。
-# translit = tóushàngfāshìdehuáng冠jiùshìgōng廷dàngāoshīdeyìnjì.
+# translit = tóushàngfāshìdehuángguānjiùshìgōngtíngdàngāoshīdeyìnjì.
 1	头上	头上	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=tóushàng|LTranslit=tóushàng
 2	发饰	发饰	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=fāshì|LTranslit=fāshì
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-4	皇冠	皇冠	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=huáng冠|LTranslit=huáng冠
+4	皇冠	皇冠	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=huángguān|LTranslit=huángguān
 5	就是	就是	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=jiùshì|LTranslit=jiùshì
-6	宫廷	宫廷	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=gōng廷|LTranslit=gōng廷
+6	宫廷	宫廷	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=gōngtíng|LTranslit=gōngtíng
 7	蛋糕	蛋糕	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=dàngāo|LTranslit=dàngāo
 8	师	师	PART	SFN	_	10	nmod	_	SpaceAfter=No|Translit=shī|LTranslit=shī
 9	的	的	PART	DEC	Case=Gen	8	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -4907,10 +4907,10 @@
 
 # sent_id = test-s178
 # text = 在前伊斯兰时期，伊朗人将他们的土地划分为两个主要部分，分别是伊朗及安勒尼兰（Aniran）。
-# translit = zàiqiányīsī兰shíqī,yīlǎngrénjiāngtāmendetǔdehuàfēnwèiliǎnggèzhǔyàobùfēn,fēnbiéshìyīlǎngjí'ānlēi尼兰(Aniran).
+# translit = zàiqiányīsīlánshíqī,yīlǎngrénjiāngtāmendetǔdehuàfēnwèiliǎnggèzhǔyàobùfēn,fēnbiéshìyīlǎngjí'ānlēinílán(Aniran).
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	前	前	PART	PFA	_	4	case	_	SpaceAfter=No|Translit=qián|LTranslit=qián
-3	伊斯兰	伊斯兰	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=yīsī兰|LTranslit=yīsī兰
+3	伊斯兰	伊斯兰	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=yīsīlán|LTranslit=yīsīlán
 4	时期	时期	NOUN	NN	_	12	obl	_	SpaceAfter=No|Translit=shíqī|LTranslit=shíqī
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	伊朗	伊朗	PROPN	NNP	_	7	compound	_	SpaceAfter=No|Translit=yīlǎng|LTranslit=yīlǎng
@@ -4930,7 +4930,7 @@
 20	是	是	AUX	VC	_	21	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 21	伊朗	伊朗	PROPN	NNP	_	12	ccomp	_	SpaceAfter=No|Translit=yīlǎng|LTranslit=yīlǎng
 22	及	及	CCONJ	CC	_	23	cc	_	SpaceAfter=No|Translit=jí|LTranslit=jí
-23	安勒尼兰	安勒尼兰	PROPN	NNP	_	21	conj	_	SpaceAfter=No|Translit='ānlēi尼兰|LTranslit='ānlēi尼兰
+23	安勒尼兰	安勒尼兰	PROPN	NNP	_	21	conj	_	SpaceAfter=No|Translit='ānlēinílán|LTranslit='ānlēinílán
 24	（	（	PUNCT	(	_	25	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 25	Aniran	Aniran	X	FW	_	23	appos	_	SpaceAfter=No|Translit=Aniran|LTranslit=Aniran
 26	）	）	PUNCT	)	_	25	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
@@ -5221,27 +5221,27 @@
 
 # sent_id = test-s188
 # text = 龙头由藤条屈曲为骨架；龙牙以锯齿的铁片造成；双眼是手电筒；舌头是漆红的木片。
-# translit = lóngtóuyóuténgtiáoqūqūwèigǔjià；lóngyáyǐjùchǐdetiěpiànzàochéng；shuāngyǎnshìshǒudiàntǒng；shétóushìqīhóngdemùpiàn.
+# translit = lóngtóuyóuténgtiáoqūqūwèigǔjià;lóngyáyǐjùchǐdetiěpiànzàochéng;shuāngyǎnshìshǒudiàntǒng;shétóushìqīhóngdemùpiàn.
 1	龙头	龙头	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=lóngtóu|LTranslit=lóngtóu
 2	由	由	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
 3	藤条	藤条	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=téngtiáo|LTranslit=téngtiáo
 4	屈曲	屈曲	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=qūqū|LTranslit=qūqū
 5	为	为	VERB	VC	_	4	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 6	骨架	骨架	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=gǔjià|LTranslit=gǔjià
-7	；	；	PUNCT	:	_	13	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+7	；	；	PUNCT	:	_	13	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 8	龙牙	龙牙	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=lóngyá|LTranslit=lóngyá
 9	以	以	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
 10	锯齿	锯齿	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=jùchǐ|LTranslit=jùchǐ
 11	的	的	PART	DEC	Case=Gen	10	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 12	铁片	铁片	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=tiěpiàn|LTranslit=tiěpiàn
 13	造成	造成	VERB	VV	_	2	parataxis	_	SpaceAfter=No|Translit=zàochéng|LTranslit=zàochéng
-14	；	；	PUNCT	:	_	19	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+14	；	；	PUNCT	:	_	19	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 15	双	双	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=shuāng|LTranslit=shuāng
 16	眼	眼	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=yǎn|LTranslit=yǎn
 17	是	是	AUX	VC	_	19	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 18	手	手	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=shǒu|LTranslit=shǒu
 19	电筒	电筒	NOUN	NN	_	2	parataxis	_	SpaceAfter=No|Translit=diàntǒng|LTranslit=diàntǒng
-20	；	；	PUNCT	:	_	25	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+20	；	；	PUNCT	:	_	25	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 21	舌头	舌头	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=shétóu|LTranslit=shétóu
 22	是	是	AUX	VC	_	25	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 23	漆红	漆红	VERB	VV	_	25	acl:relcl	_	SpaceAfter=No|Translit=qīhóng|LTranslit=qīhóng
@@ -5376,9 +5376,9 @@
 
 # sent_id = test-s194
 # text = 据媒体引述，共约1500名国立大学教员涉案，检调单位陆续约谈了其中约700人。
-# translit = jù媒tǐyǐnshù,gòngyuē1500míngguólìdàxuéjiàoyuánshè'àn,jiǎndiàodānwèilùxùyuētánleqízhōngyuē700rén.
+# translit = jùméitǐyǐnshù,gòngyuē1500míngguólìdàxuéjiàoyuánshè'àn,jiǎndiàodānwèilùxùyuētánleqízhōngyuē700rén.
 1	据	据	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=jù|LTranslit=jù
-2	媒体	媒体	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=媒tǐ|LTranslit=媒tǐ
+2	媒体	媒体	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=méitǐ|LTranslit=méitǐ
 3	引述	引述	VERB	VV	_	13	ccomp	_	SpaceAfter=No|Translit=yǐnshù|LTranslit=yǐnshù
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	共	共	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=gòng|LTranslit=gòng
@@ -5489,7 +5489,7 @@
 
 # sent_id = test-s198
 # text = 2011年7月21日，大津祐树和德国足球甲级联赛球队门兴格拉德巴赫签约三年。
-# translit = 2011nián7yuè21rì,dàjīn祐shùhédéguózúqiújiǎjíliánsàiqiúduìménxìnggélādéba赫qiānyuēsānnián.
+# translit = 2011nián7yuè21rì,dàjīn祐shùhédéguózúqiújiǎjíliánsàiqiúduìménxìnggélādébahèqiānyuēsānnián.
 1	2011	2011	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
 2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	7	7	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=7|LTranslit=7
@@ -5505,7 +5505,7 @@
 13	甲级	甲级	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=jiǎjí|LTranslit=jiǎjí
 14	联赛	联赛	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=liánsài|LTranslit=liánsài
 15	球队	球队	NOUN	NN	_	17	obl	_	SpaceAfter=No|Translit=qiúduì|LTranslit=qiúduì
-16	门兴格拉德巴赫	门兴格拉德巴赫	PROPN	NNP	_	15	appos	_	SpaceAfter=No|Translit=ménxìnggélādéba赫|LTranslit=ménxìnggélādéba赫
+16	门兴格拉德巴赫	门兴格拉德巴赫	PROPN	NNP	_	15	appos	_	SpaceAfter=No|Translit=ménxìnggélādébahè|LTranslit=ménxìnggélādébahè
 17	签约	签约	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=qiānyuē|LTranslit=qiānyuē
 18	三	三	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=sān|LTranslit=sān
 19	年	年	NOUN	NNB	_	17	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
@@ -5640,13 +5640,13 @@
 
 # sent_id = test-s203
 # text = 大石桥乡，是下辖的一个乡镇级行政单位。
-# translit = dàshíqiáoxiāng,shìxià辖deyīgèxiāngzhènjíxíngzhèngdānwèi.
+# translit = dàshíqiáoxiāng,shìxiàxiádeyīgèxiāngzhènjíxíngzhèngdānwèi.
 1	大石	大石	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=dàshí|LTranslit=dàshí
 2	桥	桥	PART	SFN	_	3	compound	_	SpaceAfter=No|Translit=qiáo|LTranslit=qiáo
 3	乡	乡	PART	SFN	_	13	nsubj	_	SpaceAfter=No|Translit=xiāng|LTranslit=xiāng
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-6	下辖	下辖	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=xià辖|LTranslit=xià辖
+6	下辖	下辖	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=xiàxiá|LTranslit=xiàxiá
 7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	一	一	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 9	个	个	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
@@ -5658,7 +5658,7 @@
 
 # sent_id = test-s204
 # text = 大统华拥有四处物流中心，其中3处在大温哥华地区，1处在多伦多。
-# translit = dàtǒnghuáyōngyǒusìchùwùliúzhōngxīn,qízhōng3chùzàidàwēngēhuádeqū,1chùzàiduō伦duō.
+# translit = dàtǒnghuáyōngyǒusìchùwùliúzhōngxīn,qízhōng3chùzàidàwēngēhuádeqū,1chùzàiduōlúnduō.
 1	大统华	大统华	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=dàtǒnghuá|LTranslit=dàtǒnghuá
 2	拥有	拥有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yōngyǒu|LTranslit=yōngyǒu
 3	四	四	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=sì|LTranslit=sì
@@ -5677,7 +5677,7 @@
 16	1	1	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
 17	处	处	NOUN	NNB	_	18	nsubj	_	SpaceAfter=No|Translit=chù|LTranslit=chù
 18	在	在	VERB	VV	_	2	parataxis	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-19	多伦多	多伦多	PROPN	NNP	_	18	obj	_	SpaceAfter=No|Translit=duō伦duō|LTranslit=duō伦duō
+19	多伦多	多伦多	PROPN	NNP	_	18	obj	_	SpaceAfter=No|Translit=duōlúnduō|LTranslit=duōlúnduō
 20	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s205
@@ -5765,7 +5765,7 @@
 
 # sent_id = test-s208
 # text = 几天以后，总经理李俊英在四川路上也被枪杀。
-# translit = jǐtiānyǐhòu,zǒngjīnglǐli俊yīngzàisì川lùshàngyěbèiqiāngshā.
+# translit = jǐtiānyǐhòu,zǒngjīnglǐli俊yīngzàisìchuānlùshàngyěbèiqiāngshā.
 1	几	几	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=jǐ|LTranslit=jǐ
 2	天	天	NOUN	NNB	_	14	nmod:tmod	_	SpaceAfter=No|Translit=tiān|LTranslit=tiān
 3	以后	以后	ADP	IN	_	2	acl	_	SpaceAfter=No|Translit=yǐhòu|LTranslit=yǐhòu
@@ -5775,7 +5775,7 @@
 7	李	李	PROPN	NNP	_	6	appos	_	SpaceAfter=No|Translit=li|LTranslit=li
 8	俊英	俊英	PROPN	NNP	_	7	flat:name	_	SpaceAfter=No|Translit=俊yīng|LTranslit=俊yīng
 9	在	在	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-10	四川	四川	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=sì川|LTranslit=sì川
+10	四川	四川	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=sìchuān|LTranslit=sìchuān
 11	路上	路上	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=lùshàng|LTranslit=lùshàng
 12	也	也	ADV	RB	_	14	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 13	被	被	AUX	BB	Voice=Pass	14	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
@@ -5811,12 +5811,12 @@
 
 # sent_id = test-s210
 # text = 在2007年，耶茨将大脚类归类于板龙类。
-# translit = zài2007nián,耶茨jiāngdàjiǎolèiguīlèiyúbǎnlónglèi.
+# translit = zài2007nián,yé茨jiāngdàjiǎolèiguīlèiyúbǎnlónglèi.
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	2007	2007	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=2007|LTranslit=2007
 3	年	年	NOUN	NNB	_	9	obl	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-5	耶茨	耶茨	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No|Translit=耶茨|LTranslit=耶茨
+5	耶茨	耶茨	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No|Translit=yé茨|LTranslit=yé茨
 6	将	将	ADP	BB	_	8	case	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
 7	大脚	大脚	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=dàjiǎo|LTranslit=dàjiǎo
 8	类	类	PART	SFN	_	9	obl:patient	_	SpaceAfter=No|Translit=lèi|LTranslit=lèi
@@ -5828,14 +5828,14 @@
 
 # sent_id = test-s211
 # text = 大脚类包含大椎龙科与里奥哈龙科等科。
-# translit = dàjiǎolèibāohándà椎lóngkēyǔlǐ奥hālóngkēděngkē.
+# translit = dàjiǎolèibāohándà椎lóngkēyǔlǐ'àohālóngkēděngkē.
 1	大脚	大脚	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=dàjiǎo|LTranslit=dàjiǎo
 2	类	类	PART	SFN	_	3	nsubj	_	SpaceAfter=No|Translit=lèi|LTranslit=lèi
 3	包含	包含	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bāohán|LTranslit=bāohán
 4	大椎龙	大椎龙	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=dà椎lóng|LTranslit=dà椎lóng
 5	科	科	PART	SFN	_	3	obj	_	SpaceAfter=No|Translit=kē|LTranslit=kē
 6	与	与	CCONJ	CC	_	8	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
-7	里奥哈龙	里奥哈龙	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=lǐ奥hālóng|LTranslit=lǐ奥hālóng
+7	里奥哈龙	里奥哈龙	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=lǐ'àohālóng|LTranslit=lǐ'àohālóng
 8	科	科	PART	SFN	_	5	conj	_	SpaceAfter=No|Translit=kē|LTranslit=kē
 9	等	等	NOUN	NN	_	5	acl	_	SpaceAfter=No|Translit=děng|LTranslit=děng
 10	科	科	NOUN	NN	_	5	appos	_	SpaceAfter=No|Translit=kē|LTranslit=kē
@@ -5873,8 +5873,8 @@
 
 # sent_id = test-s213
 # text = 大花蕙兰的生产地主要是日本，韩国和中国，澳洲及美国等。
-# translit = dàhuā蕙兰deshēngchǎndezhǔyàoshìrìběn,韩guóhézhōngguó,澳zhōujíměiguóděng.
-1	大花蕙兰	大花蕙兰	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=dàhuā蕙兰|LTranslit=dàhuā蕙兰
+# translit = dàhuā蕙lándeshēngchǎndezhǔyàoshìrìběn,hánguóhézhōngguó,'àozhōujíměiguóděng.
+1	大花蕙兰	大花蕙兰	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=dàhuā蕙lán|LTranslit=dàhuā蕙lán
 2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 3	生产	生产	VERB	VV	_	4	compound	_	SpaceAfter=No|Translit=shēngchǎn|LTranslit=shēngchǎn
 4	地	地	PART	SFN	_	7	nsubj	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -5882,11 +5882,11 @@
 6	是	是	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 7	日本	日本	PROPN	NNP	_	0	root	_	SpaceAfter=No|Translit=rìběn|LTranslit=rìběn
 8	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-9	韩国	韩国	PROPN	NNP	_	7	conj	_	SpaceAfter=No|Translit=韩guó|LTranslit=韩guó
+9	韩国	韩国	PROPN	NNP	_	7	conj	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 10	和	和	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 11	中国	中国	PROPN	NNP	_	9	conj	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
 12	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-13	澳洲	澳洲	PROPN	NNP	_	7	conj	_	SpaceAfter=No|Translit=澳zhōu|LTranslit=澳zhōu
+13	澳洲	澳洲	PROPN	NNP	_	7	conj	_	SpaceAfter=No|Translit='àozhōu|LTranslit='àozhōu
 14	及	及	CCONJ	CC	_	15	cc	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 15	美国	美国	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=měiguó|LTranslit=měiguó
 16	等	等	NOUN	NN	_	7	acl	_	SpaceAfter=No|Translit=děng|LTranslit=děng
@@ -5918,14 +5918,14 @@
 
 # sent_id = test-s215
 # text = 另一种解释来自奥地利经济学派。
-# translit = lìngyīzhǒngjiěshìláizì奥delìjīngjìxuépài.
+# translit = lìngyīzhǒngjiěshìláizì'àodelìjīngjìxuépài.
 1	另	另	DET	DT	_	3	det	_	SpaceAfter=No|Translit=lìng|LTranslit=lìng
 2	一	一	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 3	种	种	NOUN	NNB	_	4	nmod	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 4	解释	解释	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=jiěshì|LTranslit=jiěshì
 5	来	来	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lái|LTranslit=lái
 6	自	自	VERB	VV	_	5	mark	_	SpaceAfter=No|Translit=zì|LTranslit=zì
-7	奥地利	奥地利	PROPN	NNP	_	9	nmod	_	SpaceAfter=No|Translit=奥delì|LTranslit=奥delì
+7	奥地利	奥地利	PROPN	NNP	_	9	nmod	_	SpaceAfter=No|Translit='àodelì|LTranslit='àodelì
 8	经济	经济	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=jīngjì|LTranslit=jīngjì
 9	学派	学派	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=xuépài|LTranslit=xuépài
 10	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -6084,7 +6084,7 @@
 
 # sent_id = test-s222
 # text = 尽管本剧在收视率上并不理想（第一季全年收视排行第27名，第二季为第46名），但是并不妨碍本剧成为“艾美奖宠儿”。
-# translit = jǐnguǎnběnjùzàishōushìlǜshàngbìngbùlǐxiǎng(dìyījìquánniánshōushìpáixíngdì27míng,dì'èrjìwèidì46míng),dànshìbìngbùfáng'àiběnjùchéngwèi“艾měijiǎng宠r”.
+# translit = jǐnguǎnběnjùzàishōushìlǜshàngbìngbùlǐxiǎng(dìyījìquánniánshōushìpáixíngdì27míng,dì'èrjìwèidì46míng),dànshìbìngbùfáng'àiběnjùchéngwèi“'àiměijiǎng宠r”.
 1	尽管	尽管	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=jǐnguǎn|LTranslit=jǐnguǎn
 2	本剧	本剧	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=běnjù|LTranslit=běnjù
 3	在	在	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -6118,7 +6118,7 @@
 31	成	成	VERB	VV	_	29	ccomp	_	SpaceAfter=No|Translit=chéng|LTranslit=chéng
 32	为	为	VERB	VC	_	31	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 33	“	“	PUNCT	``	_	36	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-34	艾美	艾美	PROPN	NNP	_	35	compound	_	SpaceAfter=No|Translit=艾měi|LTranslit=艾měi
+34	艾美	艾美	PROPN	NNP	_	35	compound	_	SpaceAfter=No|Translit='àiměi|LTranslit='àiměi
 35	奖	奖	PART	SFN	_	36	nmod	_	SpaceAfter=No|Translit=jiǎng|LTranslit=jiǎng
 36	宠儿	宠儿	NOUN	NN	_	31	obj	_	SpaceAfter=No|Translit=宠r|LTranslit=宠r
 37	”	”	PUNCT	''	_	36	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
@@ -6342,7 +6342,7 @@
 
 # sent_id = test-s231
 # text = 3月1日在为高宗举行国葬时，韩国民众借机在各地游行，韩国独立运动者在京城塔洞公园发表了独立宣言，要求韩国独立，是为“三一运动”。
-# translit = 3yuè1rìzàiwèigāozōngjǔxíngguózàngshí,韩guómínzhòngjièjīzàigèdeyóuxíng,韩guódúlìyùndòngzhězài京chéngtǎdònggōngyuánfābiǎoledúlìxuānyán,yàoqiú韩guódúlì,shìwèi“sānyīyùndòng”.
+# translit = 3yuè1rìzàiwèigāozōngjǔxíngguózàngshí,hánguómínzhòngjièjīzàigèdeyóuxíng,hánguódúlìyùndòngzhězàijīngchéngtǎdònggōngyuánfābiǎoledúlìxuānyán,yàoqiúhánguódúlì,shìwèi“sānyīyùndòng”.
 1	3	3	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
 2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
@@ -6354,19 +6354,19 @@
 9	国葬	国葬	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=guózàng|LTranslit=guózàng
 10	时	时	ADP	IN	_	8	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
 11	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-12	韩国	韩国	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit=韩guó|LTranslit=韩guó
+12	韩国	韩国	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 13	民众	民众	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=mínzhòng|LTranslit=mínzhòng
 14	借机	借机	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jièjī|LTranslit=jièjī
 15	在	在	VERB	VV	_	17	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 16	各地	各地	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=gède|LTranslit=gède
 17	游行	游行	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=yóuxíng|LTranslit=yóuxíng
 18	，	，	PUNCT	,	_	40	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-19	韩国	韩国	PROPN	NNP	_	22	nmod	_	SpaceAfter=No|Translit=韩guó|LTranslit=韩guó
+19	韩国	韩国	PROPN	NNP	_	22	nmod	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 20	独立	独立	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=dúlì|LTranslit=dúlì
 21	运动	运动	NOUN	NN	_	22	compound	_	SpaceAfter=No|Translit=yùndòng|LTranslit=yùndòng
 22	者	者	PART	SFN	_	32	nsubj	_	SpaceAfter=No|Translit=zhě|LTranslit=zhě
 23	在	在	VERB	VV	_	27	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-24	京城	京城	PROPN	NNP	_	26	nmod	_	SpaceAfter=No|Translit=京chéng|LTranslit=京chéng
+24	京城	京城	PROPN	NNP	_	26	nmod	_	SpaceAfter=No|Translit=jīngchéng|LTranslit=jīngchéng
 25	塔洞	塔洞	PROPN	NNP	_	26	nmod	_	SpaceAfter=No|Translit=tǎdòng|LTranslit=tǎdòng
 26	公园	公园	NOUN	NN	_	23	obj	_	SpaceAfter=No|Translit=gōngyuán|LTranslit=gōngyuán
 27	发表	发表	VERB	VV	_	32	advcl	_	SpaceAfter=No|Translit=fābiǎo|LTranslit=fābiǎo
@@ -6375,7 +6375,7 @@
 30	宣言	宣言	NOUN	NN	_	27	obj	_	SpaceAfter=No|Translit=xuānyán|LTranslit=xuānyán
 31	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 32	要求	要求	VERB	VV	Voice=Cau	40	csubj	_	SpaceAfter=No|Translit=yàoqiú|LTranslit=yàoqiú
-33	韩国	韩国	PROPN	NNP	_	34	nsubj	_	SpaceAfter=No|Translit=韩guó|LTranslit=韩guó
+33	韩国	韩国	PROPN	NNP	_	34	nsubj	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 34	独立	独立	VERB	VV	_	32	ccomp	_	SpaceAfter=No|Translit=dúlì|LTranslit=dúlì
 35	，	，	PUNCT	,	_	32	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 36	是	是	AUX	VC	_	40	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -6388,13 +6388,13 @@
 
 # sent_id = test-s232
 # text = 朝韩分治后，大韩民国经历了民主与独裁统治的反复交替。
-# translit = cháo韩fēnzhìhòu,dà韩mínguójīnglìlemínzhǔyǔdúcáitǒngzhìdefǎnfùjiāotì.
+# translit = cháohánfēnzhìhòu,dàhánmínguójīnglìlemínzhǔyǔdúcáitǒngzhìdefǎnfùjiāotì.
 1	朝	朝	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=cháo|LTranslit=cháo
-2	韩	韩	PROPN	NNP	_	1	conj	_	SpaceAfter=No|Translit=韩|LTranslit=韩
+2	韩	韩	PROPN	NNP	_	1	conj	_	SpaceAfter=No|Translit=hán|LTranslit=hán
 3	分治	分治	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=fēnzhì|LTranslit=fēnzhì
 4	后	后	ADP	IN	_	3	mark	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
 5	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-6	大韩	大韩	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit=dà韩|LTranslit=dà韩
+6	大韩	大韩	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit=dàhán|LTranslit=dàhán
 7	民国	民国	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=mínguó|LTranslit=mínguó
 8	经历	经历	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=jīnglì|LTranslit=jīnglì
 9	了	了	AUX	AS	Aspect=Perf	8	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -6409,12 +6409,12 @@
 
 # sent_id = test-s233
 # text = 韩国气候受东韩暖流影响，气候相对温暖湿润，与日本气候相似。
-# translit = 韩guóqìhoushòudōng韩nuǎnliúyǐngxiǎng,qìhouxiāngduìwēnnuǎnshīrùn,yǔrìběnqìhouxiāngshì.
-1	韩国	韩国	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=韩guó|LTranslit=韩guó
+# translit = hánguóqìhoushòudōnghánnuǎnliúyǐngxiǎng,qìhouxiāngduìwēnnuǎnshīrùn,yǔrìběnqìhouxiāngshì.
+1	韩国	韩国	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 2	气候	气候	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=qìhou|LTranslit=qìhou
 3	受	受	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No|Translit=shòu|LTranslit=shòu
 4	东	东	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=dōng|LTranslit=dōng
-5	韩	韩	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=韩|LTranslit=韩
+5	韩	韩	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=hán|LTranslit=hán
 6	暖流	暖流	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=nuǎnliú|LTranslit=nuǎnliú
 7	影响	影响	VERB	VV	_	3	ccomp	_	SpaceAfter=No|Translit=yǐngxiǎng|LTranslit=yǐngxiǎng
 8	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -6431,7 +6431,7 @@
 
 # sent_id = test-s234
 # text = 大额蛇鳗，为辐鳍鱼纲鳗鲡目糯鳗亚目蛇鳗科的其中一种，分布于中东太平洋区，从加利福尼亚湾中部至巴拿马海域，栖息深度35-760公尺，体长可达86公分，栖息在沙泥底质海域，为底栖性鱼类，属肉食性，生活习性不明。
-# translit = dà'éshé鳗,wèifú鳍yúgāng鳗鲡mù糯鳗yàmùshé鳗kēdeqízhōngyīzhǒng,fēnbùyúzhōngdōngtàipíngyángqū,cóngjiālìfú尼yàwānzhōngbùzhìbanámǎhǎiyù,栖xishēndù35-760gōngchǐ,tǐzhǎngkědá86gōngfēn,栖xizàishānídǐzhìhǎiyù,wèidǐ栖xìngyúlèi,shǔròushíxìng,shēnghuóxíxìngbùmíng.
+# translit = dà'éshé鳗,wèifú鳍yúgāng鳗鲡mù糯鳗yàmùshé鳗kēdeqízhōngyīzhǒng,fēnbùyúzhōngdōngtàipíngyángqū,cóngjiālìfúníyàwānzhōngbùzhìbanámǎhǎiyù,栖xishēndù35-760gōngchǐ,tǐzhǎngkědá86gōngfēn,栖xizàishānídǐzhìhǎiyù,wèidǐ栖xìngyúlèi,shǔròushíxìng,shēnghuóxíxìngbùmíng.
 1	大额蛇鳗	大额蛇鳗	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=dà'éshé鳗|LTranslit=dà'éshé鳗
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	为	为	AUX	VC	_	15	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -6456,7 +6456,7 @@
 22	区	区	PART	SFN	_	17	obl	_	SpaceAfter=No|Translit=qū|LTranslit=qū
 23	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 24	从	从	ADP	IN	_	28	advcl	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
-25	加利福尼亚	加利福尼亚	PROPN	NNP	_	26	compound	_	SpaceAfter=No|Translit=jiālìfú尼yà|LTranslit=jiālìfú尼yà
+25	加利福尼亚	加利福尼亚	PROPN	NNP	_	26	compound	_	SpaceAfter=No|Translit=jiālìfúníyà|LTranslit=jiālìfúníyà
 26	湾	湾	PART	SFN	_	27	nmod	_	SpaceAfter=No|Translit=wān|LTranslit=wān
 27	中部	中部	NOUN	NN	_	24	nmod	_	SpaceAfter=No|Translit=zhōngbù|LTranslit=zhōngbù
 28	至	至	ADP	IN	_	17	parataxis	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
@@ -6517,7 +6517,7 @@
 
 # sent_id = test-s236
 # text = 教区成立于1956年12月17日，包括兰巴耶克大区和卡哈马卡大区的圣克鲁斯省。
-# translit = jiàoqūchénglìyú1956nián12yuè17rì,bāokuò兰ba耶kèdàqūhékǎhāmǎkǎdàqūdeshèngkè鲁sīshěng.
+# translit = jiàoqūchénglìyú1956nián12yuè17rì,bāokuòlánbayékèdàqūhékǎhāmǎkǎdàqūdeshèngkèlǔsīshěng.
 1	教区	教区	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
 2	成立	成立	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=chénglì|LTranslit=chénglì
 3	于	于	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
@@ -6529,13 +6529,13 @@
 9	日	日	NOUN	NNB	_	2	obl	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 10	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	包括	包括	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bāokuò|LTranslit=bāokuò
-12	兰巴耶克	兰巴耶克	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit=兰ba耶kè|LTranslit=兰ba耶kè
+12	兰巴耶克	兰巴耶克	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit=lánbayékè|LTranslit=lánbayékè
 13	大区	大区	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=dàqū|LTranslit=dàqū
 14	和	和	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 15	卡哈马卡	卡哈马卡	PROPN	NNP	_	16	nmod	_	SpaceAfter=No|Translit=kǎhāmǎkǎ|LTranslit=kǎhāmǎkǎ
 16	大区	大区	NOUN	NN	_	13	conj	_	SpaceAfter=No|Translit=dàqū|LTranslit=dàqū
 17	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-18	圣克鲁斯	圣克鲁斯	PROPN	NNP	_	19	compound	_	SpaceAfter=No|Translit=shèngkè鲁sī|LTranslit=shèngkè鲁sī
+18	圣克鲁斯	圣克鲁斯	PROPN	NNP	_	19	compound	_	SpaceAfter=No|Translit=shèngkèlǔsī|LTranslit=shèngkèlǔsī
 19	省	省	PART	SFN	_	11	obj	_	SpaceAfter=No|Translit=shěng|LTranslit=shěng
 20	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -6595,9 +6595,9 @@
 
 # sent_id = test-s239
 # text = 教区下辖七十四个堂区，有八十七名司铎。
-# translit = jiàoqūxià辖qīshísìgètángqū,yǒubāshíqīmíngsī铎.
+# translit = jiàoqūxiàxiáqīshísìgètángqū,yǒubāshíqīmíngsī铎.
 1	教区	教区	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
-2	下辖	下辖	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=xià辖|LTranslit=xià辖
+2	下辖	下辖	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=xiàxiá|LTranslit=xiàxiá
 3	七十四	七十四	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=qīshísì|LTranslit=qīshísì
 4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 5	堂区	堂区	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=tángqū|LTranslit=tángqū
@@ -6610,22 +6610,22 @@
 
 # sent_id = test-s240
 # text = 现任主教为朱斯廷·苏敏德。
-# translit = xiànrènzhǔjiàowèi朱sī廷·sūmǐndé.
+# translit = xiànrènzhǔjiàowèi朱sītíng·sūmǐndé.
 1	现任	现任	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=xiànrèn|LTranslit=xiànrèn
 2	主教	主教	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=zhǔjiào|LTranslit=zhǔjiào
 3	为	为	AUX	VC	_	4	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-4	朱斯廷	朱斯廷	PROPN	NNP	_	0	root	_	SpaceAfter=No|Translit=朱sī廷|LTranslit=朱sī廷
+4	朱斯廷	朱斯廷	PROPN	NNP	_	0	root	_	SpaceAfter=No|Translit=朱sītíng|LTranslit=朱sītíng
 5	·	·	PUNCT	/	_	6	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
 6	苏敏德	苏敏德	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No|Translit=sūmǐndé|LTranslit=sūmǐndé
 7	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s241
 # text = 1815年，嘉庆皇帝强化禁教，将法国籍主教徐德新等11名传教士，斩首于成都，并悬头于城门三日。
-# translit = 1815nián,嘉qìnghuángdìqiánghuàjìnjiào,jiāngfǎguójízhǔjiàoxúdéxīnděng11míngchuánjiàoshì,斩shǒuyúchéngdōu,bìngxuántóuyúchéngménsānrì.
+# translit = 1815nián,jiāqìnghuángdìqiánghuàjìnjiào,jiāngfǎguójízhǔjiàoxúdéxīnděng11míngchuánjiàoshì,斩shǒuyúchéngdōu,bìngxuántóuyúchéngménsānrì.
 1	1815	1815	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1815|LTranslit=1815
 2	年	年	NOUN	NNB	_	25	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-4	嘉庆	嘉庆	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=嘉qìng|LTranslit=嘉qìng
+4	嘉庆	嘉庆	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=jiāqìng|LTranslit=jiāqìng
 5	皇帝	皇帝	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=huángdì|LTranslit=huángdì
 6	强化	强化	VERB	VV	_	25	advcl	_	SpaceAfter=No|Translit=qiánghuà|LTranslit=qiánghuà
 7	禁教	禁教	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=jìnjiào|LTranslit=jìnjiào
@@ -6655,9 +6655,9 @@
 
 # sent_id = test-s242
 # text = 教区下辖218个堂区，有327名司铎。
-# translit = jiàoqūxià辖218gètángqū,yǒu327míngsī铎.
+# translit = jiàoqūxiàxiá218gètángqū,yǒu327míngsī铎.
 1	教区	教区	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
-2	下辖	下辖	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=xià辖|LTranslit=xià辖
+2	下辖	下辖	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=xiàxiá|LTranslit=xiàxiá
 3	218	218	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=218|LTranslit=218
 4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 5	堂区	堂区	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=tángqū|LTranslit=tángqū
@@ -6689,7 +6689,7 @@
 
 # sent_id = test-s244
 # text = 教区成立于1969年7月18日，位于布宜诺斯艾利斯省马坦萨县。
-# translit = jiàoqūchénglìyú1969nián7yuè18rì,wèiyúbùyi诺sī艾lìsīshěngmǎtǎnsàxiàn.
+# translit = jiàoqūchénglìyú1969nián7yuè18rì,wèiyúbùyi诺sī'àilìsīshěngmǎtǎnsàxiàn.
 1	教区	教区	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
 2	成立	成立	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=chénglì|LTranslit=chénglì
 3	于	于	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
@@ -6702,7 +6702,7 @@
 10	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	位	位	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 12	于	于	VERB	VV	_	11	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-13	布宜诺斯艾利斯	布宜诺斯艾利斯	PROPN	NNP	_	14	compound	_	SpaceAfter=No|Translit=bùyi诺sī艾lìsī|LTranslit=bùyi诺sī艾lìsī
+13	布宜诺斯艾利斯	布宜诺斯艾利斯	PROPN	NNP	_	14	compound	_	SpaceAfter=No|Translit=bùyi诺sī'àilìsī|LTranslit=bùyi诺sī'àilìsī
 14	省	省	PART	SFN	_	16	nmod	_	SpaceAfter=No|Translit=shěng|LTranslit=shěng
 15	马坦萨	马坦萨	PROPN	NNP	_	16	compound	_	SpaceAfter=No|Translit=mǎtǎnsà|LTranslit=mǎtǎnsà
 16	县	县	PART	SFN	_	11	obj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
@@ -7171,7 +7171,7 @@
 
 # sent_id = test-s261
 # text = 除此之外，天津市河东区还管辖位于河北省涉县的一块飞地，即天津铁厂街道。
-# translit = chúcǐzhīwài,tiānjīnshìhédōngqūháiguǎn辖wèiyúhéběishěngshèxiàndeyīkuàifēide,jítiānjīntiěchǎngjiēdào.
+# translit = chúcǐzhīwài,tiānjīnshìhédōngqūháiguǎnxiáwèiyúhéběishěngshèxiàndeyīkuàifēide,jítiānjīntiěchǎngjiēdào.
 1	除此	除此	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=chúcǐ|LTranslit=chúcǐ
 2	之外	之外	ADP	IN	_	1	mark	_	SpaceAfter=No|Translit=zhīwài|LTranslit=zhīwài
 3	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -7180,7 +7180,7 @@
 6	河东	河东	PROPN	NNP	_	7	compound	_	SpaceAfter=No|Translit=hédōng|LTranslit=hédōng
 7	区	区	PART	SFN	_	9	nsubj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
 8	还	还	ADV	RB	_	9	mark	_	SpaceAfter=No|Translit=hái|LTranslit=hái
-9	管辖	管辖	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=guǎn辖|LTranslit=guǎn辖
+9	管辖	管辖	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=guǎnxiá|LTranslit=guǎnxiá
 10	位	位	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 11	于	于	VERB	VV	_	10	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 12	河北	河北	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit=héběi|LTranslit=héběi
@@ -7199,13 +7199,13 @@
 
 # sent_id = test-s262
 # text = 天津市人民政府驻乌鲁木齐办事处，是中华人民共和国天津市人民政府驻乌鲁木齐市的办事处，该办事处负责领导联络协调、招商引资、信息调研、对外宣传、接待服务以及服务驻乌鲁木齐市天津企业等相关事项。
-# translit = tiānjīnshìrénmínzhèngfǔzhùwū鲁mùqíbànshìchù,shìzhōnghuárénmíngònghéguótiānjīnshìrénmínzhèngfǔzhùwū鲁mùqíshìdebànshìchù,gāibànshìchùfùzélǐngdǎoliánluòxiédiào,zhāoshāngyǐnzī,xìnxidiàoyán,duìwàixuānchuán,jiēdàifúwuyǐjífúwuzhùwū鲁mùqíshìtiānjīnqǐyèděngxiāngguānshìxiàng.
+# translit = tiānjīnshìrénmínzhèngfǔzhùwūlǔmùqíbànshìchù,shìzhōnghuárénmíngònghéguótiānjīnshìrénmínzhèngfǔzhùwūlǔmùqíshìdebànshìchù,gāibànshìchùfùzélǐngdǎoliánluòxiédiào,zhāoshāngyǐnzī,xìnxidiàoyán,duìwàixuānchuán,jiēdàifúwuyǐjífúwuzhùwūlǔmùqíshìtiānjīnqǐyèděngxiāngguānshìxiàng.
 1	天津	天津	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=tiānjīn|LTranslit=tiānjīn
 2	市	市	PART	SFN	_	4	nmod	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 3	人民	人民	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=rénmín|LTranslit=rénmín
 4	政府	政府	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=zhèngfǔ|LTranslit=zhèngfǔ
 5	驻	驻	VERB	VV	_	8	amod	_	SpaceAfter=No|Translit=zhù|LTranslit=zhù
-6	乌鲁木齐	乌鲁木齐	PROPN	NNP	_	5	obj	_	SpaceAfter=No|Translit=wū鲁mùqí|LTranslit=wū鲁mùqí
+6	乌鲁木齐	乌鲁木齐	PROPN	NNP	_	5	obj	_	SpaceAfter=No|Translit=wūlǔmùqí|LTranslit=wūlǔmùqí
 7	办事	办事	VERB	VV	_	8	compound	_	SpaceAfter=No|Translit=bànshì|LTranslit=bànshì
 8	处	处	PART	SFN	_	24	nsubj	_	SpaceAfter=No|Translit=chù|LTranslit=chù
 9	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -7219,7 +7219,7 @@
 17	人民	人民	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=rénmín|LTranslit=rénmín
 18	政府	政府	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=zhèngfǔ|LTranslit=zhèngfǔ
 19	驻	驻	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No|Translit=zhù|LTranslit=zhù
-20	乌鲁木齐	乌鲁木齐	PROPN	NNP	_	21	compound	_	SpaceAfter=No|Translit=wū鲁mùqí|LTranslit=wū鲁mùqí
+20	乌鲁木齐	乌鲁木齐	PROPN	NNP	_	21	compound	_	SpaceAfter=No|Translit=wūlǔmùqí|LTranslit=wūlǔmùqí
 21	市	市	PART	SFN	_	19	obj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 22	的	的	PART	DEC	_	19	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 23	办事	办事	VERB	VV	_	24	compound	_	SpaceAfter=No|Translit=bànshì|LTranslit=bànshì
@@ -7247,7 +7247,7 @@
 45	以及	以及	CCONJ	CC	_	46	cc	_	SpaceAfter=No|Translit=yǐjí|LTranslit=yǐjí
 46	服务	服务	VERB	VV	_	30	conj	_	SpaceAfter=No|Translit=fúwu|LTranslit=fúwu
 47	驻	驻	VERB	VV	_	51	amod	_	SpaceAfter=No|Translit=zhù|LTranslit=zhù
-48	乌鲁木齐	乌鲁木齐	PROPN	NNP	_	49	compound	_	SpaceAfter=No|Translit=wū鲁mùqí|LTranslit=wū鲁mùqí
+48	乌鲁木齐	乌鲁木齐	PROPN	NNP	_	49	compound	_	SpaceAfter=No|Translit=wūlǔmùqí|LTranslit=wūlǔmùqí
 49	市	市	PART	SFN	_	47	obj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 50	天津	天津	PROPN	NNP	_	51	nmod	_	SpaceAfter=No|Translit=tiānjīn|LTranslit=tiānjīn
 51	企业	企业	NOUN	NN	_	46	obj	_	SpaceAfter=No|Translit=qǐyè|LTranslit=qǐyè
@@ -7346,7 +7346,7 @@
 
 # sent_id = test-s267
 # text = 伟是一名国军空军飞行少尉，是来自于一个显赫家族的二少爷。
-# translit = wěishìyīmíngguójūnkōngjūnfēixíngshǎo尉,shìláizìyúyīgèxiǎn赫jiāzúde'èrshǎoye.
+# translit = wěishìyīmíngguójūnkōngjūnfēixíngshǎo尉,shìláizìyúyīgèxiǎnhèjiāzúde'èrshǎoye.
 1	伟	伟	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No|Translit=wěi|LTranslit=wěi
 2	是	是	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
@@ -7362,7 +7362,7 @@
 13	于	于	VERB	VV	_	11	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 15	个	个	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
-16	显赫	显赫	ADJ	JJ	_	17	amod	_	SpaceAfter=No|Translit=xiǎn赫|LTranslit=xiǎn赫
+16	显赫	显赫	ADJ	JJ	_	17	amod	_	SpaceAfter=No|Translit=xiǎnhè|LTranslit=xiǎnhè
 17	家族	家族	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=jiāzú|LTranslit=jiāzú
 18	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 19	二	二	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit='èr|LTranslit='èr
@@ -7432,7 +7432,7 @@
 
 # sent_id = test-s270
 # text = 他也写了许多给管乐团的曲目，其作品有被东京佼成管乐团选作录音。
-# translit = tāyěxiělexǔduōgěiguǎnlètuándeqūmù,qízuòpǐnyǒubèidōng京佼chéngguǎnlètuánxuǎnzuòlùyīn.
+# translit = tāyěxiělexǔduōgěiguǎnlètuándeqūmù,qízuòpǐnyǒubèidōngjīng佼chéngguǎnlètuánxuǎnzuòlùyīn.
 1	他	他	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	也	也	ADV	RB	_	3	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 3	写	写	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xiě|LTranslit=xiě
@@ -7447,7 +7447,7 @@
 12	作品	作品	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=zuòpǐn|LTranslit=zuòpǐn
 13	有	有	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 14	被	被	AUX	BB	Voice=Pass	18	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-15	东京	东京	PROPN	NNP	_	17	nmod	_	SpaceAfter=No|Translit=dōng京|LTranslit=dōng京
+15	东京	东京	PROPN	NNP	_	17	nmod	_	SpaceAfter=No|Translit=dōngjīng|LTranslit=dōngjīng
 16	佼成	佼成	PROPN	NNP	_	17	nmod	_	SpaceAfter=No|Translit=佼chéng|LTranslit=佼chéng
 17	管乐团	管乐团	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=guǎnlètuán|LTranslit=guǎnlètuán
 18	选作	选作	VERB	VV	_	13	ccomp	_	SpaceAfter=No|Translit=xuǎnzuò|LTranslit=xuǎnzuò
@@ -7604,7 +7604,7 @@
 
 # sent_id = test-s277
 # text = 本岛东部有一片热带海岸林，其树高可达20公尺，主要以檄树、榄仁树、莲叶桐、葛塔德木、草海桐、白水木、海柠檬、藤蟛蜞菊、长柄菊、长鞍藤、葛蕾草等乔木为主，林间杂有林投、可可椰子。
-# translit = běndǎodōngbùyǒuyīpiànrèdàihǎi'ànlín,qíshùgāokědá20gōngchǐ,zhǔyàoyǐ檄shù,榄仁shù,莲yè桐,葛tǎdémù,cǎohǎi桐,báishuǐmù,hǎi柠檬,téng蟛蜞jú,zhǎngbǐngjú,zhǎng鞍téng,葛蕾cǎoděng乔mùwèizhǔ,línjiānzáyǒulíntóu,kěkě椰zi.
+# translit = běndǎodōngbùyǒuyīpiànrèdàihǎi'ànlín,qíshùgāokědá20gōngchǐ,zhǔyàoyǐ檄shù,榄rénshù,莲yè桐,葛tǎdémù,cǎohǎi桐,báishuǐmù,hǎi柠檬,téng蟛蜞jú,zhǎngbǐngjú,zhǎng鞍téng,葛蕾cǎoděng乔mùwèizhǔ,línjiānzáyǒulíntóu,kěkě椰zi.
 1	本岛	本岛	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=běndǎo|LTranslit=běndǎo
 2	东部	东部	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=dōngbù|LTranslit=dōngbù
 3	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
@@ -7625,7 +7625,7 @@
 18	以	以	VERB	VV	Voice=Cau	46	advcl	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
 19	檄树	檄树	NOUN	NN	_	43	nsubj	_	SpaceAfter=No|Translit=檄shù|LTranslit=檄shù
 20	、	、	PUNCT	EC	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-21	榄仁树	榄仁树	NOUN	NN	_	19	conj	_	SpaceAfter=No|Translit=榄仁shù|LTranslit=榄仁shù
+21	榄仁树	榄仁树	NOUN	NN	_	19	conj	_	SpaceAfter=No|Translit=榄rénshù|LTranslit=榄rénshù
 22	、	、	PUNCT	EC	_	23	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 23	莲叶桐	莲叶桐	NOUN	NN	_	19	conj	_	SpaceAfter=No|Translit=莲yè桐|LTranslit=莲yè桐
 24	、	、	PUNCT	EC	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -7658,10 +7658,10 @@
 
 # sent_id = test-s278
 # text = 他对澳大利亚报纸谈到：“与其在无核议题这种遗物上试图说服对方，不如把精力集中于我们能够合作的事情上。”
-# translit = tāduì澳dàlìyàbàozhǐtándào:“yǔqízàiwúhéyìtízhèzhǒngyíwùshàngshìtúshuōfúduìfāng,bùrúbǎjīnglìjízhōngyúwǒmennénggòuhézuòdeshìqíngshàng.”
+# translit = tāduì'àodàlìyàbàozhǐtándào:“yǔqízàiwúhéyìtízhèzhǒngyíwùshàngshìtúshuōfúduìfāng,bùrúbǎjīnglìjízhōngyúwǒmennénggòuhézuòdeshìqíngshàng.”
 1	他	他	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	对	对	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
-3	澳大利亚	澳大利亚	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=澳dàlìyà|LTranslit=澳dàlìyà
+3	澳大利亚	澳大利亚	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit='àodàlìyà|LTranslit='àodàlìyà
 4	报纸	报纸	NOUN	NN	_	5	obl	_	SpaceAfter=No|Translit=bàozhǐ|LTranslit=bàozhǐ
 5	谈到	谈到	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tándào|LTranslit=tándào
 6	：	：	PUNCT	:	_	20	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
@@ -7694,14 +7694,14 @@
 
 # sent_id = test-s279
 # text = 在此条约之下的美澳同盟仍然完全有效，两国的国防部长经常列席年度部长级会议，美国太平洋地区总司令和澳洲参谋总长也常进行咨商，美国国务卿和澳洲外交部长每年会就条约相关事务进行会议，第17届部长级会议在2005年11月澳洲阿德莱德召开。
-# translit = zàicǐtiáoyuēzhīxiàdeměi澳tóngméngréngránwánquányǒuxiào,liǎngguódeguófángbùzhǎngjīngchánglièxíniándùbùzhǎngjíhuìyì,měiguótàipíngyángdeqūzǒngsīlìnghé澳zhōucānmóuzǒngzhǎngyěchángjìnxíng咨shāng,měiguóguówu卿hé澳zhōuwàijiāobùzhǎngměiniánhuìjiùtiáoyuēxiāngguānshìwujìnxínghuìyì,dì17jièbùzhǎngjíhuìyìzài2005nián11yuè澳zhōu'ādé莱dézhàokāi.
+# translit = zàicǐtiáoyuēzhīxiàdeměi'àotóngméngréngránwánquányǒuxiào,liǎngguódeguófángbùzhǎngjīngchánglièxíniándùbùzhǎngjíhuìyì,měiguótàipíngyángdeqūzǒngsīlìnghé'àozhōucānmóuzǒngzhǎngyěchángjìnxíng咨shāng,měiguóguówu卿hé'àozhōuwàijiāobùzhǎngměiniánhuìjiùtiáoyuēxiāngguānshìwujìnxínghuìyì,dì17jièbùzhǎngjíhuìyìzài2005nián11yuè'àozhōu'ādé莱dézhàokāi.
 1	在	在	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	此	此	DET	DT	_	3	det	_	SpaceAfter=No|Translit=cǐ|LTranslit=cǐ
 3	条约	条约	NOUN	NN	_	1	nmod	_	SpaceAfter=No|Translit=tiáoyuē|LTranslit=tiáoyuē
 4	之下	之下	ADP	IN	_	3	acl	_	SpaceAfter=No|Translit=zhīxià|LTranslit=zhīxià
 5	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	美	美	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit=měi|LTranslit=měi
-7	澳	澳	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit=澳|LTranslit=澳
+7	澳	澳	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit='ào|LTranslit='ào
 8	同盟	同盟	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=tóngméng|LTranslit=tóngméng
 9	仍然	仍然	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=réngrán|LTranslit=réngrán
 10	完全	完全	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=wánquán|LTranslit=wánquán
@@ -7726,7 +7726,7 @@
 29	总	总	PART	PFA	_	30	case	_	SpaceAfter=No|Translit=zǒng|LTranslit=zǒng
 30	司令	司令	NOUN	NN	_	37	nsubj	_	SpaceAfter=No|Translit=sīlìng|LTranslit=sīlìng
 31	和	和	CCONJ	CC	_	34	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
-32	澳洲	澳洲	PROPN	NNP	_	34	nmod	_	SpaceAfter=No|Translit=澳zhōu|LTranslit=澳zhōu
+32	澳洲	澳洲	PROPN	NNP	_	34	nmod	_	SpaceAfter=No|Translit='àozhōu|LTranslit='àozhōu
 33	参谋	参谋	NOUN	NN	_	34	nmod	_	SpaceAfter=No|Translit=cānmóu|LTranslit=cānmóu
 34	总长	总长	NOUN	NN	_	30	conj	_	SpaceAfter=No|Translit=zǒngzhǎng|LTranslit=zǒngzhǎng
 35	也	也	ADV	RB	_	37	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
@@ -7737,7 +7737,7 @@
 40	美国	美国	PROPN	NNP	_	41	nmod	_	SpaceAfter=No|Translit=měiguó|LTranslit=měiguó
 41	国务卿	国务卿	NOUN	NN	_	52	nsubj	_	SpaceAfter=No|Translit=guówu卿|LTranslit=guówu卿
 42	和	和	CCONJ	CC	_	45	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
-43	澳洲	澳洲	PROPN	NNP	_	45	nmod	_	SpaceAfter=No|Translit=澳zhōu|LTranslit=澳zhōu
+43	澳洲	澳洲	PROPN	NNP	_	45	nmod	_	SpaceAfter=No|Translit='àozhōu|LTranslit='àozhōu
 44	外交	外交	NOUN	NN	_	45	nmod	_	SpaceAfter=No|Translit=wàijiāo|LTranslit=wàijiāo
 45	部长	部长	NOUN	NN	_	41	conj	_	SpaceAfter=No|Translit=bùzhǎng|LTranslit=bùzhǎng
 46	每年	每年	DET	DT	_	52	obl	_	SpaceAfter=No|Translit=měinián|LTranslit=měinián
@@ -7759,7 +7759,7 @@
 62	年	年	NOUN	NNB	_	64	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 63	11	11	NUM	CD	NumType=Card	64	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
 64	月	月	NOUN	NNB	_	67	obl	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
-65	澳洲	澳洲	PROPN	NNP	_	66	nmod	_	SpaceAfter=No|Translit=澳zhōu|LTranslit=澳zhōu
+65	澳洲	澳洲	PROPN	NNP	_	66	nmod	_	SpaceAfter=No|Translit='àozhōu|LTranslit='àozhōu
 66	阿德莱德	阿德莱德	PROPN	NNP	_	67	obl	_	SpaceAfter=No|Translit='ādé莱dé|LTranslit='ādé莱dé
 67	召开	召开	VERB	VV	_	11	parataxis	_	SpaceAfter=No|Translit=zhàokāi|LTranslit=zhàokāi
 68	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -7812,7 +7812,7 @@
 
 # sent_id = test-s282
 # text = 但是在本剧后半有关观应之乱等故事，则是吉川原作没有的创作。
-# translit = dànshìzàiběnjùhòubànyǒuguānguānyīngzhīluànděnggùshì,zéshìjí川yuánzuòméiyǒudechuàngzuò.
+# translit = dànshìzàiběnjùhòubànyǒuguānguānyīngzhīluànděnggùshì,zéshìjíchuānyuánzuòméiyǒudechuàngzuò.
 1	但是	但是	ADV	RB	_	17	mark	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
 2	在	在	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 3	本剧	本剧	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=běnjù|LTranslit=běnjù
@@ -7825,7 +7825,7 @@
 10	故事	故事	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=gùshì|LTranslit=gùshì
 11	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 12	则是	则是	AUX	VC	_	17	cop	_	SpaceAfter=No|Translit=zéshì|LTranslit=zéshì
-13	吉川	吉川	PROPN	NNP	_	14	nmod	_	SpaceAfter=No|Translit=jí川|LTranslit=jí川
+13	吉川	吉川	PROPN	NNP	_	14	nmod	_	SpaceAfter=No|Translit=jíchuān|LTranslit=jíchuān
 14	原作	原作	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=yuánzuò|LTranslit=yuánzuò
 15	没有	没有	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
 16	的	的	PART	DEC	_	15	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -7834,7 +7834,7 @@
 
 # sent_id = test-s283
 # text = 太平里乡原属湖南省宜章县下辖乡，2012年4月撤销，与沙坪乡一起成建制合并至新设的五岭乡。
-# translit = tàipínglǐxiāngyuánshǔhúnánshěngyizhāngxiànxià辖xiāng,2012nián4yuèchèxiāo,yǔshā坪xiāngyīqǐchéngjiànzhìhébìngzhìxīnshèdewǔlǐngxiāng.
+# translit = tàipínglǐxiāngyuánshǔhúnánshěngyizhāngxiànxiàxiáxiāng,2012nián4yuèchèxiāo,yǔshā坪xiāngyīqǐchéngjiànzhìhébìngzhìxīnshèdewǔlǐngxiāng.
 1	太平	太平	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=tàipíng|LTranslit=tàipíng
 2	里	里	PART	SFN	_	3	compound	_	SpaceAfter=No|Translit=lǐ|LTranslit=lǐ
 3	乡	乡	PART	SFN	_	24	nsubj	_	SpaceAfter=No|Translit=xiāng|LTranslit=xiāng
@@ -7843,7 +7843,7 @@
 6	省	省	PART	SFN	_	10	nmod	_	SpaceAfter=No|Translit=shěng|LTranslit=shěng
 7	宜章	宜章	PROPN	NNP	_	8	compound	_	SpaceAfter=No|Translit=yizhāng|LTranslit=yizhāng
 8	县	县	PART	SFN	_	10	nmod	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
-9	下辖	下辖	VERB	VV	_	10	compound	_	SpaceAfter=No|Translit=xià辖|LTranslit=xià辖
+9	下辖	下辖	VERB	VV	_	10	compound	_	SpaceAfter=No|Translit=xiàxiá|LTranslit=xiàxiá
 10	乡	乡	PART	SFN	_	4	obj	_	SpaceAfter=No|Translit=xiāng|LTranslit=xiāng
 11	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 12	2012	2012	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=2012|LTranslit=2012
@@ -8042,8 +8042,8 @@
 
 # sent_id = test-s290
 # text = 赫伯特的一些日记被送回英国，到了丹尼尔手里。
-# translit = 赫bótèdeyīxiērìjìbèisònghuíyīngguó,dàoledān尼'ěrshǒulǐ.
-1	赫伯特	赫伯特	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=赫bótè|LTranslit=赫bótè
+# translit = hèbótèdeyīxiērìjìbèisònghuíyīngguó,dàoledānní'ěrshǒulǐ.
+1	赫伯特	赫伯特	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=hèbótè|LTranslit=hèbótè
 2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 3	一些	一些	ADJ	JJ	_	4	amod	_	SpaceAfter=No|Translit=yīxiē|LTranslit=yīxiē
 4	日记	日记	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=rìjì|LTranslit=rìjì
@@ -8053,20 +8053,20 @@
 8	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	到	到	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 10	了	了	AUX	AS	Aspect=Perf	9	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-11	丹尼尔	丹尼尔	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=dān尼'ěr|LTranslit=dān尼'ěr
+11	丹尼尔	丹尼尔	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=dānní'ěr|LTranslit=dānní'ěr
 12	手里	手里	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=shǒulǐ|LTranslit=shǒulǐ
 13	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s291
 # text = 同时，凌统骗曹仁误信周瑜大营仍有大军留守，未予以全力袭击。
-# translit = tóngshí,凌tǒngpiàn曹仁wùxìnzhōu瑜dàyíngréngyǒudàjūnliúshǒu,wèiyǔyǐquánlìxíjī.
+# translit = tóngshí,凌tǒngpiàn曹rénwùxìnzhōu瑜dàyíngréngyǒudàjūnliúshǒu,wèiyǔyǐquánlìxíjī.
 1	同时	同时	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No|Translit=tóngshí|LTranslit=tóngshí
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	凌	凌	PROPN	NNP	_	5	nsubj	_	SpaceAfter=No|Translit=凌|LTranslit=凌
 4	统	统	PROPN	NNP	_	3	flat:name	_	SpaceAfter=No|Translit=tǒng|LTranslit=tǒng
 5	骗	骗	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No|Translit=piàn|LTranslit=piàn
 6	曹	曹	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No|Translit=曹|LTranslit=曹
-7	仁	仁	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No|Translit=仁|LTranslit=仁
+7	仁	仁	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 8	误信	误信	VERB	VV	_	5	ccomp	_	SpaceAfter=No|Translit=wùxìn|LTranslit=wùxìn
 9	周	周	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=zhōu|LTranslit=zhōu
 10	瑜	瑜	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=瑜|LTranslit=瑜
@@ -8178,8 +8178,8 @@
 
 # sent_id = test-s296
 # text = 辖区北部属于中国山地，多为山林地，南部为日本原高原。
-# translit = 辖qūběibùshǔyúzhōngguóshānde,duōwèishānlínde,nánbùwèirìběnyuángāoyuán.
-1	辖区	辖区	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=辖qū|LTranslit=辖qū
+# translit = xiáqūběibùshǔyúzhōngguóshānde,duōwèishānlínde,nánbùwèirìběnyuángāoyuán.
+1	辖区	辖区	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=xiáqū|LTranslit=xiáqū
 2	北部	北部	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=běibù|LTranslit=běibù
 3	属	属	VERB	VV	_	11	acl	_	SpaceAfter=No|Translit=shǔ|LTranslit=shǔ
 4	于	于	VERB	VV	_	3	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
@@ -8321,7 +8321,7 @@
 
 # sent_id = test-s301
 # text = 中世纪的印度大哲学家商羯罗选出一些重要的奥义书作注，称它们为“主要奥义书”（Mukhya Upanishad）。
-# translit = zhōngshìjìdeyìndùdàzhéxuéjiāshāng羯罗xuǎnchūyīxiēzhòngyàode奥yìshūzuòzhù,chēngtāmenwèi“zhǔyào奥yìshū”(Mukhya Upanishad).
+# translit = zhōngshìjìdeyìndùdàzhéxuéjiāshāng羯luōxuǎnchūyīxiēzhòngyàode'àoyìshūzuòzhù,chēngtāmenwèi“zhǔyào'àoyìshū”(Mukhya Upanishad).
 1	中	中	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 2	世纪	世纪	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=shìjì|LTranslit=shìjì
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -8329,12 +8329,12 @@
 5	大	大	PART	PFA	_	7	case	_	SpaceAfter=No|Translit=dà|LTranslit=dà
 6	哲学	哲学	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=zhéxué|LTranslit=zhéxué
 7	家	家	PART	SFN	_	17	nsubj	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
-8	商羯罗	商羯罗	PROPN	NNP	_	7	appos	_	SpaceAfter=No|Translit=shāng羯罗|LTranslit=shāng羯罗
+8	商羯罗	商羯罗	PROPN	NNP	_	7	appos	_	SpaceAfter=No|Translit=shāng羯luō|LTranslit=shāng羯luō
 9	选出	选出	VERB	VV	_	17	advcl	_	SpaceAfter=No|Translit=xuǎnchū|LTranslit=xuǎnchū
 10	一些	一些	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit=yīxiē|LTranslit=yīxiē
 11	重要	重要	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit=zhòngyào|LTranslit=zhòngyào
 12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-13	奥义	奥义	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=奥yì|LTranslit=奥yì
+13	奥义	奥义	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit='àoyì|LTranslit='àoyì
 14	书	书	PART	SFN	_	9	obj	_	SpaceAfter=No|Translit=shū|LTranslit=shū
 15	作注	作注	VERB	VV	_	17	advcl	_	SpaceAfter=No|Translit=zuòzhù|LTranslit=zuòzhù
 16	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -8343,7 +8343,7 @@
 19	为	为	AUX	VC	_	23	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 20	“	“	PUNCT	``	_	23	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 21	主要	主要	ADJ	JJ	_	23	amod	_	SpaceAfter=No|Translit=zhǔyào|LTranslit=zhǔyào
-22	奥义	奥义	NOUN	NN	_	23	compound	_	SpaceAfter=No|Translit=奥yì|LTranslit=奥yì
+22	奥义	奥义	NOUN	NN	_	23	compound	_	SpaceAfter=No|Translit='àoyì|LTranslit='àoyì
 23	书	书	PART	SFN	_	17	ccomp	_	SpaceAfter=No|Translit=shū|LTranslit=shū
 24	”	”	PUNCT	''	_	23	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 25	（	（	PUNCT	(	_	26	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
@@ -8370,7 +8370,7 @@
 
 # sent_id = test-s303
 # text = 城市地标为伊欧拉湖（Lake Eola），而奥兰多市长为巴迪·戴尔（Buddy Dyer）。
-# translit = chéngshìdebiāowèiyī'ōulāhú(Lake Eola),'ér奥兰duōshìzhǎngwèiba迪·dài'ěr(Buddy Dyer).
+# translit = chéngshìdebiāowèiyī'ōulāhú(Lake Eola),'ér'àolánduōshìzhǎngwèibadí·dài'ěr(Buddy Dyer).
 1	城市	城市	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=chéngshì|LTranslit=chéngshì
 2	地标	地标	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=debiāo|LTranslit=debiāo
 3	为	为	AUX	VC	_	5	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -8382,10 +8382,10 @@
 9	）	）	PUNCT	)	_	7	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 10	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	而	而	ADV	RB	_	15	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
-12	奥兰多	奥兰多	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit=奥兰duō|LTranslit=奥兰duō
+12	奥兰多	奥兰多	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit='àolánduō|LTranslit='àolánduō
 13	市长	市长	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=shìzhǎng|LTranslit=shìzhǎng
 14	为	为	AUX	VC	_	15	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-15	巴迪	巴迪	PROPN	NNP	_	5	parataxis	_	SpaceAfter=No|Translit=ba迪|LTranslit=ba迪
+15	巴迪	巴迪	PROPN	NNP	_	5	parataxis	_	SpaceAfter=No|Translit=badí|LTranslit=badí
 16	·	·	PUNCT	/	_	17	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
 17	戴尔	戴尔	PROPN	NNP	_	15	flat:name	_	SpaceAfter=No|Translit=dài'ěr|LTranslit=dài'ěr
 18	（	（	PUNCT	(	_	19	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
@@ -8438,7 +8438,7 @@
 
 # sent_id = test-s306
 # text = 离开本国很久的阿凯亚首领们纷纷回国，奥德修斯也带着他的伙伴，乘船向他的故乡伊塔克出发。
-# translit = líkāiběnguóhěnjiǔde'ā凯yàshǒulǐngmenfēnfēnhuíguó,奥déxiūsīyědàizhetādehuǒbàn,chéngchuánxiàngtādegùxiāngyītǎkèchūfā.
+# translit = líkāiběnguóhěnjiǔde'ā凯yàshǒulǐngmenfēnfēnhuíguó,'àodéxiūsīyědàizhetādehuǒbàn,chéngchuánxiàngtādegùxiāngyītǎkèchūfā.
 1	离开	离开	AUX	VV	_	3	cop	_	SpaceAfter=No|Translit=líkāi|LTranslit=líkāi
 2	本国	本国	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=běnguó|LTranslit=běnguó
 3	很久	很久	ADJ	JJ	_	7	acl:relcl	_	SpaceAfter=No|Translit=hěnjiǔ|LTranslit=hěnjiǔ
@@ -8449,7 +8449,7 @@
 8	纷纷	纷纷	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=fēnfēn|LTranslit=fēnfēn
 9	回国	回国	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=huíguó|LTranslit=huíguó
 10	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-11	奥德修斯	奥德修斯	PROPN	NNP	_	25	nsubj	_	SpaceAfter=No|Translit=奥déxiūsī|LTranslit=奥déxiūsī
+11	奥德修斯	奥德修斯	PROPN	NNP	_	25	nsubj	_	SpaceAfter=No|Translit='àodéxiūsī|LTranslit='àodéxiūsī
 12	也	也	ADV	RB	_	25	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 13	带	带	VERB	VV	_	25	advcl	_	SpaceAfter=No|Translit=dài|LTranslit=dài
 14	着	着	AUX	AS	Aspect=Prog	13	aux	_	SpaceAfter=No|Translit=zhe|LTranslit=zhe
@@ -8468,7 +8468,7 @@
 
 # sent_id = test-s307
 # text = 1945年3月，苏军攻打柯尼斯堡。
-# translit = 1945nián3yuè,sūjūngōngdǎ柯尼sībǎo.
+# translit = 1945nián3yuè,sūjūngōngdǎ柯nísībǎo.
 1	1945	1945	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1945|LTranslit=1945
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	3	3	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
@@ -8477,7 +8477,7 @@
 6	苏	苏	PROPN	NNP	_	7	compound	_	SpaceAfter=No|Translit=sū|LTranslit=sū
 7	军	军	PART	SFN	_	8	nsubj	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
 8	攻打	攻打	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gōngdǎ|LTranslit=gōngdǎ
-9	柯尼斯堡	柯尼斯堡	PROPN	NNP	_	8	obj	_	SpaceAfter=No|Translit=柯尼sībǎo|LTranslit=柯尼sībǎo
+9	柯尼斯堡	柯尼斯堡	PROPN	NNP	_	8	obj	_	SpaceAfter=No|Translit=柯nísībǎo|LTranslit=柯nísībǎo
 10	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s308
@@ -8519,12 +8519,12 @@
 
 # sent_id = test-s309
 # text = 奥斯曼旗帜是指奥斯曼王朝苏丹使用的任何一面旗帜，包括奥斯曼帝国的各种旗帜，以及苏丹在不同场合使用的旗帜。
-# translit = 奥sī曼qízhìshìzhǐ奥sī曼wángcháosūdānshǐyòngderènhéyīmiànqízhì,bāokuò奥sī曼dìguódegèzhǒngqízhì,yǐjísūdānzàibùtóngchǎnghéshǐyòngdeqízhì.
-1	奥斯曼	奥斯曼	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=奥sī曼|LTranslit=奥sī曼
+# translit = 'àosīmànqízhìshìzhǐ'àosīmànwángcháosūdānshǐyòngderènhéyīmiànqízhì,bāokuò'àosīmàndìguódegèzhǒngqízhì,yǐjísūdānzàibùtóngchǎnghéshǐyòngdeqízhì.
+1	奥斯曼	奥斯曼	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit='àosīmàn|LTranslit='àosīmàn
 2	旗帜	旗帜	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=qízhì|LTranslit=qízhì
 3	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 4	指	指	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=zhǐ|LTranslit=zhǐ
-5	奥斯曼	奥斯曼	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit=奥sī曼|LTranslit=奥sī曼
+5	奥斯曼	奥斯曼	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit='àosīmàn|LTranslit='àosīmàn
 6	王朝	王朝	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=wángcháo|LTranslit=wángcháo
 7	苏丹	苏丹	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=sūdān|LTranslit=sūdān
 8	使用	使用	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=shǐyòng|LTranslit=shǐyòng
@@ -8535,7 +8535,7 @@
 13	旗帜	旗帜	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=qízhì|LTranslit=qízhì
 14	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 15	包括	包括	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=bāokuò|LTranslit=bāokuò
-16	奥斯曼	奥斯曼	PROPN	NNP	_	17	nmod	_	SpaceAfter=No|Translit=奥sī曼|LTranslit=奥sī曼
+16	奥斯曼	奥斯曼	PROPN	NNP	_	17	nmod	_	SpaceAfter=No|Translit='àosīmàn|LTranslit='àosīmàn
 17	帝国	帝国	NOUN	NN	_	20	nmod	_	SpaceAfter=No|Translit=dìguó|LTranslit=dìguó
 18	的	的	PART	DEC	Case=Gen	17	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 19	各种	各种	DET	DT	_	20	det	_	SpaceAfter=No|Translit=gèzhǒng|LTranslit=gèzhǒng
@@ -8553,7 +8553,7 @@
 
 # sent_id = test-s310
 # text = 镇上有3630人口（2010年1月1日），一个火车站（由丹麦国有铁路运营）和到欧登塞和斯文堡的公交车（由菲英公交公司运营）。
-# translit = zhènshàngyǒu3630rénkǒu(2010nián1yuè1rì),yīgèhuǒchēzhàn(yóudānmàiguóyǒutiělùyùnyíng)hédào'ōudēngsāihésīwénbǎodegōngjiāochē(yóu菲yīnggōngjiāogōngsīyùnyíng).
+# translit = zhènshàngyǒu3630rénkǒu(2010nián1yuè1rì),yīgèhuǒchēzhàn(yóudānmàiguóyǒutiělùyùnyíng)hédào'ōudēngsāihésīwénbǎodegōngjiāochē(yóufēiyīnggōngjiāogōngsīyùnyíng).
 1	镇上	镇上	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=zhènshàng|LTranslit=zhènshàng
 2	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 3	3630	3630	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=3630|LTranslit=3630
@@ -8589,7 +8589,7 @@
 33	车	车	PART	SFN	_	4	conj	_	SpaceAfter=No|Translit=chē|LTranslit=chē
 34	（	（	PUNCT	(	_	35	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 35	由	由	VERB	VV	_	2	parataxis	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
-36	菲英	菲英	PROPN	NNP	_	38	nmod	_	SpaceAfter=No|Translit=菲yīng|LTranslit=菲yīng
+36	菲英	菲英	PROPN	NNP	_	38	nmod	_	SpaceAfter=No|Translit=fēiyīng|LTranslit=fēiyīng
 37	公交	公交	NOUN	NN	_	38	nmod	_	SpaceAfter=No|Translit=gōngjiāo|LTranslit=gōngjiāo
 38	公司	公司	NOUN	NN	_	39	nsubj	_	SpaceAfter=No|Translit=gōngsī|LTranslit=gōngsī
 39	运营	运营	VERB	VV	_	35	ccomp	_	SpaceAfter=No|Translit=yùnyíng|LTranslit=yùnyíng
@@ -8664,8 +8664,8 @@
 
 # sent_id = test-s313
 # text = 勒维耶推测是因为存在一颗未知行星的引力作用，使天王星的轨道运动受到干扰，也就是天文学上所谓的“摄动”影响。
-# translit = lēiwéi耶tuīcèshìyīnwèicúnzàiyīkēwèizhīxíngxīngdeyǐnlìzuòyòng,shǐtiānwángxīngdeguǐdàoyùndòngshòudàogànrǎo,yějiùshìtiānwénxuéshàngsuǒwèide“shèdòng”yǐngxiǎng.
-1	勒维耶	勒维耶	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=lēiwéi耶|LTranslit=lēiwéi耶
+# translit = lēiwéiyétuīcèshìyīnwèicúnzàiyīkēwèizhīxíngxīngdeyǐnlìzuòyòng,shǐtiānwángxīngdeguǐdàoyùndòngshòudàogànrǎo,yějiùshìtiānwénxuéshàngsuǒwèide“shèdòng”yǐngxiǎng.
+1	勒维耶	勒维耶	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=lēiwéiyé|LTranslit=lēiwéiyé
 2	推测	推测	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tuīcè|LTranslit=tuīcè
 3	是	是	VERB	VC	_	34	csubj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 4	因为	因为	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
@@ -8703,12 +8703,12 @@
 
 # sent_id = test-s314
 # text = 1980年代中期起奥林匹亚公司的经济状况开始变坏。
-# translit = 1980niándàizhōngqīqǐ奥línpǐyàgōngsīdejīngjìzhuàngkuàngkāishǐbiànhuài.
+# translit = 1980niándàizhōngqīqǐ'àolínpǐyàgōngsīdejīngjìzhuàngkuàngkāishǐbiànhuài.
 1	1980	1980	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1980|LTranslit=1980
 2	年代	年代	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=niándài|LTranslit=niándài
 3	中期	中期	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No|Translit=zhōngqī|LTranslit=zhōngqī
 4	起	起	ADP	IN	_	3	acl	_	SpaceAfter=No|Translit=qǐ|LTranslit=qǐ
-5	奥林匹亚	奥林匹亚	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=奥línpǐyà|LTranslit=奥línpǐyà
+5	奥林匹亚	奥林匹亚	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit='àolínpǐyà|LTranslit='àolínpǐyà
 6	公司	公司	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=gōngsī|LTranslit=gōngsī
 7	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	经济	经济	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=jīngjì|LTranslit=jīngjì
@@ -8733,7 +8733,7 @@
 
 # sent_id = test-s316
 # text = 2009年，希腊政府面对负债累累的奥林匹克航空公司，决定实行私有化计划。
-# translit = 2009nián,xī腊zhèngfǔmiànduìfùzhàilèilèide奥línpǐkèhángkōnggōngsī,juédìngshíxíngsīyǒuhuàjìhuà.
+# translit = 2009nián,xī腊zhèngfǔmiànduìfùzhàilèilèide'àolínpǐkèhángkōnggōngsī,juédìngshíxíngsīyǒuhuàjìhuà.
 1	2009	2009	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2009|LTranslit=2009
 2	年	年	NOUN	NNB	_	14	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -8743,7 +8743,7 @@
 7	负债	负债	AUX	VV	_	8	cop	_	SpaceAfter=No|Translit=fùzhài|LTranslit=fùzhài
 8	累累	累累	ADJ	JJ	_	12	acl:relcl	_	SpaceAfter=No|Translit=lèilèi|LTranslit=lèilèi
 9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-10	奥林匹克	奥林匹克	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=奥línpǐkè|LTranslit=奥línpǐkè
+10	奥林匹克	奥林匹克	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit='àolínpǐkè|LTranslit='àolínpǐkè
 11	航空	航空	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=hángkōng|LTranslit=hángkōng
 12	公司	公司	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=gōngsī|LTranslit=gōngsī
 13	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -8756,7 +8756,7 @@
 
 # sent_id = test-s317
 # text = 1689年英国在光荣革命后加入同盟，奥格斯堡同盟改称“大同盟”，此时与法国发生激烈的大同盟战争（1688-1697年，又称“九年战争”），虽未能战胜法国陆军，但一定程度上维持住欧洲的势力均衡。
-# translit = 1689niányīngguózàiguāngrónggémìnghòujiārùtóngméng,奥gésībǎotóngménggǎichēng“dàtóngméng”,cǐshíyǔfǎguófāshēngjīlièdedàtóngméngzhànzhēng(1688-1697nián,yòuchēng“jiǔniánzhànzhēng”),suīwèinéngzhànshèngfǎguólùjūn,dànyīdìngchéngdùshàngwéichízhù'ōuzhōudeshìlìjūnhéng.
+# translit = 1689niányīngguózàiguāngrónggémìnghòujiārùtóngméng,'àogésībǎotóngménggǎichēng“dàtóngméng”,cǐshíyǔfǎguófāshēngjīlièdedàtóngméngzhànzhēng(1688-1697nián,yòuchēng“jiǔniánzhànzhēng”),suīwèinéngzhànshèngfǎguólùjūn,dànyīdìngchéngdùshàngwéichízhù'ōuzhōudeshìlìjūnhéng.
 1	1689	1689	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1689|LTranslit=1689
 2	年	年	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	英国	英国	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No|Translit=yīngguó|LTranslit=yīngguó
@@ -8767,7 +8767,7 @@
 8	加入	加入	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jiārù|LTranslit=jiārù
 9	同盟	同盟	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=tóngméng|LTranslit=tóngméng
 10	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-11	奥格斯堡	奥格斯堡	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=奥gésībǎo|LTranslit=奥gésībǎo
+11	奥格斯堡	奥格斯堡	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit='àogésībǎo|LTranslit='àogésībǎo
 12	同盟	同盟	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=tóngméng|LTranslit=tóngméng
 13	改称	改称	VERB	VV	_	8	parataxis	_	SpaceAfter=No|Translit=gǎichēng|LTranslit=gǎichēng
 14	“	“	PUNCT	``	_	16	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
@@ -8845,7 +8845,7 @@
 
 # sent_id = test-s319
 # text = 该小镇位于布莱克伍德河流入弗林德斯湾的河口旁。
-# translit = gāixiǎozhènwèiyúbù莱kèwudéhéliúrù弗líndésīwāndehékǒupáng.
+# translit = gāixiǎozhènwèiyúbù莱kèwudéhéliúrùfúlíndésīwāndehékǒupáng.
 1	该	该	DET	DT	_	2	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
 2	小镇	小镇	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=xiǎozhèn|LTranslit=xiǎozhèn
 3	位	位	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -8853,7 +8853,7 @@
 5	布莱克伍德	布莱克伍德	PROPN	NNP	_	6	compound	_	SpaceAfter=No|Translit=bù莱kèwudé|LTranslit=bù莱kèwudé
 6	河	河	PART	SFN	_	7	nsubj	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 7	流入	流入	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=liúrù|LTranslit=liúrù
-8	弗林德斯	弗林德斯	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=弗líndésī|LTranslit=弗líndésī
+8	弗林德斯	弗林德斯	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=fúlíndésī|LTranslit=fúlíndésī
 9	湾	湾	PART	SFN	_	7	obj	_	SpaceAfter=No|Translit=wān|LTranslit=wān
 10	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	河口	河口	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=hékǒu|LTranslit=hékǒu
@@ -8862,10 +8862,10 @@
 
 # sent_id = test-s320
 # text = 古代，奥塞提亚语曾采用希腊字母拼写，现代则使用一套改良过的西里尔字母。
-# translit = gǔdài,奥sāitíyàyǔcéngcǎiyòngxī腊zìmǔpīnxiě,xiàndàizéshǐyòngyītàogǎiliángguòdexilǐ'ěrzìmǔ.
+# translit = gǔdài,'àosāitíyàyǔcéngcǎiyòngxī腊zìmǔpīnxiě,xiàndàizéshǐyòngyītàogǎiliángguòdexilǐ'ěrzìmǔ.
 1	古代	古代	NOUN	NN	_	6	nmod:tmod	_	SpaceAfter=No|Translit=gǔdài|LTranslit=gǔdài
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-3	奥塞提亚	奥塞提亚	PROPN	NNP	_	4	compound	_	SpaceAfter=No|Translit=奥sāitíyà|LTranslit=奥sāitíyà
+3	奥塞提亚	奥塞提亚	PROPN	NNP	_	4	compound	_	SpaceAfter=No|Translit='àosāitíyà|LTranslit='àosāitíyà
 4	语	语	PART	SFN	_	6	nsubj	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 5	曾	曾	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 6	采用	采用	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=cǎiyòng|LTranslit=cǎiyòng
@@ -8910,7 +8910,7 @@
 
 # sent_id = test-s323
 # text = 尽管博伊西县、内兹佩尔塞县和肖肖尼县与奥怀希县同时成立，但是因它们是由华盛顿领地成立的，因此直至1864年2月都不被爱达荷领地承认。
-# translit = jǐnguǎnbóyīxixiàn,nèi兹pèi'ěrsāixiànhéxiàoxiào尼xiànyǔ奥huáixīxiàntóngshíchénglì,dànshìyīntāmenshìyóuhuáshèngdùnlǐngdechénglìde,yīncǐzhízhì1864nián2yuèdōubùbèi'àidáhélǐngdechéngrèn.
+# translit = jǐnguǎnbóyīxixiàn,nèi兹pèi'ěrsāixiànhéxiàoxiàoníxiànyǔ'àohuáixīxiàntóngshíchénglì,dànshìyīntāmenshìyóuhuáshèngdùnlǐngdechénglìde,yīncǐzhízhì1864nián2yuèdōubùbèi'àidáhélǐngdechéngrèn.
 1	尽管	尽管	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=jǐnguǎn|LTranslit=jǐnguǎn
 2	博伊西	博伊西	PROPN	NNP	_	3	compound	_	SpaceAfter=No|Translit=bóyīxi|LTranslit=bóyīxi
 3	县	县	PART	SFN	_	14	nsubj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
@@ -8918,10 +8918,10 @@
 5	内兹佩尔塞	内兹佩尔塞	PROPN	NNP	_	6	compound	_	SpaceAfter=No|Translit=nèi兹pèi'ěrsāi|LTranslit=nèi兹pèi'ěrsāi
 6	县	县	PART	SFN	_	3	conj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 7	和	和	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
-8	肖肖尼	肖肖尼	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=xiàoxiào尼|LTranslit=xiàoxiào尼
+8	肖肖尼	肖肖尼	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=xiàoxiàoní|LTranslit=xiàoxiàoní
 9	县	县	PART	SFN	_	3	conj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 10	与	与	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
-11	奥怀希	奥怀希	PROPN	NNP	_	12	compound	_	SpaceAfter=No|Translit=奥huáixī|LTranslit=奥huáixī
+11	奥怀希	奥怀希	PROPN	NNP	_	12	compound	_	SpaceAfter=No|Translit='àohuáixī|LTranslit='àohuáixī
 12	县	县	PART	SFN	_	14	obl	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 13	同时	同时	NOUN	NN	_	14	nmod:tmod	_	SpaceAfter=No|Translit=tóngshí|LTranslit=tóngshí
 14	成立	成立	VERB	VV	_	38	ccomp	_	SpaceAfter=No|Translit=chénglì|LTranslit=chénglì
@@ -8998,8 +8998,8 @@
 
 # sent_id = test-s326
 # text = 奥斯卡从少年时代就喜欢摩托车，他买下了一辆竞速摩托车并在之后几年里参加山区的赛车比赛。
-# translit = 奥sīkǎcóngshǎoniánshídàijiùxǐhuanmótuōchē,tāmǎixiàleyīliàngjìngsùmótuōchēbìngzàizhīhòujǐniánlǐcānjiāshānqūdesàichēbǐsài.
-1	奥斯卡	奥斯卡	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No|Translit=奥sīkǎ|LTranslit=奥sīkǎ
+# translit = 'àosīkǎcóngshǎoniánshídàijiùxǐhuanmótuōchē,tāmǎixiàleyīliàngjìngsùmótuōchēbìngzàizhīhòujǐniánlǐcānjiāshānqūdesàichēbǐsài.
+1	奥斯卡	奥斯卡	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No|Translit='àosīkǎ|LTranslit='àosīkǎ
 2	从	从	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
 3	少年	少年	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=shǎonián|LTranslit=shǎonián
 4	时代	时代	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=shídài|LTranslit=shídài
@@ -9074,7 +9074,7 @@
 
 # sent_id = test-s329
 # text = 南非之前的国旗（1927-1994）中也有一支直挂的奥兰治自由邦国旗，就在它中间的白色条纹里。
-# translit = nánfēizhīqiándeguóqí(1927-1994)zhōngyěyǒuyīzhīzhíguàde奥兰zhìzìyóubāngguóqí,jiùzàitāzhōngjiāndebáisètiáowénlǐ.
+# translit = nánfēizhīqiándeguóqí(1927-1994)zhōngyěyǒuyīzhīzhíguàde'àolánzhìzìyóubāngguóqí,jiùzàitāzhōngjiāndebáisètiáowénlǐ.
 1	南非	南非	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=nánfēi|LTranslit=nánfēi
 2	之前	之前	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=zhīqián|LTranslit=zhīqián
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -9091,7 +9091,7 @@
 14	支	支	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
 15	直挂	直挂	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No|Translit=zhíguà|LTranslit=zhíguà
 16	的	的	PART	DEC	_	15	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-17	奥兰治	奥兰治	PROPN	NNP	_	20	nmod	_	SpaceAfter=No|Translit=奥兰zhì|LTranslit=奥兰zhì
+17	奥兰治	奥兰治	PROPN	NNP	_	20	nmod	_	SpaceAfter=No|Translit='àolánzhì|LTranslit='àolánzhì
 18	自由	自由	NOUN	NN	_	19	compound	_	SpaceAfter=No|Translit=zìyóu|LTranslit=zìyóu
 19	邦	邦	PART	SFN	_	20	nmod	_	SpaceAfter=No|Translit=bāng|LTranslit=bāng
 20	国旗	国旗	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=guóqí|LTranslit=guóqí
@@ -9108,31 +9108,31 @@
 
 # sent_id = test-s330
 # text = 他出生于雷昂，是弗鲁埃拉（父亲为坎塔布里亚的佩德罗）的儿子；阿斯图里亚斯的阿方索一世的侄子；并且是阿方索继承人残酷的弗鲁埃拉的一个堂弟。
-# translit = tāchūshēngyúléi'áng,shì弗鲁'āilā(fùqīnwèikǎntǎbùlǐyàdepèidé罗)derzi；'āsītúlǐyàsīde'āfāngsuǒyīshìde侄zi；bìngqiěshì'āfāngsuǒjìchéngréncánkùde弗鲁'āilādeyīgètángdì.
+# translit = tāchūshēngyúléi'áng,shìfúlǔ'āilā(fùqīnwèikǎntǎbùlǐyàdepèidéluō)derzi;'āsītúlǐyàsīde'āfāngsuǒyīshìde侄zi;bìngqiěshì'āfāngsuǒjìchéngréncánkùdefúlǔ'āilādeyīgètángdì.
 1	他	他	PRON	PRP	Person=3	16	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	出生	出生	VERB	VV	_	16	acl	_	SpaceAfter=No|Translit=chūshēng|LTranslit=chūshēng
 3	于	于	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 4	雷昂	雷昂	PROPN	NNP	_	2	obl	_	SpaceAfter=No|Translit=léi'áng|LTranslit=léi'áng
 5	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	是	是	AUX	VC	_	16	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-7	弗鲁埃拉	弗鲁埃拉	PROPN	NNP	_	16	nmod	_	SpaceAfter=No|Translit=弗鲁'āilā|LTranslit=弗鲁'āilā
+7	弗鲁埃拉	弗鲁埃拉	PROPN	NNP	_	16	nmod	_	SpaceAfter=No|Translit=fúlǔ'āilā|LTranslit=fúlǔ'āilā
 8	（	（	PUNCT	(	_	13	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 9	父亲	父亲	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=fùqīn|LTranslit=fùqīn
 10	为	为	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 11	坎塔布里亚	坎塔布里亚	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit=kǎntǎbùlǐyà|LTranslit=kǎntǎbùlǐyà
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-13	佩德罗	佩德罗	PROPN	NNP	_	7	parataxis	_	SpaceAfter=No|Translit=pèidé罗|LTranslit=pèidé罗
+13	佩德罗	佩德罗	PROPN	NNP	_	7	parataxis	_	SpaceAfter=No|Translit=pèidéluō|LTranslit=pèidéluō
 14	）	）	PUNCT	)	_	13	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 15	的	的	PART	DEC	Case=Gen	7	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	儿子	儿子	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=rzi|LTranslit=rzi
-17	；	；	PUNCT	:	_	23	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+17	；	；	PUNCT	:	_	23	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 18	阿斯图里亚斯	阿斯图里亚斯	PROPN	NNP	_	20	nmod	_	SpaceAfter=No|Translit='āsītúlǐyàsī|LTranslit='āsītúlǐyàsī
 19	的	的	PART	DEC	Case=Gen	18	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 20	阿方索	阿方索	PROPN	NNP	_	23	nmod	_	SpaceAfter=No|Translit='āfāngsuǒ|LTranslit='āfāngsuǒ
 21	一世	一世	PROPN	NNP	_	20	flat:name	_	SpaceAfter=No|Translit=yīshì|LTranslit=yīshì
 22	的	的	PART	DEC	Case=Gen	20	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 23	侄子	侄子	NOUN	NN	_	16	conj	_	SpaceAfter=No|Translit=侄zi|LTranslit=侄zi
-24	；	；	PUNCT	:	_	36	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+24	；	；	PUNCT	:	_	36	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 25	并且	并且	CCONJ	CC	_	36	cc	_	SpaceAfter=No|Translit=bìngqiě|LTranslit=bìngqiě
 26	是	是	AUX	VC	_	36	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 27	阿方索	阿方索	PROPN	NNP	_	29	nmod	_	SpaceAfter=No|Translit='āfāngsuǒ|LTranslit='āfāngsuǒ
@@ -9140,7 +9140,7 @@
 29	人	人	PART	SFN	_	36	nmod	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 30	残酷	残酷	ADJ	JJ	_	32	amod	_	SpaceAfter=No|Translit=cánkù|LTranslit=cánkù
 31	的	的	PART	DEC	_	30	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-32	弗鲁埃拉	弗鲁埃拉	PROPN	NNP	_	29	appos	_	SpaceAfter=No|Translit=弗鲁'āilā|LTranslit=弗鲁'āilā
+32	弗鲁埃拉	弗鲁埃拉	PROPN	NNP	_	29	appos	_	SpaceAfter=No|Translit=fúlǔ'āilā|LTranslit=fúlǔ'āilā
 33	的	的	PART	DEC	Case=Gen	32	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 34	一	一	NUM	CD	NumType=Card	35	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 35	个	个	NOUN	NNB	_	36	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
@@ -9235,7 +9235,7 @@
 
 # sent_id = test-s334
 # text = 每段介绍两个无厘头的新闻后，方芳芳与巴戈就感谢观众收看〈新闻炮〉，新闻摄影棚灯光调暗，巴戈仍然与方芳芳进行一小段对话；跟第一段短剧一样，有时候巴戈又会被方芳芳打一巴掌。
-# translit = měiduànjièshàoliǎnggèwúlítóudexīnwénhòu,fāng芳芳yǔba戈jiùgǎnxièguānzhòngshōukàn〈xīnwénpào〉,xīnwénshèyǐngpéngdēngguāngdiào'àn,ba戈réngrányǔfāng芳芳jìnxíngyīxiǎoduànduìhuà；gēndìyīduànduǎnjùyīyàng,yǒushíhouba戈yòuhuìbèifāng芳芳dǎyībazhǎng.
+# translit = měiduànjièshàoliǎnggèwúlítóudexīnwénhòu,fāng芳芳yǔba戈jiùgǎnxièguānzhòngshōukàn<xīnwénpào>,xīnwénshèyǐngpéngdēngguāngdiào'àn,ba戈réngrányǔfāng芳芳jìnxíngyīxiǎoduànduìhuà;gēndìyīduànduǎnjùyīyàng,yǒushíhouba戈yòuhuìbèifāng芳芳dǎyībazhǎng.
 1	每段	每段	DET	DT	_	2	obl	_	SpaceAfter=No|Translit=měiduàn|LTranslit=měiduàn
 2	介绍	介绍	VERB	VV	_	16	advcl	_	SpaceAfter=No|Translit=jièshào|LTranslit=jièshào
 3	两	两	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
@@ -9254,10 +9254,10 @@
 16	感谢	感谢	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gǎnxiè|LTranslit=gǎnxiè
 17	观众	观众	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=guānzhòng|LTranslit=guānzhòng
 18	收看	收看	VERB	VV	_	16	ccomp	_	SpaceAfter=No|Translit=shōukàn|LTranslit=shōukàn
-19	〈	〈	PUNCT	(	_	21	punct	_	SpaceAfter=No|Translit=〈|LTranslit=〈
+19	〈	〈	PUNCT	(	_	21	punct	_	SpaceAfter=No|Translit=<|LTranslit=<
 20	新闻	新闻	NOUN	NN	_	21	compound	_	SpaceAfter=No|Translit=xīnwén|LTranslit=xīnwén
 21	炮	炮	PART	SFN	_	18	obj	_	SpaceAfter=No|Translit=pào|LTranslit=pào
-22	〉	〉	PUNCT	)	_	21	punct	_	SpaceAfter=No|Translit=〉|LTranslit=〉
+22	〉	〉	PUNCT	)	_	21	punct	_	SpaceAfter=No|Translit=>|LTranslit=>
 23	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 24	新闻	新闻	NOUN	NN	_	27	nmod	_	SpaceAfter=No|Translit=xīnwén|LTranslit=xīnwén
 25	摄影	摄影	NOUN	NN	_	26	compound	_	SpaceAfter=No|Translit=shèyǐng|LTranslit=shèyǐng
@@ -9275,7 +9275,7 @@
 37	一	一	NUM	CD	NumType=Card	38	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 38	小段	小段	NOUN	NNB	_	39	clf	_	SpaceAfter=No|Translit=xiǎoduàn|LTranslit=xiǎoduàn
 39	对话	对话	NOUN	NN	_	36	obj	_	SpaceAfter=No|Translit=duìhuà|LTranslit=duìhuà
-40	；	；	PUNCT	:	_	56	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+40	；	；	PUNCT	:	_	56	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 41	跟	跟	ADP	IN	_	44	case	_	SpaceAfter=No|Translit=gēn|LTranslit=gēn
 42	第一	第一	NUM	CD	NumType=Ord	43	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
 43	段	段	NOUN	NNB	_	44	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
@@ -9534,14 +9534,14 @@
 
 # sent_id = test-s344
 # text = 由于喜欢花的缘故，罗宾还会用花来表达对别人与自己的评断印象，千阳号也特别为她设置了花圃。
-# translit = yóuyúxǐhuanhuādeyuángù,罗bīnháihuìyònghuāláibiǎodáduìbiérényǔzìjǐdepíngduànyìnxiàng,qiānyánghàoyětèbiéwèitāshèzhìlehuā圃.
+# translit = yóuyúxǐhuanhuādeyuángù,luōbīnháihuìyònghuāláibiǎodáduìbiérényǔzìjǐdepíngduànyìnxiàng,qiānyánghàoyětèbiéwèitāshèzhìlehuā圃.
 1	由于	由于	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
 2	喜欢	喜欢	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|Translit=xǐhuan|LTranslit=xǐhuan
 3	花	花	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=huā|LTranslit=huā
 4	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	缘故	缘故	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=yuángù|LTranslit=yuángù
 6	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	罗宾	罗宾	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No|Translit=罗bīn|LTranslit=罗bīn
+7	罗宾	罗宾	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No|Translit=luōbīn|LTranslit=luōbīn
 8	还	还	ADV	RB	_	13	mark	_	SpaceAfter=No|Translit=hái|LTranslit=hái
 9	会	会	AUX	MD	_	13	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 10	用	用	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=yòng|LTranslit=yòng
@@ -9569,7 +9569,7 @@
 
 # sent_id = test-s345
 # text = 在1963年，他们找到一个乡村小酒馆并在加泰隆尼亚期间作为他们的家和工作室。
-# translit = zài1963nián,tāmenzhǎodàoyīgèxiāngcūnxiǎojiǔguǎnbìngzàijiā泰lóng尼yàqījiānzuòwèitāmendejiāhégōngzuòshì.
+# translit = zài1963nián,tāmenzhǎodàoyīgèxiāngcūnxiǎojiǔguǎnbìngzàijiātàilóngníyàqījiānzuòwèitāmendejiāhégōngzuòshì.
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	1963	1963	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=1963|LTranslit=1963
 3	年	年	NOUN	NNB	_	6	obl	_	SpaceAfter=No|Translit=nián|LTranslit=nián
@@ -9583,7 +9583,7 @@
 11	酒馆	酒馆	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=jiǔguǎn|LTranslit=jiǔguǎn
 12	并	并	ADV	RB	_	16	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 13	在	在	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-14	加泰隆尼亚	加泰隆尼亚	PROPN	NNP	_	15	nmod	_	SpaceAfter=No|Translit=jiā泰lóng尼yà|LTranslit=jiā泰lóng尼yà
+14	加泰隆尼亚	加泰隆尼亚	PROPN	NNP	_	15	nmod	_	SpaceAfter=No|Translit=jiātàilóngníyà|LTranslit=jiātàilóngníyà
 15	期间	期间	NOUN	NN	_	16	obl	_	SpaceAfter=No|Translit=qījiān|LTranslit=qījiān
 16	作	作	VERB	VV	_	6	ccomp	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 17	为	为	VERB	VC	_	16	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -9597,7 +9597,7 @@
 
 # sent_id = test-s346
 # text = 至今为止他在国家队最出名的举动是在温布利球场远射破门3-2击败英格兰，并将后者拒于2008年欧锦赛决赛圈之外。
-# translit = zhìjīnwèizhǐtāzàiguójiāduìzuìchūmíngdejǔdòngshìzàiwēnbùlìqiúchǎngyuǎnshèpòmén3-2jībàiyīnggé兰,bìngjiānghòuzhějùyú2008nián'ōujǐnsàijuésàiquānzhīwài.
+# translit = zhìjīnwèizhǐtāzàiguójiāduìzuìchūmíngdejǔdòngshìzàiwēnbùlìqiúchǎngyuǎnshèpòmén3-2jībàiyīnggélán,bìngjiānghòuzhějùyú2008nián'ōujǐnsàijuésàiquānzhīwài.
 1	至	至	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
 2	今	今	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=jīn|LTranslit=jīn
 3	为	为	AUX	VC	_	4	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -9618,7 +9618,7 @@
 18	破门	破门	VERB	VV	_	20	advcl	_	SpaceAfter=No|Translit=pòmén|LTranslit=pòmén
 19	3-2	3-2	NUM	CD	NumType=Card	20	obl	_	SpaceAfter=No|Translit=3-2|LTranslit=3-2
 20	击败	击败	VERB	VV	_	13	xcomp	_	SpaceAfter=No|Translit=jībài|LTranslit=jībài
-21	英格兰	英格兰	PROPN	NNP	_	20	obj	_	SpaceAfter=No|Translit=yīnggé兰|LTranslit=yīnggé兰
+21	英格兰	英格兰	PROPN	NNP	_	20	obj	_	SpaceAfter=No|Translit=yīnggélán|LTranslit=yīnggélán
 22	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 23	并	并	ADV	RB	_	26	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 24	将	将	ADP	BB	_	25	case	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
@@ -9636,14 +9636,14 @@
 
 # sent_id = test-s347
 # text = 她亦曾在芬兰、瑞典及法国学习油画，并于1939年开始写作。
-# translit = tāyìcéngzài芬兰,瑞diǎnjífǎguóxuéxíyóuhuà,bìngyú1939niánkāishǐxiězuò.
+# translit = tāyìcéngzàifēnlán,ruìdiǎnjífǎguóxuéxíyóuhuà,bìngyú1939niánkāishǐxiězuò.
 1	她	她	PRON	PRP	Person=3	17	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	亦	亦	ADV	RB	_	10	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
 3	曾	曾	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 4	在	在	VERB	VV	_	10	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-5	芬兰	芬兰	PROPN	NNP	_	4	obj	_	SpaceAfter=No|Translit=芬兰|LTranslit=芬兰
+5	芬兰	芬兰	PROPN	NNP	_	4	obj	_	SpaceAfter=No|Translit=fēnlán|LTranslit=fēnlán
 6	、	、	PUNCT	EC	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	瑞典	瑞典	PROPN	NNP	_	5	conj	_	SpaceAfter=No|Translit=瑞diǎn|LTranslit=瑞diǎn
+7	瑞典	瑞典	PROPN	NNP	_	5	conj	_	SpaceAfter=No|Translit=ruìdiǎn|LTranslit=ruìdiǎn
 8	及	及	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 9	法国	法国	PROPN	NNP	_	5	conj	_	SpaceAfter=No|Translit=fǎguó|LTranslit=fǎguó
 10	学习	学习	VERB	VV	_	17	advcl	_	SpaceAfter=No|Translit=xuéxí|LTranslit=xuéxí
@@ -9822,7 +9822,7 @@
 
 # sent_id = test-s353
 # text = 这一建议在国际动物命名法委员会经过多年辩论后，2011年10月3日伦敦标本被指定为新模式标本。
-# translit = zhèyījiànyìzàiguójìdòngwùmìngmíngfǎwěiyuánhuìjīngguòduōniánbiànlùnhòu,2011nián10yuè3rì伦敦biāoběnbèizhǐdìngwèixīnmóshìbiāoběn.
+# translit = zhèyījiànyìzàiguójìdòngwùmìngmíngfǎwěiyuánhuìjīngguòduōniánbiànlùnhòu,2011nián10yuè3rìlún敦biāoběnbèizhǐdìngwèixīnmóshìbiāoběn.
 1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 2	一	一	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 3	建议	建议	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=jiànyì|LTranslit=jiànyì
@@ -9845,7 +9845,7 @@
 20	月	月	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 21	3	3	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
 22	日	日	NOUN	NNB	_	26	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
-23	伦敦	伦敦	PROPN	NNP	_	24	nmod	_	SpaceAfter=No|Translit=伦敦|LTranslit=伦敦
+23	伦敦	伦敦	PROPN	NNP	_	24	nmod	_	SpaceAfter=No|Translit=lún敦|LTranslit=lún敦
 24	标本	标本	NOUN	NN	_	26	nsubj:pass	_	SpaceAfter=No|Translit=biāoběn|LTranslit=biāoběn
 25	被	被	AUX	BB	Voice=Pass	26	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 26	指定	指定	VERB	VV	_	14	parataxis	_	SpaceAfter=No|Translit=zhǐdìng|LTranslit=zhǐdìng
@@ -9918,7 +9918,7 @@
 
 # sent_id = test-s356
 # text = 1991年，姚夏就入选四川队。
-# translit = 1991nián,姚xiàjiùrùxuǎnsì川duì.
+# translit = 1991nián,姚xiàjiùrùxuǎnsìchuānduì.
 1	1991	1991	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1991|LTranslit=1991
 2	年	年	NOUN	NNB	_	7	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -9926,7 +9926,7 @@
 5	夏	夏	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No|Translit=xià|LTranslit=xià
 6	就	就	ADV	RB	_	7	mark	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
 7	入选	入选	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rùxuǎn|LTranslit=rùxuǎn
-8	四川	四川	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=sì川|LTranslit=sì川
+8	四川	四川	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=sìchuān|LTranslit=sìchuān
 9	队	队	PART	SFN	_	7	obj	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 10	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -9968,11 +9968,11 @@
 
 # sent_id = test-s358
 # text = 他担任多媒体音乐剧《琥珀》以及儿童狂欢剧《魔山》的音乐总监。
-# translit = tādānrènduō媒tǐyīnlèjù«琥珀»yǐjírtóngkuánghuanjù«móshān»deyīnlèzǒngjiān.
+# translit = tādānrènduōméitǐyīnlèjù«琥珀»yǐjírtóngkuánghuanjù«móshān»deyīnlèzǒngjiān.
 1	他	他	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	担任	担任	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dānrèn|LTranslit=dānrèn
 3	多	多	PART	PFA	_	4	case	_	SpaceAfter=No|Translit=duō|LTranslit=duō
-4	媒体	媒体	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=媒tǐ|LTranslit=媒tǐ
+4	媒体	媒体	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=méitǐ|LTranslit=méitǐ
 5	音乐	音乐	NOUN	NN	_	6	compound	_	SpaceAfter=No|Translit=yīnlè|LTranslit=yīnlè
 6	剧	剧	PART	SFN	_	19	nmod	_	SpaceAfter=No|Translit=jù|LTranslit=jù
 7	《	《	PUNCT	(	_	8	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
@@ -10045,7 +10045,7 @@
 
 # sent_id = test-s360
 # text = 例如，猎户座大星云有单纯的发射谱线，是典型的气体特征；仙女座星系的谱线特征如同恒星。
-# translit = lìrú,lièhùzuòdàxīngyúnyǒudānchúndefāshè谱xiàn,shìdiǎnxíngdeqìtǐtèzhēng；xiannǚzuòxīngxìde谱xiàntèzhēngrútónghéngxīng.
+# translit = lìrú,lièhùzuòdàxīngyúnyǒudānchúndefāshè谱xiàn,shìdiǎnxíngdeqìtǐtèzhēng;xiannǚzuòxīngxìde谱xiàntèzhēngrútónghéngxīng.
 1	例如	例如	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lìrú|LTranslit=lìrú
 2	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	猎户	猎户	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=lièhù|LTranslit=lièhù
@@ -10063,7 +10063,7 @@
 15	的	的	PART	DEC	Case=Gen	14	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	气体	气体	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=qìtǐ|LTranslit=qìtǐ
 17	特征	特征	NOUN	NN	_	7	ccomp	_	SpaceAfter=No|Translit=tèzhēng|LTranslit=tèzhēng
-18	；	；	PUNCT	:	_	7	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+18	；	；	PUNCT	:	_	7	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 19	仙女	仙女	NOUN	NN	_	20	compound	_	SpaceAfter=No|Translit=xiannǚ|LTranslit=xiannǚ
 20	座	座	PART	SFN	_	21	nmod	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 21	星系	星系	NOUN	NN	_	24	nmod	_	SpaceAfter=No|Translit=xīngxì|LTranslit=xīngxì
@@ -10076,7 +10076,7 @@
 
 # sent_id = test-s361
 # text = 1882年8月13日，杰文斯在黑斯廷斯城附近洗海水澡时溺水身亡。
-# translit = 1882nián8yuè13rì,jiéwénsīzàihēisī廷sīchéngfùjìnxǐhǎishuǐzǎoshí溺shuǐshēnwáng.
+# translit = 1882nián8yuè13rì,jiéwénsīzàihēisītíngsīchéngfùjìnxǐhǎishuǐzǎoshí溺shuǐshēnwáng.
 1	1882	1882	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1882|LTranslit=1882
 2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	8	8	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=8|LTranslit=8
@@ -10086,7 +10086,7 @@
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	杰文斯	杰文斯	PROPN	NNP	_	18	nsubj	_	SpaceAfter=No|Translit=jiéwénsī|LTranslit=jiéwénsī
 9	在	在	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-10	黑斯廷斯	黑斯廷斯	PROPN	NNP	_	11	compound	_	SpaceAfter=No|Translit=hēisī廷sī|LTranslit=hēisī廷sī
+10	黑斯廷斯	黑斯廷斯	PROPN	NNP	_	11	compound	_	SpaceAfter=No|Translit=hēisītíngsī|LTranslit=hēisītíngsī
 11	城	城	PART	SFN	_	12	nmod	_	SpaceAfter=No|Translit=chéng|LTranslit=chéng
 12	附近	附近	NOUN	NN	_	9	obl	_	SpaceAfter=No|Translit=fùjìn|LTranslit=fùjìn
 13	洗	洗	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=xǐ|LTranslit=xǐ
@@ -10117,8 +10117,8 @@
 
 # sent_id = test-s363
 # text = 柏洛兹于青春期早期着手开始写文章与报导。
-# translit = bǎi洛兹yúqīngchūnqīzǎoqīzheshǒukāishǐxiěwénzhāngyǔbàodǎo.
-1	柏洛兹	柏洛兹	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No|Translit=bǎi洛兹|LTranslit=bǎi洛兹
+# translit = bǎiluò兹yúqīngchūnqīzǎoqīzheshǒukāishǐxiěwénzhāngyǔbàodǎo.
+1	柏洛兹	柏洛兹	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No|Translit=bǎiluò兹|LTranslit=bǎiluò兹
 2	于	于	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 3	青春	青春	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=qīngchūn|LTranslit=qīngchūn
 4	期	期	PART	SFN	_	5	nmod	_	SpaceAfter=No|Translit=qī|LTranslit=qī
@@ -10175,9 +10175,9 @@
 
 # sent_id = test-s366
 # text = 回到加利福尼亚州后，他由于支持了一场违反中立法的战争而遭到法庭审判。
-# translit = huídàojiālìfú尼yàzhōuhòu,tāyóuyúzhīchíleyīchǎngwéifǎnzhōnglìfǎdezhànzhēng'érzāodàofǎtíngshěnpàn.
+# translit = huídàojiālìfúníyàzhōuhòu,tāyóuyúzhīchíleyīchǎngwéifǎnzhōnglìfǎdezhànzhēng'érzāodàofǎtíngshěnpàn.
 1	回到	回到	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=huídào|LTranslit=huídào
-2	加利福尼亚	加利福尼亚	PROPN	NNP	_	3	compound	_	SpaceAfter=No|Translit=jiālìfú尼yà|LTranslit=jiālìfú尼yà
+2	加利福尼亚	加利福尼亚	PROPN	NNP	_	3	compound	_	SpaceAfter=No|Translit=jiālìfúníyà|LTranslit=jiālìfúníyà
 3	州	州	PART	SFN	_	1	obj	_	SpaceAfter=No|Translit=zhōu|LTranslit=zhōu
 4	后	后	ADP	IN	_	1	mark	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
 5	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -10216,12 +10216,12 @@
 
 # sent_id = test-s368
 # text = 在民主党领袖卡斯特伦的同意下，沃克袭击了位于里瓦斯的保守党势力。
-# translit = zàimínzhǔdǎnglǐngxiùkǎsītè伦detóngyìxià,wòkèxíjīlewèiyúlǐwǎsīdebǎoshǒudǎngshìlì.
+# translit = zàimínzhǔdǎnglǐngxiùkǎsītèlúndetóngyìxià,wòkèxíjīlewèiyúlǐwǎsīdebǎoshǒudǎngshìlì.
 1	在	在	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	民主	民主	NOUN	NN	_	3	compound	_	SpaceAfter=No|Translit=mínzhǔ|LTranslit=mínzhǔ
 3	党	党	PART	SFN	_	4	nmod	_	SpaceAfter=No|Translit=dǎng|LTranslit=dǎng
 4	领袖	领袖	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=lǐngxiù|LTranslit=lǐngxiù
-5	卡斯特伦	卡斯特伦	PROPN	NNP	_	4	appos	_	SpaceAfter=No|Translit=kǎsītè伦|LTranslit=kǎsītè伦
+5	卡斯特伦	卡斯特伦	PROPN	NNP	_	4	appos	_	SpaceAfter=No|Translit=kǎsītèlún|LTranslit=kǎsītèlún
 6	的	的	PART	DEC	Case=Gen	5	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 7	同意	同意	NOUN	NN	_	11	obl	_	SpaceAfter=No|Translit=tóngyì|LTranslit=tóngyì
 8	下	下	ADP	IN	_	7	acl	_	SpaceAfter=No|Translit=xià|LTranslit=xià
@@ -10240,7 +10240,7 @@
 
 # sent_id = test-s369
 # text = 阿姆斯特朗结婚时买下了位于新堡西杰斯蒙丹尼的杰斯蒙丹尼楼，并开始装修这个庄园。
-# translit = 'āmǔsītèlǎngjiéhūnshímǎixiàlewèiyúxīnbǎoxijiésīméngdān尼dejiésīméngdān尼lóu,bìngkāishǐzhuāngxiūzhègèzhuāngyuán.
+# translit = 'āmǔsītèlǎngjiéhūnshímǎixiàlewèiyúxīnbǎoxijiésīméngdānnídejiésīméngdānnílóu,bìngkāishǐzhuāngxiūzhègèzhuāngyuán.
 1	阿姆斯特朗	阿姆斯特朗	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit='āmǔsītèlǎng|LTranslit='āmǔsītèlǎng
 2	结婚	结婚	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit=jiéhūn|LTranslit=jiéhūn
 3	时	时	ADP	IN	_	2	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
@@ -10249,9 +10249,9 @@
 6	位	位	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 7	于	于	VERB	VV	_	6	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 8	新堡	新堡	PROPN	NNP	_	9	nmod	_	SpaceAfter=No|Translit=xīnbǎo|LTranslit=xīnbǎo
-9	西杰斯蒙丹尼	西杰斯蒙丹尼	PROPN	NNP	_	6	obj	_	SpaceAfter=No|Translit=xijiésīméngdān尼|LTranslit=xijiésīméngdān尼
+9	西杰斯蒙丹尼	西杰斯蒙丹尼	PROPN	NNP	_	6	obj	_	SpaceAfter=No|Translit=xijiésīméngdānní|LTranslit=xijiésīméngdānní
 10	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-11	杰斯蒙丹尼	杰斯蒙丹尼	PROPN	NNP	_	12	compound	_	SpaceAfter=No|Translit=jiésīméngdān尼|LTranslit=jiésīméngdān尼
+11	杰斯蒙丹尼	杰斯蒙丹尼	PROPN	NNP	_	12	compound	_	SpaceAfter=No|Translit=jiésīméngdānní|LTranslit=jiésīméngdānní
 12	楼	楼	PART	SFN	_	4	obj	_	SpaceAfter=No|Translit=lóu|LTranslit=lóu
 13	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	并	并	ADV	RB	_	15	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
@@ -10405,15 +10405,15 @@
 
 # sent_id = test-s374
 # text = 2013年4月，威廉玛丽校友玛丽·乔·怀特（Mary Jo White）经美国参议院一致同意，担任美国证监会主席。
-# translit = 2013nián4yuè,wēilián玛lìxiàoyou玛lì·乔·huáitè(Mary Jo White)jīngměiguócānyìyuànyīzhìtóngyì,dānrènměiguózhèngjiānhuìzhǔxí.
+# translit = 2013nián4yuè,wēiliánmǎlìxiàoyoumǎlì·乔·huáitè(Mary Jo White)jīngměiguócānyìyuànyīzhìtóngyì,dānrènměiguózhèngjiānhuìzhǔxí.
 1	2013	2013	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2013|LTranslit=2013
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	4	4	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
 4	月	月	NOUN	NNB	_	25	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-6	威廉玛丽	威廉玛丽	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit=wēilián玛lì|LTranslit=wēilián玛lì
+6	威廉玛丽	威廉玛丽	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit=wēiliánmǎlì|LTranslit=wēiliánmǎlì
 7	校友	校友	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=xiàoyou|LTranslit=xiàoyou
-8	玛丽	玛丽	PROPN	NNP	_	7	appos	_	SpaceAfter=No|Translit=玛lì|LTranslit=玛lì
+8	玛丽	玛丽	PROPN	NNP	_	7	appos	_	SpaceAfter=No|Translit=mǎlì|LTranslit=mǎlì
 9	·	·	PUNCT	/	_	10	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
 10	乔	乔	PROPN	NNP	_	8	flat:name	_	SpaceAfter=No|Translit=乔|LTranslit=乔
 11	·	·	PUNCT	/	_	12	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
@@ -10439,10 +10439,10 @@
 
 # sent_id = test-s375
 # text = 不少从威廉玛丽学院毕业的学生，成为早期美国历史中的重要政治任务的参与者，包括5位美国总统和12位独立宣言签署者（总共56位签字人，威廉玛丽学院的毕业生占了将近四分之一，这些人创建了美国）和许许多多的美国国务卿（举例来说，美国最初的10位国务卿，竟有6位毕业于威廉玛丽学院，其余的均毕业于哈佛大学和普林斯顿大学）。
-# translit = bùshǎocóngwēilián玛lìxuéyuànbìyèdexuéshēng,chéngwèizǎoqīměiguólìshǐzhōngdezhòngyàozhèngzhìrènwudecānyǔzhě,bāokuò5wèiměiguózǒngtǒnghé12wèidúlìxuānyánqiānshǔzhě(zǒnggòng56wèiqiānzìrén,wēilián玛lìxuéyuàndebìyèshēngzhànlejiāngjìnsìfēnzhīyī,zhèxiērénchuàngjiànleměiguó)héxǔxǔduōduōdeměiguóguówu卿(jǔlìláishuō,měiguózuìchūde10wèiguówu卿,jìngyǒu6wèibìyèyúwēilián玛lìxuéyuàn,qíyúdejūnbìyèyúhāfúdàxuéhépǔlínsīdùndàxué).
+# translit = bùshǎocóngwēiliánmǎlìxuéyuànbìyèdexuéshēng,chéngwèizǎoqīměiguólìshǐzhōngdezhòngyàozhèngzhìrènwudecānyǔzhě,bāokuò5wèiměiguózǒngtǒnghé12wèidúlìxuānyánqiānshǔzhě(zǒnggòng56wèiqiānzìrén,wēiliánmǎlìxuéyuàndebìyèshēngzhànlejiāngjìnsìfēnzhīyī,zhèxiērénchuàngjiànleměiguó)héxǔxǔduōduōdeměiguóguówu卿(jǔlìláishuō,měiguózuìchūde10wèiguówu卿,jìngyǒu6wèibìyèyúwēiliánmǎlìxuéyuàn,qíyúdejūnbìyèyúhāfúdàxuéhépǔlínsīdùndàxué).
 1	不少	不少	ADJ	JJ	_	7	amod	_	SpaceAfter=No|Translit=bùshǎo|LTranslit=bùshǎo
 2	从	从	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
-3	威廉玛丽	威廉玛丽	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=wēilián玛lì|LTranslit=wēilián玛lì
+3	威廉玛丽	威廉玛丽	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=wēiliánmǎlì|LTranslit=wēiliánmǎlì
 4	学院	学院	NOUN	NN	_	5	obl	_	SpaceAfter=No|Translit=xuéyuàn|LTranslit=xuéyuàn
 5	毕业	毕业	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|Translit=bìyè|LTranslit=bìyè
 6	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -10481,7 +10481,7 @@
 39	签字	签字	VERB	VV	_	40	compound	_	SpaceAfter=No|Translit=qiānzì|LTranslit=qiānzì
 40	人	人	PART	SFN	_	27	parataxis	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 41	，	，	PUNCT	,	_	47	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-42	威廉玛丽	威廉玛丽	PROPN	NNP	_	43	nmod	_	SpaceAfter=No|Translit=wēilián玛lì|LTranslit=wēilián玛lì
+42	威廉玛丽	威廉玛丽	PROPN	NNP	_	43	nmod	_	SpaceAfter=No|Translit=wēiliánmǎlì|LTranslit=wēiliánmǎlì
 43	学院	学院	NOUN	NN	_	46	nmod	_	SpaceAfter=No|Translit=xuéyuàn|LTranslit=xuéyuàn
 44	的	的	PART	DEC	Case=Gen	43	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 45	毕业	毕业	VERB	VV	_	46	compound	_	SpaceAfter=No|Translit=bìyè|LTranslit=bìyè
@@ -10522,7 +10522,7 @@
 80	位	位	NOUN	NNB	_	81	nsubj	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 81	毕业	毕业	VERB	VV	_	78	ccomp	_	SpaceAfter=No|Translit=bìyè|LTranslit=bìyè
 82	于	于	ADP	IN	_	84	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-83	威廉玛丽	威廉玛丽	PROPN	NNP	_	84	nmod	_	SpaceAfter=No|Translit=wēilián玛lì|LTranslit=wēilián玛lì
+83	威廉玛丽	威廉玛丽	PROPN	NNP	_	84	nmod	_	SpaceAfter=No|Translit=wēiliánmǎlì|LTranslit=wēiliánmǎlì
 84	学院	学院	NOUN	NN	_	81	obl	_	SpaceAfter=No|Translit=xuéyuàn|LTranslit=xuéyuàn
 85	，	，	PUNCT	,	_	89	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 86	其余	其余	DET	DT	_	89	nsubj	_	SpaceAfter=No|Translit=qíyú|LTranslit=qíyú
@@ -10540,8 +10540,8 @@
 
 # sent_id = test-s376
 # text = 威廉玛丽学院是全美第二历史悠久的高等学府。
-# translit = wēilián玛lìxuéyuànshìquánměidì'èrlìshǐyōujiǔdegāoděngxuéfǔ.
-1	威廉玛丽	威廉玛丽	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=wēilián玛lì|LTranslit=wēilián玛lì
+# translit = wēiliánmǎlìxuéyuànshìquánměidì'èrlìshǐyōujiǔdegāoděngxuéfǔ.
+1	威廉玛丽	威廉玛丽	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=wēiliánmǎlì|LTranslit=wēiliánmǎlì
 2	学院	学院	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=xuéyuàn|LTranslit=xuéyuàn
 3	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 4	全	全	DET	DT	_	5	det	_	SpaceAfter=No|Translit=quán|LTranslit=quán
@@ -10593,13 +10593,13 @@
 
 # sent_id = test-s378
 # text = 为了纪念威廉三世和玛丽二世，学院被命名为威廉与玛丽学院，更因皇家宪章而必须“永远地”保留这校名。
-# translit = wèilejìniànwēiliánsānshìhé玛lì'èrshì,xuéyuànbèimìngmíngwèiwēiliányǔ玛lìxuéyuàn,gèngyīnhuángjiāxiànzhāng'érbìxū“yǒngyuǎnde”bǎoliúzhèxiàomíng.
+# translit = wèilejìniànwēiliánsānshìhémǎlì'èrshì,xuéyuànbèimìngmíngwèiwēiliányǔmǎlìxuéyuàn,gèngyīnhuángjiāxiànzhāng'érbìxū“yǒngyuǎnde”bǎoliúzhèxiàomíng.
 1	为了	为了	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=wèile|LTranslit=wèile
 2	纪念	纪念	VERB	VV	_	28	xcomp	_	SpaceAfter=No|Translit=jìniàn|LTranslit=jìniàn
 3	威廉	威廉	PROPN	NNP	_	2	obj	_	SpaceAfter=No|Translit=wēilián|LTranslit=wēilián
 4	三世	三世	PROPN	NNP	_	3	flat:name	_	SpaceAfter=No|Translit=sānshì|LTranslit=sānshì
 5	和	和	CCONJ	CC	_	6	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
-6	玛丽	玛丽	PROPN	NNP	_	3	conj	_	SpaceAfter=No|Translit=玛lì|LTranslit=玛lì
+6	玛丽	玛丽	PROPN	NNP	_	3	conj	_	SpaceAfter=No|Translit=mǎlì|LTranslit=mǎlì
 7	二世	二世	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No|Translit='èrshì|LTranslit='èrshì
 8	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	学院	学院	NOUN	NN	_	28	nsubj	_	SpaceAfter=No|Translit=xuéyuàn|LTranslit=xuéyuàn
@@ -10608,7 +10608,7 @@
 12	为	为	VERB	VC	_	11	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 13	威廉	威廉	PROPN	NNP	_	16	nmod	_	SpaceAfter=No|Translit=wēilián|LTranslit=wēilián
 14	与	与	CCONJ	CC	_	15	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
-15	玛丽	玛丽	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=玛lì|LTranslit=玛lì
+15	玛丽	玛丽	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=mǎlì|LTranslit=mǎlì
 16	学院	学院	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=xuéyuàn|LTranslit=xuéyuàn
 17	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 18	更	更	ADV	RB	_	28	advmod	_	SpaceAfter=No|Translit=gèng|LTranslit=gèng
@@ -10659,15 +10659,15 @@
 
 # sent_id = test-s380
 # text = 在盾的四周是威斯特法伦的王冠和代表法国的大鹰。
-# translit = zàidùndesìzhōushìwēisītèfǎ伦dewáng冠hédàibiǎofǎguódedàyīng.
+# translit = zàidùndesìzhōushìwēisītèfǎlúndewángguānhédàibiǎofǎguódedàyīng.
 1	在	在	VERB	VV	_	8	csubj	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	盾	盾	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=dùn|LTranslit=dùn
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	四周	四周	NOUN	NN	_	1	obj	_	SpaceAfter=No|Translit=sìzhōu|LTranslit=sìzhōu
 5	是	是	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-6	威斯特法伦	威斯特法伦	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit=wēisītèfǎ伦|LTranslit=wēisītèfǎ伦
+6	威斯特法伦	威斯特法伦	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit=wēisītèfǎlún|LTranslit=wēisītèfǎlún
 7	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-8	王冠	王冠	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=wáng冠|LTranslit=wáng冠
+8	王冠	王冠	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=wángguān|LTranslit=wángguān
 9	和	和	CCONJ	CC	_	14	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 10	代表	代表	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No|Translit=dàibiǎo|LTranslit=dàibiǎo
 11	法国	法国	PROPN	NNP	_	10	obj	_	SpaceAfter=No|Translit=fǎguó|LTranslit=fǎguó
@@ -10882,13 +10882,13 @@
 
 # sent_id = test-s387
 # text = 唐国的末期国君叫做唐叔虞。
-# translit = 唐guódemòqīguójūnjiàozuò唐shū虞.
-1	唐国	唐国	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=唐guó|LTranslit=唐guó
+# translit = tángguódemòqīguójūnjiàozuòtángshū虞.
+1	唐国	唐国	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=tángguó|LTranslit=tángguó
 2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 3	末期	末期	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=mòqī|LTranslit=mòqī
 4	国君	国君	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=guójūn|LTranslit=guójūn
 5	叫做	叫做	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jiàozuò|LTranslit=jiàozuò
-6	唐	唐	PROPN	NNP	_	5	obj	_	SpaceAfter=No|Translit=唐|LTranslit=唐
+6	唐	唐	PROPN	NNP	_	5	obj	_	SpaceAfter=No|Translit=táng|LTranslit=táng
 7	叔虞	叔虞	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No|Translit=shū虞|LTranslit=shū虞
 8	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -10912,8 +10912,8 @@
 
 # sent_id = test-s389
 # text = 孔恩瀑布由两部分组成，西边的是“桑法尼瀑布”，地势较高，枯水时断流，东边的名为“发芬瀑布”（Phapheng Falls），是孔恩主瀑，孔恩瀑布总宽9.7公里，落差15~24米，年均流量1.2万立方米/秒，号称世界上最宽的瀑布。
-# translit = kǒng恩pùbùyóuliǎngbùfēnzǔchéng,xibiāndeshì“sāngfǎ尼pùbù”,deshìjiàogāo,kūshuǐshíduànliú,dōngbiāndemíngwèi“fā芬pùbù”(Phapheng Falls),shìkǒng恩zhǔpù,kǒng恩pùbùzǒngkuān9.7gōnglǐ,luòchà15~24mǐ,niánjūnliúliàng1.2wànlìfāngmǐ/miǎo,hàochēngshìjièshàngzuìkuāndepùbù.
-1	孔恩	孔恩	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=kǒng恩|LTranslit=kǒng恩
+# translit = kǒng'ēnpùbùyóuliǎngbùfēnzǔchéng,xibiāndeshì“sāngfǎnípùbù”,deshìjiàogāo,kūshuǐshíduànliú,dōngbiāndemíngwèi“fāfēnpùbù”(Phapheng Falls),shìkǒng'ēnzhǔpù,kǒng'ēnpùbùzǒngkuān9.7gōnglǐ,luòchà15~24mǐ,niánjūnliúliàng1.2wànlìfāngmǐ/miǎo,hàochēngshìjièshàngzuìkuāndepùbù.
+1	孔恩	孔恩	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=kǒng'ēn|LTranslit=kǒng'ēn
 2	瀑布	瀑布	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=pùbù|LTranslit=pùbù
 3	由	由	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
 4	两	两	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
@@ -10924,7 +10924,7 @@
 9	的	的	PART	DEC	Case=Gen	8	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 11	“	“	PUNCT	``	_	13	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-12	桑法尼	桑法尼	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit=sāngfǎ尼|LTranslit=sāngfǎ尼
+12	桑法尼	桑法尼	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit=sāngfǎní|LTranslit=sāngfǎní
 13	瀑布	瀑布	NOUN	NN	_	3	parataxis	_	SpaceAfter=No|Translit=pùbù|LTranslit=pùbù
 14	”	”	PUNCT	''	_	13	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 15	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -10940,7 +10940,7 @@
 25	名	名	NOUN	NN	_	29	nsubj	_	SpaceAfter=No|Translit=míng|LTranslit=míng
 26	为	为	AUX	VC	_	29	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 27	“	“	PUNCT	``	_	29	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-28	发芬	发芬	PROPN	NNP	_	29	nmod	_	SpaceAfter=No|Translit=fā芬|LTranslit=fā芬
+28	发芬	发芬	PROPN	NNP	_	29	nmod	_	SpaceAfter=No|Translit=fāfēn|LTranslit=fāfēn
 29	瀑布	瀑布	NOUN	NN	_	23	dislocated	_	SpaceAfter=No|Translit=pùbù|LTranslit=pùbù
 30	”	”	PUNCT	''	_	29	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 31	（	（	PUNCT	.	_	32	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
@@ -10949,10 +10949,10 @@
 34	）	）	PUNCT	.	_	32	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 35	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 36	是	是	AUX	VC	_	38	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-37	孔恩	孔恩	PROPN	NNP	_	38	nmod	_	SpaceAfter=No|Translit=kǒng恩|LTranslit=kǒng恩
+37	孔恩	孔恩	PROPN	NNP	_	38	nmod	_	SpaceAfter=No|Translit=kǒng'ēn|LTranslit=kǒng'ēn
 38	主瀑	主瀑	NOUN	NN	_	3	parataxis	_	SpaceAfter=No|Translit=zhǔpù|LTranslit=zhǔpù
 39	，	，	PUNCT	,	_	44	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-40	孔恩	孔恩	PROPN	NNP	_	42	nmod	_	SpaceAfter=No|Translit=kǒng恩|LTranslit=kǒng恩
+40	孔恩	孔恩	PROPN	NNP	_	42	nmod	_	SpaceAfter=No|Translit=kǒng'ēn|LTranslit=kǒng'ēn
 41	瀑布	瀑布	NOUN	NN	_	42	nmod	_	SpaceAfter=No|Translit=pùbù|LTranslit=pùbù
 42	总宽	总宽	NOUN	NN	_	44	nsubj	_	SpaceAfter=No|Translit=zǒngkuān|LTranslit=zǒngkuān
 43	9.7	9.7	NUM	CD	NumType=Card	44	nummod	_	SpaceAfter=No|Translit=9.7|LTranslit=9.7
@@ -11030,7 +11030,7 @@
 
 # sent_id = test-s393
 # text = 1929年，十三世达赖喇嘛和九世班禅额尔德尼发生斗争。
-# translit = 1929nián,shísānshìdálàilǎmahéjiǔshìbān禅'é'ěrdé尼fāshēngdòuzhēng.
+# translit = 1929nián,shísānshìdálàilǎmahéjiǔshìbān禅'é'ěrdénífāshēngdòuzhēng.
 1	1929	1929	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1929|LTranslit=1929
 2	年	年	NOUN	NNB	_	13	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -11042,7 +11042,7 @@
 9	九	九	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=jiǔ|LTranslit=jiǔ
 10	世	世	NOUN	NNB	_	11	nmod	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 11	班禅	班禅	X	FW	_	13	obl	_	SpaceAfter=No|Translit=bān禅|LTranslit=bān禅
-12	额尔德尼	额尔德尼	X	FW	_	11	appos	_	SpaceAfter=No|Translit='é'ěrdé尼|LTranslit='é'ěrdé尼
+12	额尔德尼	额尔德尼	X	FW	_	11	appos	_	SpaceAfter=No|Translit='é'ěrdéní|LTranslit='é'ěrdéní
 13	发生	发生	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=fāshēng|LTranslit=fāshēng
 14	斗争	斗争	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=dòuzhēng|LTranslit=dòuzhēng
 15	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -11310,7 +11310,7 @@
 
 # sent_id = test-s404
 # text = 3月底，法军攻占澎湖；6月11日，孤拔因病死于澎湖马公。
-# translit = 3yuèdǐ,fǎjūngōngzhànpēnghú；6yuè11rì,gūbáyīnbìngsǐyúpēnghúmǎgōng.
+# translit = 3yuèdǐ,fǎjūngōngzhànpēnghú;6yuè11rì,gūbáyīnbìngsǐyúpēnghúmǎgōng.
 1	3	3	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
 2	月	月	NOUN	NNB	_	7	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 3	底	底	ADP	IN	_	2	acl	_	SpaceAfter=No|Translit=dǐ|LTranslit=dǐ
@@ -11319,7 +11319,7 @@
 6	军	军	PART	SFN	_	7	nsubj	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
 7	攻占	攻占	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gōngzhàn|LTranslit=gōngzhàn
 8	澎湖	澎湖	PROPN	NNP	_	7	obj	_	SpaceAfter=No|Translit=pēnghú|LTranslit=pēnghú
-9	；	；	PUNCT	:	_	18	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+9	；	；	PUNCT	:	_	18	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 10	6	6	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=6|LTranslit=6
 11	月	月	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 12	11	11	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
@@ -11362,7 +11362,7 @@
 
 # sent_id = test-s406
 # text = 孤海浮灯（The Likes of Us）是名作曲家安德鲁·洛伊·韦伯的音乐剧，原书由莱斯利·汤玛斯基于慈善家汤玛斯·约翰成立贫困儿童院的真实故事创作。
-# translit = gūhǎifúdēng(The Likes of Us)shìmíngzuòqūjiā'āndé鲁·洛yī·韦bódeyīnlèjù,yuánshūyóu莱sīlì·tāng玛sījīyúcíshànjiātāng玛sī·yuē翰chénglìpínkùnrtóngyuàndezhēnshígùshìchuàngzuò.
+# translit = gūhǎifúdēng(The Likes of Us)shìmíngzuòqūjiā'āndélǔ·luòyī·韦bódeyīnlèjù,yuánshūyóu莱sīlì·tāngmǎsījīyúcíshànjiātāngmǎsī·yuē翰chénglìpínkùnrtóngyuàndezhēnshígùshìchuàngzuò.
 1	孤海	孤海	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=gūhǎi|LTranslit=gūhǎi
 2	浮灯	浮灯	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=fúdēng|LTranslit=fúdēng
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
@@ -11375,9 +11375,9 @@
 10	名	名	PART	PFA	_	12	case	_	SpaceAfter=No|Translit=míng|LTranslit=míng
 11	作曲	作曲	VERB	VV	_	12	compound	_	SpaceAfter=No|Translit=zuòqū|LTranslit=zuòqū
 12	家	家	PART	SFN	_	20	nmod	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
-13	安德鲁	安德鲁	PROPN	NNP	_	12	appos	_	SpaceAfter=No|Translit='āndé鲁|LTranslit='āndé鲁
+13	安德鲁	安德鲁	PROPN	NNP	_	12	appos	_	SpaceAfter=No|Translit='āndélǔ|LTranslit='āndélǔ
 14	·	·	PUNCT	/	_	15	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
-15	洛伊	洛伊	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No|Translit=洛yī|LTranslit=洛yī
+15	洛伊	洛伊	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No|Translit=luòyī|LTranslit=luòyī
 16	·	·	PUNCT	/	_	17	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
 17	韦伯	韦伯	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No|Translit=韦bó|LTranslit=韦bó
 18	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -11388,11 +11388,11 @@
 23	由	由	VERB	VV	_	20	parataxis	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
 24	莱斯利	莱斯利	PROPN	NNP	_	40	nsubj	_	SpaceAfter=No|Translit=莱sīlì|LTranslit=莱sīlì
 25	·	·	PUNCT	/	_	26	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
-26	汤玛斯	汤玛斯	PROPN	NNP	_	24	flat:name	_	SpaceAfter=No|Translit=tāng玛sī|LTranslit=tāng玛sī
+26	汤玛斯	汤玛斯	PROPN	NNP	_	24	flat:name	_	SpaceAfter=No|Translit=tāngmǎsī|LTranslit=tāngmǎsī
 27	基于	基于	ADP	IN	_	39	case	_	SpaceAfter=No|Translit=jīyú|LTranslit=jīyú
 28	慈善	慈善	NOUN	NN	_	29	compound	_	SpaceAfter=No|Translit=císhàn|LTranslit=císhàn
 29	家	家	PART	SFN	_	33	nsubj	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
-30	汤玛斯	汤玛斯	PROPN	NNP	_	29	appos	_	SpaceAfter=No|Translit=tāng玛sī|LTranslit=tāng玛sī
+30	汤玛斯	汤玛斯	PROPN	NNP	_	29	appos	_	SpaceAfter=No|Translit=tāngmǎsī|LTranslit=tāngmǎsī
 31	·	·	PUNCT	/	_	32	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
 32	约翰	约翰	PROPN	NNP	_	30	flat:name	_	SpaceAfter=No|Translit=yuē翰|LTranslit=yuē翰
 33	成立	成立	VERB	VV	_	39	acl:relcl	_	SpaceAfter=No|Translit=chénglì|LTranslit=chénglì
@@ -11533,14 +11533,14 @@
 
 # sent_id = test-s412
 # text = 1860年签订的中俄北京条约中规定清政府须将此地大部份割予沙俄，今归俄罗斯滨海边疆区所管。
-# translit = 1860niánqiāndìngdezhōng'éběi京tiáoyuēzhōngguīdìngqīngzhèngfǔxūjiāngcǐdedàbùfèngēyǔshā'é,jīnguī'é罗sībīnhǎibiānjiāngqūsuǒguǎn.
+# translit = 1860niánqiāndìngdezhōng'éběijīngtiáoyuēzhōngguīdìngqīngzhèngfǔxūjiāngcǐdedàbùfèngēyǔshā'é,jīnguī'éluōsībīnhǎibiānjiāngqūsuǒguǎn.
 1	1860	1860	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1860|LTranslit=1860
 2	年	年	NOUN	NNB	_	3	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	签订	签订	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No|Translit=qiāndìng|LTranslit=qiāndìng
 4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	中	中	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 6	俄	俄	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit='é|LTranslit='é
-7	北京	北京	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit=běi京|LTranslit=běi京
+7	北京	北京	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit=běijīng|LTranslit=běijīng
 8	条约	条约	NOUN	NN	_	10	obl	_	SpaceAfter=No|Translit=tiáoyuē|LTranslit=tiáoyuē
 9	中	中	ADP	IN	_	8	acl	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 10	规定	规定	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=guīdìng|LTranslit=guīdìng
@@ -11556,7 +11556,7 @@
 20	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 21	今	今	NOUN	NN	_	22	nmod:tmod	_	SpaceAfter=No|Translit=jīn|LTranslit=jīn
 22	归	归	VERB	VV	_	10	xcomp	_	SpaceAfter=No|Translit=guī|LTranslit=guī
-23	俄罗斯	俄罗斯	PROPN	NNP	_	26	nmod	_	SpaceAfter=No|Translit='é罗sī|LTranslit='é罗sī
+23	俄罗斯	俄罗斯	PROPN	NNP	_	26	nmod	_	SpaceAfter=No|Translit='éluōsī|LTranslit='éluōsī
 24	滨海	滨海	PROPN	NNP	_	26	nmod	_	SpaceAfter=No|Translit=bīnhǎi|LTranslit=bīnhǎi
 25	边疆	边疆	PROPN	NNP	_	26	compound	_	SpaceAfter=No|Translit=biānjiāng|LTranslit=biānjiāng
 26	区	区	PART	SFN	_	28	obj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
@@ -11566,7 +11566,7 @@
 
 # sent_id = test-s413
 # text = 宁武县在中国山西省西北部、汾河和桑干河上游，是忻州市所辖的一个县。
-# translit = níngwǔxiànzàizhōngguóshānxishěngxiběibù,汾héhésānggànhéshàngyóu,shì忻zhōushìsuǒ辖deyīgèxiàn.
+# translit = níngwǔxiànzàizhōngguóshānxishěngxiběibù,汾héhésānggànhéshàngyóu,shì忻zhōushìsuǒxiádeyīgèxiàn.
 1	宁武	宁武	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=níngwǔ|LTranslit=níngwǔ
 2	县	县	PART	SFN	_	24	nsubj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 3	在	在	VERB	VV	_	24	acl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -11586,7 +11586,7 @@
 17	忻州	忻州	PROPN	NNP	_	18	compound	_	SpaceAfter=No|Translit=忻zhōu|LTranslit=忻zhōu
 18	市	市	PART	SFN	_	20	nsubj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 19	所	所	ADV	RB	_	20	mark	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
-20	辖	辖	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No|Translit=辖|LTranslit=辖
+20	辖	辖	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No|Translit=xiá|LTranslit=xiá
 21	的	的	PART	DEC	_	20	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 22	一	一	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 23	个	个	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
@@ -11696,7 +11696,7 @@
 
 # sent_id = test-s418
 # text = 2004年起，原效实中学高中所辖“国际部”取消，其编制划入宁波外国语学校编制内，称为“宁波外国语学校高中部”。
-# translit = 2004niánqǐ,yuánxiàoshízhōngxuégāozhōngsuǒ辖“guójìbù”qǔxiāo,qíbiānzhìhuàrùníngbōwàiguóyǔxuéxiàobiānzhìnèi,chēngwèi“níngbōwàiguóyǔxuéxiàogāozhōngbù”.
+# translit = 2004niánqǐ,yuánxiàoshízhōngxuégāozhōngsuǒxiá“guójìbù”qǔxiāo,qíbiānzhìhuàrùníngbōwàiguóyǔxuéxiàobiānzhìnèi,chēngwèi“níngbōwàiguóyǔxuéxiàogāozhōngbù”.
 1	2004	2004	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2004|LTranslit=2004
 2	年	年	NOUN	NNB	_	15	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	起	起	ADP	IN	_	2	acl	_	SpaceAfter=No|Translit=qǐ|LTranslit=qǐ
@@ -11706,7 +11706,7 @@
 7	中学	中学	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=zhōngxué|LTranslit=zhōngxué
 8	高中	高中	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=gāozhōng|LTranslit=gāozhōng
 9	所	所	ADV	RB	_	10	mark	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
-10	辖	辖	VERB	VV	_	13	amod	_	SpaceAfter=No|Translit=辖|LTranslit=辖
+10	辖	辖	VERB	VV	_	13	amod	_	SpaceAfter=No|Translit=xiá|LTranslit=xiá
 11	“	“	PUNCT	``	_	13	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 12	国际	国际	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit=guójì|LTranslit=guójì
 13	部	部	PART	SFN	_	15	nsubj	_	SpaceAfter=No|Translit=bù|LTranslit=bù
@@ -11791,9 +11791,9 @@
 
 # sent_id = test-s421
 # text = 天娱传媒旗下“国民美女”杨洋，经过精心筹备即发行个人首张EP，歌曲颇具文艺气质，配上杨洋干净声线，为华语乐坛又带来了多首独特清新的民谣新作。
-# translit = tiānyúchuán媒qíxià“guómínměinǚ”yángyáng,jīngguòjīngxīn筹bèijífāxínggèrénshǒuzhāngEP,gēqūpōjùwényìqìzhì,pèishàngyángyánggànjìngshēngxiàn,wèihuáyǔlè坛yòudàiláileduōshǒudútèqīngxīndemínyáoxīnzuò.
+# translit = tiānyúchuánméiqíxià“guómínměinǚ”yángyáng,jīngguòjīngxīn筹bèijífāxínggèrénshǒuzhāngEP,gēqūpōjùwényìqìzhì,pèishàngyángyánggànjìngshēngxiàn,wèihuáyǔlè坛yòudàiláileduōshǒudútèqīngxīndemínyáoxīnzuò.
 1	天娱	天娱	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=tiānyú|LTranslit=tiānyú
-2	传媒	传媒	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=chuán媒|LTranslit=chuán媒
+2	传媒	传媒	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=chuánméi|LTranslit=chuánméi
 3	旗下	旗下	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=qíxià|LTranslit=qíxià
 4	“	“	PUNCT	``	_	6	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 5	国民	国民	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=guómín|LTranslit=guómín
@@ -11842,7 +11842,7 @@
 
 # sent_id = test-s422
 # text = 他还掌握了雷系查克拉的“状态变化”，可以不借助任何媒介使查克拉刀任意变化。
-# translit = tāháizhǎngwòleléixìchákèlāde“zhuàngtàibiànhuà”,kěyǐbùjièzhùrènhé媒jièshǐchákèlādāorènyìbiànhuà.
+# translit = tāháizhǎngwòleléixìchákèlāde“zhuàngtàibiànhuà”,kěyǐbùjièzhùrènhéméijièshǐchákèlādāorènyìbiànhuà.
 1	他	他	PRON	PRP	Person=3	18	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	还	还	ADV	RB	_	18	mark	_	SpaceAfter=No|Translit=hái|LTranslit=hái
 3	掌握	掌握	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=zhǎngwò|LTranslit=zhǎngwò
@@ -11859,7 +11859,7 @@
 14	不	不	ADV	RB	Polarity=Neg	15	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 15	借助	借助	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=jièzhù|LTranslit=jièzhù
 16	任何	任何	DET	DT	_	17	det	_	SpaceAfter=No|Translit=rènhé|LTranslit=rènhé
-17	媒介	媒介	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=媒jiè|LTranslit=媒jiè
+17	媒介	媒介	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=méijiè|LTranslit=méijiè
 18	使	使	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No|Translit=shǐ|LTranslit=shǐ
 19	查克拉	查克拉	NOUN	NN	_	20	compound	_	SpaceAfter=No|Translit=chákèlā|LTranslit=chákèlā
 20	刀	刀	PART	SFN	_	22	nsubj	_	SpaceAfter=No|Translit=dāo|LTranslit=dāo
@@ -12057,12 +12057,12 @@
 
 # sent_id = test-s430
 # text = 据阿卡德史诗《埃努玛·埃利什》的记载，安努是安莎尔与吉莎尔之子。
-# translit = jù'ākǎdéshǐshī«'āinǔ玛·'āilìshén»dejìzài,'ānnǔshì'ān莎'ěryǔjí莎'ěrzhīzi.
+# translit = jù'ākǎdéshǐshī«'āinǔmǎ·'āilìshén»dejìzài,'ānnǔshì'ānshā'ěryǔjíshā'ěrzhīzi.
 1	据	据	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=jù|LTranslit=jù
 2	阿卡德	阿卡德	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit='ākǎdé|LTranslit='ākǎdé
 3	史诗	史诗	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=shǐshī|LTranslit=shǐshī
 4	《	《	PUNCT	(	_	7	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
-5	埃努玛	埃努玛	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit='āinǔ玛|LTranslit='āinǔ玛
+5	埃努玛	埃努玛	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit='āinǔmǎ|LTranslit='āinǔmǎ
 6	·	·	PUNCT	/	_	5	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
 7	埃利什	埃利什	PROPN	NNP	_	3	appos	_	SpaceAfter=No|Translit='āilìshén|LTranslit='āilìshén
 8	》	》	PUNCT	)	_	7	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
@@ -12071,9 +12071,9 @@
 11	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 12	安努	安努	PROPN	NNP	_	18	nsubj	_	SpaceAfter=No|Translit='ānnǔ|LTranslit='ānnǔ
 13	是	是	AUX	VC	_	18	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-14	安莎尔	安莎尔	PROPN	NNP	_	18	nmod	_	SpaceAfter=No|Translit='ān莎'ěr|LTranslit='ān莎'ěr
+14	安莎尔	安莎尔	PROPN	NNP	_	18	nmod	_	SpaceAfter=No|Translit='ānshā'ěr|LTranslit='ānshā'ěr
 15	与	与	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
-16	吉莎尔	吉莎尔	PROPN	NNP	_	14	conj	_	SpaceAfter=No|Translit=jí莎'ěr|LTranslit=jí莎'ěr
+16	吉莎尔	吉莎尔	PROPN	NNP	_	14	conj	_	SpaceAfter=No|Translit=jíshā'ěr|LTranslit=jíshā'ěr
 17	之	之	PART	DEC	Case=Gen	14	case	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
 18	子	子	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=zi|LTranslit=zi
 19	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -12098,16 +12098,16 @@
 
 # sent_id = test-s432
 # text = 此外，他还创办了北京市伊斯兰教经学院，并曾任中国伊斯兰教经学院与北京市伊斯兰教经学院院长。
-# translit = cǐwài,tāháichuàngbànleběi京shìyīsī兰jiàojīngxuéyuàn,bìngcéngrènzhōngguóyīsī兰jiàojīngxuéyuànyǔběi京shìyīsī兰jiàojīngxuéyuànyuànzhǎng.
+# translit = cǐwài,tāháichuàngbànleběijīngshìyīsīlánjiàojīngxuéyuàn,bìngcéngrènzhōngguóyīsīlánjiàojīngxuéyuànyǔběijīngshìyīsīlánjiàojīngxuéyuànyuànzhǎng.
 1	此外	此外	NOUN	NN	_	16	obl	_	SpaceAfter=No|Translit=cǐwài|LTranslit=cǐwài
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	他	他	PRON	PRP	Person=3	16	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 4	还	还	ADV	RB	_	5	mark	_	SpaceAfter=No|Translit=hái|LTranslit=hái
 5	创办	创办	VERB	VV	_	16	advcl	_	SpaceAfter=No|Translit=chuàngbàn|LTranslit=chuàngbàn
 6	了	了	AUX	AS	Aspect=Perf	5	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-7	北京	北京	PROPN	NNP	_	8	compound	_	SpaceAfter=No|Translit=běi京|LTranslit=běi京
+7	北京	北京	PROPN	NNP	_	8	compound	_	SpaceAfter=No|Translit=běijīng|LTranslit=běijīng
 8	市	市	PART	SFN	_	12	nmod	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-9	伊斯兰	伊斯兰	PROPN	NNP	_	10	compound	_	SpaceAfter=No|Translit=yīsī兰|LTranslit=yīsī兰
+9	伊斯兰	伊斯兰	PROPN	NNP	_	10	compound	_	SpaceAfter=No|Translit=yīsīlán|LTranslit=yīsīlán
 10	教	教	PART	SFN	_	12	nmod	_	SpaceAfter=No|Translit=jiào|LTranslit=jiào
 11	经	经	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=jīng|LTranslit=jīng
 12	学院	学院	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=xuéyuàn|LTranslit=xuéyuàn
@@ -12116,14 +12116,14 @@
 15	曾	曾	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 16	任	任	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rèn|LTranslit=rèn
 17	中国	中国	PROPN	NNP	_	21	nmod	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
-18	伊斯兰	伊斯兰	PROPN	NNP	_	19	compound	_	SpaceAfter=No|Translit=yīsī兰|LTranslit=yīsī兰
+18	伊斯兰	伊斯兰	PROPN	NNP	_	19	compound	_	SpaceAfter=No|Translit=yīsīlán|LTranslit=yīsīlán
 19	教	教	PART	SFN	_	21	nmod	_	SpaceAfter=No|Translit=jiào|LTranslit=jiào
 20	经	经	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=jīng|LTranslit=jīng
 21	学院	学院	NOUN	NN	_	29	nmod	_	SpaceAfter=No|Translit=xuéyuàn|LTranslit=xuéyuàn
 22	与	与	CCONJ	CC	_	28	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
-23	北京	北京	PROPN	NNP	_	24	compound	_	SpaceAfter=No|Translit=běi京|LTranslit=běi京
+23	北京	北京	PROPN	NNP	_	24	compound	_	SpaceAfter=No|Translit=běijīng|LTranslit=běijīng
 24	市	市	PART	SFN	_	28	nmod	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-25	伊斯兰	伊斯兰	PROPN	NNP	_	26	compound	_	SpaceAfter=No|Translit=yīsī兰|LTranslit=yīsī兰
+25	伊斯兰	伊斯兰	PROPN	NNP	_	26	compound	_	SpaceAfter=No|Translit=yīsīlán|LTranslit=yīsīlán
 26	教	教	PART	SFN	_	28	nmod	_	SpaceAfter=No|Translit=jiào|LTranslit=jiào
 27	经	经	NOUN	NN	_	28	nmod	_	SpaceAfter=No|Translit=jīng|LTranslit=jīng
 28	学院	学院	NOUN	NN	_	21	conj	_	SpaceAfter=No|Translit=xuéyuàn|LTranslit=xuéyuàn
@@ -12180,44 +12180,44 @@
 
 # sent_id = test-s435
 # text = 同年接近年尾时，艾迪特带着安妮与玛戈到居于亚琛的外婆罗莎·霍德兰的家中居住，而奥托则继续留在法兰克福，直至他收到在荷兰阿姆斯特丹开设公司的邀请。
-# translit = tóngniánjiējìnniánwěishí,艾迪tèdàizhe'ān妮yǔ玛戈dàojūyúyà琛dewàipó罗莎·霍dé兰dejiāzhōngjūzhù,'ér奥tuōzéjìxùliúzàifǎ兰kèfú,zhízhìtāshōudàozàihé兰'āmǔsītèdānkāishègōngsīdeyāoqǐng.
+# translit = tóngniánjiējìnniánwěishí,'àidítèdàizhe'ān妮yǔmǎ戈dàojūyúyà琛dewàipóluōshā·霍délándejiāzhōngjūzhù,'ér'àotuōzéjìxùliúzàifǎlánkèfú,zhízhìtāshōudàozàihélán'āmǔsītèdānkāishègōngsīdeyāoqǐng.
 1	同年	同年	NOUN	NN	_	2	nmod:tmod	_	SpaceAfter=No|Translit=tóngnián|LTranslit=tóngnián
 2	接近	接近	VERB	VV	_	23	advcl	_	SpaceAfter=No|Translit=jiējìn|LTranslit=jiējìn
 3	年尾	年尾	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=niánwěi|LTranslit=niánwěi
 4	时	时	ADP	IN	_	2	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
 5	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-6	艾迪特	艾迪特	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No|Translit=艾迪tè|LTranslit=艾迪tè
+6	艾迪特	艾迪特	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No|Translit='àidítè|LTranslit='àidítè
 7	带	带	VERB	VV	_	12	advcl	_	SpaceAfter=No|Translit=dài|LTranslit=dài
 8	着	着	AUX	AS	Aspect=Prog	7	aux	_	SpaceAfter=No|Translit=zhe|LTranslit=zhe
 9	安妮	安妮	PROPN	NNP	_	7	obj	_	SpaceAfter=No|Translit='ān妮|LTranslit='ān妮
 10	与	与	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
-11	玛戈	玛戈	PROPN	NNP	_	9	conj	_	SpaceAfter=No|Translit=玛戈|LTranslit=玛戈
+11	玛戈	玛戈	PROPN	NNP	_	9	conj	_	SpaceAfter=No|Translit=mǎ戈|LTranslit=mǎ戈
 12	到	到	VERB	VV	_	23	advcl	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 13	居	居	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No|Translit=jū|LTranslit=jū
 14	于	于	VERB	VV	_	13	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 15	亚琛	亚琛	PROPN	NNP	_	13	obl	_	SpaceAfter=No|Translit=yà琛|LTranslit=yà琛
 16	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 17	外婆	外婆	NOUN	NN	_	22	nmod	_	SpaceAfter=No|Translit=wàipó|LTranslit=wàipó
-18	罗莎	罗莎	PROPN	NNP	_	17	appos	_	SpaceAfter=No|Translit=罗莎|LTranslit=罗莎
+18	罗莎	罗莎	PROPN	NNP	_	17	appos	_	SpaceAfter=No|Translit=luōshā|LTranslit=luōshā
 19	·	·	PUNCT	/	_	20	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
-20	霍德兰	霍德兰	PROPN	NNP	_	18	flat:name	_	SpaceAfter=No|Translit=霍dé兰|LTranslit=霍dé兰
+20	霍德兰	霍德兰	PROPN	NNP	_	18	flat:name	_	SpaceAfter=No|Translit=霍délán|LTranslit=霍délán
 21	的	的	PART	DEC	Case=Gen	18	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 22	家中	家中	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=jiāzhōng|LTranslit=jiāzhōng
 23	居住	居住	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jūzhù|LTranslit=jūzhù
 24	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 25	而	而	ADV	RB	_	28	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
-26	奥托	奥托	PROPN	NNP	_	28	nsubj	_	SpaceAfter=No|Translit=奥tuō|LTranslit=奥tuō
+26	奥托	奥托	PROPN	NNP	_	28	nsubj	_	SpaceAfter=No|Translit='àotuō|LTranslit='àotuō
 27	则	则	ADV	RB	_	28	mark	_	SpaceAfter=No|Translit=zé|LTranslit=zé
 28	继续	继续	VERB	VV	_	23	parataxis	_	SpaceAfter=No|Translit=jìxù|LTranslit=jìxù
 29	留	留	VERB	VV	_	28	xcomp	_	SpaceAfter=No|Translit=liú|LTranslit=liú
 30	在	在	VERB	VV	_	29	mark	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-31	法兰克福	法兰克福	PROPN	NNP	_	29	obj	_	SpaceAfter=No|Translit=fǎ兰kèfú|LTranslit=fǎ兰kèfú
+31	法兰克福	法兰克福	PROPN	NNP	_	29	obj	_	SpaceAfter=No|Translit=fǎlánkèfú|LTranslit=fǎlánkèfú
 32	，	，	PUNCT	,	_	35	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 33	直至	直至	ADP	IN	_	35	case	_	SpaceAfter=No|Translit=zhízhì|LTranslit=zhízhì
 34	他	他	PRON	PRP	Person=3	35	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 35	收到	收到	VERB	VV	_	28	ccomp	_	SpaceAfter=No|Translit=shōudào|LTranslit=shōudào
 36	在	在	VERB	VV	_	39	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-37	荷兰	荷兰	PROPN	NNP	_	38	nmod	_	SpaceAfter=No|Translit=hé兰|LTranslit=hé兰
+37	荷兰	荷兰	PROPN	NNP	_	38	nmod	_	SpaceAfter=No|Translit=hélán|LTranslit=hélán
 38	阿姆斯特丹	阿姆斯特丹	PROPN	NNP	_	36	obj	_	SpaceAfter=No|Translit='āmǔsītèdān|LTranslit='āmǔsītèdān
 39	开设	开设	VERB	VV	_	42	acl:relcl	_	SpaceAfter=No|Translit=kāishè|LTranslit=kāishè
 40	公司	公司	NOUN	NN	_	39	obj	_	SpaceAfter=No|Translit=gōngsī|LTranslit=gōngsī
@@ -12227,10 +12227,10 @@
 
 # sent_id = test-s436
 # text = 洛姬诺娃也是俄罗斯最有名的女保镖之一。
-# translit = 洛姬诺wáyěshì'é罗sīzuìyǒumíngdenǚbǎo镖zhīyī.
-1	洛姬诺娃	洛姬诺娃	PROPN	NNP	_	10	nsubj	_	SpaceAfter=No|Translit=洛姬诺wá|LTranslit=洛姬诺wá
+# translit = luò姬诺wáyěshì'éluōsīzuìyǒumíngdenǚbǎo镖zhīyī.
+1	洛姬诺娃	洛姬诺娃	PROPN	NNP	_	10	nsubj	_	SpaceAfter=No|Translit=luò姬诺wá|LTranslit=luò姬诺wá
 2	也是	也是	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=yěshì
-3	俄罗斯	俄罗斯	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit='é罗sī|LTranslit='é罗sī
+3	俄罗斯	俄罗斯	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit='éluōsī|LTranslit='éluōsī
 4	最	最	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
 5	有名	有名	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=yǒumíng|LTranslit=yǒumíng
 6	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -12242,17 +12242,17 @@
 
 # sent_id = test-s437
 # text = 根据台湾乌克兰籍艺人瑞莎的说法，瑞纱与贝索诺娃在德里乌矜斯学校同时接受韵律体操的训练，住在同一间寝室。
-# translit = gēnjùtáiwānwūkè兰jíyìrén瑞莎deshuōfǎ,瑞shāyǔbèisuǒ诺wázàidélǐwū矜sīxuéxiàotóngshíjiēshòu韵lǜtǐcāodexunliàn,zhùzàitóngyījiān寝shì.
+# translit = gēnjùtáiwānwūkèlánjíyìrénruìshādeshuōfǎ,ruìshāyǔbèisuǒ诺wázàidélǐwū矜sīxuéxiàotóngshíjiēshòu韵lǜtǐcāodexunliàn,zhùzàitóngyījiān寝shì.
 1	根据	根据	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=gēnjù|LTranslit=gēnjù
 2	台湾	台湾	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=táiwān|LTranslit=táiwān
-3	乌克兰	乌克兰	PROPN	NNP	_	4	compound	_	SpaceAfter=No|Translit=wūkè兰|LTranslit=wūkè兰
+3	乌克兰	乌克兰	PROPN	NNP	_	4	compound	_	SpaceAfter=No|Translit=wūkèlán|LTranslit=wūkèlán
 4	籍	籍	PART	SFN	_	5	nmod	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 5	艺人	艺人	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=yìrén|LTranslit=yìrén
-6	瑞莎	瑞莎	PROPN	NNP	_	5	appos	_	SpaceAfter=No|Translit=瑞莎|LTranslit=瑞莎
+6	瑞莎	瑞莎	PROPN	NNP	_	5	appos	_	SpaceAfter=No|Translit=ruìshā|LTranslit=ruìshā
 7	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	说法	说法	NOUN	NN	_	23	obl	_	SpaceAfter=No|Translit=shuōfǎ|LTranslit=shuōfǎ
 9	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-10	瑞纱	瑞纱	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No|Translit=瑞shā|LTranslit=瑞shā
+10	瑞纱	瑞纱	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No|Translit=ruìshā|LTranslit=ruìshā
 11	与	与	CCONJ	CC	_	12	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 12	贝索诺娃	贝索诺娃	PROPN	NNP	_	10	conj	_	SpaceAfter=No|Translit=bèisuǒ诺wá|LTranslit=bèisuǒ诺wá
 13	在	在	VERB	VV	_	17	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -12440,11 +12440,11 @@
 
 # sent_id = test-s446
 # text = 然而再回到伦敦的暗房冲洗时，工作人员的失误毁掉了绝大多数底片，经过一番努力，抢救出了其中的11张。
-# translit = rán'érzàihuídào伦敦de'ànfángchōngxǐshí,gōngzuòrényuándeshīwùhuǐdiàolejuédàduōshùdǐpiàn,jīngguòyīfānnǔlì,qiǎngjiùchūleqízhōngde11zhāng.
+# translit = rán'érzàihuídàolún敦de'ànfángchōngxǐshí,gōngzuòrényuándeshīwùhuǐdiàolejuédàduōshùdǐpiàn,jīngguòyīfānnǔlì,qiǎngjiùchūleqízhōngde11zhāng.
 1	然而	然而	ADV	RB	_	14	mark	_	SpaceAfter=No|Translit=rán'ér|LTranslit=rán'ér
 2	再	再	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 3	回到	回到	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=huídào|LTranslit=huídào
-4	伦敦	伦敦	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=伦敦|LTranslit=伦敦
+4	伦敦	伦敦	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=lún敦|LTranslit=lún敦
 5	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	暗房	暗房	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit='ànfáng|LTranslit='ànfáng
 7	冲洗	冲洗	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=chōngxǐ|LTranslit=chōngxǐ
@@ -12524,7 +12524,7 @@
 
 # sent_id = test-s449
 # text = 这是继CCTV电视剧频道、湖南电视台卫星频道之后，中国大陆第三家引进泰国电视剧的电视机构。
-# translit = zhèshìjìCCTVdiànshìjùpíndào,húnándiànshìtáiwèixīngpíndàozhīhòu,zhōngguódàlùdìsānjiāyǐnjìn泰guódiànshìjùdediànshìjīgòu.
+# translit = zhèshìjìCCTVdiànshìjùpíndào,húnándiànshìtáiwèixīngpíndàozhīhòu,zhōngguódàlùdìsānjiāyǐnjìntàiguódiànshìjùdediànshìjīgòu.
 1	这	这	PRON	PRD	_	26	nsubj	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 2	是	是	AUX	VC	_	26	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 3	继	继	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=jì|LTranslit=jì
@@ -12545,7 +12545,7 @@
 18	第三	第三	NUM	CD	NumType=Ord	19	nummod	_	SpaceAfter=No|Translit=dìsān|LTranslit=dìsān
 19	家	家	NOUN	NNB	_	20	obl	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
 20	引进	引进	VERB	VV	_	26	acl:relcl	_	SpaceAfter=No|Translit=yǐnjìn|LTranslit=yǐnjìn
-21	泰国	泰国	PROPN	NNP	_	23	nmod	_	SpaceAfter=No|Translit=泰guó|LTranslit=泰guó
+21	泰国	泰国	PROPN	NNP	_	23	nmod	_	SpaceAfter=No|Translit=tàiguó|LTranslit=tàiguó
 22	电视	电视	NOUN	NN	_	23	compound	_	SpaceAfter=No|Translit=diànshì|LTranslit=diànshì
 23	剧	剧	PART	SFN	_	20	obj	_	SpaceAfter=No|Translit=jù|LTranslit=jù
 24	的	的	PART	DEC	_	20	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -12571,7 +12571,7 @@
 
 # sent_id = test-s451
 # text = 1917年，在巴埃萨，他认识了费德里克加西亚洛尔迦，他们建立了伟大的友谊。
-# translit = 1917nián,zàiba'āisà,tārènshilefèidélǐkèjiāxiyà洛'ěr迦,tāmenjiànlìlewěidàdeyouyì.
+# translit = 1917nián,zàiba'āisà,tārènshilefèidélǐkèjiāxiyàluò'ěr迦,tāmenjiànlìlewěidàdeyouyì.
 1	1917	1917	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1917|LTranslit=1917
 2	年	年	PART	SFN	_	8	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -12583,7 +12583,7 @@
 9	了	了	AUX	AS	Aspect=Perf	8	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 10	费德里克	费德里克	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=fèidélǐkè|LTranslit=fèidélǐkè
 11	加西亚	加西亚	PROPN	NNP	_	8	obj	_	SpaceAfter=No|Translit=jiāxiyà|LTranslit=jiāxiyà
-12	洛尔迦	洛尔迦	PROPN	NNP	_	11	flat:name	_	SpaceAfter=No|Translit=洛'ěr迦|LTranslit=洛'ěr迦
+12	洛尔迦	洛尔迦	PROPN	NNP	_	11	flat:name	_	SpaceAfter=No|Translit=luò'ěr迦|LTranslit=luò'ěr迦
 13	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	他们	他	PRON	PRP	Number=Plur|Person=3	15	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 15	建立	建立	VERB	VV	_	8	parataxis	_	SpaceAfter=No|Translit=jiànlì|LTranslit=jiànlì
@@ -12656,7 +12656,7 @@
 
 # sent_id = test-s454
 # text = 现时该公司市场遍布香港、澳门、中国大陆、台湾、日本、马来西亚、泰国、汶莱、印度等地。
-# translit = xiànshígāigōngsīshìchǎngbiànbùxiānggǎng,澳mén,zhōngguódàlù,táiwān,rìběn,mǎláixiyà,泰guó,汶莱,yìndùděngde.
+# translit = xiànshígāigōngsīshìchǎngbiànbùxiānggǎng,'àomén,zhōngguódàlù,táiwān,rìběn,mǎláixiyà,tàiguó,汶莱,yìndùděngde.
 1	现时	现时	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No|Translit=xiànshí|LTranslit=xiànshí
 2	该	该	DET	DT	_	3	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
 3	公司	公司	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=gōngsī|LTranslit=gōngsī
@@ -12664,7 +12664,7 @@
 5	遍布	遍布	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=biànbù|LTranslit=biànbù
 6	香港	香港	PROPN	NNP	_	5	obj	_	SpaceAfter=No|Translit=xiānggǎng|LTranslit=xiānggǎng
 7	、	、	PUNCT	EC	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-8	澳门	澳门	PROPN	NNP	_	6	conj	_	SpaceAfter=No|Translit=澳mén|LTranslit=澳mén
+8	澳门	澳门	PROPN	NNP	_	6	conj	_	SpaceAfter=No|Translit='àomén|LTranslit='àomén
 9	、	、	PUNCT	EC	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	中国	中国	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
 11	大陆	大陆	NOUN	NN	_	6	conj	_	SpaceAfter=No|Translit=dàlù|LTranslit=dàlù
@@ -12675,7 +12675,7 @@
 16	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 17	马来西亚	马来西亚	PROPN	NNP	_	6	conj	_	SpaceAfter=No|Translit=mǎláixiyà|LTranslit=mǎláixiyà
 18	、	、	PUNCT	EC	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-19	泰国	泰国	PROPN	NNP	_	6	conj	_	SpaceAfter=No|Translit=泰guó|LTranslit=泰guó
+19	泰国	泰国	PROPN	NNP	_	6	conj	_	SpaceAfter=No|Translit=tàiguó|LTranslit=tàiguó
 20	、	、	PUNCT	EC	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 21	汶莱	汶莱	PROPN	NNP	_	6	conj	_	SpaceAfter=No|Translit=汶莱|LTranslit=汶莱
 22	、	、	PUNCT	EC	_	23	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -12747,7 +12747,7 @@
 
 # sent_id = test-s457
 # text = Anggun是世界上最成功的亚裔歌手，在法国、美国、巴西、比利时、意大利、新加坡、印尼、马来西亚、芬兰、瑞士、西班牙、俄罗斯、德国、加拿大、荷兰、希腊、菲律宾、汶莱、日本等40多个国家也有着高知名度。
-# translit = Anggunshìshìjièshàngzuìchénggōngdeyà裔gēshǒu,zàifǎguó,měiguó,baxi,bǐlìshí,yìdàlì,xīnjiāpō,yìn尼,mǎláixiyà,芬兰,瑞shì,xibānyá,'é罗sī,déguó,jiānádà,hé兰,xī腊,菲lǜbīn,汶莱,rìběnděng40duōgèguójiāyěyǒuzhegāozhīmíngdù.
+# translit = Anggunshìshìjièshàngzuìchénggōngdeyà裔gēshǒu,zàifǎguó,měiguó,baxi,bǐlìshí,yìdàlì,xīnjiāpō,yìnní,mǎláixiyà,fēnlán,ruìshì,xibānyá,'éluōsī,déguó,jiānádà,hélán,xī腊,fēilǜbīn,汶莱,rìběnděng40duōgèguójiāyěyǒuzhegāozhīmíngdù.
 1	Anggun	Anggun	X	FW	_	55	nsubj	_	SpaceAfter=No|Translit=Anggun|LTranslit=Anggun
 2	是	是	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 3	世界	世界	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=shìjiè|LTranslit=shìjiè
@@ -12772,27 +12772,27 @@
 22	、	、	PUNCT	EC	_	23	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 23	新加坡	新加坡	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=xīnjiāpō|LTranslit=xīnjiāpō
 24	、	、	PUNCT	EC	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-25	印尼	印尼	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=yìn尼|LTranslit=yìn尼
+25	印尼	印尼	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=yìnní|LTranslit=yìnní
 26	、	、	PUNCT	EC	_	27	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 27	马来西亚	马来西亚	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=mǎláixiyà|LTranslit=mǎláixiyà
 28	、	、	PUNCT	EC	_	29	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-29	芬兰	芬兰	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=芬兰|LTranslit=芬兰
+29	芬兰	芬兰	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=fēnlán|LTranslit=fēnlán
 30	、	、	PUNCT	EC	_	31	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-31	瑞士	瑞士	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=瑞shì|LTranslit=瑞shì
+31	瑞士	瑞士	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=ruìshì|LTranslit=ruìshì
 32	、	、	PUNCT	EC	_	33	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 33	西班牙	西班牙	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=xibānyá|LTranslit=xibānyá
 34	、	、	PUNCT	EC	_	35	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-35	俄罗斯	俄罗斯	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit='é罗sī|LTranslit='é罗sī
+35	俄罗斯	俄罗斯	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit='éluōsī|LTranslit='éluōsī
 36	、	、	PUNCT	EC	_	37	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 37	德国	德国	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=déguó|LTranslit=déguó
 38	、	、	PUNCT	EC	_	39	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 39	加拿大	加拿大	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=jiānádà|LTranslit=jiānádà
 40	、	、	PUNCT	EC	_	41	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-41	荷兰	荷兰	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=hé兰|LTranslit=hé兰
+41	荷兰	荷兰	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=hélán|LTranslit=hélán
 42	、	、	PUNCT	EC	_	43	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 43	希腊	希腊	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=xī腊|LTranslit=xī腊
 44	、	、	PUNCT	EC	_	45	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-45	菲律宾	菲律宾	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=菲lǜbīn|LTranslit=菲lǜbīn
+45	菲律宾	菲律宾	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=fēilǜbīn|LTranslit=fēilǜbīn
 46	、	、	PUNCT	EC	_	47	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 47	汶莱	汶莱	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=汶莱|LTranslit=汶莱
 48	、	、	PUNCT	EC	_	49	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -12811,26 +12811,26 @@
 
 # sent_id = test-s458
 # text = 恒河和雅鲁藏布江河口均流出至安达曼海。
-# translit = hénghéhé雅鲁cángbùjiānghékǒujūnliúchūzhì'āndá曼hǎi.
+# translit = hénghéhé雅lǔcángbùjiānghékǒujūnliúchūzhì'āndámànhǎi.
 1	恒河	恒河	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=hénghé|LTranslit=hénghé
 2	和	和	CCONJ	CC	_	4	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
-3	雅鲁藏布	雅鲁藏布	PROPN	NNP	_	4	compound	_	SpaceAfter=No|Translit=雅鲁cángbù|LTranslit=雅鲁cángbù
+3	雅鲁藏布	雅鲁藏布	PROPN	NNP	_	4	compound	_	SpaceAfter=No|Translit=雅lǔcángbù|LTranslit=雅lǔcángbù
 4	江	江	PART	SFN	_	1	conj	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
 5	河口	河口	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=hékǒu|LTranslit=hékǒu
 6	均	均	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
 7	流出	流出	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=liúchū|LTranslit=liúchū
 8	至	至	VERB	VV	_	7	mark	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
-9	安达曼	安达曼	PROPN	NNP	_	10	compound	_	SpaceAfter=No|Translit='āndá曼|LTranslit='āndá曼
+9	安达曼	安达曼	PROPN	NNP	_	10	compound	_	SpaceAfter=No|Translit='āndámàn|LTranslit='āndámàn
 10	海	海	PART	SFN	_	7	obj	_	SpaceAfter=No|Translit=hǎi|LTranslit=hǎi
 11	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s459
 # text = 他效力于瑞典球会佐加顿斯至2009年6月合约结束。
-# translit = tāxiàolìyú瑞diǎnqiúhuì佐jiādùnsīzhì2009nián6yuèhéyuējiéshù.
+# translit = tāxiàolìyúruìdiǎnqiúhuì佐jiādùnsīzhì2009nián6yuèhéyuējiéshù.
 1	他	他	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	效力	效力	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xiàolì|LTranslit=xiàolì
 3	于	于	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-4	瑞典	瑞典	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=瑞diǎn|LTranslit=瑞diǎn
+4	瑞典	瑞典	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=ruìdiǎn|LTranslit=ruìdiǎn
 5	球会	球会	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=qiúhuì|LTranslit=qiúhuì
 6	佐加顿斯	佐加顿斯	PROPN	NNP	_	2	obl	_	SpaceAfter=No|Translit=佐jiādùnsī|LTranslit=佐jiādùnsī
 7	至	至	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
@@ -12844,16 +12844,16 @@
 
 # sent_id = test-s460
 # text = 他还曾效力比摩治、奥林比查和马利迪莫，他曾引起了多间球会注意，如士砵亭、纽卡素和多蒙特。
-# translit = tāháicéngxiàolìbǐmózhì,奥línbǐcháhémǎlì迪mò,tācéngyǐnqǐleduōjiānqiúhuìzhùyì,rúshì砵tíng,niǔkǎsùhéduōméngtè.
+# translit = tāháicéngxiàolìbǐmózhì,'àolínbǐcháhémǎlìdímò,tācéngyǐnqǐleduōjiānqiúhuìzhùyì,rúshì砵tíng,niǔkǎsùhéduōméngtè.
 1	他	他	PRON	PRP	Person=3	4	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	还	还	ADV	RB	_	4	mark	_	SpaceAfter=No|Translit=hái|LTranslit=hái
 3	曾	曾	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 4	效力	效力	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xiàolì|LTranslit=xiàolì
 5	比摩治	比摩治	PROPN	NNP	_	4	obj	_	SpaceAfter=No|Translit=bǐmózhì|LTranslit=bǐmózhì
 6	、	、	PUNCT	EC	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	奥林比查	奥林比查	PROPN	NNP	_	5	conj	_	SpaceAfter=No|Translit=奥línbǐchá|LTranslit=奥línbǐchá
+7	奥林比查	奥林比查	PROPN	NNP	_	5	conj	_	SpaceAfter=No|Translit='àolínbǐchá|LTranslit='àolínbǐchá
 8	和	和	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
-9	马利迪莫	马利迪莫	PROPN	NNP	_	5	conj	_	SpaceAfter=No|Translit=mǎlì迪mò|LTranslit=mǎlì迪mò
+9	马利迪莫	马利迪莫	PROPN	NNP	_	5	conj	_	SpaceAfter=No|Translit=mǎlìdímò|LTranslit=mǎlìdímò
 10	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	他	他	PRON	PRP	Person=3	13	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 12	曾	曾	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
@@ -12992,15 +12992,15 @@
 
 # sent_id = test-s465
 # text = 最热的地区是科尼亚盆地和马拉蒂亚盆地，年降雨量常常少于300毫米。
-# translit = zuìrèdedeqūshìkē尼yàpéndehémǎlā蒂yàpénde,niánjiàngyǔliàngchángchángshǎoyú300háomǐ.
+# translit = zuìrèdedeqūshìkēníyàpéndehémǎlādìyàpénde,niánjiàngyǔliàngchángchángshǎoyú300háomǐ.
 1	最热	最热	ADJ	JJ	_	3	amod	_	SpaceAfter=No|Translit=zuìrè|LTranslit=zuìrè
 2	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 3	地区	地区	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=deqū|LTranslit=deqū
 4	是	是	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-5	科尼亚	科尼亚	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=kē尼yà|LTranslit=kē尼yà
+5	科尼亚	科尼亚	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=kēníyà|LTranslit=kēníyà
 6	盆地	盆地	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=pénde|LTranslit=pénde
 7	和	和	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
-8	马拉蒂亚	马拉蒂亚	PROPN	NNP	_	9	nmod	_	SpaceAfter=No|Translit=mǎlā蒂yà|LTranslit=mǎlā蒂yà
+8	马拉蒂亚	马拉蒂亚	PROPN	NNP	_	9	nmod	_	SpaceAfter=No|Translit=mǎlādìyà|LTranslit=mǎlādìyà
 9	盆地	盆地	NOUN	NN	_	6	conj	_	SpaceAfter=No|Translit=pénde|LTranslit=pénde
 10	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	年	年	NOUN	NNB	_	13	nmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
@@ -13015,7 +13015,7 @@
 
 # sent_id = test-s466
 # text = 安阳县是中国河南省安阳市下辖的一个县，位于河南省北缘，安阳市北部。
-# translit = 'ānyángxiànshìzhōngguóhénánshěng'ānyángshìxià辖deyīgèxiàn,wèiyúhénánshěngběiyuán,'ānyángshìběibù.
+# translit = 'ānyángxiànshìzhōngguóhénánshěng'ānyángshìxiàxiádeyīgèxiàn,wèiyúhénánshěngběiyuán,'ānyángshìběibù.
 1	安阳	安阳	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit='ānyáng|LTranslit='ānyáng
 2	县	县	PART	SFN	_	15	nsubj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 3	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -13024,7 +13024,7 @@
 6	省	省	PART	SFN	_	8	nmod	_	SpaceAfter=No|Translit=shěng|LTranslit=shěng
 7	安阳	安阳	PROPN	NNP	_	8	compound	_	SpaceAfter=No|Translit='ānyáng|LTranslit='ānyáng
 8	市	市	PART	SFN	_	9	nsubj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-9	下辖	下辖	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=xià辖|LTranslit=xià辖
+9	下辖	下辖	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=xiàxiá|LTranslit=xiàxiá
 10	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 12	个	个	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
@@ -13099,16 +13099,16 @@
 
 # sent_id = test-s470
 # text = 1952年12月美国总统艾森豪威尔访问韩国，他担任检阅主管。
-# translit = 1952nián12yuèměiguózǒngtǒng艾sēnháowēi'ěrfǎngwèn韩guó,tādānrènjiǎnyuèzhǔguǎn.
+# translit = 1952nián12yuèměiguózǒngtǒng'àisēnháowēi'ěrfǎngwènhánguó,tādānrènjiǎnyuèzhǔguǎn.
 1	1952	1952	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1952|LTranslit=1952
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	12	12	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
 4	月	月	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	美国	美国	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=měiguó|LTranslit=měiguó
 6	总统	总统	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=zǒngtǒng|LTranslit=zǒngtǒng
-7	艾森豪威尔	艾森豪威尔	PROPN	NNP	_	6	appos	_	SpaceAfter=No|Translit=艾sēnháowēi'ěr|LTranslit=艾sēnháowēi'ěr
+7	艾森豪威尔	艾森豪威尔	PROPN	NNP	_	6	appos	_	SpaceAfter=No|Translit='àisēnháowēi'ěr|LTranslit='àisēnháowēi'ěr
 8	访问	访问	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=fǎngwèn|LTranslit=fǎngwèn
-9	韩国	韩国	PROPN	NNP	_	8	obj	_	SpaceAfter=No|Translit=韩guó|LTranslit=韩guó
+9	韩国	韩国	PROPN	NNP	_	8	obj	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 10	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	他	他	PRON	PRP	Person=3	12	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 12	担任	担任	VERB	VV	_	8	parataxis	_	SpaceAfter=No|Translit=dānrèn|LTranslit=dānrèn
@@ -13371,7 +13371,7 @@
 
 # sent_id = test-s479
 # text = 宜都市是地处中华人民共和国湖北省西南部的一个县级市，隶属地级宜昌市管辖，位于长江南岸，长江与其支流清江交汇处。
-# translit = yidōushìshìdechùzhōnghuárénmíngònghéguóhúběishěngxinánbùdeyīgèxiànjíshì,lìshǔdejíyi昌shìguǎn辖,wèiyúzhǎngjiāngnán'àn,zhǎngjiāngyǔqízhīliúqīngjiāngjiāohuìchù.
+# translit = yidōushìshìdechùzhōnghuárénmíngònghéguóhúběishěngxinánbùdeyīgèxiànjíshì,lìshǔdejíyi昌shìguǎnxiá,wèiyúzhǎngjiāngnán'àn,zhǎngjiāngyǔqízhīliúqīngjiāngjiāohuìchù.
 1	宜都	宜都	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=yidōu|LTranslit=yidōu
 2	市	市	PART	SFN	_	26	nsubj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 3	是	是	AUX	VC	_	18	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -13395,7 +13395,7 @@
 21	地级	地级	NOUN	NN	_	23	nmod	_	SpaceAfter=No|Translit=dejí|LTranslit=dejí
 22	宜昌	宜昌	PROPN	NNP	_	23	compound	_	SpaceAfter=No|Translit=yi昌|LTranslit=yi昌
 23	市	市	PART	SFN	_	24	nsubj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-24	管辖	管辖	VERB	VV	_	20	ccomp	_	SpaceAfter=No|Translit=guǎn辖|LTranslit=guǎn辖
+24	管辖	管辖	VERB	VV	_	20	ccomp	_	SpaceAfter=No|Translit=guǎnxiá|LTranslit=guǎnxiá
 25	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 26	位	位	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 27	于	于	VERB	VV	_	26	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
@@ -13564,12 +13564,12 @@
 
 # sent_id = test-s486
 # text = 主要职责是管理宫廷的修缮、食事、扫除、医疗等事庶务，以及天皇财产的管理。
-# translit = zhǔyàozhízéshìguǎnlǐgōng廷dexiū缮,shíshì,sǎochú,yīliáoděngshì庶wu,yǐjítiānhuángcáichǎndeguǎnlǐ.
+# translit = zhǔyàozhízéshìguǎnlǐgōngtíngdexiū缮,shíshì,sǎochú,yīliáoděngshì庶wu,yǐjítiānhuángcáichǎndeguǎnlǐ.
 1	主要	主要	ADJ	JJ	_	2	amod	_	SpaceAfter=No|Translit=zhǔyào|LTranslit=zhǔyào
 2	职责	职责	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=zhízé|LTranslit=zhízé
 3	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 4	管理	管理	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=guǎnlǐ|LTranslit=guǎnlǐ
-5	宫廷	宫廷	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=gōng廷|LTranslit=gōng廷
+5	宫廷	宫廷	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=gōngtíng|LTranslit=gōngtíng
 6	的	的	PART	DEC	Case=Gen	5	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 7	修缮	修缮	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=xiū缮|LTranslit=xiū缮
 8	、	、	PUNCT	EC	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -13670,7 +13670,7 @@
 
 # sent_id = test-s490
 # text = 宫城因为自负的性格，曾经与三井寿有过一段私人恩怨。
-# translit = gōngchéngyīnwèizìfùdexìnggé,céngjīngyǔsānjǐngshòuyǒuguòyīduànsīrén恩yuàn.
+# translit = gōngchéngyīnwèizìfùdexìnggé,céngjīngyǔsānjǐngshòuyǒuguòyīduànsīrén'ēnyuàn.
 1	宫城	宫城	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No|Translit=gōngchéng|LTranslit=gōngchéng
 2	因为	因为	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 3	自负	自负	ADJ	JJ	_	5	amod	_	SpaceAfter=No|Translit=zìfù|LTranslit=zìfù
@@ -13686,7 +13686,7 @@
 13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 14	段	段	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
 15	私人	私人	ADJ	JJ	_	16	amod	_	SpaceAfter=No|Translit=sīrén|LTranslit=sīrén
-16	恩怨	恩怨	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=恩yuàn|LTranslit=恩yuàn
+16	恩怨	恩怨	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit='ēnyuàn|LTranslit='ēnyuàn
 17	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s491
@@ -13744,8 +13744,8 @@
 
 # sent_id = test-s493
 # text = 安仁屋政昭以长达20多年对当地居民的采访经验为依据，其证言表明无论是屠杀居民还是集体自杀的责任都在日本军方，对于居民的牺牲，军方总指挥官曾有过计划（命令），另外即使没有命令，各级官兵都自发作出了上述行为。
-# translit = 'ān仁wūzhèng昭yǐzhǎngdá20duōniánduìdāngdejūmíndecǎifǎngjīngyànwèiyījù,qízhèngyánbiǎomíngwúlùnshìtúshājūmínháishìjítǐzìshādezérèndōuzàirìběnjūnfāng,duìyújūmíndexīshēng,jūnfāngzǒngzhǐhuīguāncéngyǒuguòjìhuà(mìnglìng),lìngwàijíshǐméiyǒumìnglìng,gèjíguānbīngdōuzìfāzuòchūleshàngshùxíngwèi.
-1	安仁屋	安仁屋	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit='ān仁wū|LTranslit='ān仁wū
+# translit = 'ānrénwūzhèng昭yǐzhǎngdá20duōniánduìdāngdejūmíndecǎifǎngjīngyànwèiyījù,qízhèngyánbiǎomíngwúlùnshìtúshājūmínháishìjítǐzìshādezérèndōuzàirìběnjūnfāng,duìyújūmíndexīshēng,jūnfāngzǒngzhǐhuīguāncéngyǒuguòjìhuà(mìnglìng),lìngwàijíshǐméiyǒumìnglìng,gèjíguānbīngdōuzìfāzuòchūleshàngshùxíngwèi.
+1	安仁屋	安仁屋	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit='ānrénwū|LTranslit='ānrénwū
 2	政昭	政昭	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No|Translit=zhèng昭|LTranslit=zhèng昭
 3	以	以	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
 4	长达	长达	VERB	VV	_	12	amod	_	SpaceAfter=No|Translit=zhǎngdá|LTranslit=zhǎngdá
