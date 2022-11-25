@@ -1029,7 +1029,7 @@
 6	减少	减少	VERB	VV	_	5	xcomp	_	SpaceAfter=No
 7	在	在	VERB	VV	_	13	advcl	_	SpaceAfter=No
 8	南非	南非	PROPN	NNP	_	7	obj	_	SpaceAfter=No
-9	对	对	ADP	IN	_	13	det	_	SpaceAfter=No
+9	对	对	ADP	IN	_	13	case	_	SpaceAfter=No
 10	印度	印度	PROPN	NNP	_	11	compound	_	SpaceAfter=No
 11	人	人	PART	SFN	_	9	nmod	_	SpaceAfter=No
 12	的	的	PART	DEC	Case=Gen	9	case	_	SpaceAfter=No
@@ -1280,7 +1280,7 @@
 10	现代	现代	NOUN	NN	_	11	compound	_	SpaceAfter=No
 11	化	化	PART	SFN	_	12	nmod	_	SpaceAfter=No
 12	国家	国家	NOUN	NN	_	24	nmod	_	SpaceAfter=No
-13	在	在	ADP	IN	_	24	det	_	SpaceAfter=No
+13	在	在	ADP	IN	_	24	case	_	SpaceAfter=No
 14	规划	规划	VERB	VV	_	13	xcomp	_	SpaceAfter=No
 15	基础	基础	NOUN	NN	_	16	nmod	_	SpaceAfter=No
 16	设施	设施	NOUN	NN	_	14	obj	_	SpaceAfter=No
@@ -2457,7 +2457,7 @@
 5	赞赏	赞赏	VERB	VV	_	0	root	_	SpaceAfter=No
 6	了	了	AUX	AS	Aspect=Perf	5	aux	_	SpaceAfter=No
 7	阿弗莱克	阿弗莱克	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
-8	对于	对于	ADP	IN	_	13	det	_	SpaceAfter=No
+8	对于	对于	ADP	IN	_	13	case	_	SpaceAfter=No
 9	抢劫	抢劫	NOUN	NN	_	10	nmod	_	SpaceAfter=No
 10	场景	场景	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 11	的	的	PART	DEC	Case=Gen	8	case	_	SpaceAfter=No
@@ -3511,7 +3511,7 @@
 13	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 14	引起	引起	VERB	VV	_	0	root	_	SpaceAfter=No
 15	了	了	AUX	AS	Aspect=Perf	14	aux	_	SpaceAfter=No
-16	对	对	ADP	IN	_	21	det	_	SpaceAfter=No
+16	对	对	ADP	IN	_	21	case	_	SpaceAfter=No
 17	该处	该处	NOUN	NN	_	19	nmod	_	SpaceAfter=No
 18	生态	生态	NOUN	NN	_	19	nmod	_	SpaceAfter=No
 19	影响	影响	NOUN	NN	_	16	nmod	_	SpaceAfter=No
@@ -3837,7 +3837,7 @@
 19	解释	解释	VERB	VV	_	4	conj	_	SpaceAfter=No
 20	同源	同源	NOUN	NN	_	21	compound	_	SpaceAfter=No
 21	词	词	PART	SFN	_	29	nmod	_	SpaceAfter=No
-22	在	在	ADP	IN	_	29	det	_	SpaceAfter=No
+22	在	在	ADP	IN	_	29	case	_	SpaceAfter=No
 23	各	各	DET	DT	_	25	det	_	SpaceAfter=No
 24	派生	派生	VERB	VV	_	25	compound	_	SpaceAfter=No
 25	语	语	PART	SFN	_	22	obj	_	SpaceAfter=No
@@ -4612,7 +4612,7 @@
 2	也	也	ADV	RB	_	4	mark	_	SpaceAfter=No
 3	需	需	AUX	MD	_	4	aux	_	SpaceAfter=No
 4	保守	保守	VERB	VV	_	0	root	_	SpaceAfter=No
-5	有关	有关	ADP	IN	_	9	det	_	SpaceAfter=No
+5	有关	有关	ADP	IN	_	9	case	_	SpaceAfter=No
 6	他们	他	PRON	PRP	Number=Plur|Person=3	7	nmod	_	SpaceAfter=No
 7	关系	关系	NOUN	NN	_	5	nmod	_	SpaceAfter=No
 8	的	的	PART	DEC	Case=Gen	5	case	_	SpaceAfter=No
@@ -4921,7 +4921,7 @@
 17	迎战	迎战	VERB	VV	_	8	ccomp	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
 19	缓和	缓和	VERB	VV	_	0	root	_	SpaceAfter=No
-20	对	对	ADP	IN	_	25	det	_	SpaceAfter=No
+20	对	对	ADP	IN	_	25	case	_	SpaceAfter=No
 21	日本	日本	PROPN	NNP	_	23	nmod	_	SpaceAfter=No
 22	特攻	特攻	VERB	VV	_	23	compound	_	SpaceAfter=No
 23	机	机	PART	SFN	_	20	nmod	_	SpaceAfter=No
@@ -5539,7 +5539,7 @@
 10	去	去	ADV	RB	_	11	mark	_	SpaceAfter=No
 11	争夺	争夺	VERB	VV	_	4	parataxis	_	SpaceAfter=No
 12	丈夫	丈夫	NOUN	NN	_	16	nmod	_	SpaceAfter=No
-13	对	对	ADP	IN	_	16	det	_	SpaceAfter=No
+13	对	对	ADP	IN	_	16	case	_	SpaceAfter=No
 14	自己	自己	PRON	PRD	_	13	nmod	_	SpaceAfter=No
 15	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No
 16	注意	注意	NOUN	NN	_	11	obj	_	SpaceAfter=No
@@ -6039,7 +6039,7 @@
 14	起	起	ADP	IN	_	13	acl	_	SpaceAfter=No
 15	大幅	大幅	ADV	RB	_	16	advmod	_	SpaceAfter=No
 16	削减	削减	VERB	VV	_	5	xcomp	_	SpaceAfter=No
-17	对	对	ADP	IN	_	25	det	_	SpaceAfter=No
+17	对	对	ADP	IN	_	25	case	_	SpaceAfter=No
 18	全国	全国	NOUN	NN	_	21	nmod	_	SpaceAfter=No
 19	的	的	PART	DEC	Case=Gen	18	case	_	SpaceAfter=No
 20	退休	退休	NOUN	NN	_	21	nmod	_	SpaceAfter=No
@@ -7416,7 +7416,7 @@
 
 # sent_id = test-s279
 # text = 在此条约之下的美澳同盟仍然完全有效，两国的国防部长经常列席年度部长级会议，美国太平洋地区总司令和澳洲参谋总长也常进行咨商，美国国务卿和澳洲外交部长每年会就条约相关事务进行会议，第17届部长级会议在2005年11月澳洲阿德莱德召开。
-1	在	在	ADP	IN	_	8	det	_	SpaceAfter=No
+1	在	在	ADP	IN	_	8	case	_	SpaceAfter=No
 2	此	此	DET	DT	_	3	det	_	SpaceAfter=No
 3	条约	条约	NOUN	NN	_	1	nmod	_	SpaceAfter=No
 4	之下	之下	ADP	IN	_	3	acl	_	SpaceAfter=No
@@ -7653,7 +7653,7 @@
 2	由于	由于	ADP	IN	_	10	case	_	SpaceAfter=No
 3	丰臣	丰臣	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
 4	秀吉	秀吉	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
-5	在	在	ADP	IN	_	10	det	_	SpaceAfter=No
+5	在	在	ADP	IN	_	10	case	_	SpaceAfter=No
 6	日本	日本	PROPN	NNP	_	7	compound	_	SpaceAfter=No
 7	人	人	PART	SFN	_	8	nmod	_	SpaceAfter=No
 8	心中	心中	NOUN	NN	_	5	nmod	_	SpaceAfter=No
@@ -9204,7 +9204,7 @@
 11	花	花	NOUN	NN	_	10	obj	_	SpaceAfter=No
 12	来	来	ADV	RB	_	13	mark	_	SpaceAfter=No
 13	表达	表达	VERB	VV	_	0	root	_	SpaceAfter=No
-14	对	对	ADP	IN	_	20	det	_	SpaceAfter=No
+14	对	对	ADP	IN	_	20	case	_	SpaceAfter=No
 15	别人	别人	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 16	与	与	CCONJ	CC	_	17	cc	_	SpaceAfter=No
 17	自己	自己	PRON	PRD	_	15	conj	_	SpaceAfter=No
@@ -9677,7 +9677,7 @@
 41	的	的	PART	DEC	Case=Gen	40	case	_	SpaceAfter=No
 42	人气	人气	NOUN	NN	_	38	obj	_	SpaceAfter=No
 43	与	与	CCONJ	CC	_	48	cc	_	SpaceAfter=No
-44	在	在	ADP	IN	_	48	det	_	SpaceAfter=No
+44	在	在	ADP	IN	_	48	case	_	SpaceAfter=No
 45	时尚	时尚	NOUN	NN	_	46	compound	_	SpaceAfter=No
 46	界	界	PART	SFN	_	44	nmod	_	SpaceAfter=No
 47	的	的	PART	DEC	Case=Gen	44	case	_	SpaceAfter=No
@@ -10002,7 +10002,7 @@
 2	俾斯麦	俾斯麦	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No
 3	说	说	VERB	VV	_	23	ccomp	_	SpaceAfter=No
 4	他	他	PRON	PRP	Person=3	9	nmod	_	SpaceAfter=No
-5	和	和	ADP	IN	_	9	det	_	SpaceAfter=No
+5	和	和	ADP	IN	_	9	case	_	SpaceAfter=No
 6	威廉	威廉	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 7	的	的	PART	DEC	Case=Gen	5	case	_	SpaceAfter=No
 8	工作	工作	NOUN	NN	_	9	nmod	_	SpaceAfter=No
@@ -10311,7 +10311,7 @@
 11	更	更	ADV	RB	_	12	advmod	_	SpaceAfter=No
 12	偏重	偏重	VERB	VV	_	5	ccomp	_	SpaceAfter=No
 13	于	于	VERB	VV	_	12	mark	_	SpaceAfter=No
-14	对于	对于	ADP	IN	_	18	det	_	SpaceAfter=No
+14	对于	对于	ADP	IN	_	18	case	_	SpaceAfter=No
 15	领袖	领袖	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 16	的	的	PART	DEC	Case=Gen	14	case	_	SpaceAfter=No
 17	个人	个人	NOUN	NN	_	18	nmod	_	SpaceAfter=No
@@ -10425,7 +10425,7 @@
 19	突出	突出	ADJ	JJ	_	12	parataxis	_	SpaceAfter=No
 20	，	，	PUNCT	,	_	30	punct	_	SpaceAfter=No
 21	于是	于是	ADV	RB	_	30	mark	_	SpaceAfter=No
-22	关于	关于	ADP	IN	_	28	det	_	SpaceAfter=No
+22	关于	关于	ADP	IN	_	28	case	_	SpaceAfter=No
 23	个人	个人	PRON	PRD	_	25	nmod	_	SpaceAfter=No
 24	至亲	至亲	ADJ	JJ	_	25	amod	_	SpaceAfter=No
 25	骨肉	骨肉	NOUN	NN	_	22	nmod	_	SpaceAfter=No
@@ -10674,7 +10674,7 @@
 16	增加	增加	VERB	VV	_	0	root	_	SpaceAfter=No
 17	输入	输入	VERB	VV	_	18	compound	_	SpaceAfter=No
 18	法	法	PART	SFN	_	24	nmod	_	SpaceAfter=No
-19	对于	对于	ADP	IN	_	24	det	_	SpaceAfter=No
+19	对于	对于	ADP	IN	_	24	case	_	SpaceAfter=No
 20	异体	异体	NOUN	NN	_	21	compound	_	SpaceAfter=No
 21	字	字	PART	SFN	_	19	nmod	_	SpaceAfter=No
 22	的	的	PART	DEC	Case=Gen	19	case	_	SpaceAfter=No
@@ -13049,7 +13049,7 @@
 10	混淆	混淆	VERB	VV	_	7	ccomp	_	SpaceAfter=No
 11	舞台	舞台	NOUN	NN	_	17	nmod	_	SpaceAfter=No
 12	表演	表演	NOUN	NN	_	17	nmod	_	SpaceAfter=No
-13	与	与	ADP	IN	_	17	det	_	SpaceAfter=No
+13	与	与	ADP	IN	_	17	case	_	SpaceAfter=No
 14	现实	现实	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 15	世界	世界	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 16	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No
@@ -13258,7 +13258,7 @@
 4	长达	长达	VERB	VV	_	12	amod	_	SpaceAfter=No
 5	20多	20多	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	年	年	NOUN	NNB	_	4	obj	_	SpaceAfter=No
-7	对	对	ADP	IN	_	12	det	_	SpaceAfter=No
+7	对	对	ADP	IN	_	12	case	_	SpaceAfter=No
 8	当地	当地	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 9	居民	居民	NOUN	NN	_	7	nmod	_	SpaceAfter=No
 10	的	的	PART	DEC	Case=Gen	7	case	_	SpaceAfter=No
