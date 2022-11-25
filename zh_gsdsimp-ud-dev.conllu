@@ -7309,7 +7309,7 @@
 17	游击	游击	NOUN	NN	_	18	compound	_	SpaceAfter=No
 18	战	战	PART	SFN	_	16	obj	_	SpaceAfter=No
 19	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No
-20	前	前	DET	DT	_	25	case	_	SpaceAfter=No
+20	前	前	ADP	DT	_	25	case	_	SpaceAfter=No
 21	台湾	台湾	PROPN	NNP	_	25	nmod	_	SpaceAfter=No
 22	民主	民主	NOUN	NN	_	23	compound	_	SpaceAfter=No
 23	国	国	PART	SFN	_	25	nmod	_	SpaceAfter=No
@@ -12873,7 +12873,7 @@
 38	击中	击中	VERB	VV	_	36	ccomp	_	SpaceAfter=No
 39	头部	头部	NOUN	NN	_	40	nsubj	_	SpaceAfter=No
 40	受	受	VERB	VV	_	36	parataxis	_	SpaceAfter=No
-41	重	重	ADJ	JJ	_	42	case	_	SpaceAfter=No
+41	重	重	ADP	JJ	_	42	case	_	SpaceAfter=No
 42	伤	伤	NOUN	NN	_	40	obj	_	SpaceAfter=No
 43	，	，	PUNCT	,	_	51	punct	_	SpaceAfter=No
 44	当时	当时	NOUN	NN	_	47	nmod:tmod	_	SpaceAfter=No
@@ -13539,7 +13539,7 @@
 # sent_id = dev-s482
 # text = 虽然大部分的总统由民主方法选出，也有部分国家元首是发动政变或起义夺权而产生（如古巴前国务委员会主席菲德尔·卡斯特罗）。
 1	虽然	虽然	ADP	IN	_	6	case	_	SpaceAfter=No
-2	大	大	ADJ	JJ	_	3	case	_	SpaceAfter=No
+2	大	大	ADP	JJ	_	3	case	_	SpaceAfter=No
 3	部分	部分	NOUN	NN	_	5	nmod	_	SpaceAfter=No
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No
 5	总统	总统	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
@@ -14045,7 +14045,7 @@
 41	为	为	AUX	VC	_	45	cop	_	SpaceAfter=No
 42	台湾	台湾	PROPN	NNP	_	45	nmod	_	SpaceAfter=No
 43	五	五	NUM	CD	NumType=Card	45	nummod	_	SpaceAfter=No
-44	大	大	ADJ	JJ	_	45	case	_	SpaceAfter=No
+44	大	大	ADP	JJ	_	45	case	_	SpaceAfter=No
 45	学府	学府	NOUN	NN	_	0	root	_	SpaceAfter=No
 
 # sent_id = dev-s498
