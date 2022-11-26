@@ -2746,9 +2746,9 @@
 # text = 他感到自责，认为这样的复仇超过了应有的界限。
 # translit = tāgǎndàozìzé,rènwèizhèyàngdefùchóuchāoguòleyīngyǒudejièxiàn.
 1	他	他	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
-2	感到	感到	AUX	VV	_	3	cop	_	SpaceAfter=No|Translit=gǎndào|LTranslit=gǎndào
-3	自责	自责	ADJ	JJ	_	5	advcl	_	SpaceAfter=No|Translit=zìzé|LTranslit=zìzé
-4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+2	感到	感到	VERB	VV	_	5	advcl	_	SpaceAfter=No|Translit=gǎndào|LTranslit=gǎndào
+3	自责	自责	ADJ	JJ	_	2	xcomp	_	SpaceAfter=No|Translit=zìzé|LTranslit=zìzé
+4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	认为	认为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
 6	这样	这样	PRON	PRD	_	8	det	_	SpaceAfter=No|Translit=zhèyàng|LTranslit=zhèyàng
 7	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de|LTranslit=de
