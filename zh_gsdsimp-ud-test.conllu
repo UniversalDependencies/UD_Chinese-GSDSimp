@@ -8714,8 +8714,8 @@
 8	经济	经济	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=jīngjì|LTranslit=jīngjì
 9	状况	状况	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=zhuàngkuàng|LTranslit=zhuàngkuàng
 10	开始	开始	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
-11	变	变	AUX	VV	_	12	cop	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
-12	坏	坏	ADJ	JJ	_	10	xcomp	_	SpaceAfter=No|Translit=huài|LTranslit=huài
+11	变	变	VERB	VV	_	10	xcomp	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
+12	坏	坏	ADJ	JJ	_	11	xcomp	_	SpaceAfter=No|Translit=huài|LTranslit=huài
 13	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s315
