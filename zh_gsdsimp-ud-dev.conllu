@@ -1494,12 +1494,12 @@
 # translit = běijítǔzhemínzúyīzhíyǔwàijièjiēchùshénshǎo,zhídàoxiàndài,yǔqítādeqūdejiāoliúcáikāishǐbiàndepínfán.
 1	北极	北极	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=běijí|LTranslit=běijí
 2	土著	土著	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=tǔzhe|LTranslit=tǔzhe
-3	民族	民族	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=mínzú|LTranslit=mínzú
-4	一直	一直	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=yīzhí|LTranslit=yīzhí
+3	民族	民族	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=mínzú|LTranslit=mínzú
+4	一直	一直	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=yīzhí|LTranslit=yīzhí
 5	与	与	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 6	外界	外界	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=wàijiè|LTranslit=wàijiè
-7	接触	接触	AUX	VV	_	8	cop	_	SpaceAfter=No|Translit=jiēchù|LTranslit=jiēchù
-8	甚少	甚少	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=shénshǎo|LTranslit=shénshǎo
+7	接触	接触	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jiēchù|LTranslit=jiēchù
+8	甚少	甚少	ADJ	JJ	_	7	xcomp	_	SpaceAfter=No|Translit=shénshǎo|LTranslit=shénshǎo
 9	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	直到	直到	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=zhídào|LTranslit=zhídào
 11	现代	现代	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=xiàndài|LTranslit=xiàndài
@@ -1510,11 +1510,11 @@
 16	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 17	交流	交流	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=jiāoliú|LTranslit=jiāoliú
 18	才	才	ADV	RB	_	19	mark	_	SpaceAfter=No|Translit=cái|LTranslit=cái
-19	开始	开始	VERB	VV	_	8	parataxis	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
+19	开始	开始	VERB	VV	_	7	parataxis	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
 20	变	变	VERB	VV	_	19	xcomp	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
 21	得	得	PART	DEV	_	20	compound:ext	_	SpaceAfter=No|Translit=de|LTranslit=de
 22	频繁	频繁	ADJ	JJ	_	20	xcomp	_	SpaceAfter=No|Translit=pínfán|LTranslit=pínfán
-23	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+23	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s52
 # text = 为了避免此等事故发生，飞机的所有装置，包括发动机、辅助动力装置、电力、液压系统等，都需要更为严格的防护性维修。
