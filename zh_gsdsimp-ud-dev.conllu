@@ -4190,9 +4190,9 @@
 5	为	为	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 6	树名	树名	NOUN	NN	_	20	acl	_	SpaceAfter=No|Translit=shùmíng|LTranslit=shùmíng
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-8	即	即	AUX	VC	_	9	cop	_	SpaceAfter=No|Translit=jí|LTranslit=jí
-9	阎浮树	阎浮树	NOUN	NN	_	20	acl	_	SpaceAfter=No|Translit=阎fúshù|LTranslit=阎fúshù
-10	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+8	即	即	VERB	VC	_	20	acl	_	SpaceAfter=No|Translit=jí|LTranslit=jí
+9	阎浮树	阎浮树	NOUN	NN	_	8	xcomp	_	SpaceAfter=No|Translit=阎fúshù|LTranslit=阎fúshù
+10	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	是	是	AUX	VC	_	20	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 12	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 13	种	种	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
@@ -6509,9 +6509,9 @@
 14	这样	这样	PRON	PRD	_	17	det	_	SpaceAfter=No|Translit=zhèyàng|LTranslit=zhèyàng
 15	的	的	PART	DEC	Case=Gen	14	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	组成	组成	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=zǔchéng|LTranslit=zǔchéng
-17	模式	模式	NOUN	NN	_	30	nsubj	_	SpaceAfter=No|Translit=móshì|LTranslit=móshì
+17	模式	模式	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=móshì|LTranslit=móshì
 18	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-19	即	即	AUX	VC	_	30	cop	_	SpaceAfter=No|Translit=jí|LTranslit=jí
+19	即	即	VERB	VC	_	13	ccomp	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 20	30	30	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=30|LTranslit=30
 21	岁	岁	NOUN	NNB	_	24	nmod	_	SpaceAfter=No|Translit=suì|LTranslit=suì
 22	左右	左右	ADP	IN	_	21	acl	_	SpaceAfter=No|Translit=zuǒyòu|LTranslit=zuǒyòu
@@ -6522,7 +6522,7 @@
 27	岁	岁	NOUN	NNB	_	28	clf	_	SpaceAfter=No|Translit=suì|LTranslit=suì
 28	妻子	妻子	NOUN	NN	_	24	conj	_	SpaceAfter=No|Translit=qīzi|LTranslit=qīzi
 29	的	的	PART	DEC	Case=Gen	24	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-30	组合	组合	NOUN	NN	_	13	ccomp	_	SpaceAfter=No|Translit=zǔhé|LTranslit=zǔhé
+30	组合	组合	NOUN	NN	_	19	xcomp	_	SpaceAfter=No|Translit=zǔhé|LTranslit=zǔhé
 31	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s223
@@ -11340,17 +11340,17 @@
 17	个	个	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 18	行政	行政	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=xíngzhèng|LTranslit=xíngzhèng
 19	区划	区划	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=qūhuà|LTranslit=qūhuà
-20	，	，	PUNCT	,	_	30	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+20	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 21	其	其	PRON	PRP	Person=3	22	nmod	_	SpaceAfter=No|Translit=qí|LTranslit=qí
-22	范围	范围	NOUN	NN	_	30	nsubj	_	SpaceAfter=No|Translit=fànwéi|LTranslit=fànwéi
-23	即	即	AUX	VC	_	30	cop	_	SpaceAfter=No|Translit=jí|LTranslit=jí
+22	范围	范围	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=fànwéi|LTranslit=fànwéi
+23	即	即	VERB	VC	_	19	parataxis	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 24	今	今	NOUN	NN	_	26	nmod	_	SpaceAfter=No|Translit=jīn|LTranslit=jīn
 25	屏东	屏东	PROPN	NNP	_	26	compound	_	SpaceAfter=No|Translit=píngdōng|LTranslit=píngdōng
 26	县	县	PART	SFN	_	30	nmod	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 27	的	的	PART	DEC	Case=Gen	26	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 28	车城	车城	PROPN	NNP	_	29	compound	_	SpaceAfter=No|Translit=chēchéng|LTranslit=chēchéng
 29	乡	乡	PART	SFN	_	30	nmod	_	SpaceAfter=No|Translit=xiāng|LTranslit=xiāng
-30	北部	北部	NOUN	NN	_	19	parataxis	_	SpaceAfter=No|Translit=běibù|LTranslit=běibù
+30	北部	北部	NOUN	NN	_	23	xcomp	_	SpaceAfter=No|Translit=běibù|LTranslit=běibù
 31	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s388
@@ -12092,9 +12092,9 @@
 10	总统	总统	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=zǒngtǒng|LTranslit=zǒngtǒng
 11	之后	之后	ADP	IN	_	7	mark	_	SpaceAfter=No|Translit=zhīhòu|LTranslit=zhīhòu
 12	数	数	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=shù|LTranslit=shù
-13	日	日	NOUN	NNB	_	24	nsubj	_	SpaceAfter=No|Translit=rì|LTranslit=rì
+13	日	日	NOUN	NNB	_	15	nsubj	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 14	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-15	即	即	AUX	VC	_	24	cop	_	SpaceAfter=No|Translit=jí|LTranslit=jí
+15	即	即	VERB	VC	_	28	advcl	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 16	接替	接替	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No|Translit=jiētì|LTranslit=jiētì
 17	罗斯福	罗斯福	PROPN	NNP	_	18	nsubj	_	SpaceAfter=No|Translit=luōsīfú|LTranslit=luōsīfú
 18	任	任	VERB	VV	_	16	ccomp	_	SpaceAfter=No|Translit=rèn|LTranslit=rèn
@@ -12103,8 +12103,8 @@
 21	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 22	数	数	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No|Translit=shù|LTranslit=shù
 23	个	个	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
-24	月	月	NOUN	NN	_	28	advcl	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
-25	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+24	月	月	NOUN	NN	_	15	xcomp	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+25	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 26	他	他	PRON	PRP	Person=3	28	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 27	公然	公然	ADV	RB	_	28	advmod	_	SpaceAfter=No|Translit=gōngrán|LTranslit=gōngrán
 28	出席	出席	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=chūxí|LTranslit=chūxí
