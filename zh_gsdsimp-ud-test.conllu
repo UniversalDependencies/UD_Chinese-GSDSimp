@@ -11602,15 +11602,15 @@
 4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	由于	由于	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
 6	战乱	战乱	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=zhànluàn|LTranslit=zhànluàn
-7	频发	频发	VERB	VV	_	12	ccomp	_	SpaceAfter=No|Translit=pínfā|LTranslit=pínfā
+7	频发	频发	VERB	VV	_	11	ccomp	_	SpaceAfter=No|Translit=pínfā|LTranslit=pínfā
 8	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	宁波	宁波	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|Translit=níngbō|LTranslit=níngbō
-10	人口	人口	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=rénkǒu|LTranslit=rénkǒu
-11	增长	增长	AUX	VV	_	12	cop	_	SpaceAfter=No|Translit=zēngzhǎng|LTranslit=zēngzhǎng
-12	缓慢	缓慢	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=huǎnmàn|LTranslit=huǎnmàn
+10	人口	人口	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=rénkǒu|LTranslit=rénkǒu
+11	增长	增长	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zēngzhǎng|LTranslit=zēngzhǎng
+12	缓慢	缓慢	ADJ	JJ	_	11	xcomp	_	SpaceAfter=No|Translit=huǎnmàn|LTranslit=huǎnmàn
 13	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	特别	特别	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=tèbié|LTranslit=tèbié
-15	是	是	VERB	VC	_	12	parataxis	_	SpaceAfter=No|Translit=shì|LTranslit=shì
+15	是	是	VERB	VC	_	11	parataxis	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 16	抗	抗	VERB	VV	_	18	amod	_	SpaceAfter=No|Translit=kàng|LTranslit=kàng
 17	日	日	PROPN	NNP	_	16	obj	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 18	战争	战争	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=zhànzhēng|LTranslit=zhànzhēng
@@ -11622,7 +11622,7 @@
 24	了	了	AUX	AS	Aspect=Perf	23	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 25	近	近	ADV	RB	_	26	advmod	_	SpaceAfter=No|Translit=jìn|LTranslit=jìn
 26	20%	20%	NUM	CD	NumType=Card	23	obj	_	SpaceAfter=No|Translit=20%|LTranslit=20%
-27	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+27	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s415
 # text = 外来人口在为宁波带来劳动力和经济发展的同时，也带来了社会治安状况的下降和社会资源紧缺。
