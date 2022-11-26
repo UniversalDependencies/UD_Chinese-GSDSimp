@@ -18,7 +18,7 @@
     <tag name="ADJ">3030</tag><!-- 不同, 一些, 重要, 主要, 一般, 最高, 最大, 唯一, 一样, 大量 -->
     <tag name="ADP">5629</tag><!-- 在, 于, 中, 与, 后, 时, 上, 对, 因, 从 -->
     <tag name="ADV">5752</tag><!-- 也, 并, 而, 但, 不, 所, 都, 曾, 则, 就 -->
-    <tag name="AUX">4022</tag><!-- 是, 了, 为, 被, 会, 可以, 着, 可, 也是, 能 -->
+    <tag name="AUX">4019</tag><!-- 是, 了, 为, 被, 会, 可以, 着, 可, 也是, 能 -->
     <tag name="CCONJ">1740</tag><!-- 和, 及, 与, 或, 以及, 至, 到, 或者, 并, 而 -->
     <tag name="DET">1329</tag><!-- 这, 该, 这些, 其他, 此, 所有, 各, 另, 任何, 每 -->
     <tag name="NOUN">34046</tag><!-- 年, 个, 月, 人, 日, 等, 种, 次, 人口, 名 -->
@@ -28,7 +28,7 @@
     <tag name="PROPN">10740</tag><!-- 中国, 美国, 日本, 香港, 李, 台湾, 英国, 中华, 美, 英 -->
     <tag name="PUNCT">17088</tag><!-- ，, 。, 、, （, ）, ”, “, 》, 《, · -->
     <tag name="SYM">14</tag><!-- $, +, Kink.com, km, t.163.com, t.qq.com, t.sina.com.cn, t.sohu.com, t.xxxx.com, ° -->
-    <tag name="VERB">18089</tag><!-- 有, 在, 于, 为, 是, 由, 成, 到, 位, 开始 -->
+    <tag name="VERB">18092</tag><!-- 有, 在, 于, 为, 是, 由, 成, 到, 位, 开始 -->
     <tag name="X">963</tag><!-- A, the, NBA, JR, of, B, County, Game, Google, John -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -64,7 +64,7 @@
     <dep name="compound">5565</dep>
     <dep name="compound:ext">25</dep>
     <dep name="conj">3228</dep>
-    <dep name="cop">1753</dep>
+    <dep name="cop">1750</dep>
     <dep name="csubj">374</dep>
     <dep name="csubj:pass">6</dep>
     <dep name="det">1509</dep>
@@ -91,6 +91,6 @@
     <dep name="reparandum">1</dep>
     <dep name="root">4997</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">1795</dep>
+    <dep name="xcomp">1798</dep>
   </deps>
 </treebank>
