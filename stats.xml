@@ -10,7 +10,7 @@
     <dev><sentences>500</sentences><tokens>12663</tokens><words>12663</words><fused>0</fused></dev>
     <test><sentences>500</sentences><tokens>12012</tokens><words>12012</words><fused>0</fused></test>
   </size>
-  <lemmas unique="20114" /><!-- ，, 的, 。, 在, 年, 是, 为, 、, 一, 于, 和, 了, 他, 个, 人 -->
+  <lemmas unique="20072" /><!-- ，, 的, 。, 在, 年, 是, 为, 、, 一, 于, 和, 了, 有, 他, 个 -->
   <forms unique="20147" /><!-- ，, 的, 。, 在, 年, 、, 是, 为, 一, 于, 和, 了, 个, 人, 月 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -28,7 +28,7 @@
     <tag name="PROPN">10740</tag><!-- 中国, 美国, 日本, 香港, 李, 台湾, 英国, 中华, 美, 英 -->
     <tag name="PUNCT">17088</tag><!-- ，, 。, 、, （, ）, ”, “, 》, 《, · -->
     <tag name="SYM">14</tag><!-- $, +, Kink.com, km, t.163.com, t.qq.com, t.sina.com.cn, t.sohu.com, t.xxxx.com, ° -->
-    <tag name="VERB">18215</tag><!-- 为, 有, 在, 于, 是, 由, 成, 到, 位, 开始 -->
+    <tag name="VERB">18215</tag><!-- 有, 为, 在, 于, 是, 由, 成, 到, 位, 开始 -->
     <tag name="X">963</tag><!-- A, the, NBA, JR, of, B, County, Game, Google, John -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -43,7 +43,7 @@
     <feat name="Person" value="1" upos="PRON">69</feat><!-- 我, 我们 -->
     <feat name="Person" value="2" upos="PRON">21</feat><!-- 你, 您 -->
     <feat name="Person" value="3" upos="PRON">1240</feat><!-- 他, 其, 她, 他们, 它, 它们, 她们, 祂, 他俩, 她俩 -->
-    <feat name="Polarity" value="Neg" upos="ADV,AUX,VERB">280</feat><!-- 不, 不是, 未, 没, 别, 无 -->
+    <feat name="Polarity" value="Neg" upos="ADV,AUX,VERB">555</feat><!-- 不, 没有, 不是, 未, 不会, 不能, 不可, 不得, 不应, 没 -->
     <feat name="Voice" value="Cau" upos="ADP,VERB">493</feat><!-- 以, 使, 让, 使得, 令, 导致, 要求, 派, 派遣, 任命 -->
     <feat name="Voice" value="Pass" upos="AUX">425</feat><!-- 被, 为 -->
   </feats>
@@ -68,7 +68,7 @@
     <dep name="csubj">374</dep>
     <dep name="csubj:pass">6</dep>
     <dep name="det">1509</dep>
-    <dep name="discourse">188</dep>
+    <dep name="discourse">189</dep>
     <dep name="discourse:sp">8</dep>
     <dep name="dislocated">62</dep>
     <dep name="flat:foreign">325</dep>
@@ -91,6 +91,6 @@
     <dep name="reparandum">1</dep>
     <dep name="root">4997</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">1921</dep>
+    <dep name="xcomp">1920</dep>
   </deps>
 </treebank>
