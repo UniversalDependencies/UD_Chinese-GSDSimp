@@ -720,7 +720,7 @@
 36	与	与	CCONJ	CC	_	38	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 37	实用	实用	ADJ	JJ	_	38	amod	_	SpaceAfter=No|Translit=shíyòng|LTranslit=shíyòng
 38	机能	机能	NOUN	NN	_	35	conj	_	SpaceAfter=No|Translit=jīnéng|LTranslit=jīnéng
-39	合而为一	合而为一	VERB	VV	_	33	ccomp	_	SpaceAfter=No|Translit=hé'érwèiyī|LTranslit=hé'érwèiyī
+39	合而为一	为	VERB	VV	_	33	ccomp	_	SpaceAfter=No|Translit=hé'érwèiyī|LTranslit=wèi
 40	。	。	PUNCT	.	_	33	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s27
@@ -1473,7 +1473,7 @@
 8	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	并非	并非	VERB	VC	_	24	acl	_	SpaceAfter=No|Translit=bìngfēi|LTranslit=bìngfēi
 10	只有	只有	VERB	VV	_	9	xcomp	_	SpaceAfter=No|Translit=zhǐyǒu|LTranslit=zhǐyǒu
-11	身为	身为	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No|Translit=shēnwèi|LTranslit=shēnwèi
+11	身为	为	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No|Translit=shēnwèi|LTranslit=wèi
 12	演员	演员	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=yǎnyuán|LTranslit=yǎnyuán
 13	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 14	狂气	狂气	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=kuángqì|LTranslit=kuángqì
@@ -1494,12 +1494,12 @@
 # translit = běijítǔzhemínzúyīzhíyǔwàijièjiēchùshénshǎo,zhídàoxiàndài,yǔqítādeqūdejiāoliúcáikāishǐbiàndepínfán.
 1	北极	北极	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=běijí|LTranslit=běijí
 2	土著	土著	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=tǔzhe|LTranslit=tǔzhe
-3	民族	民族	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=mínzú|LTranslit=mínzú
-4	一直	一直	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=yīzhí|LTranslit=yīzhí
+3	民族	民族	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=mínzú|LTranslit=mínzú
+4	一直	一直	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=yīzhí|LTranslit=yīzhí
 5	与	与	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 6	外界	外界	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=wàijiè|LTranslit=wàijiè
-7	接触	接触	AUX	VV	_	8	cop	_	SpaceAfter=No|Translit=jiēchù|LTranslit=jiēchù
-8	甚少	甚少	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=shénshǎo|LTranslit=shénshǎo
+7	接触	接触	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jiēchù|LTranslit=jiēchù
+8	甚少	甚少	ADJ	JJ	_	7	xcomp	_	SpaceAfter=No|Translit=shénshǎo|LTranslit=shénshǎo
 9	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	直到	直到	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=zhídào|LTranslit=zhídào
 11	现代	现代	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=xiàndài|LTranslit=xiàndài
@@ -1510,11 +1510,11 @@
 16	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 17	交流	交流	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=jiāoliú|LTranslit=jiāoliú
 18	才	才	ADV	RB	_	19	mark	_	SpaceAfter=No|Translit=cái|LTranslit=cái
-19	开始	开始	VERB	VV	_	8	parataxis	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
+19	开始	开始	VERB	VV	_	7	parataxis	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
 20	变	变	VERB	VV	_	19	xcomp	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
 21	得	得	PART	DEV	_	20	compound:ext	_	SpaceAfter=No|Translit=de|LTranslit=de
 22	频繁	频繁	ADJ	JJ	_	20	xcomp	_	SpaceAfter=No|Translit=pínfán|LTranslit=pínfán
-23	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+23	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s52
 # text = 为了避免此等事故发生，飞机的所有装置，包括发动机、辅助动力装置、电力、液压系统等，都需要更为严格的防护性维修。
@@ -1633,11 +1633,11 @@
 10	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	300	300	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=300|LTranslit=300
 12	公斤	公斤	NOUN	NNB	_	9	conj	_	SpaceAfter=No|Translit=gōngjīn|LTranslit=gōngjīn
-13	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+13	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	成长	成长	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=chéngzhǎng|LTranslit=chéngzhǎng
-15	速度	速度	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=sùdù|LTranslit=sùdù
-16	减慢	减慢	AUX	VV	_	17	cop	_	SpaceAfter=No|Translit=jiǎnmàn|LTranslit=jiǎnmàn
-17	很多	很多	ADJ	JJ	_	9	conj	_	SpaceAfter=No|Translit=hěnduō|LTranslit=hěnduō
+15	速度	速度	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=sùdù|LTranslit=sùdù
+16	减慢	减慢	VERB	VV	_	9	conj	_	SpaceAfter=No|Translit=jiǎnmàn|LTranslit=jiǎnmàn
+17	很多	很多	ADJ	JJ	_	16	xcomp	_	SpaceAfter=No|Translit=hěnduō|LTranslit=hěnduō
 18	，	，	PUNCT	,	_	38	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 19	但	但	ADV	RB	_	38	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
 20	雄性	雄性	NOUN	NN	_	38	nsubj	_	SpaceAfter=No|Translit=xióngxìng|LTranslit=xióngxìng
@@ -1971,16 +1971,16 @@
 21	五	五	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No|Translit=wǔ|LTranslit=wǔ
 22	层	层	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 23	空间	空间	NOUN	NN	_	17	obj	_	SpaceAfter=No|Translit=kōngjiān|LTranslit=kōngjiān
-24	，	，	PUNCT	,	_	33	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+24	，	，	PUNCT	,	_	32	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 25	集团	集团	NOUN	NN	_	29	nmod	_	SpaceAfter=No|Translit=jítuán|LTranslit=jítuán
 26	与	与	ADP	IN	_	29	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 27	澳博	澳博	PROPN	NNP	_	26	nmod	_	SpaceAfter=No|Translit='àobó|LTranslit='àobó
 28	的	的	PART	DEC	Case=Gen	26	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-29	合作	合作	NOUN	NN	_	33	nsubj	_	SpaceAfter=No|Translit=hézuò|LTranslit=hézuò
-30	亦	亦	ADV	RB	_	33	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
-31	因而	因而	ADV	RB	_	33	mark	_	SpaceAfter=No|Translit=yīn'ér|LTranslit=yīn'ér
-32	更趋	更趋	AUX	VV	_	33	cop	_	SpaceAfter=No|Translit=gèngqū|LTranslit=gèngqū
-33	紧密	紧密	ADJ	JJ	_	12	parataxis	_	SpaceAfter=No|Translit=jǐnmì|LTranslit=jǐnmì
+29	合作	合作	NOUN	NN	_	32	nsubj	_	SpaceAfter=No|Translit=hézuò|LTranslit=hézuò
+30	亦	亦	ADV	RB	_	32	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
+31	因而	因而	ADV	RB	_	32	mark	_	SpaceAfter=No|Translit=yīn'ér|LTranslit=yīn'ér
+32	更趋	更趋	VERB	VV	_	12	parataxis	_	SpaceAfter=No|Translit=gèngqū|LTranslit=gèngqū
+33	紧密	紧密	ADJ	JJ	_	32	xcomp	_	SpaceAfter=No|Translit=jǐnmì|LTranslit=jǐnmì
 34	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s63
@@ -2328,7 +2328,7 @@
 31	以	以	ADV	RB	_	32	mark	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
 32	达	达	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dá|LTranslit=dá
 33	“	“	PUNCT	``	_	34	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-34	无为	无为	VERB	VV	_	37	advcl	_	SpaceAfter=No|Translit=wúwèi|LTranslit=wúwèi
+34	无为	为	VERB	VV	_	37	advcl	_	SpaceAfter=No|Translit=wúwèi|LTranslit=wèi
 35	”	”	PUNCT	''	_	34	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 36	而	而	ADV	RB	_	37	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 37	治	治	VERB	VV	_	39	acl:relcl	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
@@ -2481,16 +2481,16 @@
 11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 12	个	个	NOUN	NNB	_	33	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 13	依靠	依靠	VERB	VV	_	26	advcl	_	SpaceAfter=No|Translit=yīkào|LTranslit=yīkào
-14	贸易	贸易	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=màoyì|LTranslit=màoyì
+14	贸易	贸易	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=màoyì|LTranslit=màoyì
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 16	资本	资本	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=zīběn|LTranslit=zīběn
 17	主义	主义	NOUN	NN	_	14	conj	_	SpaceAfter=No|Translit=zhǔyì|LTranslit=zhǔyì
 18	和	和	CCONJ	CC	_	19	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 19	创新	创新	NOUN	NN	_	14	conj	_	SpaceAfter=No|Translit=chuàngxīn|LTranslit=chuàngxīn
 20	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-21	而非	而非	AUX	VC	_	23	cop	_	SpaceAfter=No|Translit='érfēi|LTranslit='érfēi
+21	而非	而非	VERB	VC	_	13	ccomp	_	SpaceAfter=No|Translit='érfēi|LTranslit='érfēi
 22	殖民	殖民	NOUN	NN	_	23	nmod	_	SpaceAfter=No|Translit=zhímín|LTranslit=zhímín
-23	主义	主义	NOUN	NN	_	13	ccomp	_	SpaceAfter=No|Translit=zhǔyì|LTranslit=zhǔyì
+23	主义	主义	NOUN	NN	_	21	xcomp	_	SpaceAfter=No|Translit=zhǔyì|LTranslit=zhǔyì
 24	和	和	CCONJ	CC	_	25	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 25	掠夺	掠夺	NOUN	NN	_	23	conj	_	SpaceAfter=No|Translit='èduó|LTranslit='èduó
 26	成长	成长	VERB	VV	_	28	acl:relcl	_	SpaceAfter=No|Translit=chéngzhǎng|LTranslit=chéngzhǎng
@@ -3246,7 +3246,7 @@
 # translit = cháoxiānsuīránrènwèi渤hǎiguóshìběnguólìshǐ,dànbùshǐyòng“nánběiguóshídài”zhègècíhuì.
 1	朝鲜	朝鲜	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No|Translit=cháoxiān|LTranslit=cháoxiān
 2	虽然	虽然	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
-3	认为	认为	VERB	VV	_	12	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+3	认为	为	VERB	VV	_	12	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 4	渤海	渤海	PROPN	NNP	_	5	compound	_	SpaceAfter=No|Translit=渤hǎi|LTranslit=渤hǎi
 5	国	国	PART	SFN	_	8	nsubj	_	SpaceAfter=No|Translit=guó|LTranslit=guó
 6	是	是	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -4980,9 +4980,9 @@
 9	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	卡里努斯	卡里努斯	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit=kǎlǐnǔsī|LTranslit=kǎlǐnǔsī
 11	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-12	出手	出手	AUX	VV	_	13	cop	_	SpaceAfter=No|Translit=chūshǒu|LTranslit=chūshǒu
-13	阔绰	阔绰	ADJ	JJ	_	15	advcl	_	SpaceAfter=No|Translit=kuò绰|LTranslit=kuò绰
-14	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+12	出手	出手	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit=chūshǒu|LTranslit=chūshǒu
+13	阔绰	阔绰	ADJ	JJ	_	12	xcomp	_	SpaceAfter=No|Translit=kuò绰|LTranslit=kuò绰
+14	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 15	举办	举办	VERB	VV	_	5	parataxis	_	SpaceAfter=No|Translit=jǔbàn|LTranslit=jǔbàn
 16	了	了	AUX	AS	Aspect=Perf	15	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 17	盛大	盛大	ADJ	JJ	_	19	amod	_	SpaceAfter=No|Translit=shèngdà|LTranslit=shèngdà
@@ -7130,7 +7130,7 @@
 2	译名	译名	NOUN	NN	_	5	nsubj:pass	_	SpaceAfter=No|Translit=yìmíng|LTranslit=yìmíng
 3	被	被	AUX	BB	Voice=Pass	5	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 4	普遍	普遍	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=pǔbiàn|LTranslit=pǔbiàn
-5	认为	认为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+5	认为	为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 6	是	是	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 7	最	最	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
 8	经典	经典	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=jīngdiǎn|LTranslit=jīngdiǎn
@@ -7363,7 +7363,7 @@
 # text = 新闻自由在台湾常被利用于爆料与不负责任的言论上，而非理性的讨论。
 # translit = xīnwénzìyóuzàitáiwānchángbèilìyòngyúbàoliàoyǔbùfùzérèndeyánlùnshàng,'érfēilǐxìngdetǎolùn.
 1	新闻	新闻	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=xīnwén|LTranslit=xīnwén
-2	自由	自由	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=zìyóu|LTranslit=zìyóu
+2	自由	自由	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=zìyóu|LTranslit=zìyóu
 3	在	在	VERB	VV	_	21	acl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 4	台湾	台湾	PROPN	NNP	_	3	obj	_	SpaceAfter=No|Translit=táiwān|LTranslit=táiwān
 5	常	常	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=cháng|LTranslit=cháng
@@ -7379,11 +7379,11 @@
 15	言论	言论	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=yánlùn|LTranslit=yánlùn
 16	上	上	ADP	IN	_	15	acl	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
 17	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-18	而非	而非	AUX	VC	_	21	cop	_	SpaceAfter=No|Translit='érfēi|LTranslit='érfēi
+18	而非	而非	VERB	VC	_	0	root	_	SpaceAfter=No|Translit='érfēi|LTranslit='érfēi
 19	理性	理性	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=lǐxìng|LTranslit=lǐxìng
 20	的	的	PART	DEC	Case=Gen	19	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-21	讨论	讨论	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=tǎolùn|LTranslit=tǎolùn
-22	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+21	讨论	讨论	NOUN	NN	_	18	xcomp	_	SpaceAfter=No|Translit=tǎolùn|LTranslit=tǎolùn
+22	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s250
 # text = 这些显然都是台湾媒体所需大力加强的。
@@ -9554,7 +9554,7 @@
 6	珍惜	珍惜	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=zhēnxī|LTranslit=zhēnxī
 7	人才	人才	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=réncái|LTranslit=réncái
 8	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-9	任人为贤	任人为贤	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=rènrénwèi贤|LTranslit=rènrénwèi贤
+9	任人为贤	为	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=rènrénwèi贤|LTranslit=wèi
 10	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	激励	激励	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No|Translit=jīlì|LTranslit=jīlì
 12	人们	人	NOUN	NN	Number=Plur	16	nsubj	_	SpaceAfter=No|Translit=rénmen|LTranslit=rén
@@ -9806,26 +9806,26 @@
 # sent_id = dev-s335
 # text = 三桂治军严谨，精锐骑兵一千人，分二十队，五十人一队，每队设一领骑官，吴三桂在自己的靴筒上放这二十名领骑官姓名，一旦抽中谁，便呼叫某领骑官，该领骑官即统五十人骑队，跟随他冲锋陷阵，可谓“无往不利”，是明末最后一支有战力的铁骑部队。
 # translit = sān桂zhìjūnyánjǐn,jīngruìqíbīngyīqiānrén,fēn'èrshíduì,wǔshírényīduì,měiduìshèyīlǐngqíguān,吴sān桂zàizìjǐdexuētǒngshàngfàngzhè'èrshímínglǐngqíguānxìngmíng,yīdànchōuzhōngshuí,biànhūjiàomǒulǐngqíguān,gāilǐngqíguānjítǒngwǔshírénqíduì,gēnsuítāchōngfēngxiànzhèn,kěwèi“wúwǎngbùlì”,shìmíngmòzuìhòuyīzhīyǒuzhànlìdetiěqíbùduì.
-1	三桂	三桂	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=sān桂|LTranslit=sān桂
-2	治军	治军	AUX	VV	_	3	cop	_	SpaceAfter=No|Translit=zhìjūn|LTranslit=zhìjūn
-3	严谨	严谨	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=yánjǐn|LTranslit=yánjǐn
+1	三桂	三桂	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=sān桂|LTranslit=sān桂
+2	治军	治军	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zhìjūn|LTranslit=zhìjūn
+3	严谨	严谨	ADJ	JJ	_	2	xcomp	_	SpaceAfter=No|Translit=yánjǐn|LTranslit=yánjǐn
 4	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	精锐	精锐	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=jīngruì|LTranslit=jīngruì
 6	骑兵	骑兵	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=qíbīng|LTranslit=qíbīng
 7	一千	一千	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=yīqiān|LTranslit=yīqiān
 8	人	人	NOUN	NN	_	10	csubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 9	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-10	分	分	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=fēn|LTranslit=fēn
+10	分	分	VERB	VV	_	2	parataxis	_	SpaceAfter=No|Translit=fēn|LTranslit=fēn
 11	二十	二十	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit='èrshí|LTranslit='èrshí
 12	队	队	NOUN	NNB	_	10	obj	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 13	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	五十	五十	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=wǔshí|LTranslit=wǔshí
 15	人	人	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-17	队	队	NOUN	NNB	_	3	parataxis	_	SpaceAfter=No|Translit=duì|LTranslit=duì
+17	队	队	NOUN	NNB	_	2	parataxis	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 18	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 19	每队	每队	DET	DT	_	20	nsubj	_	SpaceAfter=No|Translit=měiduì|LTranslit=měiduì
-20	设	设	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=shè|LTranslit=shè
+20	设	设	VERB	VV	_	2	parataxis	_	SpaceAfter=No|Translit=shè|LTranslit=shè
 21	一	一	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 22	领骑	领骑	VERB	VV	_	23	compound	_	SpaceAfter=No|Translit=lǐngqí|LTranslit=lǐngqí
 23	官	官	PART	SFN	_	20	obj	_	SpaceAfter=No|Translit=guān|LTranslit=guān
@@ -9850,16 +9850,16 @@
 42	谁	谁	PRON	WP	_	41	obj	_	SpaceAfter=No|Translit=shuí|LTranslit=shuí
 43	，	，	PUNCT	,	_	41	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 44	便	便	ADV	RB	_	45	mark	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
-45	呼叫	呼叫	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=hūjiào|LTranslit=hūjiào
+45	呼叫	呼叫	VERB	VV	_	2	parataxis	_	SpaceAfter=No|Translit=hūjiào|LTranslit=hūjiào
 46	某	某	DET	DT	_	48	det	_	SpaceAfter=No|Translit=mǒu|LTranslit=mǒu
 47	领骑	领骑	VERB	VV	_	48	compound	_	SpaceAfter=No|Translit=lǐngqí|LTranslit=lǐngqí
 48	官	官	PART	SFN	_	45	obj	_	SpaceAfter=No|Translit=guān|LTranslit=guān
-49	，	，	PUNCT	,	_	67	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+49	，	，	PUNCT	,	_	65	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 50	该	该	DET	DT	_	52	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
 51	领骑	领骑	VERB	VV	_	52	compound	_	SpaceAfter=No|Translit=lǐngqí|LTranslit=lǐngqí
 52	官	官	PART	SFN	_	54	nsubj	_	SpaceAfter=No|Translit=guān|LTranslit=guān
 53	即	即	ADV	RB	_	54	mark	_	SpaceAfter=No|Translit=jí|LTranslit=jí
-54	统	统	VERB	VV	_	67	csubj	_	SpaceAfter=No|Translit=tǒng|LTranslit=tǒng
+54	统	统	VERB	VV	_	65	csubj	_	SpaceAfter=No|Translit=tǒng|LTranslit=tǒng
 55	五十	五十	NUM	CD	NumType=Card	56	nummod	_	SpaceAfter=No|Translit=wǔshí|LTranslit=wǔshí
 56	人	人	PART	SFN	_	57	obl	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 57	骑队	骑队	VERB	VV	_	62	nsubj	_	SpaceAfter=No|Translit=qíduì|LTranslit=qíduì
@@ -9869,10 +9869,10 @@
 61	冲锋	冲锋	VERB	VV	_	62	advcl	_	SpaceAfter=No|Translit=chōngfēng|LTranslit=chōngfēng
 62	陷阵	陷阵	VERB	VV	_	54	ccomp	_	SpaceAfter=No|Translit=xiànzhèn|LTranslit=xiànzhèn
 63	，	，	PUNCT	,	_	54	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-64	可	可	AUX	MD	_	67	aux	_	SpaceAfter=No|Translit=kě|LTranslit=kě
-65	谓	谓	AUX	VV	_	67	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+64	可	可	AUX	MD	_	65	aux	_	SpaceAfter=No|Translit=kě|LTranslit=kě
+65	谓	谓	VERB	VV	_	2	parataxis	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 66	“	“	PUNCT	``	_	67	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-67	无往不利	无往不利	ADJ	JJ	_	3	parataxis	_	SpaceAfter=No|Translit=wúwǎngbùlì|LTranslit=wúwǎngbùlì
+67	无往不利	无往不利	ADJ	JJ	_	65	xcomp	_	SpaceAfter=No|Translit=wúwǎngbùlì|LTranslit=wúwǎngbùlì
 68	”	”	PUNCT	''	_	67	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 69	，	，	PUNCT	,	_	80	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 70	是	是	AUX	VC	_	80	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -9885,8 +9885,8 @@
 77	战力	战力	NOUN	NN	_	76	obj	_	SpaceAfter=No|Translit=zhànlì|LTranslit=zhànlì
 78	的	的	PART	DEC	_	76	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 79	铁骑	铁骑	NOUN	NN	_	80	nmod	_	SpaceAfter=No|Translit=tiěqí|LTranslit=tiěqí
-80	部队	部队	NOUN	NN	_	3	parataxis	_	SpaceAfter=No|Translit=bùduì|LTranslit=bùduì
-81	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+80	部队	部队	NOUN	NN	_	2	parataxis	_	SpaceAfter=No|Translit=bùduì|LTranslit=bùduì
+81	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s336
 # text = 之后吴三桂转成为清军先驱，率军攻打陕西、四川等地的李自成、张献忠余部。
@@ -11098,7 +11098,7 @@
 5	社会	社会	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=shèhuì|LTranslit=shèhuì
 6	根源	根源	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=gēnyuán|LTranslit=gēnyuán
 7	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-8	认为	认为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+8	认为	为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 9	通过	通过	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=tōngguò|LTranslit=tōngguò
 10	和平	和平	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=hépíng|LTranslit=hépíng
 11	谈判	谈判	NOUN	NN	_	16	obl	_	SpaceAfter=No|Translit=tánpàn|LTranslit=tánpàn
@@ -12591,7 +12591,7 @@
 7	论	论	PART	SFN	_	4	obj	_	SpaceAfter=No|Translit=lùn|LTranslit=lùn
 8	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	后者	后者	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=hòuzhě|LTranslit=hòuzhě
-10	认为	认为	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+10	认为	为	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 11	世界	世界	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=shìjiè|LTranslit=shìjiè
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	基本	基本	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=jīběn|LTranslit=jīběn
@@ -13454,7 +13454,7 @@
 # translit = 萧瑜rènwèiyánguāngbàifǎngguāngwǔdì,biǎomíngqí'àimùxūróng.
 1	萧	萧	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=萧|LTranslit=萧
 2	瑜	瑜	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No|Translit=瑜|LTranslit=瑜
-3	认为	认为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+3	认为	为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 4	严	严	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No|Translit=yán|LTranslit=yán
 5	光	光	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No|Translit=guāng|LTranslit=guāng
 6	拜访	拜访	VERB	VV	_	10	csubj	_	SpaceAfter=No|Translit=bàifǎng|LTranslit=bàifǎng
@@ -14151,8 +14151,8 @@
 29	，	，	PUNCT	,	_	43	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 30	随后	随后	ADV	RB	_	43	advmod	_	SpaceAfter=No|Translit=suíhòu|LTranslit=suíhòu
 31	因	因	ADP	IN	_	33	case	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
-32	损失	损失	AUX	VV	_	33	cop	_	SpaceAfter=No|Translit=sǔnshī|LTranslit=sǔnshī
-33	过重	过重	ADJ	JJ	_	43	xcomp	_	SpaceAfter=No|Translit=guòzhòng|LTranslit=guòzhòng
+32	损失	损失	VERB	VV	_	43	xcomp	_	SpaceAfter=No|Translit=sǔnshī|LTranslit=sǔnshī
+33	过重	过重	ADJ	JJ	_	32	xcomp	_	SpaceAfter=No|Translit=guòzhòng|LTranslit=guòzhòng
 34	于	于	ADP	IN	_	38	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 35	11	11	NUM	CD	NumType=Card	36	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
 36	月	月	NOUN	NNB	_	38	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè

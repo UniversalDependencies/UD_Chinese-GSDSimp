@@ -1504,9 +1504,9 @@
 # translit = zhǎngqīxuètángshuǐpíngkòngzhìliánghǎokěyǐjiàngdītángniàobìngshìwǎngmóbìngbiàndefēngxiǎn.
 1	长期	长期	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No|Translit=zhǎngqī|LTranslit=zhǎngqī
 2	血糖	血糖	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=xuètáng|LTranslit=xuètáng
-3	水平	水平	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=shuǐpíng|LTranslit=shuǐpíng
-4	控制	控制	AUX	VV	_	5	cop	_	SpaceAfter=No|Translit=kòngzhì|LTranslit=kòngzhì
-5	良好	良好	ADJ	JJ	_	7	csubj	_	SpaceAfter=No|Translit=liánghǎo|LTranslit=liánghǎo
+3	水平	水平	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=shuǐpíng|LTranslit=shuǐpíng
+4	控制	控制	VERB	VV	_	7	csubj	_	SpaceAfter=No|Translit=kòngzhì|LTranslit=kòngzhì
+5	良好	良好	ADJ	JJ	_	4	xcomp	_	SpaceAfter=No|Translit=liánghǎo|LTranslit=liánghǎo
 6	可以	可以	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
 7	降低	降低	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jiàngdī|LTranslit=jiàngdī
 8	糖尿	糖尿	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=tángniào|LTranslit=tángniào
@@ -1931,7 +1931,7 @@
 3	神话	神话	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=shénhuà|LTranslit=shénhuà
 4	学	学	PART	SFN	_	5	compound	_	SpaceAfter=No|Translit=xué|LTranslit=xué
 5	家	家	PART	SFN	_	6	nsubj	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
-6	认为	认为	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+6	认为	为	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 7	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	坎珀	坎珀	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit=kǎn珀|LTranslit=kǎn珀
 9	实际	实际	NOUN	NN	_	15	obl	_	SpaceAfter=No|Translit=shíjì|LTranslit=shíjì
@@ -2163,7 +2163,7 @@
 # text = 由于认为德义军队战力已就绪，隆美尔决定再发动攻势。
 # translit = yóuyúrènwèidéyìjūnduìzhànlìyǐjiùxù,lóngměi'ěrjuédìngzàifādònggōngshì.
 1	由于	由于	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
-2	认为	认为	VERB	VV	_	1	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+2	认为	为	VERB	VV	_	1	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 3	德	德	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=dé|LTranslit=dé
 4	义	义	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=yì|LTranslit=yì
 5	军队	军队	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=jūnduì|LTranslit=jūnduì
@@ -2200,7 +2200,7 @@
 17	后	后	ADP	IN	_	15	mark	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
 18	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 19	隆美尔	隆美尔	PROPN	NNP	_	28	nsubj	_	SpaceAfter=No|Translit=lóngměi'ěr|LTranslit=lóngměi'ěr
-20	认为	认为	VERB	VV	_	28	advcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+20	认为	为	VERB	VV	_	28	advcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 21	魏斯法尔	魏斯法尔	PROPN	NNP	_	23	nmod	_	SpaceAfter=No|Translit=魏sīfǎ'ěr|LTranslit=魏sīfǎ'ěr
 22	的	的	PART	DEC	Case=Gen	21	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 23	判断	判断	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=pànduàn|LTranslit=pànduàn
@@ -2325,7 +2325,7 @@
 13	一百多	一百多	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=yībǎiduō|LTranslit=yībǎiduō
 14	张	张	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=zhāng|LTranslit=zhāng
 15	被	被	AUX	BB	Voice=Pass	16	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-16	认为	认为	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+16	认为	为	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 17	是	是	AUX	VC	_	19	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 18	色情	色情	ADJ	JJ	_	19	amod	_	SpaceAfter=No|Translit=sèqíng|LTranslit=sèqíng
 19	物品	物品	NOUN	NN	_	16	xcomp	_	SpaceAfter=No|Translit=wùpǐn|LTranslit=wùpǐn
@@ -2681,7 +2681,7 @@
 6	遗址	遗址	NOUN	NN	_	3	conj	_	SpaceAfter=No|Translit=yízhǐ|LTranslit=yízhǐ
 7	出土	出土	VERB	VV	_	13	amod	_	SpaceAfter=No|Translit=chūtǔ|LTranslit=chūtǔ
 8	被	被	AUX	BB	Voice=Pass	11	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-9	认为	认为	AUX	VV	_	11	cop	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+9	认为	为	AUX	VV	_	11	cop	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 10	最	最	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
 11	原始	原始	ADJ	JJ	_	13	acl:relcl	_	SpaceAfter=No|Translit=yuánshǐ|LTranslit=yuánshǐ
 12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -2718,7 +2718,7 @@
 2	一	一	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 3	种	种	NOUN	NNB	_	4	nmod	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 4	观点	观点	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=guāndiǎn|LTranslit=guāndiǎn
-5	认为	认为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+5	认为	为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 6	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	两	两	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
 8	种	种	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
@@ -2749,7 +2749,7 @@
 2	感到	感到	VERB	VV	_	5	advcl	_	SpaceAfter=No|Translit=gǎndào|LTranslit=gǎndào
 3	自责	自责	ADJ	JJ	_	2	xcomp	_	SpaceAfter=No|Translit=zìzé|LTranslit=zìzé
 4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-5	认为	认为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+5	认为	为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 6	这样	这样	PRON	PRD	_	8	det	_	SpaceAfter=No|Translit=zhèyàng|LTranslit=zhèyàng
 7	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	复仇	复仇	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=fùchóu|LTranslit=fùchóu
@@ -3285,9 +3285,9 @@
 2	盆地	盆地	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=pénde|LTranslit=pénde
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	塔克拉玛干	塔克拉玛干	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=tǎkèlāmǎgàn|LTranslit=tǎkèlāmǎgàn
-5	沙漠	沙漠	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=shāmò|LTranslit=shāmò
-6	流沙	流沙	AUX	VV	_	7	cop	_	SpaceAfter=No|Translit=liúshā|LTranslit=liúshā
-7	严重	严重	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=yánzhòng|LTranslit=yánzhòng
+5	沙漠	沙漠	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=shāmò|LTranslit=shāmò
+6	流沙	流沙	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=liúshā|LTranslit=liúshā
+7	严重	严重	ADJ	JJ	_	6	xcomp	_	SpaceAfter=No|Translit=yánzhòng|LTranslit=yánzhòng
 8	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	从	从	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
 10	谷歌	谷歌	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=gǔgē|LTranslit=gǔgē
@@ -3295,7 +3295,7 @@
 12	图片	图片	NOUN	NN	_	15	obl	_	SpaceAfter=No|Translit=túpiàn|LTranslit=túpiàn
 13	可以	可以	AUX	MD	_	15	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
 14	清晰	清晰	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=qīngxī|LTranslit=qīngxī
-15	看到	看到	VERB	VV	_	7	parataxis	_	SpaceAfter=No|Translit=kàndào|LTranslit=kàndào
+15	看到	看到	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=kàndào|LTranslit=kàndào
 16	，	，	PUNCT	,	_	52	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 17	沙漠	沙漠	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=shāmò|LTranslit=shāmò
 18	腹地	腹地	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=fùde|LTranslit=fùde
@@ -3334,7 +3334,7 @@
 51	，	，	PUNCT	,	_	50	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 52	阻断	阻断	VERB	VV	_	15	ccomp	_	SpaceAfter=No|Translit=zǔduàn|LTranslit=zǔduàn
 53	交通	交通	NOUN	NN	_	52	obj	_	SpaceAfter=No|Translit=jiāotōng|LTranslit=jiāotōng
-54	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+54	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s122
 # text = 其中一处甚至涂有“小心恶犬”的标语。
@@ -4006,7 +4006,7 @@
 8	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	因为	因为	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 10	普遍	普遍	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=pǔbiàn|LTranslit=pǔbiàn
-11	认为	认为	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+11	认为	为	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 12	弗雷格	弗雷格	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit=fúléigé|LTranslit=fúléigé
 13	首先	首先	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=shǒuxiān|LTranslit=shǒuxiān
 14	公式	公式	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=gōngshì|LTranslit=gōngshì
@@ -4405,7 +4405,7 @@
 # translit = kēxuéjiārènwèishēngmìngkěnéngcéngjīngcúnzàiguòhuòzhěyīráncúnzàidedefāngbāokuòjīnxīng,huǒxīng,mùxīngdewèixīng(rúmùwèi'èr,mùwèiliù),tǔxīngdewèixīng(rútǔwèiliùhétǔwèi'èr).
 1	科学	科学	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=kēxué|LTranslit=kēxué
 2	家	家	PART	SFN	_	3	nsubj	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
-3	认为	认为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+3	认为	为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 4	生命	生命	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=shēngmìng|LTranslit=shēngmìng
 5	可能	可能	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
 6	曾经	曾经	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=céngjīng|LTranslit=céngjīng
@@ -4672,7 +4672,7 @@
 30	轰动	轰动	NOUN	NN	_	27	obj	_	SpaceAfter=No|Translit=hōngdòng|LTranslit=hōngdòng
 31	，	，	PUNCT	,	_	41	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 32	而且	而且	ADV	RB	_	41	mark	_	SpaceAfter=No|Translit='érqiě|LTranslit='érqiě
-33	更为	更为	AUX	VC	_	41	cop	_	SpaceAfter=No|Translit=gèngwèi|LTranslit=gèngwèi
+33	更为	为	AUX	VC	_	41	cop	_	SpaceAfter=No|Translit=gèngwèi|LTranslit=wèi
 34	中国	中国	PROPN	NNP	_	41	nmod	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
 35	电影	电影	NOUN	NN	_	36	compound	_	SpaceAfter=No|Translit=diànyǐng|LTranslit=diànyǐng
 36	史	史	PART	SFN	_	41	nmod	_	SpaceAfter=No|Translit=shǐ|LTranslit=shǐ
@@ -5007,7 +5007,7 @@
 # translit = dàfúkǒuyìwèiwānzǐqūyìhuìqízhōngyīgèxuǎnqū,xiànrènyìyuánwèiqīnjiànzhìdemínjiànliánchéngyuánliyún颐.
 1	大佛	大佛	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=dàfú|LTranslit=dàfú
 2	口	口	PART	SFN	_	10	nsubj	_	SpaceAfter=No|Translit=kǒu|LTranslit=kǒu
-3	亦为	亦为	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=yìwèi|LTranslit=yìwèi
+3	亦为	为	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=yìwèi|LTranslit=wèi
 4	湾仔	湾仔	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|Translit=wānzǐ|LTranslit=wānzǐ
 5	区	区	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=qū|LTranslit=qū
 6	议会	议会	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=yìhuì|LTranslit=yìhuì
@@ -5752,15 +5752,15 @@
 16	注意	注意	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=zhùyì|LTranslit=zhùyì
 17	和	和	CCONJ	CC	_	18	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 18	感情	感情	NOUN	NN	_	16	conj	_	SpaceAfter=No|Translit=gǎnqíng|LTranslit=gǎnqíng
-19	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+19	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 20	虽然	虽然	ADP	IN	_	27	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
 21	大	大	PART	PFA	_	22	case	_	SpaceAfter=No|Translit=dà|LTranslit=dà
 22	太太	太太	NOUN	NN	_	24	nmod	_	SpaceAfter=No|Translit=tàitài|LTranslit=tàitài
 23	的	的	PART	DEC	Case=Gen	22	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-24	竞争	竞争	NOUN	NN	_	27	nsubj	_	SpaceAfter=No|Translit=jìngzhēng|LTranslit=jìngzhēng
-25	没有	没有	AUX	VV	_	27	cop	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
-26	这么	这么	ADV	RB	_	27	advmod	_	SpaceAfter=No|Translit=zhème|LTranslit=zhème
-27	多	多	ADJ	JJ	_	11	ccomp	_	SpaceAfter=No|Translit=duō|LTranslit=duō
+24	竞争	竞争	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=jìngzhēng|LTranslit=jìngzhēng
+25	没有	没有	VERB	VV	_	11	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+26	这么	这么	ADV	RB	_	25	advmod	_	SpaceAfter=No|Translit=zhème|LTranslit=zhème
+27	多	多	ADJ	JJ	_	25	xcomp	_	SpaceAfter=No|Translit=duō|LTranslit=duō
 28	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s208
@@ -6060,7 +6060,7 @@
 2	纽约	纽约	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=niǔyuē|LTranslit=niǔyuē
 3	时报	时报	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=shíbào|LTranslit=shíbào
 4	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
-5	认为	认为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+5	认为	为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 6	本剧	本剧	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=běnjù|LTranslit=běnjù
 7	“	“	PUNCT	``	_	10	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 8	深刻	深刻	ADJ	JJ	_	10	advmod	_	SpaceAfter=No|Translit=shēnkè|LTranslit=shēnkè
@@ -6845,7 +6845,7 @@
 5	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	往往	往往	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=wǎngwǎng|LTranslit=wǎngwǎng
 7	一般	一般	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=yībān|LTranslit=yībān
-8	认为	认为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+8	认为	为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 9	她	她	PRON	PRP	Person=3	11	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 10	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 11	园长	园长	NOUN	NN	_	8	ccomp	_	SpaceAfter=No|Translit=yuánzhǎng|LTranslit=yuánzhǎng
@@ -8439,10 +8439,10 @@
 # sent_id = test-s306
 # text = 离开本国很久的阿凯亚首领们纷纷回国，奥德修斯也带着他的伙伴，乘船向他的故乡伊塔克出发。
 # translit = líkāiběnguóhěnjiǔde'ā凯yàshǒulǐngmenfēnfēnhuíguó,'àodéxiūsīyědàizhetādehuǒbàn,chéngchuánxiàngtādegùxiāngyītǎkèchūfā.
-1	离开	离开	AUX	VV	_	3	cop	_	SpaceAfter=No|Translit=líkāi|LTranslit=líkāi
-2	本国	本国	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=běnguó|LTranslit=běnguó
-3	很久	很久	ADJ	JJ	_	7	acl:relcl	_	SpaceAfter=No|Translit=hěnjiǔ|LTranslit=hěnjiǔ
-4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+1	离开	离开	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|Translit=líkāi|LTranslit=líkāi
+2	本国	本国	NOUN	NN	_	1	obj	_	SpaceAfter=No|Translit=běnguó|LTranslit=běnguó
+3	很久	很久	ADJ	JJ	_	1	xcomp	_	SpaceAfter=No|Translit=hěnjiǔ|LTranslit=hěnjiǔ
+4	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	阿凯亚	阿凯亚	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit='ā凯yà|LTranslit='ā凯yà
 6	首领	首领	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=shǒulǐng|LTranslit=shǒulǐng
 7	们	们	PART	SFN	Number=Plur	9	nsubj	_	SpaceAfter=No|Translit=men|LTranslit=men
@@ -8740,9 +8740,9 @@
 4	希腊	希腊	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=xī腊|LTranslit=xī腊
 5	政府	政府	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=zhèngfǔ|LTranslit=zhèngfǔ
 6	面对	面对	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=miànduì|LTranslit=miànduì
-7	负债	负债	AUX	VV	_	8	cop	_	SpaceAfter=No|Translit=fùzhài|LTranslit=fùzhài
-8	累累	累累	ADJ	JJ	_	12	acl:relcl	_	SpaceAfter=No|Translit=lèilèi|LTranslit=lèilèi
-9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+7	负债	负债	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=fùzhài|LTranslit=fùzhài
+8	累累	累累	ADJ	JJ	_	7	xcomp	_	SpaceAfter=No|Translit=lèilèi|LTranslit=lèilèi
+9	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	奥林匹克	奥林匹克	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit='àolínpǐkè|LTranslit='àolínpǐkè
 11	航空	航空	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=hángkōng|LTranslit=hángkōng
 12	公司	公司	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=gōngsī|LTranslit=gōngsī
@@ -9305,7 +9305,7 @@
 4	小	小	ADJ	JJ	_	7	xcomp	_	SpaceAfter=No|Translit=xiǎo|LTranslit=xiǎo
 5	跟	跟	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=gēn|LTranslit=gēn
 6	母亲	母亲	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=mǔqīn|LTranslit=mǔqīn
-7	相依为命	相依为命	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=xiāngyīwèimìng|LTranslit=xiāngyīwèimìng
+7	相依为命	为	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=xiāngyīwèimìng|LTranslit=wèi
 8	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	多	多	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
 10	年	年	NOUN	NNB	_	13	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
@@ -10134,7 +10134,7 @@
 # sent_id = test-s364
 # text = 身为颓废的一代的主要成员，他是影响流行文化以及文学的前卫作家。
 # translit = shēnwèi颓fèideyīdàidezhǔyàochéngyuán,tāshìyǐngxiǎngliúxíngwénhuàyǐjíwénxuédeqiánwèizuòjiā.
-1	身为	身为	VERB	VV	_	19	acl	_	SpaceAfter=No|Translit=shēnwèi|LTranslit=shēnwèi
+1	身为	为	VERB	VV	_	19	acl	_	SpaceAfter=No|Translit=shēnwèi|LTranslit=wèi
 2	颓废	颓废	ADJ	JJ	_	5	amod	_	SpaceAfter=No|Translit=颓fèi|LTranslit=颓fèi
 3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
@@ -10800,13 +10800,13 @@
 10	范围	范围	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=fànwéi|LTranslit=fànwéi
 11	逐渐	逐渐	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=zhújiàn|LTranslit=zhújiàn
 12	变小	变小	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=biànxiǎo|LTranslit=biànxiǎo
-13	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+13	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	财富	财富	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=cáifù|LTranslit=cáifù
 15	及	及	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 16	继承	继承	NOUN	NN	_	14	conj	_	SpaceAfter=No|Translit=jìchéng|LTranslit=jìchéng
-17	问题	问题	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=wèntí|LTranslit=wèntí
-18	日趋	日趋	AUX	VV	_	19	cop	_	SpaceAfter=No|Translit=rìqū|LTranslit=rìqū
-19	突出	突出	ADJ	JJ	_	12	parataxis	_	SpaceAfter=No|Translit=tūchū|LTranslit=tūchū
+17	问题	问题	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=wèntí|LTranslit=wèntí
+18	日趋	日趋	VERB	VV	_	12	parataxis	_	SpaceAfter=No|Translit=rìqū|LTranslit=rìqū
+19	突出	突出	ADJ	JJ	_	18	xcomp	_	SpaceAfter=No|Translit=tūchū|LTranslit=tūchū
 20	，	，	PUNCT	,	_	30	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 21	于是	于是	ADV	RB	_	30	mark	_	SpaceAfter=No|Translit=yúshì|LTranslit=yúshì
 22	关于	关于	ADP	IN	_	28	case	_	SpaceAfter=No|Translit=guānyú|LTranslit=guānyú
@@ -11410,7 +11410,7 @@
 # translit = yǒuguāndiǎnrènwèi,cháoxiānyǔhérìyǔyěshìgūlìyǔyán,tāmengēnmùqiánshìjièshàngyǐzhīdeyǔxìkěnéngdōuméiyǒuguānlián.
 1	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 2	观点	观点	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=guāndiǎn|LTranslit=guāndiǎn
-3	认为	认为	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+3	认为	为	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 4	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	朝鲜	朝鲜	PROPN	NNP	_	6	compound	_	SpaceAfter=No|Translit=cháoxiān|LTranslit=cháoxiān
 6	语	语	PART	SFN	_	12	nsubj	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
@@ -11491,15 +11491,15 @@
 5	名	名	NOUN	NNB	_	8	nmod	_	SpaceAfter=No|Translit=míng|LTranslit=míng
 6	的	的	PART	DEC	Case=Gen	5	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 7	射击	射击	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=shèjī|LTranslit=shèjī
-8	能手	能手	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=néngshǒu|LTranslit=néngshǒu
+8	能手	能手	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=néngshǒu|LTranslit=néngshǒu
 9	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-10	为人	为人	AUX	VV	_	12	cop	_	SpaceAfter=No|Translit=wèirén|LTranslit=wèirén
-11	十分	十分	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=shífēn|LTranslit=shífēn
-12	豪爽	豪爽	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=háoshuǎng|LTranslit=háoshuǎng
+10	为人	为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wèirén|LTranslit=wèi
+11	十分	十分	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=shífēn|LTranslit=shífēn
+12	豪爽	豪爽	ADJ	JJ	_	10	xcomp	_	SpaceAfter=No|Translit=háoshuǎng|LTranslit=háoshuǎng
 13	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	恐怖	恐怖	ADJ	JJ	_	15	amod	_	SpaceAfter=No|Translit=kǒngbù|LTranslit=kǒngbù
 15	事件	事件	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=shìjiàn|LTranslit=shìjiàn
-16	开始	开始	VERB	VV	_	12	parataxis	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
+16	开始	开始	VERB	VV	_	10	parataxis	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
 17	之后	之后	ADP	IN	_	16	mark	_	SpaceAfter=No|Translit=zhīhòu|LTranslit=zhīhòu
 18	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 19	在	在	VERB	VV	_	21	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -11509,13 +11509,13 @@
 23	警备	警备	NOUN	NN	_	24	nmod	_	SpaceAfter=No|Translit=jǐngbèi|LTranslit=jǐngbèi
 24	工作	工作	NOUN	NN	_	21	obj	_	SpaceAfter=No|Translit=gōngzuò|LTranslit=gōngzuò
 25	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-26	负责	负责	VERB	VV	_	12	parataxis	_	SpaceAfter=No|Translit=fùzé|LTranslit=fùzé
+26	负责	负责	VERB	VV	_	10	parataxis	_	SpaceAfter=No|Translit=fùzé|LTranslit=fùzé
 27	维持	维持	VERB	VV	_	26	xcomp	_	SpaceAfter=No|Translit=wéichí|LTranslit=wéichí
 28	机场	机场	NOUN	NN	_	30	nmod	_	SpaceAfter=No|Translit=jīchǎng|LTranslit=jīchǎng
 29	的	的	PART	DEC	Case=Gen	28	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 30	运作	运作	NOUN	NN	_	31	nsubj	_	SpaceAfter=No|Translit=yùnzuò|LTranslit=yùnzuò
 31	畅通	畅通	ADJ	JJ	_	27	ccomp	_	SpaceAfter=No|Translit=chàngtōng|LTranslit=chàngtōng
-32	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+32	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s411
 # text = 角色名字参考日本知名漫画家永井豪。
@@ -11602,15 +11602,15 @@
 4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	由于	由于	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
 6	战乱	战乱	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=zhànluàn|LTranslit=zhànluàn
-7	频发	频发	VERB	VV	_	12	ccomp	_	SpaceAfter=No|Translit=pínfā|LTranslit=pínfā
+7	频发	频发	VERB	VV	_	11	ccomp	_	SpaceAfter=No|Translit=pínfā|LTranslit=pínfā
 8	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	宁波	宁波	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|Translit=níngbō|LTranslit=níngbō
-10	人口	人口	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=rénkǒu|LTranslit=rénkǒu
-11	增长	增长	AUX	VV	_	12	cop	_	SpaceAfter=No|Translit=zēngzhǎng|LTranslit=zēngzhǎng
-12	缓慢	缓慢	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=huǎnmàn|LTranslit=huǎnmàn
+10	人口	人口	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=rénkǒu|LTranslit=rénkǒu
+11	增长	增长	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zēngzhǎng|LTranslit=zēngzhǎng
+12	缓慢	缓慢	ADJ	JJ	_	11	xcomp	_	SpaceAfter=No|Translit=huǎnmàn|LTranslit=huǎnmàn
 13	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	特别	特别	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=tèbié|LTranslit=tèbié
-15	是	是	VERB	VC	_	12	parataxis	_	SpaceAfter=No|Translit=shì|LTranslit=shì
+15	是	是	VERB	VC	_	11	parataxis	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 16	抗	抗	VERB	VV	_	18	amod	_	SpaceAfter=No|Translit=kàng|LTranslit=kàng
 17	日	日	PROPN	NNP	_	16	obj	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 18	战争	战争	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=zhànzhēng|LTranslit=zhànzhēng
@@ -11622,7 +11622,7 @@
 24	了	了	AUX	AS	Aspect=Perf	23	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 25	近	近	ADV	RB	_	26	advmod	_	SpaceAfter=No|Translit=jìn|LTranslit=jìn
 26	20%	20%	NUM	CD	NumType=Card	23	obj	_	SpaceAfter=No|Translit=20%|LTranslit=20%
-27	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+27	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s415
 # text = 外来人口在为宁波带来劳动力和经济发展的同时，也带来了社会治安状况的下降和社会资源紧缺。
