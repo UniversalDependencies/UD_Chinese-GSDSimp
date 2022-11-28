@@ -46,7 +46,7 @@ Data available since: UD v2.5
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: wiki
-Lemmas: converted from manual
+Lemmas: automatic with corrections
 UPOS: converted with corrections
 XPOS: manual native
 Features: automatic with corrections
