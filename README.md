@@ -9,6 +9,18 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
 
 # Changelog
 
+* 2023-05-15 v2.12
+  * Fixed: PUNCT nodes must be attached via punct relations.
+  * Fixed: Only some UPOS categories are compatible with mark.
+  * Fixed: Only some UPOS categories are compatible with det.
+  * Fixed: ADJ cannot be copula.
+  * Fixed: Auxiliary must be tagged AUX.
+  * Fixed: Nominal cannot be advmod.
+  * Fixed: Verb cannot be advmod.
+  * Added pinyin transcription.
+  * Scaled down the set of copulas and other auxiliaries.
+  * Fixed: function words must be leaves.
+  * Fixed: case marker adpositions mislabled as acl.
 * 2021-05-15 v2.8
   * Changed mark:relcl to mark:rel (as in the other Chinese treebanks).
   * Removed the relation case:dec (for 的 between two nouns; the other treebanks use just `case` here).
@@ -35,7 +47,7 @@ Data available since: UD v2.5
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: wiki
-Lemmas: converted from manual
+Lemmas: automatic with corrections
 UPOS: converted with corrections
 XPOS: manual native
 Features: automatic with corrections
