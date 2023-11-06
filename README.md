@@ -9,6 +9,9 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
 
 # Changelog
 
+* 2023-11-15 v2.13
+  * Some PART/ADV should be SCONJ (see https://github.com/UniversalDependencies/docs/issues/460 and https://github.com/slavpetrov/parallel-treebanks/issues/30).
+  * Fixed attachment clf+nummod according to the guidelines.
 * 2023-05-15 v2.12
   * Fixed: PUNCT nodes must be attached via punct relations.
   * Fixed: Only some UPOS categories are compatible with mark.
