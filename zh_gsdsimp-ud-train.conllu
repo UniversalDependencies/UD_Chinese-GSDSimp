@@ -78,8 +78,8 @@
 # sent_id = train-s3
 # text = 这次游行最大的特色，在于越来越多年轻人上街游行，而且当中不乏行动激烈的躁少年。
 # translit = zhècìyóuxíngzuìdàdetèsè,zàiyúyuèláiyuèduōniánqīngrénshàngjiēyóuxíng,'érqiědāngzhōngbùfáxíngdòngjīlièdezàoshǎonián.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	次	次	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	次	次	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 3	游行	游行	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=yóuxíng|LTranslit=yóuxíng
 4	最大	最大	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=zuìdà|LTranslit=zuìdà
 5	的	的	SCONJ	DEC	_	4	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -257,8 +257,8 @@
 3	希望	希望	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xīwàng|LTranslit=xīwàng
 4	，	，	PUNCT	,	_	34	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	借着	借着	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=jièzhe|LTranslit=jièzhe
-6	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-7	个	个	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+6	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+7	个	个	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 8	历史	历史	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=lìshǐ|LTranslit=lìshǐ
 9	上	上	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
 10	真实	真实	ADJ	JJ	_	11	amod	_	SpaceAfter=No|Translit=zhēnshí|LTranslit=zhēnshí
@@ -562,8 +562,8 @@
 2	他	他	PRON	PRP	Person=3	13	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 3	对	对	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 4	巴黎	巴黎	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|Translit=balí|LTranslit=balí
-5	这	这	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-6	个	个	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+5	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+6	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 7	法国	法国	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit=fǎguó|LTranslit=fǎguó
 8	首都	首都	NOUN	NN	_	4	appos	_	SpaceAfter=No|Translit=shǒudōu|LTranslit=shǒudōu
 9	兴奋	兴奋	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=xìngfèn|LTranslit=xìngfèn
@@ -1732,8 +1732,8 @@
 # text = 在这个反应中，碘离子被认为是路易斯碱，而碘单质作路易斯酸。
 # translit = zàizhègèfǎnyīngzhōng,碘lízibèirènwèishìlùyìsījiǎn,'ér碘dānzhìzuòlùyìsīsuān.
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-2	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-3	个	个	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+2	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+3	个	个	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 4	反应	反应	NOUN	NN	_	10	obl	_	SpaceAfter=No|Translit=fǎnyīng|LTranslit=fǎnyīng
 5	中	中	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 6	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -2942,8 +2942,8 @@
 # sent_id = train-s99
 # text = 这条路经过上陶恩附近，使该地成为商人和他们货物的重要栖息之处。
 # translit = zhètiáolùjīngguòshàngtáo'ēnfùjìn,shǐgāidechéngwèishāngrénhétāmenhuòwùdezhòngyào栖xizhīchù.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	条	条	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	条	条	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
 3	路	路	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=lù|LTranslit=lù
 4	经过	经过	VERB	VV	_	9	csubj	_	SpaceAfter=No|Translit=jīngguò|LTranslit=jīngguò
 5	上	上	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
@@ -3023,8 +3023,8 @@
 8	后称	后称	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=hòuchēng|LTranslit=hòuchēng
 9	罗德西亚	罗德西亚	PROPN	NNP	_	8	obj	_	SpaceAfter=No|Translit=luōdéxiyà|LTranslit=luōdéxiyà
 10	）	）	PUNCT	)	_	8	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
-11	这	这	DET	DT	_	12	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-12	个	个	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+11	这	这	DET	DT	_	14	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+12	个	个	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 13	新	新	PART	PFA	_	14	case	_	SpaceAfter=No|Translit=xīn|LTranslit=xīn
 14	领地	领地	NOUN	NN	_	6	appos	_	SpaceAfter=No|Translit=lǐngde|LTranslit=lǐngde
 15	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -3278,8 +3278,8 @@
 # translit = cóngcǐ,zhègègàiniànbèiquánqiúgèguózhèngfǔ,guójìzǔzhīhécíshànjīgòucǎinà.
 1	从此	从此	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=cóngcǐ|LTranslit=cóngcǐ
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-3	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+3	这	这	DET	DT	_	5	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+4	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 5	概念	概念	NOUN	NN	_	16	nsubj:pass	_	SpaceAfter=No|Translit=gàiniàn|LTranslit=gàiniàn
 6	被	被	AUX	BB	Voice=Pass	16	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 7	全球	全球	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=quánqiú|LTranslit=quánqiú
@@ -3768,8 +3768,8 @@
 # translit = tāshuōzhèjiànshìzàidàochǎngzhōngbèishìwèimìmì,bùnéngtánlùn.
 1	他	他	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	说	说	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
-3	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-4	件	件	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
+3	这	这	DET	DT	_	5	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+4	件	件	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
 5	事	事	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 6	在	在	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 7	道场	道场	NOUN	NN	_	15	obl	_	SpaceAfter=No|Translit=dàochǎng|LTranslit=dàochǎng
@@ -3881,8 +3881,8 @@
 # sent_id = train-s138
 # text = 这段历史也被乾隆帝写入《喇嘛说》中。
 # translit = zhèduànlìshǐyěbèi乾lóngdìxiěrù«lǎmashuō»zhōng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	段	段	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	段	段	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
 3	历史	历史	NOUN	NN	_	8	nsubj:pass	_	SpaceAfter=No|Translit=lìshǐ|LTranslit=lìshǐ
 4	也	也	SCONJ	RB	_	8	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 5	被	被	AUX	BB	Voice=Pass	8	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
@@ -4026,8 +4026,8 @@
 29	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 30	发现	发现	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=fāxiàn|LTranslit=fāxiàn
 31	了	了	AUX	AS	Aspect=Perf	30	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-32	这	这	DET	DT	_	33	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-33	辆	辆	NOUN	NNB	_	34	clf	_	SpaceAfter=No|Translit=liàng|LTranslit=liàng
+32	这	这	DET	DT	_	34	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+33	辆	辆	NOUN	NNB	_	32	clf	_	SpaceAfter=No|Translit=liàng|LTranslit=liàng
 34	机车	机车	NOUN	NN	_	30	obj	_	SpaceAfter=No|Translit=jīchē|LTranslit=jīchē
 35	，	，	PUNCT	,	_	37	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 36	媒体	媒体	NOUN	NN	_	37	nsubj	_	SpaceAfter=No|Translit=méitǐ|LTranslit=méitǐ
@@ -4213,8 +4213,8 @@
 8	工人	工人	NOUN	NN	_	9	advcl	_	SpaceAfter=No|Translit=gōngrén|LTranslit=gōngrén
 9	投身	投身	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tóushēn|LTranslit=tóushēn
 10	于	于	VERB	VV	_	9	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-11	这	这	DET	DT	_	12	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-12	项	项	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
+11	这	这	DET	DT	_	16	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+12	项	项	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
 13	蓬勃	蓬勃	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=péngbó|LTranslit=péngbó
 14	发展	发展	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No|Translit=fāzhǎn|LTranslit=fāzhǎn
 15	的	的	SCONJ	DEC	_	14	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -6408,8 +6408,8 @@
 3	的	的	SCONJ	DEC	_	2	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 5	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-6	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-7	种	种	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+6	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+7	种	种	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 8	区分	区分	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=qūfēn|LTranslit=qūfēn
 9	在	在	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 10	西方	西方	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=xifāng|LTranslit=xifāng
@@ -7355,8 +7355,8 @@
 # sent_id = train-s256
 # text = 这颗小行星的绝对星等为319.4618816440522等。
 # translit = zhèkēxiǎoxíngxīngdejuéduìxīngděngwèi319.4618816440522děng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	颗	颗	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
+1	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	颗	颗	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
 3	小	小	PART	PFA	_	4	case	_	SpaceAfter=No|Translit=xiǎo|LTranslit=xiǎo
 4	行星	行星	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=xíngxīng|LTranslit=xíngxīng
 5	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -7510,8 +7510,8 @@
 # sent_id = train-s263
 # text = 这颗小行星的绝对星等为248.1580343212532等。
 # translit = zhèkēxiǎoxíngxīngdejuéduìxīngděngwèi248.1580343212532děng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	颗	颗	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
+1	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	颗	颗	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
 3	小	小	PART	PFA	_	4	case	_	SpaceAfter=No|Translit=xiǎo|LTranslit=xiǎo
 4	行星	行星	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=xíngxīng|LTranslit=xíngxīng
 5	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -7525,8 +7525,8 @@
 # sent_id = train-s264
 # text = 这颗小行星的绝对星等为337.14920等。
 # translit = zhèkēxiǎoxíngxīngdejuéduìxīngděngwèi337.14920děng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	颗	颗	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
+1	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	颗	颗	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
 3	小	小	PART	PFA	_	4	case	_	SpaceAfter=No|Translit=xiǎo|LTranslit=xiǎo
 4	行星	行星	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=xíngxīng|LTranslit=xíngxīng
 5	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -7605,8 +7605,8 @@
 # sent_id = train-s268
 # text = 这颗小行星的绝对星等为347.71961等。
 # translit = zhèkēxiǎoxíngxīngdejuéduìxīngděngwèi347.71961děng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	颗	颗	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
+1	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	颗	颗	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
 3	小	小	PART	PFA	_	4	case	_	SpaceAfter=No|Translit=xiǎo|LTranslit=xiǎo
 4	行星	行星	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=xíngxīng|LTranslit=xíngxīng
 5	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -8260,8 +8260,8 @@
 # translit = tān婪yěshìzhèbùxiǎoshuōdezhòngyàotícái.
 1	贪婪	贪婪	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=tān婪|LTranslit=tān婪
 2	也是	是	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=shì
-3	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-4	部	部	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+3	这	这	DET	DT	_	5	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+4	部	部	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 5	小说	小说	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=xiǎoshuō|LTranslit=xiǎoshuō
 6	的	的	PART	DEC	Case=Gen	5	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 7	重要	重要	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=zhòngyào|LTranslit=zhòngyào
@@ -8940,8 +8940,8 @@
 # sent_id = train-s327
 # text = 这座别墅最初由Robert Sheegog于1840年代建造，建好后约有2500平方英尺，门厅占450平方英尺。
 # translit = zhèzuòbié墅zuìchūyóuRobert Sheegogyú1840niándàijiànzào,jiànhǎohòuyuēyǒu2500píngfāngyīngchǐ,méntīngzhàn450píngfāngyīngchǐ.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	座	座	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	座	座	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 3	别墅	别墅	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=bié墅|LTranslit=bié墅
 4	最初	最初	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No|Translit=zuìchū|LTranslit=zuìchū
 5	由	由	VERB	VV	_	16	advcl	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
@@ -9897,8 +9897,8 @@
 14	暗示	暗示	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No|Translit='ànshì|LTranslit='ànshì
 15	自己	自己	PRON	PRD	_	19	nsubj	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
 16	是	是	AUX	VC	_	19	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-17	那	那	DET	DT	_	18	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
-18	个	个	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+17	那	那	DET	DT	_	19	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
+18	个	个	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 19	弥赛亚	弥赛亚	PROPN	NNP	_	14	ccomp	_	SpaceAfter=No|Translit=mísàiyà|LTranslit=mísàiyà
 20	的	的	SCONJ	DEC	_	14	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 21	角色	角色	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=jiǎosè|LTranslit=jiǎosè
@@ -10284,8 +10284,8 @@
 4	步	步	NOUN	NNB	_	2	obj	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 5	证明	证明	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zhèngmíng|LTranslit=zhèngmíng
 6	了	了	AUX	AS	Aspect=Perf	5	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-7	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-8	个	个	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+7	这	这	DET	DT	_	12	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+8	个	个	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 9	染色	染色	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=rǎnsè|LTranslit=rǎnsè
 10	较深	较深	ADJ	JJ	_	9	xcomp	_	SpaceAfter=No|Translit=jiàoshēn|LTranslit=jiàoshēn
 11	的	的	SCONJ	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -10585,8 +10585,8 @@
 16	经常	经常	ADV	RB	_	17	advmod	_	SpaceAfter=No|Translit=jīngcháng|LTranslit=jīngcháng
 17	喜欢	喜欢	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=xǐhuan|LTranslit=xǐhuan
 18	做	做	VERB	VV	_	17	xcomp	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
-19	这	这	DET	DT	_	20	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-20	件	件	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
+19	这	这	DET	DT	_	21	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+20	件	件	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
 21	事	事	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 22	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -11278,8 +11278,8 @@
 # sent_id = train-s418
 # text = 这个专有名词通常会用在指涉歌剧剧团中的首席女歌手，也是在演出时会赋予重要角色的演出工作的人物。
 # translit = zhègèzhuānyǒumíngcítōngchánghuìyòngzàizhǐshègējùjùtuánzhōngdeshǒuxínǚgēshǒu,yěshìzàiyǎnchūshíhuì赋yǔzhòngyàojiǎosèdeyǎnchūgōngzuòderénwù.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	个	个	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	个	个	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	专有	专有	ADJ	JJ	_	4	amod	_	SpaceAfter=No|Translit=zhuānyǒu|LTranslit=zhuānyǒu
 4	名词	名词	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=míngcí|LTranslit=míngcí
 5	通常	通常	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=tōngcháng|LTranslit=tōngcháng
@@ -11569,8 +11569,8 @@
 # sent_id = train-s428
 # text = 这种文化，对中亚古代文明的发展影响甚深，对中亚周边各文明区亦有程度不同的影响。
 # translit = zhèzhǒngwénhuà,duìzhōngyàgǔdàiwénmíngdefāzhǎnyǐngxiǎngshénshēn,duìzhōngyàzhōubiāngèwénmíngqūyìyǒuchéngdùbùtóngdeyǐngxiǎng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	种	种	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	种	种	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 3	文化	文化	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=wénhuà|LTranslit=wénhuà
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	对	对	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
@@ -11920,8 +11920,8 @@
 11	物理	物理	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=wùlǐ|LTranslit=wùlǐ
 12	治疗	治疗	NOUN	NN	_	9	conj	_	SpaceAfter=No|Translit=zhìliáo|LTranslit=zhìliáo
 13	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-14	这	这	DET	DT	_	15	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-15	段	段	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
+14	这	这	DET	DT	_	16	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+15	段	段	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
 16	时间	时间	NOUN	NN	_	21	obl	_	SpaceAfter=No|Translit=shíjiān|LTranslit=shíjiān
 17	她	她	PRON	PRP	Person=3	21	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 18	不得	得	AUX	MD	Polarity=Neg	21	aux	_	SpaceAfter=No|Translit=bùde|LTranslit=de
@@ -13303,8 +13303,8 @@
 51	之	之	PART	DEC	Case=Gen	50	case	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
 52	一	一	NUM	CD	NumType=Card	7	parataxis	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 53	，	，	PUNCT	,	_	71	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-54	这	这	DET	DT	_	55	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-55	座	座	NOUN	NNB	_	57	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
+54	这	这	DET	DT	_	57	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+55	座	座	NOUN	NNB	_	54	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 56	议会	议会	NOUN	NN	_	57	nmod	_	SpaceAfter=No|Translit=yìhuì|LTranslit=yìhuì
 57	大楼	大楼	NOUN	NN	_	71	nsubj	_	SpaceAfter=No|Translit=dàlóu|LTranslit=dàlóu
 58	与	与	ADP	IN	_	66	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
@@ -13670,8 +13670,8 @@
 69	官方	官方	NOUN	NN	_	75	nsubj	_	SpaceAfter=No|Translit=guānfāng|LTranslit=guānfāng
 70	应	应	AUX	MD	_	75	aux	_	SpaceAfter=No|Translit=yīng|LTranslit=yīng
 71	把	把	ADP	BB	_	74	case	_	SpaceAfter=No|Translit=bǎ|LTranslit=bǎ
-72	这	这	DET	DT	_	73	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-73	起	起	NOUN	NNB	_	74	clf	_	SpaceAfter=No|Translit=qǐ|LTranslit=qǐ
+72	这	这	DET	DT	_	74	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+73	起	起	NOUN	NNB	_	72	clf	_	SpaceAfter=No|Translit=qǐ|LTranslit=qǐ
 74	案件	案件	NOUN	NN	_	75	obl:patient	_	SpaceAfter=No|Translit='ànjiàn|LTranslit='ànjiàn
 75	诉诸	诉诸	VERB	VV	_	79	advcl	_	SpaceAfter=No|Translit=suzhū|LTranslit=suzhū
 76	国际	国际	NOUN	NN	_	77	nmod	_	SpaceAfter=No|Translit=guójì|LTranslit=guójì
@@ -13755,8 +13755,8 @@
 # sent_id = train-s499
 # text = 这个专利细节可以在化学文摘找到。
 # translit = zhègèzhuānlìxìjiékěyǐzàihuàxuéwénzhāizhǎodào.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	个	个	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	个	个	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	专利	专利	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=zhuānlì|LTranslit=zhuānlì
 4	细节	细节	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=xìjié|LTranslit=xìjié
 5	可以	可以	AUX	MD	_	9	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
@@ -14102,8 +14102,8 @@
 5	而	而	SCONJ	RB	_	6	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 6	言	言	VERB	VV	_	12	advcl	_	SpaceAfter=No|Translit=yán|LTranslit=yán
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-8	这	这	DET	DT	_	9	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-9	项	项	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
+8	这	这	DET	DT	_	10	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+9	项	项	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
 10	改革	改革	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=gǎigé|LTranslit=gǎigé
 11	还是	还是	SCONJ	RB	_	12	mark	_	SpaceAfter=No|Translit=háishì|LTranslit=háishì
 12	巩固	巩固	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gǒnggù|LTranslit=gǒnggù
@@ -15534,8 +15534,8 @@
 5	书	书	PART	SFN	_	6	nmod	_	SpaceAfter=No|Translit=shū|LTranslit=shū
 6	一样	一样	ADJ	JJ	_	12	advcl	_	SpaceAfter=No|Translit=yīyàng|LTranslit=yīyàng
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-8	这	这	DET	DT	_	9	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-9	本	本	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=běn|LTranslit=běn
+8	这	这	DET	DT	_	10	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+9	本	本	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=běn|LTranslit=běn
 10	书	书	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=shū|LTranslit=shū
 11	甚少	甚少	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=shénshǎo|LTranslit=shénshǎo
 12	提及	提及	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tíjí|LTranslit=tíjí
@@ -15758,8 +15758,8 @@
 15	上	上	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
 16	同意	同意	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tóngyì|LTranslit=tóngyì
 17	了	了	AUX	AS	Aspect=Perf	16	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-18	这	这	DET	DT	_	19	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-19	桩	桩	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=zhuāng|LTranslit=zhuāng
+18	这	这	DET	DT	_	20	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+19	桩	桩	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=zhuāng|LTranslit=zhuāng
 20	婚事	婚事	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=hūnshì|LTranslit=hūnshì
 21	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -16362,8 +16362,8 @@
 3	的	的	SCONJ	DEC	_	1	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	同时	同时	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No|Translit=tóngshí|LTranslit=tóngshí
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-6	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-7	群	群	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=qún|LTranslit=qún
+6	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+7	群	群	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=qún|LTranslit=qún
 8	人	人	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 9	一边	一边	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yībiān|LTranslit=yībiān
 10	大喊	大喊	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dàhǎn|LTranslit=dàhǎn
@@ -16510,8 +16510,8 @@
 # sent_id = train-s601
 # text = 这辆车的编号为290999号。
 # translit = zhèliàngchēdebiānhàowèi290999hào.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	辆	辆	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=liàng|LTranslit=liàng
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	辆	辆	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=liàng|LTranslit=liàng
 3	车	车	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=chē|LTranslit=chē
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	编号	编号	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=biānhào|LTranslit=biānhào
@@ -19217,8 +19217,8 @@
 # sent_id = train-s692
 # text = 这种获得性骨髓造血干细胞，即成熟的粒细胞（中性粒细胞、嗜酸性粒细胞和嗜碱性粒细胞）进行恶性克隆衍生，通常并伴生一种骨髓增生性疾病。
 # translit = zhèzhǒnghuòdexìnggǔ髓zàoxuègànxìbāo,jíchéngshúdelìxìbāo(zhōngxìnglìxìbāo,嗜suānxìnglìxìbāohé嗜jiǎnxìnglìxìbāo)jìnxíng'èxìngkèlóngyǎnshēng,tōngchángbìngbànshēngyīzhǒnggǔ髓zēngshēngxìngjíbìng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	种	种	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+1	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	种	种	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 3	获得	获得	VERB	VV	_	4	compound	_	SpaceAfter=No|Translit=huòde|LTranslit=huòde
 4	性	性	PART	SFN	_	8	nmod	_	SpaceAfter=No|Translit=xìng|LTranslit=xìng
 5	骨髓	骨髓	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=gǔ髓|LTranslit=gǔ髓
@@ -19410,8 +19410,8 @@
 # sent_id = train-s697
 # text = 这个翻译工作非常困难因为有很多英文字都没有相等的毛利意思。
 # translit = zhègèfānyìgōngzuòfēichángkùnnányīnwèiyǒuhěnduōyīngwénzìdōuméiyǒuxiāngděngdemáolìyìsī.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	个	个	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	个	个	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	翻译	翻译	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=fānyì|LTranslit=fānyì
 4	工作	工作	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=gōngzuò|LTranslit=gōngzuò
 5	非常	非常	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=fēicháng|LTranslit=fēicháng
@@ -19577,8 +19577,8 @@
 28	一直	一直	ADV	RB	_	40	advmod	_	SpaceAfter=No|Translit=yīzhí|LTranslit=yīzhí
 29	被	被	AUX	BB	Voice=Pass	40	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 30	他	他	PRON	PRP	Person=3	39	nmod	_	SpaceAfter=No|Translit=tā|LTranslit=tā
-31	那	那	DET	DT	_	32	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
-32	个	个	NOUN	NNB	_	39	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+31	那	那	DET	DT	_	39	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
+32	个	个	NOUN	NNB	_	31	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 33	“	“	PUNCT	``	_	34	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 34	醉醺醺	醉醺醺	ADJ	JJ	_	39	amod	_	SpaceAfter=No|Translit=zuì醺醺|LTranslit=zuì醺醺
 35	且	且	CCONJ	CC	_	36	cc	_	SpaceAfter=No|Translit=qiě|LTranslit=qiě
@@ -19592,8 +19592,8 @@
 # sent_id = train-s704
 # text = 这个模型的其中一个变数是高温岩浆上升会将冰融化，并且使水在可让水流动的透水层中流动。
 # translit = zhègèmóxíngdeqízhōngyīgèbiànshùshìgāowēnyánjiāngshàngshēnghuìjiāngbīngrónghuà,bìngqiěshǐshuǐzàikěràngshuǐliúdòngdetòushuǐcéngzhōngliúdòng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	个	个	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	模型	模型	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=móxíng|LTranslit=móxíng
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	其中	其中	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=qízhōng|LTranslit=qízhōng
@@ -20743,8 +20743,8 @@
 23	所	所	SCONJ	RB	_	24	mark	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
 24	写	写	VERB	VV	_	33	amod	_	SpaceAfter=No|Translit=xiě|LTranslit=xiě
 25	关于	关于	ADP	IN	_	33	case	_	SpaceAfter=No|Translit=guānyú|LTranslit=guānyú
-26	那	那	DET	DT	_	27	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
-27	场	场	NOUN	NNB	_	28	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
+26	那	那	DET	DT	_	28	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
+27	场	场	NOUN	NNB	_	26	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
 28	起义	起义	NOUN	NN	_	33	nmod	_	SpaceAfter=No|Translit=qǐyì|LTranslit=qǐyì
 29	的	的	PART	DEC	Case=Gen	33	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 30	轰动一时	轰动一时	VERB	VV	_	33	acl:relcl	_	SpaceAfter=No|Translit=hōngdòngyīshí|LTranslit=hōngdòngyīshí
@@ -22090,8 +22090,8 @@
 1	从	从	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
 2	1949	1949	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=1949|LTranslit=1949
 3	年	年	NOUN	NNB	_	7	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-4	这	这	DET	DT	_	5	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-5	个	个	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+4	这	这	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+5	个	个	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 6	系统	系统	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=xìtǒng|LTranslit=xìtǒng
 7	建立	建立	VERB	VV	_	8	advcl	_	SpaceAfter=No|Translit=jiànlì|LTranslit=jiànlì
 8	到	到	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=dào|LTranslit=dào
@@ -23291,8 +23291,8 @@
 2	步	步	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 3	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 4	验证	验证	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=yànzhèng|LTranslit=yànzhèng
-5	这	这	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-6	个	个	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+5	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+6	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 7	公式	公式	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=gōngshì|LTranslit=gōngshì
 8	在	在	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 9	n=1	n=1	NOUN	ADD	_	11	obl	_	SpaceAfter=No|Translit=n=1|LTranslit=n=1
@@ -23512,8 +23512,8 @@
 1	在	在	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	美国	美国	PROPN	NNP	_	1	obj	_	SpaceAfter=No|Translit=měiguó|LTranslit=měiguó
 3	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-4	这	这	DET	DT	_	5	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-5	个	个	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+4	这	这	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+5	个	个	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 6	词	词	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=cí|LTranslit=cí
 7	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 8	用	用	VERB	VV	_	7	xcomp	_	SpaceAfter=No|Translit=yòng|LTranslit=yòng
@@ -23798,8 +23798,8 @@
 12	着	着	AUX	AS	Aspect=Prog	11	aux	_	SpaceAfter=No|Translit=zhe|LTranslit=zhe
 13	文艺	文艺	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=wényì|LTranslit=wényì
 14	复兴	复兴	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=fùxìng|LTranslit=fùxìng
-15	这	这	DET	DT	_	16	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-16	个	个	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+15	这	这	DET	DT	_	18	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+16	个	个	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 17	文化	文化	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=wénhuà|LTranslit=wénhuà
 18	运动	运动	NOUN	NN	_	14	appos	_	SpaceAfter=No|Translit=yùndòng|LTranslit=yùndòng
 19	而	而	SCONJ	RB	_	20	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
@@ -24930,8 +24930,8 @@
 # translit = dànshìjīngguòzhècì“666dàxíngdòng”hòu,xīnchéngdeshōutīnglǜbìngwúxiǎnzhetíshēng.
 1	但是	但是	SCONJ	RB	_	17	mark	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
 2	经过	经过	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=jīngguò|LTranslit=jīngguò
-3	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-4	次	次	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+3	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+4	次	次	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 5	“	“	PUNCT	``	_	8	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 6	666	666	NUM	CD	NumType=Card	8	nmod	_	SpaceAfter=No|Translit=666|LTranslit=666
 7	大	大	PART	PFA	_	8	case	_	SpaceAfter=No|Translit=dà|LTranslit=dà
@@ -25699,8 +25699,8 @@
 # sent_id = train-s912
 # text = 这段谈话更助长新经济论者的气焰。
 # translit = zhèduàntánhuàgèngzhùzhǎngxīnjīngjìlùnzhědeqìyàn.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	段	段	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	段	段	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
 3	谈话	谈话	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=tánhuà|LTranslit=tánhuà
 4	更	更	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=gèng|LTranslit=gèng
 5	助长	助长	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zhùzhǎng|LTranslit=zhùzhǎng
@@ -26531,8 +26531,8 @@
 16	计划	计划	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=jìhuà|LTranslit=jìhuà
 17	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 18	在	在	ADP	IN	_	21	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-19	这	这	DET	DT	_	20	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-20	段	段	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
+19	这	这	DET	DT	_	21	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+20	段	段	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
 21	时间	时间	NOUN	NN	_	25	obl	_	SpaceAfter=No|Translit=shíjiān|LTranslit=shíjiān
 22	里	里	ADP	IN	_	21	case	_	SpaceAfter=No|Translit=lǐ|LTranslit=lǐ
 23	日本	日本	PROPN	NNP	_	24	nmod	_	SpaceAfter=No|Translit=rìběn|LTranslit=rìběn
@@ -26565,8 +26565,8 @@
 # translit = wèiledádàozhègèrènwu,rìběnhǎijūnbìxūjiànzàodàde,kěyǐyuǎnhángdezhànjiàn.
 1	为了	为了	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=wèile|LTranslit=wèile
 2	达到	达到	VERB	VV	_	10	xcomp	_	SpaceAfter=No|Translit=dádào|LTranslit=dádào
-3	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+3	这	这	DET	DT	_	5	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+4	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 5	任务	任务	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=rènwu|LTranslit=rènwu
 6	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	日本	日本	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit=rìběn|LTranslit=rìběn
@@ -26903,8 +26903,8 @@
 11	保密	保密	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=bǎomì|LTranslit=bǎomì
 12	协议	协议	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=xiéyì|LTranslit=xiéyì
 13	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-14	这	这	DET	DT	_	15	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-15	笔	笔	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=bǐ|LTranslit=bǐ
+14	这	这	DET	DT	_	16	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+15	笔	笔	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=bǐ|LTranslit=bǐ
 16	交易	交易	NOUN	NN	_	34	nsubj	_	SpaceAfter=No|Translit=jiāoyì|LTranslit=jiāoyì
 17	到	到	ADP	IN	_	21	case	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 18	2007	2007	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=2007|LTranslit=2007
@@ -28444,8 +28444,8 @@
 6	只有	只有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zhǐyǒu|LTranslit=zhǐyǒu
 7	普尔塔龙	普尔塔龙	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=pǔ'ěrtǎlóng|LTranslit=pǔ'ěrtǎlóng
 8	有	有	VERB	VV	_	6	ccomp	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-9	这	这	DET	DT	_	10	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-10	种	种	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+9	这	这	DET	DT	_	15	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+10	种	种	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 11	高度	高度	NOUN	NN	_	12	obl	_	SpaceAfter=No|Translit=gāodù|LTranslit=gāodù
 12	特化	特化	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=tèhuà|LTranslit=tèhuà
 13	的	的	SCONJ	DEC	_	12	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -29060,8 +29060,8 @@
 20	人	人	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 21	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 22	在	在	ADP	IN	_	25	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-23	这	这	DET	DT	_	24	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-24	个	个	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+23	这	这	DET	DT	_	25	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+24	个	个	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 25	时候	时候	NOUN	NN	_	26	obl	_	SpaceAfter=No|Translit=shíhou|LTranslit=shíhou
 26	交棒	交棒	VERB	VV	_	30	csubj	_	SpaceAfter=No|Translit=jiāobàng|LTranslit=jiāobàng
 27	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -30102,8 +30102,8 @@
 # sent_id = train-s1069
 # text = 这种类型的半导体也可通过配对的电子给体分子与电子受体分子来获得。
 # translit = zhèzhǒnglèixíngdebàndǎotǐyěkětōngguòpèiduìdediànzigěitǐfēnziyǔdiànzishòutǐfēnziláihuòde.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	种	种	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	种	种	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 3	类型	类型	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=lèixíng|LTranslit=lèixíng
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	半导体	半导体	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=bàndǎotǐ|LTranslit=bàndǎotǐ
@@ -30150,8 +30150,8 @@
 22	总	总	ADV	RB	_	23	advmod	_	SpaceAfter=No|Translit=zǒng|LTranslit=zǒng
 23	是	是	VERB	VC	_	5	parataxis	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 24	有	有	VERB	VV	_	23	xcomp	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-25	这	这	DET	DT	_	26	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-26	个	个	NOUN	NNB	_	27	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+25	这	这	DET	DT	_	27	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+26	个	个	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 27	类	类	NOUN	NN	_	30	nmod	_	SpaceAfter=No|Translit=lèi|LTranslit=lèi
 28	的	的	PART	DEC	Case=Gen	27	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 29	某个	某个	DET	DT	_	30	det	_	SpaceAfter=No|Translit=mǒugè|LTranslit=mǒugè
@@ -30856,8 +30856,8 @@
 5	思潮	思潮	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=sīcháo|LTranslit=sīcháo
 6	就是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=jiùshì|LTranslit=shì
 7	在	在	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-8	这	这	DET	DT	_	9	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-9	种	种	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+8	这	这	DET	DT	_	12	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+9	种	种	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 10	社会	社会	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=shèhuì|LTranslit=shèhuì
 11	历史	历史	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=lìshǐ|LTranslit=lìshǐ
 12	条件	条件	NOUN	NN	_	14	obl	_	SpaceAfter=No|Translit=tiáojiàn|LTranslit=tiáojiàn
@@ -31476,8 +31476,8 @@
 # sent_id = train-s1119
 # text = 这则故事的原型，很可能是出自《旧五代史·武皇纪上》的记载。
 # translit = zhèzégùshìdeyuánxíng,hěnkěnéngshìchūzì«jiùwǔdàishǐ·wǔhuángjìshàng»dejìzài.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	则	则	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=zé|LTranslit=zé
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	则	则	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zé|LTranslit=zé
 3	故事	故事	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=gùshì|LTranslit=gùshì
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	原型	原型	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=yuánxíng|LTranslit=yuánxíng
@@ -32737,8 +32737,8 @@
 # sent_id = train-s1161
 # text = 这款新技术可以呈现64个独立扬声器的内容，亦可同时传送多达128个声道或物件，比7.1声道更为细致。
 # translit = zhèkuǎnxīnjìshùkěyǐchéngxiàn64gèdúlìyángshēngqìdenèiróng,yìkětóngshíchuánsòngduōdá128gèshēngdàohuòwùjiàn,bǐ7.1shēngdàogèngwèixìzhì.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	款	款	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=kuǎn|LTranslit=kuǎn
+1	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	款	款	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=kuǎn|LTranslit=kuǎn
 3	新	新	PART	PFA	_	4	case	_	SpaceAfter=No|Translit=xīn|LTranslit=xīn
 4	技术	技术	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=jìshù|LTranslit=jìshù
 5	可以	可以	AUX	MD	_	6	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
@@ -33402,8 +33402,8 @@
 # sent_id = train-s1182
 # text = 这次袭击造成8人死亡，超过2,475人重伤，为死伤最严重者。
 # translit = zhècìxíjīzàochéng8rénsǐwáng,chāoguò2,475rénzhòngshāng,wèisǐshāngzuìyánzhòngzhě.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	次	次	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	次	次	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 3	袭击	袭击	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=xíjī|LTranslit=xíjī
 4	造成	造成	VERB	VV	Voice=Cau	18	acl	_	SpaceAfter=No|Translit=zàochéng|LTranslit=zàochéng
 5	8	8	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=8|LTranslit=8
@@ -34111,8 +34111,8 @@
 44	符号	符号	NOUN	NN	_	46	obl	_	SpaceAfter=No|Translit=fúhào|LTranslit=fúhào
 45	中	中	ADP	IN	_	44	case	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 46	找回	找回	VERB	VV	_	14	parataxis	_	SpaceAfter=No|Translit=zhǎohuí|LTranslit=zhǎohuí
-47	那	那	DET	DT	_	48	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
-48	组	组	NOUN	NNB	_	50	clf	_	SpaceAfter=No|Translit=zǔ|LTranslit=zǔ
+47	那	那	DET	DT	_	50	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
+48	组	组	NOUN	NNB	_	47	clf	_	SpaceAfter=No|Translit=zǔ|LTranslit=zǔ
 49	对应	对应	ADJ	JJ	_	50	amod	_	SpaceAfter=No|Translit=duìyīng|LTranslit=duìyīng
 50	符号	符号	NOUN	NN	_	46	obj	_	SpaceAfter=No|Translit=fúhào|LTranslit=fúhào
 51	，	，	PUNCT	,	_	61	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -36373,8 +36373,8 @@
 # sent_id = train-s1284
 # text = 这群蛮族部落是最后被征服的。
 # translit = zhèqún蛮zúbùluòshìzuìhòubèizhēngfúde.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	群	群	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=qún|LTranslit=qún
+1	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	群	群	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=qún|LTranslit=qún
 3	蛮族	蛮族	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=蛮zú|LTranslit=蛮zú
 4	部落	部落	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=bùluò|LTranslit=bùluò
 5	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -37458,8 +37458,8 @@
 # text = 而且这种安置方法会扰乱原本安置地点栖息的熊族，使得熊只之间的竞争与冲突更加地剧烈，进而伤害到该栖息地较弱小的熊只。
 # translit = 'érqiězhèzhǒng'ānzhìfāngfǎhuìrǎoluànyuánběn'ānzhìdediǎn栖xidexióngzú,shǐdexióngzhǐzhījiāndejìngzhēngyǔchōngtūgèngjiādejùliè,jìn'érshānghàidàogāi栖xidejiàoruòxiǎodexióngzhǐ.
 1	而且	而且	SCONJ	RB	_	27	mark	_	SpaceAfter=No|Translit='érqiě|LTranslit='érqiě
-2	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-3	种	种	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+2	这	这	DET	DT	_	5	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+3	种	种	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 4	安置	安置	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit='ānzhì|LTranslit='ānzhì
 5	方法	方法	NOUN	NN	_	27	nsubj	_	SpaceAfter=No|Translit=fāngfǎ|LTranslit=fāngfǎ
 6	会	会	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
@@ -37833,8 +37833,8 @@
 # sent_id = train-s1336
 # text = 这件作品今日有一件较小的复制品，放在台北市中山北路二段上的台北银行总行（今“台北富邦银行中山大楼”）前面。
 # translit = zhèjiànzuòpǐnjīnrìyǒuyījiànjiàoxiǎodefùzhìpǐn,fàngzàitáiběishìzhōngshānběilù'èrduànshàngdetáiběiyínxíngzǒngxíng(jīn“táiběifùbāngyínxíngzhōngshāndàlóu”)qiánmiàn.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	件	件	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	件	件	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
 3	作品	作品	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=zuòpǐn|LTranslit=zuòpǐn
 4	今日	今日	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No|Translit=jīnrì|LTranslit=jīnrì
 5	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
@@ -38829,8 +38829,8 @@
 3	“	“	PUNCT	``	_	4	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 4	春绯	春绯	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No|Translit=chūn绯|LTranslit=chūn绯
 5	”	”	PUNCT	''	_	4	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
-6	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-7	个	个	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+6	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+7	个	个	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 8	名字	名字	NOUN	NN	_	4	appos	_	SpaceAfter=No|Translit=míngzì|LTranslit=míngzì
 9	在	在	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 10	初期	初期	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=chūqī|LTranslit=chūqī
@@ -38857,8 +38857,8 @@
 31	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 32	她	她	PRON	PRP	Person=3	33	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 33	觉得	觉得	VERB	VV	_	14	parataxis	_	SpaceAfter=No|Translit=juéde|LTranslit=juéde
-34	那	那	DET	DT	_	35	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
-35	种	种	NOUN	NNB	_	36	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+34	那	那	DET	DT	_	36	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
+35	种	种	NOUN	NNB	_	34	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 36	感觉	感觉	NOUN	NN	_	37	nsubj	_	SpaceAfter=No|Translit=gǎnjué|LTranslit=gǎnjué
 37	变成	变成	VERB	VV	_	33	ccomp	_	SpaceAfter=No|Translit=biànchéng|LTranslit=biànchéng
 38	了	了	AUX	AS	Aspect=Perf	37	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -39271,8 +39271,8 @@
 # sent_id = train-s1385
 # text = 这条隧道位于地下100公尺，在日内瓦国际机场和附近的侏罗山之间。
 # translit = zhètiáosuìdàowèiyúdexià100gōngchǐ,zàirìnèiwǎguójìjīchǎnghéfùjìnde侏luōshānzhījiān.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	条	条	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	条	条	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
 3	隧道	隧道	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=suìdào|LTranslit=suìdào
 4	位	位	VERB	VV	_	10	advcl	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 5	于	于	VERB	VV	_	4	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
@@ -40048,8 +40048,8 @@
 # sent_id = train-s1414
 # text = 这首歌是为了1979的小型电视影集，Martin Eden，所制作的。
 # translit = zhèshǒugēshìwèile1979dexiǎoxíngdiànshìyǐngjí,Martin Eden,suǒzhìzuòde.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	首	首	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=shǒu|LTranslit=shǒu
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	首	首	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=shǒu|LTranslit=shǒu
 3	歌	歌	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=gē|LTranslit=gē
 4	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 5	为了	为了	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=wèile|LTranslit=wèile
@@ -40394,8 +40394,8 @@
 # sent_id = train-s1425
 # text = 这个词的历史、意义、和用法都很多。
 # translit = zhègècídelìshǐ,yìyì,héyòngfǎdōuhěnduō.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	个	个	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	词	词	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=cí|LTranslit=cí
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	历史	历史	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=lìshǐ|LTranslit=lìshǐ
@@ -40487,8 +40487,8 @@
 15	元	元	NOUN	NNB	_	12	obj	_	SpaceAfter=No|Translit=yuán|LTranslit=yuán
 16	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 17	在	在	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-18	这	这	DET	DT	_	19	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-19	项	项	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
+18	这	这	DET	DT	_	20	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+19	项	项	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
 20	判决	判决	NOUN	NN	_	25	obl	_	SpaceAfter=No|Translit=pànjué|LTranslit=pànjué
 21	之前	之前	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=zhīqián|LTranslit=zhīqián
 22	国	国	PROPN	NNP	_	23	compound	_	SpaceAfter=No|Translit=guó|LTranslit=guó
@@ -41997,8 +41997,8 @@
 22	的	的	PART	DEC	Case=Gen	15	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 23	转变	转变	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=zhuǎnbiàn|LTranslit=zhuǎnbiàn
 24	，	，	PUNCT	,	_	33	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-25	这	这	DET	DT	_	26	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-26	种	种	NOUN	NNB	_	27	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+25	这	这	DET	DT	_	27	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+26	种	种	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 27	转变	转变	NOUN	NN	_	33	nsubj	_	SpaceAfter=No|Translit=zhuǎnbiàn|LTranslit=zhuǎnbiàn
 28	也是	是	AUX	VC	_	33	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=shì
 29	很多	很多	NUM	CD	NumType=Card	31	nummod	_	SpaceAfter=No|Translit=hěnduō|LTranslit=hěnduō
@@ -42540,8 +42540,8 @@
 2	并	并	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 3	不	不	ADV	RB	Polarity=Neg	4	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 4	喜欢	喜欢	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xǐhuan|LTranslit=xǐhuan
-5	这	这	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-6	个	个	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+5	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+6	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 7	主意	主意	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=zhǔyì|LTranslit=zhǔyì
 8	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	因为	因为	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
@@ -42693,8 +42693,8 @@
 16	机	机	PART	SFN	_	23	nsubj	_	SpaceAfter=No|Translit=jī|LTranslit=jī
 17	击毁	击毁	VERB	VV	_	23	advcl	_	SpaceAfter=No|Translit=jīhuǐ|LTranslit=jīhuǐ
 18	了	了	AUX	AS	Aspect=Perf	17	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-19	这	这	DET	DT	_	20	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-20	座	座	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
+19	这	这	DET	DT	_	21	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+20	座	座	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 21	桥	桥	NOUN	NN	_	17	obj	_	SpaceAfter=No|Translit=qiáo|LTranslit=qiáo
 22	并	并	SCONJ	RB	_	23	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 23	困住	困住	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kùnzhù|LTranslit=kùnzhù
@@ -43230,8 +43230,8 @@
 17	并	并	SCONJ	RB	_	19	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 18	首次	首次	NUM	CD	NumType=Ord	19	obl	_	SpaceAfter=No|Translit=shǒucì|LTranslit=shǒucì
 19	获得	获得	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=huòde|LTranslit=huòde
-20	这	这	DET	DT	_	21	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-21	种	种	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+20	这	这	DET	DT	_	22	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+21	种	种	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 22	分子	分子	NOUN	NN	_	24	nmod	_	SpaceAfter=No|Translit=fēnzi|LTranslit=fēnzi
 23	的	的	PART	DEC	Case=Gen	22	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 24	光谱	光谱	NOUN	NN	_	19	obj	_	SpaceAfter=No|Translit=guāng谱|LTranslit=guāng谱
@@ -43244,8 +43244,8 @@
 2	洪堡	洪堡	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=hóngbǎo|LTranslit=hóngbǎo
 3	大学	大学	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=dàxué|LTranslit=dàxué
 4	把	把	ADP	BB	_	7	case	_	SpaceAfter=No|Translit=bǎ|LTranslit=bǎ
-5	这	这	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-6	篇	篇	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=piān|LTranslit=piān
+5	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+6	篇	篇	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=piān|LTranslit=piān
 7	论文	论文	NOUN	NN	_	8	obl:patient	_	SpaceAfter=No|Translit=lùnwén|LTranslit=lùnwén
 8	评	评	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=píng|LTranslit=píng
 9	为	为	VERB	VC	_	8	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -44271,8 +44271,8 @@
 23	凯撒	凯撒	PROPN	NNP	_	24	nsubj	_	SpaceAfter=No|Translit=凯sā|LTranslit=凯sā
 24	解决	解决	VERB	VV	_	15	parataxis	_	SpaceAfter=No|Translit=jiějué|LTranslit=jiějué
 25	了	了	AUX	AS	Aspect=Perf	24	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-26	这	这	DET	DT	_	27	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-27	个	个	NOUN	NNB	_	28	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+26	这	这	DET	DT	_	28	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+27	个	个	NOUN	NNB	_	26	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 28	问题	问题	NOUN	NN	_	24	obj	_	SpaceAfter=No|Translit=wèntí|LTranslit=wèntí
 29	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -44531,8 +44531,8 @@
 13	语言	语言	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=yǔyán|LTranslit=yǔyán
 14	方面	方面	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=fāngmiàn|LTranslit=fāngmiàn
 15	的	的	PART	DEC	Case=Gen	14	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-16	各	各	DET	DT	_	17	det	_	SpaceAfter=No|Translit=gè|LTranslit=gè
-17	种	种	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+16	各	各	DET	DT	_	18	det	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+17	种	种	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 18	障碍	障碍	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=zhàng'ài|LTranslit=zhàng'ài
 19	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 20	他	他	PRON	PRP	Person=3	23	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -45044,8 +45044,8 @@
 # translit = Leesyánjiūzhègèhuàshí,rènwèizhèchánggǔshìshǔyúgǔ喙lóngdeyīzhǒng(Paleorhinus bransoni).
 1	Lees	Lees	X	FW	_	7	nsubj	_	SpaceAfter=No|Translit=Lees|LTranslit=Lees
 2	研究	研究	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=yánjiū|LTranslit=yánjiū
-3	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+3	这	这	DET	DT	_	5	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+4	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 5	化石	化石	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=huàshí|LTranslit=huàshí
 6	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	认为	为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
@@ -45926,8 +45926,8 @@
 # sent_id = train-s1609
 # text = 这场比赛让天使球迷把不满的情绪通通发泄在摩尔身上，而最伤心的又莫过于摩尔本人。
 # translit = zhèchǎngbǐsàiràngtiānshǐqiúmíbǎbùmǎndeqíngxùtōngtōngfāxièzàimó'ěrshēnshàng,'érzuìshāngxīndeyòumòguòyúmó'ěrběnrén.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	场	场	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	场	场	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
 3	比赛	比赛	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=bǐsài|LTranslit=bǐsài
 4	让	让	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No|Translit=ràng|LTranslit=ràng
 5	天使	天使	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=tiānshǐ|LTranslit=tiānshǐ
@@ -46515,8 +46515,8 @@
 12	宣称	宣称	VERB	VV	_	41	xcomp	_	SpaceAfter=No|Translit=xuānchēng|LTranslit=xuānchēng
 13	隋代	隋代	PROPN	NNP	_	18	nmod	_	SpaceAfter=No|Translit=隋dài|LTranslit=隋dài
 14	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-15	这	这	DET	DT	_	16	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-16	个	个	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+15	这	这	DET	DT	_	18	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+16	个	个	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 17	“	“	PUNCT	``	_	18	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 18	流求	流求	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No|Translit=liúqiú|LTranslit=liúqiú
 19	”	”	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
@@ -46537,8 +46537,8 @@
 34	台湾	台湾	PROPN	NNP	_	32	obj	_	SpaceAfter=No|Translit=táiwān|LTranslit=táiwān
 35	”	”	PUNCT	''	_	32	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 36	的	的	SCONJ	DEC	_	32	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-37	这	这	DET	DT	_	38	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-38	种	种	NOUN	NNB	_	39	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+37	这	这	DET	DT	_	39	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+38	种	种	NOUN	NNB	_	37	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 39	见解	见解	NOUN	NN	_	41	obl	_	SpaceAfter=No|Translit=jiànjiě|LTranslit=jiànjiě
 40	，	，	PUNCT	,	_	39	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 41	抱持	抱持	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=bàochí|LTranslit=bàochí
@@ -48284,8 +48284,8 @@
 # text = 通过这个条约，哲孟雄（锡金）成为英国的保护国，一切内政外交皆听命于英人。
 # translit = tōngguòzhègètiáoyuē,zhé孟xióng(xījīn)chéngwèiyīngguódebǎohùguó,yīqiènèizhèngwàijiāojiētīngmìngyúyīngrén.
 1	通过	通过	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=tōngguò|LTranslit=tōngguò
-2	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-3	个	个	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+2	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+3	个	个	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 4	条约	条约	NOUN	NN	_	10	obl	_	SpaceAfter=No|Translit=tiáoyuē|LTranslit=tiáoyuē
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	哲孟雄	哲孟雄	PROPN	NNP	_	10	nsubj	_	SpaceAfter=No|Translit=zhé孟xióng|LTranslit=zhé孟xióng
@@ -48693,8 +48693,8 @@
 # sent_id = train-s1705
 # text = 那位老骑士就被硬着逼到洗衣篮子里躲避。
 # translit = nàwèilǎoqíshìjiùbèiyìngzhebīdàoxǐyīlánzilǐduǒbì.
-1	那	那	DET	DT	_	2	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
-2	位	位	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+1	那	那	DET	DT	_	4	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
+2	位	位	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 3	老	老	PART	PFA	_	4	case	_	SpaceAfter=No|Translit=lǎo|LTranslit=lǎo
 4	骑士	骑士	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=qíshì|LTranslit=qíshì
 5	就	就	SCONJ	RB	_	9	mark	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
@@ -49304,8 +49304,8 @@
 41	量	量	PART	SFN	_	36	obj	_	SpaceAfter=No|Translit=liàng|LTranslit=liàng
 42	，	，	PUNCT	,	_	36	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 43	降低	降低	VERB	VV	_	22	ccomp	_	SpaceAfter=No|Translit=jiàngdī|LTranslit=jiàngdī
-44	这	这	DET	DT	_	45	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-45	种	种	NOUN	NNB	_	47	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+44	这	这	DET	DT	_	47	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+45	种	种	NOUN	NNB	_	44	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 46	自然	自然	NOUN	NN	_	47	nmod	_	SpaceAfter=No|Translit=zìrán|LTranslit=zìrán
 47	灾害	灾害	NOUN	NN	_	49	nsubj	_	SpaceAfter=No|Translit=zāihài|LTranslit=zāihài
 48	再次	再次	ADV	RB	_	49	advmod	_	SpaceAfter=No|Translit=zàicì|LTranslit=zàicì
@@ -52214,8 +52214,8 @@
 12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	泥潭	泥潭	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=nítán|LTranslit=nítán
 14	，	，	PUNCT	,	_	22	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-15	这	这	DET	DT	_	16	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-16	次	次	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+15	这	这	DET	DT	_	20	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+16	次	次	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 17	广泛	广泛	ADJ	JJ	_	20	amod	_	SpaceAfter=No|Translit=guǎngfàn|LTranslit=guǎngfàn
 18	的	的	SCONJ	DEC	_	17	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 19	风暴	风暴	NOUN	NN	_	20	nmod	_	SpaceAfter=No|Translit=fēngbào|LTranslit=fēngbào
@@ -52463,8 +52463,8 @@
 20	白金	白金	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=báijīn|LTranslit=báijīn
 21	唱片	唱片	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=chàngpiàn|LTranslit=chàngpiàn
 22	因为	因为	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
-23	这	这	DET	DT	_	24	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-24	张	张	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=zhāng|LTranslit=zhāng
+23	这	这	DET	DT	_	25	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+24	张	张	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=zhāng|LTranslit=zhāng
 25	唱片	唱片	NOUN	NN	_	26	nsubj	_	SpaceAfter=No|Translit=chàngpiàn|LTranslit=chàngpiàn
 26	出售	出售	VERB	VV	_	18	ccomp	_	SpaceAfter=No|Translit=chūshòu|LTranslit=chūshòu
 27	了	了	AUX	AS	Aspect=Perf	26	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -52519,8 +52519,8 @@
 15	电视	电视	NOUN	NN	_	16	nmod	_	SpaceAfter=No|Translit=diànshì|LTranslit=diànshì
 16	节目	节目	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=jiémù|LTranslit=jiémù
 17	，	，	PUNCT	,	_	30	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-18	这	这	DET	DT	_	19	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-19	个	个	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+18	这	这	DET	DT	_	20	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+19	个	个	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 20	节目	节目	NOUN	NN	_	30	nsubj	_	SpaceAfter=No|Translit=jiémù|LTranslit=jiémù
 21	已	已	ADV	RB	_	30	advmod	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
 22	于	于	ADP	IN	_	28	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
@@ -53387,8 +53387,8 @@
 # sent_id = train-s1854
 # text = 这项行动标志着冲突开始急剧升级。
 # translit = zhèxiàngxíngdòngbiāozhìzhechōngtūkāishǐjíjùshēngjí.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	项	项	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	项	项	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
 3	行动	行动	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=xíngdòng|LTranslit=xíngdòng
 4	标志	标志	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=biāozhì|LTranslit=biāozhì
 5	着	着	AUX	AS	Aspect=Prog	4	aux	_	SpaceAfter=No|Translit=zhe|LTranslit=zhe
@@ -53771,8 +53771,8 @@
 # sent_id = train-s1869
 # text = 这种观点有一定的说服力，因为早在唐穆宗时期，时任宰相的李逢吉就举荐过牛僧孺，被认为是利用牛廉洁正直的名声为自己的政治势力增加砝码。
 # translit = zhèzhǒngguāndiǎnyǒuyīdìngdeshuōfúlì,yīnwèizǎozàitángmùzōngshíqī,shírènzǎixiāngdeliféngjíjiùjǔjiànguòniú僧孺,bèirènwèishìlìyòngniúliánjiézhèngzhídemíngshēngwèizìjǐdezhèngzhìshìlìzēngjiā砝mǎ.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	种	种	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	种	种	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 3	观点	观点	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=guāndiǎn|LTranslit=guāndiǎn
 4	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 5	一定	一定	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=yīdìng|LTranslit=yīdìng
@@ -54172,8 +54172,8 @@
 11	碳	碳	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=tàn|LTranslit=tàn
 12	原子	原子	NOUN	NN	_	19	ccomp	_	SpaceAfter=No|Translit=yuánzi|LTranslit=yuánzi
 13	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-14	这	这	DET	DT	_	15	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-15	个	个	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+14	这	这	DET	DT	_	16	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+15	个	个	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 16	反应	反应	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=fǎnyīng|LTranslit=fǎnyīng
 17	也	也	SCONJ	RB	_	19	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 18	可以	可以	AUX	MD	_	19	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
@@ -54309,8 +54309,8 @@
 10	政府	政府	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=zhèngfǔ|LTranslit=zhèngfǔ
 11	宣布	宣布	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xuānbù|LTranslit=xuānbù
 12	将	将	ADP	BB	_	15	case	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
-13	这	这	DET	DT	_	14	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-14	条	条	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
+13	这	这	DET	DT	_	15	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+14	条	条	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
 15	街	街	NOUN	NN	_	16	obl:patient	_	SpaceAfter=No|Translit=jiē|LTranslit=jiē
 16	改名	改名	VERB	VV	_	22	advcl	_	SpaceAfter=No|Translit=gǎimíng|LTranslit=gǎimíng
 17	为	为	VERB	VC	_	16	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -54651,8 +54651,8 @@
 # translit = yóuyúlièqízhègècíhuìdeyìyìdàibiǎoxuèxīngdeshìwù,bèichēngzuòlièqízuòpǐndeyǐngshì,dòngmànhuàzuòpǐntōngchángshìrtóngbùyide.
 1	由于	由于	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
 2	猎奇	猎奇	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=lièqí|LTranslit=lièqí
-3	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-4	个	个	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+3	这	这	DET	DT	_	5	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+4	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 5	词汇	词汇	NOUN	NN	_	2	appos	_	SpaceAfter=No|Translit=cíhuì|LTranslit=cíhuì
 6	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 7	意义	意义	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=yìyì|LTranslit=yìyì
@@ -54836,8 +54836,8 @@
 2	亚彬	亚彬	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No|Translit=yà彬|LTranslit=yà彬
 3	带	带	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=dài|LTranslit=dài
 4	着	着	AUX	AS	Aspect=Prog	3	aux	_	SpaceAfter=No|Translit=zhe|LTranslit=zhe
-5	这	这	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-6	部	部	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+5	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+6	部	部	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 7	作品	作品	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=zuòpǐn|LTranslit=zuòpǐn
 8	参加	参加	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=cānjiā|LTranslit=cānjiā
 9	全国	全国	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=quánguó|LTranslit=quánguó
@@ -55501,8 +55501,8 @@
 29	于	于	VERB	VV	_	28	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 30	众	众	NOUN	NN	_	28	obj	_	SpaceAfter=No|Translit=zhòng|LTranslit=zhòng
 31	，	，	PUNCT	,	_	37	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-32	这	这	DET	DT	_	33	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-33	种	种	NOUN	NNB	_	34	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+32	这	这	DET	DT	_	34	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+33	种	种	NOUN	NNB	_	32	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 34	作法	作法	NOUN	NN	_	37	nsubj	_	SpaceAfter=No|Translit=zuòfǎ|LTranslit=zuòfǎ
 35	有效	有效	ADJ	JJ	_	37	advmod	_	SpaceAfter=No|Translit=yǒuxiào|LTranslit=yǒuxiào
 36	的	的	SCONJ	DEV	_	35	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -55637,8 +55637,8 @@
 1	伊丽莎白	伊丽莎白	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=yīlìshābái|LTranslit=yīlìshābái
 2	觉察	觉察	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=juéchá|LTranslit=juéchá
 3	到	到	VERB	VV	_	2	mark	_	SpaceAfter=No|Translit=dào|LTranslit=dào
-4	这	这	DET	DT	_	5	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-5	次	次	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+4	这	这	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+5	次	次	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 6	婚姻	婚姻	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=hūnyīn|LTranslit=hūnyīn
 7	带给	带给	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=dàigěi|LTranslit=dàigěi
 8	她	她	PRON	PRP	Person=3	7	obj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -55839,8 +55839,8 @@
 # sent_id = train-s1947
 # text = 这种结构解释了为什么玻璃是“玻璃”而不是液体或固体。
 # translit = zhèzhǒngjiégòujiěshìlewèishénmebōlíshì“bōlí”'érbùshìyètǐhuògùtǐ.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	种	种	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	种	种	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 3	结构	结构	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=jiégòu|LTranslit=jiégòu
 4	解释	解释	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jiěshì|LTranslit=jiěshì
 5	了	了	AUX	AS	Aspect=Perf	4	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -56150,8 +56150,8 @@
 18	个	个	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 19	月	月	NOUN	NN	_	15	conj	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 20	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-21	这	这	DET	DT	_	22	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-22	段	段	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
+21	这	这	DET	DT	_	23	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+22	段	段	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
 23	时间	时间	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=shíjiān|LTranslit=shíjiān
 24	亦	亦	SCONJ	RB	_	25	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
 25	成	成	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=chéng|LTranslit=chéng
@@ -56165,8 +56165,8 @@
 # sent_id = train-s1960
 # text = 这个很有特色的小镇，盘踞在麻河边，而麻河蜿蜒像尾龙（可从Google earth去看）。
 # translit = zhègèhěnyǒutèsèdexiǎozhèn,pán踞zàimáhébiān,'érmáhé蜿蜒xiàngwěilóng(kěcóngGoogle earthqùkàn).
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	个	个	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	个	个	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	很	很	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
 4	有	有	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 5	特色	特色	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=tèsè|LTranslit=tèsè
@@ -56386,8 +56386,8 @@
 27	继续	继续	VERB	VV	_	26	xcomp	_	SpaceAfter=No|Translit=jìxù|LTranslit=jìxù
 28	留	留	VERB	VV	_	27	xcomp	_	SpaceAfter=No|Translit=liú|LTranslit=liú
 29	在	在	VERB	VV	_	28	mark	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-30	这	这	DET	DT	_	31	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-31	块	块	NOUN	NNB	_	32	clf	_	SpaceAfter=No|Translit=kuài|LTranslit=kuài
+30	这	这	DET	DT	_	32	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+31	块	块	NOUN	NNB	_	30	clf	_	SpaceAfter=No|Translit=kuài|LTranslit=kuài
 32	土地	土地	NOUN	NN	_	28	obj	_	SpaceAfter=No|Translit=tǔde|LTranslit=tǔde
 33	上	上	NOUN	NN	_	32	acl	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
 34	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -56982,8 +56982,8 @@
 19	个体	个体	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=gètǐ|LTranslit=gètǐ
 20	可能	可能	AUX	MD	_	21	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
 21	超过	超过	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=chāoguò|LTranslit=chāoguò
-22	这	这	DET	DT	_	23	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-23	个	个	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+22	这	这	DET	DT	_	24	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+23	个	个	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 24	数据	数据	NOUN	NN	_	21	obj	_	SpaceAfter=No|Translit=shùjù|LTranslit=shùjù
 25	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -57496,8 +57496,8 @@
 8	脸颊	脸颊	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=liǎnjiá|LTranslit=liǎnjiá
 9	流下	流下	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=liúxià|LTranslit=liúxià
 10	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-11	这	这	DET	DT	_	12	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-12	次	次	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+11	这	这	DET	DT	_	13	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+12	次	次	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 13	事件	事件	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=shìjiàn|LTranslit=shìjiàn
 14	是	是	VERB	VC	_	9	parataxis	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 15	因	因	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
@@ -57959,8 +57959,8 @@
 32	人	人	NOUN	NN	_	34	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 33	确诊	确诊	VERB	VV	_	34	advcl	_	SpaceAfter=No|Translit=quèzhěn|LTranslit=quèzhěn
 34	感染	感染	VERB	VV	_	30	ccomp	_	SpaceAfter=No|Translit=gǎnrǎn|LTranslit=gǎnrǎn
-35	这	这	DET	DT	_	36	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-36	种	种	NOUN	NNB	_	44	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+35	这	这	DET	DT	_	44	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+36	种	种	NOUN	NNB	_	35	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 37	奇异	奇异	ADJ	JJ	_	44	amod	_	SpaceAfter=No|Translit=qíyì|LTranslit=qíyì
 38	而	而	CCONJ	CC	_	39	cc	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 39	罕见	罕见	ADJ	JJ	_	37	conj	_	SpaceAfter=No|Translit=罕jiàn|LTranslit=罕jiàn
@@ -58158,8 +58158,8 @@
 # sent_id = train-s2035
 # text = 这种技术有其自身缺点，尤其是在对副产物硫酸铵的处理上。
 # translit = zhèzhǒngjìshùyǒuqízìshēnquēdiǎn,yóuqíshìzàiduìfùchǎnwùliúsuān铵dechùlǐshàng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	种	种	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	种	种	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 3	技术	技术	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=jìshù|LTranslit=jìshù
 4	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 5	其	其	PRON	PRP	Person=3	7	nmod	_	SpaceAfter=No|Translit=qí|LTranslit=qí
@@ -58190,8 +58190,8 @@
 7	合成	合成	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=héchéng|LTranslit=héchéng
 8	过程	过程	NOUN	NN	_	13	nmod	_	SpaceAfter=No|Translit=guòchéng|LTranslit=guòchéng
 9	的	的	PART	DEC	Case=Gen	8	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-10	各	各	DET	DT	_	11	det	_	SpaceAfter=No|Translit=gè|LTranslit=gè
-11	种	种	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+10	各	各	DET	DT	_	13	det	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+11	种	种	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 12	核	核	NOUN	NN	_	13	nmod	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 13	融合	融合	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=rónghé|LTranslit=rónghé
 14	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -58249,8 +58249,8 @@
 # text = 由于这种机制（不是热传导机制），电极性分子会吸收微波的能量。
 # translit = yóuyúzhèzhǒngjīzhì(bùshìrèchuándǎojīzhì),diànjíxìngfēnzihuìxīshōuwēibōdenéngliàng.
 1	由于	由于	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
-2	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-3	种	种	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+2	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+3	种	种	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 4	机制	机制	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=jīzhì|LTranslit=jīzhì
 5	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 6	不是	是	AUX	VC	Polarity=Neg	9	cop	_	SpaceAfter=No|Translit=bùshì|LTranslit=shì
@@ -58371,8 +58371,8 @@
 21	说	说	VERB	VV	_	22	advcl	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
 22	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 23	和	和	ADP	IN	_	31	case	_	SpaceAfter=No|Translit=hé|LTranslit=hé
-24	这	这	DET	DT	_	25	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-25	个	个	NOUN	NNB	_	26	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+24	这	这	DET	DT	_	26	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+25	个	个	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 26	国家	国家	NOUN	NN	_	31	nmod	_	SpaceAfter=No|Translit=guójiā|LTranslit=guójiā
 27	或	或	CCONJ	CC	_	28	cc	_	SpaceAfter=No|Translit=huò|LTranslit=huò
 28	地区	地区	NOUN	NN	_	26	conj	_	SpaceAfter=No|Translit=deqū|LTranslit=deqū
@@ -58964,8 +58964,8 @@
 32	翻译	翻译	NOUN	NN	_	31	obj	_	SpaceAfter=No|Translit=fānyì|LTranslit=fānyì
 33	，	，	PUNCT	,	_	31	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 34	协调	协调	VERB	VV	_	42	advcl	_	SpaceAfter=No|Translit=xiédiào|LTranslit=xiédiào
-35	每	每	DET	DT	_	36	det	_	SpaceAfter=No|Translit=měi|LTranslit=měi
-36	通	通	NOUN	NNB	_	37	clf	_	SpaceAfter=No|Translit=tōng|LTranslit=tōng
+35	每	每	DET	DT	_	37	det	_	SpaceAfter=No|Translit=měi|LTranslit=měi
+36	通	通	NOUN	NNB	_	35	clf	_	SpaceAfter=No|Translit=tōng|LTranslit=tōng
 37	电话	电话	NOUN	NN	_	39	nmod	_	SpaceAfter=No|Translit=diànhuà|LTranslit=diànhuà
 38	的	的	PART	DEC	Case=Gen	37	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 39	时间	时间	NOUN	NN	_	34	obj	_	SpaceAfter=No|Translit=shíjiān|LTranslit=shíjiān
@@ -59452,8 +59452,8 @@
 35	可能	可能	AUX	MD	_	45	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
 36	看	看	VERB	VV	_	45	acl	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
 37	了	了	AUX	AS	Aspect=Perf	36	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-38	这	这	DET	DT	_	39	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-39	个	个	NOUN	NNB	_	40	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+38	这	这	DET	DT	_	40	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+39	个	个	NOUN	NNB	_	38	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 40	故事	故事	NOUN	NN	_	36	obj	_	SpaceAfter=No|Translit=gùshì|LTranslit=gùshì
 41	之后	之后	ADP	IN	_	36	mark	_	SpaceAfter=No|Translit=zhīhòu|LTranslit=zhīhòu
 42	白马	白马	NOUN	NN	_	45	nsubj	_	SpaceAfter=No|Translit=báimǎ|LTranslit=báimǎ
@@ -59920,8 +59920,8 @@
 18	察觉	察觉	VERB	VV	_	14	conj	_	SpaceAfter=No|Translit=chájué|LTranslit=chájué
 19	并	并	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 20	关注	关注	VERB	VV	_	18	conj	_	SpaceAfter=No|Translit=guānzhù|LTranslit=guānzhù
-21	各	各	DET	DT	_	22	det	_	SpaceAfter=No|Translit=gè|LTranslit=gè
-22	种	种	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+21	各	各	DET	DT	_	23	det	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+22	种	种	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 23	威胁	威胁	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=wēixié|LTranslit=wēixié
 24	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 25	以及	以及	CCONJ	CC	_	26	cc	_	SpaceAfter=No|Translit=yǐjí|LTranslit=yǐjí
@@ -60379,8 +60379,8 @@
 61	变成	变成	VERB	VV	_	40	xcomp	_	SpaceAfter=No|Translit=biànchéng|LTranslit=biànchéng
 62	真人	真人	NOUN	NN	_	61	iobj	_	SpaceAfter=No|Translit=zhēnrén|LTranslit=zhēnrén
 63	，	，	PUNCT	,	_	39	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-64	这	这	DET	DT	_	65	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-65	位	位	NOUN	NNB	_	69	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+64	这	这	DET	DT	_	69	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+65	位	位	NOUN	NNB	_	64	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 66	变成	变成	VERB	VV	_	69	acl:relcl	_	SpaceAfter=No|Translit=biànchéng|LTranslit=biànchéng
 67	真人	真人	NOUN	NN	_	66	obj	_	SpaceAfter=No|Translit=zhēnrén|LTranslit=zhēnrén
 68	的	的	SCONJ	DEC	_	66	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -60443,8 +60443,8 @@
 10	都	都	SCONJ	RB	_	18	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 11	能	能	AUX	MD	_	18	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 12	以	以	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
-13	这	这	DET	DT	_	14	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-14	种	种	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+13	这	这	DET	DT	_	15	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+14	种	种	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 15	方式	方式	NOUN	NN	_	18	obl	_	SpaceAfter=No|Translit=fāngshì|LTranslit=fāngshì
 16	明确	明确	ADJ	JJ	_	18	advmod	_	SpaceAfter=No|Translit=míngquè|LTranslit=míngquè
 17	地	地	SCONJ	DEV	_	16	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -60574,8 +60574,8 @@
 # sent_id = train-s2114
 # text = 这种理论本质上试图在思想或陈述与事物或客体间建立关系（真理关系），该关系理论上可以独立于涉及该关系的人，并独立于其他真理关系而存在。
 # translit = zhèzhǒnglǐlùnběnzhìshàngshìtúzàisīxiǎnghuòchénshùyǔshìwùhuòkètǐjiānjiànlìguānxì(zhēnlǐguānxì),gāiguānxìlǐlùnshàngkěyǐdúlìyúshèjígāiguānxìderén,bìngdúlìyúqítāzhēnlǐguānxì'ércúnzài.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	种	种	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	种	种	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 3	理论	理论	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=lǐlùn|LTranslit=lǐlùn
 4	本质	本质	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=běnzhì|LTranslit=běnzhì
 5	上	上	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
@@ -60800,8 +60800,8 @@
 62	，	，	PUNCT	,	_	52	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 63	并	并	SCONJ	RB	_	64	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 64	表示	表示	VERB	VV	_	8	parataxis	_	SpaceAfter=No|Translit=biǎoshì|LTranslit=biǎoshì
-65	这	这	DET	DT	_	66	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-66	种	种	NOUN	NNB	_	67	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+65	这	这	DET	DT	_	67	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+66	种	种	NOUN	NNB	_	65	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 67	风尚	风尚	NOUN	NN	_	73	nsubj	_	SpaceAfter=No|Translit=fēngshàng|LTranslit=fēngshàng
 68	是	是	AUX	VC	_	73	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 69	上海	上海	PROPN	NNP	_	73	nmod	_	SpaceAfter=No|Translit=shànghǎi|LTranslit=shànghǎi
@@ -61234,8 +61234,8 @@
 # text = 在这段期间，克里斯多弗街位于第六和第七大道间的街区被曼哈顿区政府赋予“石墙街”（Stonewall Place）的纪念性名称。
 # translit = zàizhèduànqījiān,kèlǐsīduōfújiēwèiyúdìliùhédìqīdàdàojiāndejiēqūbèimànhādùnqūzhèngfǔ赋yǔ“shíqiángjiē”(Stonewall Place)dejìniànxìngmíngchēng.
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-2	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-3	段	段	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
+2	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+3	段	段	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
 4	期间	期间	NOUN	NN	_	21	obl	_	SpaceAfter=No|Translit=qījiān|LTranslit=qījiān
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	克里斯多弗	克里斯多弗	PROPN	NNP	_	7	compound	_	SpaceAfter=No|Translit=kèlǐsīduōfú|LTranslit=kèlǐsīduōfú
@@ -62257,8 +62257,8 @@
 16	了	了	AUX	AS	Aspect=Perf	15	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 17	神经	神经	NOUN	NN	_	18	compound	_	SpaceAfter=No|Translit=shénjīng|LTranslit=shénjīng
 18	症	症	PART	SFN	_	15	obj	_	SpaceAfter=No|Translit=zhèng|LTranslit=zhèng
-19	这	这	DET	DT	_	20	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-20	个	个	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+19	这	这	DET	DT	_	21	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+20	个	个	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 21	分类	分类	NOUN	NN	_	18	appos	_	SpaceAfter=No|Translit=fēnlèi|LTranslit=fēnlèi
 22	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 23	反映	反映	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=fǎnyìng|LTranslit=fǎnyìng
@@ -62548,8 +62548,8 @@
 13	也许	也许	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=yěxǔ|LTranslit=yěxǔ
 14	反映	反映	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=fǎnyìng|LTranslit=fǎnyìng
 15	了	了	AUX	AS	Aspect=Perf	14	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-16	这	这	DET	DT	_	17	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-17	个	个	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+16	这	这	DET	DT	_	18	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+17	个	个	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 18	社会	社会	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=shèhuì|LTranslit=shèhuì
 19	现在	现在	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=xiànzài|LTranslit=xiànzài
 20	的	的	PART	DEC	Case=Gen	19	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -62908,8 +62908,8 @@
 # sent_id = train-s2198
 # text = 这次战役，从军事上总结，腓特烈过于低估了敌人，当初在布拉格战役大胜后，没有穷追不舍，而是停下来围攻坚城，给了奥军喘息之机。
 # translit = zhècìzhànyì,cóngjūnshìshàngzǒngjié,腓tèlièguòyúdīgūledírén,dāngchūzàibùlāgézhànyìdàshènghòu,méiyǒuqióngzhuībùshě,'érshìtíngxiàláiwéigōngjiānchéng,gěile'àojūnchuǎnxizhījī.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	次	次	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	次	次	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 3	战役	战役	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=zhànyì|LTranslit=zhànyì
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	从	从	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
@@ -65399,8 +65399,8 @@
 1	飞龙	飞龙	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=fēilóng|LTranslit=fēilóng
 2	号	号	PART	SFN	_	8	nsubj	_	SpaceAfter=No|Translit=hào|LTranslit=hào
 3	在	在	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-4	这	这	DET	DT	_	5	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-5	轮	轮	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=lún|LTranslit=lún
+4	这	这	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+5	轮	轮	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=lún|LTranslit=lún
 6	攻击	攻击	NOUN	NN	_	8	obl	_	SpaceAfter=No|Translit=gōngjī|LTranslit=gōngjī
 7	中	中	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 8	遭到	遭到	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zāodào|LTranslit=zāodào
@@ -66246,8 +66246,8 @@
 33	谈妥	谈妥	VERB	VV	_	8	parataxis	_	SpaceAfter=No|Translit=tántuǒ|LTranslit=tántuǒ
 34	预	预	ADV	RB	_	35	advmod	_	SpaceAfter=No|Translit=yù|LTranslit=yù
 35	发行	发行	VERB	VV	_	33	xcomp	_	SpaceAfter=No|Translit=fāxíng|LTranslit=fāxíng
-36	这	这	DET	DT	_	37	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-37	部	部	NOUN	NNB	_	38	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+36	这	这	DET	DT	_	38	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+37	部	部	NOUN	NNB	_	36	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 38	剧集	剧集	NOUN	NN	_	35	obj	_	SpaceAfter=No|Translit=jùjí|LTranslit=jùjí
 39	，	，	PUNCT	,	_	45	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 40	此时	此时	NOUN	NN	_	45	nmod:tmod	_	SpaceAfter=No|Translit=cǐshí|LTranslit=cǐshí
@@ -67207,8 +67207,8 @@
 # sent_id = train-s2333
 # text = 这种物质可由硫化铅与硫在600 °C以上高压加热制得。
 # translit = zhèzhǒngwùzhìkěyóuliúhuàqiānyǔliúzài600 °Cyǐshànggāoyājiārèzhìde.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	种	种	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	种	种	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 3	物质	物质	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=wùzhì|LTranslit=wùzhì
 4	可	可	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=kě|LTranslit=kě
 5	由	由	ADP	IN	_	0	root	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
@@ -67494,8 +67494,8 @@
 34	在	在	ADP	IN	_	35	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 35	理论	理论	NOUN	NN	_	47	obl	_	SpaceAfter=No|Translit=lǐlùn|LTranslit=lǐlùn
 36	上	上	ADP	IN	_	35	case	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
-37	这	这	DET	DT	_	38	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-38	种	种	NOUN	NNB	_	40	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+37	这	这	DET	DT	_	40	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+38	种	种	NOUN	NNB	_	37	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 39	相互	相互	ADJ	JJ	_	40	amod	_	SpaceAfter=No|Translit=xiānghù|LTranslit=xiānghù
 40	作用	作用	NOUN	NN	_	47	nsubj	_	SpaceAfter=No|Translit=zuòyòng|LTranslit=zuòyòng
 41	如此	如此	VERB	VV	_	42	advcl	_	SpaceAfter=No|Translit=rúcǐ|LTranslit=rúcǐ
@@ -67590,8 +67590,8 @@
 46	乐团	乐团	NOUN	NN	_	53	nsubj	_	SpaceAfter=No|Translit=lètuán|LTranslit=lètuán
 47	将	将	ADV	RB	_	53	advmod	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
 48	于	于	ADP	IN	_	51	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-49	这	这	DET	DT	_	50	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-50	段	段	NOUN	NNB	_	51	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
+49	这	这	DET	DT	_	51	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+50	段	段	NOUN	NNB	_	49	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
 51	期间	期间	NOUN	NN	_	53	obl	_	SpaceAfter=No|Translit=qījiān|LTranslit=qījiān
 52	暂时	暂时	ADV	RB	_	53	advmod	_	SpaceAfter=No|Translit=zànshí|LTranslit=zànshí
 53	终止	终止	VERB	VV	_	15	parataxis	_	SpaceAfter=No|Translit=zhōngzhǐ|LTranslit=zhōngzhǐ
@@ -68076,8 +68076,8 @@
 # sent_id = train-s2360
 # text = 每个县都在其边界内拥有一个地方级别政府，目前州界范围内的土地是逐步加入美利坚合众国的。
 # translit = měigèxiàndōuzàiqíbiānjiènèiyōngyǒuyīgèdefāngjíbiézhèngfǔ,mùqiánzhōujièfànwéinèidetǔdeshìzhúbùjiārùměilìjiānhézhòngguóde.
-1	每	每	DET	DT	_	2	det	_	SpaceAfter=No|Translit=měi|LTranslit=měi
-2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	每	每	DET	DT	_	3	det	_	SpaceAfter=No|Translit=měi|LTranslit=měi
+2	个	个	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	县	县	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 4	都	都	SCONJ	RB	_	9	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 5	在	在	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -68888,8 +68888,8 @@
 # sent_id = train-s2389
 # text = 这支部队在12月攻克沙瓦纳，后又于1779年年初控制内陆地区。
 # translit = zhèzhībùduìzài12yuègōngkèshāwǎnà,hòuyòuyú1779niánniánchūkòngzhìnèilùdeqū.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	支	支	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	支	支	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
 3	部队	部队	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=bùduì|LTranslit=bùduì
 4	在	在	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 5	12	12	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
@@ -70106,8 +70106,8 @@
 7	成熟	成熟	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=chéngshú|LTranslit=chéngshú
 8	完善	完善	NOUN	NN	_	7	conj	_	SpaceAfter=No|Translit=wánshàn|LTranslit=wánshàn
 9	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-10	那	那	DET	DT	_	11	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
-11	次	次	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+10	那	那	DET	DT	_	12	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
+11	次	次	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 12	事故	事故	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=shìgù|LTranslit=shìgù
 13	的	的	PART	DEC	Case=Gen	12	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 14	影响	影响	NOUN	NN	_	27	nsubj	_	SpaceAfter=No|Translit=yǐngxiǎng|LTranslit=yǐngxiǎng
@@ -70156,8 +70156,8 @@
 4	第一	第一	NUM	CD	NumType=Ord	5	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
 5	次	次	NOUN	NNB	_	6	obl	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 6	执飞	执飞	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=zhífēi|LTranslit=zhífēi
-7	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-8	条	条	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
+7	这	这	DET	DT	_	9	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+8	条	条	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
 9	航线	航线	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=hángxiàn|LTranslit=hángxiàn
 10	的	的	SCONJ	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	时候	时候	NOUN	NN	_	15	nmod:tmod	_	SpaceAfter=No|Translit=shíhou|LTranslit=shíhou
@@ -70552,8 +70552,8 @@
 # text = 至于这个称号的具体来源便不太明确了。
 # translit = zhìyúzhègèchēnghàodejùtǐláiyuánbiànbùtàimíngquèle.
 1	至于	至于	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=zhìyú|LTranslit=zhìyú
-2	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-3	个	个	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+2	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+3	个	个	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 4	称号	称号	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=chēnghào|LTranslit=chēnghào
 5	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	具体	具体	ADJ	JJ	_	7	amod	_	SpaceAfter=No|Translit=jùtǐ|LTranslit=jùtǐ
@@ -72080,8 +72080,8 @@
 # text = 在这个传说中，二人还有一子一女，分别被命名为亚及乌扎，而他们的名字后来亦成为了流经莫斯科的河流亚乌扎河的名字。
 # translit = zàizhègèchuánshuōzhōng,'èrrénháiyǒuyīziyīnǚ,fēnbiébèimìngmíngwèiyàjíwūzhā,'értāmendemíngzìhòuláiyìchéngwèileliújīngmòsīkēdehéliúyàwūzhāhédemíngzì.
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-2	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-3	个	个	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+2	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+3	个	个	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 4	传说	传说	NOUN	NN	_	10	obl	_	SpaceAfter=No|Translit=chuánshuō|LTranslit=chuánshuō
 5	中	中	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 6	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -72446,8 +72446,8 @@
 2	此	此	PRON	PRD	_	20	obl	_	SpaceAfter=No|Translit=cǐ|LTranslit=cǐ
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 4	在	在	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-5	各	各	DET	DT	_	6	det	_	SpaceAfter=No|Translit=gè|LTranslit=gè
-6	层级	层级	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=céngjí|LTranslit=céngjí
+5	各	各	DET	DT	_	7	det	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+6	层级	层级	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=céngjí|LTranslit=céngjí
 7	单位	单位	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=dānwèi|LTranslit=dānwèi
 8	的	的	PART	DEC	Case=Gen	7	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 9	士评	士评	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=shìpíng|LTranslit=shìpíng
@@ -72586,8 +72586,8 @@
 # sent_id = train-s2524
 # text = 这项权利允许史密斯回避了到密苏里的引渡，拯救了史密斯的生命。
 # translit = zhèxiàngquánlìyǔnxǔshǐmìsīhuíbìledàomìsūlǐdeyǐndù,拯jiùleshǐmìsīdeshēngmìng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	项	项	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	项	项	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
 3	权利	权利	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=quánlì|LTranslit=quánlì
 4	允许	允许	VERB	VV	Voice=Cau	13	advcl	_	SpaceAfter=No|Translit=yǔnxǔ|LTranslit=yǔnxǔ
 5	史密斯	史密斯	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No|Translit=shǐmìsī|LTranslit=shǐmìsī
@@ -72888,8 +72888,8 @@
 7	所以	所以	SCONJ	RB	_	9	mark	_	SpaceAfter=No|Translit=suǒyǐ|LTranslit=suǒyǐ
 8	需要	需要	AUX	MD	_	9	aux	_	SpaceAfter=No|Translit=xūyào|LTranslit=xūyào
 9	使用	使用	VERB	VV	_	21	advcl	_	SpaceAfter=No|Translit=shǐyòng|LTranslit=shǐyòng
-10	这	这	DET	DT	_	11	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-11	个	个	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+10	这	这	DET	DT	_	12	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+11	个	个	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 12	格	格	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=gé|LTranslit=gé
 13	来	来	SCONJ	RB	_	21	mark	_	SpaceAfter=No|Translit=lái|LTranslit=lái
 14	从	从	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
@@ -73834,8 +73834,8 @@
 # sent_id = train-s2571
 # text = 这场战争开始于1765年，以1767年大城王朝首都阿瑜陀耶的陷落为终结的标志。
 # translit = zhèchǎngzhànzhēngkāishǐyú1765nián,yǐ1767niándàchéngwángcháoshǒudōu'ā瑜陀yédexiànluòwèizhōngjiédebiāozhì.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	场	场	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	场	场	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
 3	战争	战争	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=zhànzhēng|LTranslit=zhànzhēng
 4	开始	开始	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
 5	于	于	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
@@ -74247,8 +74247,8 @@
 # sent_id = train-s2587
 # text = 这次攻势会切断西部方面军的后援，并打乱它的活动。
 # translit = zhècìgōngshìhuìqièduànxibùfāngmiànjūndehòuyuán,bìngdǎluàntādehuódòng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	次	次	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	次	次	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 3	攻势	攻势	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=gōngshì|LTranslit=gōngshì
 4	会	会	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 5	切断	切断	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=qièduàn|LTranslit=qièduàn
@@ -74755,8 +74755,8 @@
 24	等	等	NOUN	NN	_	12	acl	_	SpaceAfter=No|Translit=děng|LTranslit=děng
 25	原因	原因	NOUN	NN	_	12	appos	_	SpaceAfter=No|Translit=yuányīn|LTranslit=yuányīn
 26	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-27	这	这	DET	DT	_	28	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-28	篇	篇	NOUN	NNB	_	29	clf	_	SpaceAfter=No|Translit=piān|LTranslit=piān
+27	这	这	DET	DT	_	29	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+28	篇	篇	NOUN	NNB	_	27	clf	_	SpaceAfter=No|Translit=piān|LTranslit=piān
 29	文章	文章	NOUN	NN	_	32	nsubj	_	SpaceAfter=No|Translit=wénzhāng|LTranslit=wénzhāng
 30	在	在	VERB	VV	_	32	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 31	美国	美国	PROPN	NNP	_	30	obj	_	SpaceAfter=No|Translit=měiguó|LTranslit=měiguó
@@ -74976,8 +74976,8 @@
 22	网民	网民	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=wǎngmín|LTranslit=wǎngmín
 23	认为	为	VERB	VV	_	20	ccomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 24	，	，	PUNCT	,	_	43	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-25	这	这	DET	DT	_	26	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-26	种	种	NOUN	NNB	_	27	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+25	这	这	DET	DT	_	27	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+26	种	种	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 27	报道	报道	NOUN	NN	_	43	nsubj	_	SpaceAfter=No|Translit=bàodào|LTranslit=bàodào
 28	会	会	AUX	MD	_	43	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 29	对	对	ADP	IN	_	42	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
@@ -75400,8 +75400,8 @@
 # text = 透过这种分析，它可以将个体寻求利益最大化的举动用来研究例如供给与需求的模型，同时也考虑到资讯的不确定性。
 # translit = tòuguòzhèzhǒngfēnxī,tākěyǐjiānggètǐxúnqiúlìyìzuìdàhuàdejǔdòngyòngláiyánjiūlìrúgōnggěiyǔxūqiúdemóxíng,tóngshíyěkǎolǜdàozīxùndebùquèdìngxìng.
 1	透过	透过	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=tòuguò|LTranslit=tòuguò
-2	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-3	种	种	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+2	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+3	种	种	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 4	分析	分析	NOUN	NN	_	28	obl	_	SpaceAfter=No|Translit=fēnxī|LTranslit=fēnxī
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	它	它	PRON	PRP	Person=3	28	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -77080,8 +77080,8 @@
 4	统计	统计	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=tǒngjì|LTranslit=tǒngjì
 5	方法	方法	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=fāngfǎ|LTranslit=fāngfǎ
 6	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-8	篇	篇	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=piān|LTranslit=piān
+7	这	这	DET	DT	_	9	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+8	篇	篇	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=piān|LTranslit=piān
 9	论文	论文	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=lùnwén|LTranslit=lùnwén
 10	也	也	SCONJ	RB	_	11	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 11	显示	显示	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xiǎnshì|LTranslit=xiǎnshì
@@ -77421,8 +77421,8 @@
 4	强烈	强烈	ADJ	JJ	_	6	xcomp	_	SpaceAfter=No|Translit=qiángliè|LTranslit=qiángliè
 5	地	地	SCONJ	DEV	_	6	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	关心	关心	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=guānxīn|LTranslit=guānxīn
-7	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-8	个	个	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+7	这	这	DET	DT	_	9	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+8	个	个	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 9	问题	问题	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=wèntí|LTranslit=wèntí
 10	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	以致	以致	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǐzhì|LTranslit=yǐzhì
@@ -77749,8 +77749,8 @@
 2	新闻	新闻	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=xīnwén|LTranslit=xīnwén
 3	采访	采访	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=cǎifǎng|LTranslit=cǎifǎng
 4	了	了	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-5	这	这	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-6	篇	篇	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=piān|LTranslit=piān
+5	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+6	篇	篇	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=piān|LTranslit=piān
 7	论文	论文	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=lùnwén|LTranslit=lùnwén
 8	的	的	PART	DEC	Case=Gen	7	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 9	第一	第一	NUM	CD	NumType=Ord	10	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
@@ -78092,8 +78092,8 @@
 4	6	6	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=6|LTranslit=6
 5	月	月	NOUN	NNB	_	12	obl	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 6	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-8	项	项	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
+7	这	这	DET	DT	_	9	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+8	项	项	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
 9	立法	立法	NOUN	NN	_	12	nsubj:pass	_	SpaceAfter=No|Translit=lìfǎ|LTranslit=lìfǎ
 10	未	未	ADV	RB	Polarity=Neg	12	advmod	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 11	被	被	AUX	BB	Voice=Pass	12	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
@@ -78830,8 +78830,8 @@
 4	人	人	PART	SFN	_	6	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 5	首次	首次	NUM	CD	NumType=Ord	6	obl	_	SpaceAfter=No|Translit=shǒucì|LTranslit=shǒucì
 6	到达	到达	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dàodá|LTranslit=dàodá
-7	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-8	条	条	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
+7	这	这	DET	DT	_	9	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+8	条	条	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
 9	河	河	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 10	边	边	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=biān|LTranslit=biān
 11	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -79021,8 +79021,8 @@
 # sent_id = train-s2754
 # text = 这种耻辱认知，结果可能会产生自卑，或者更一般地说，在任何情况下的尴尬，耻辱，或懊恼。
 # translit = zhèzhǒngchǐrǔrènzhī,jiéguǒkěnénghuìchǎnshēngzìbēi,huòzhěgèngyībāndeshuō,zàirènhéqíngkuàngxiàde尴尬,chǐrǔ,huò懊nǎo.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	种	种	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+1	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	种	种	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 3	耻辱	耻辱	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=chǐrǔ|LTranslit=chǐrǔ
 4	认知	认知	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=rènzhī|LTranslit=rènzhī
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -79182,8 +79182,8 @@
 25	保级	保级	VERB	VV	_	23	ccomp	_	SpaceAfter=No|Translit=bǎojí|LTranslit=bǎojí
 26	成功	成功	ADJ	JJ	_	25	xcomp	_	SpaceAfter=No|Translit=chénggōng|LTranslit=chénggōng
 27	，	，	PUNCT	,	_	34	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-28	这	这	DET	DT	_	29	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-29	场	场	NOUN	NNB	_	30	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
+28	这	这	DET	DT	_	30	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+29	场	场	NOUN	NNB	_	28	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
 30	比赛	比赛	NOUN	NN	_	34	nsubj:pass	_	SpaceAfter=No|Translit=bǐsài|LTranslit=bǐsài
 31	后来	后来	NOUN	NN	_	34	nmod:tmod	_	SpaceAfter=No|Translit=hòulái|LTranslit=hòulái
 32	也	也	SCONJ	RB	_	34	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
@@ -79380,8 +79380,8 @@
 54	，	，	PUNCT	,	_	69	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 55	最终	最终	NOUN	NN	_	69	nmod:tmod	_	SpaceAfter=No|Translit=zuìzhōng|LTranslit=zuìzhōng
 56	，	，	PUNCT	,	_	55	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-57	这	这	DET	DT	_	58	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-58	部	部	NOUN	NNB	_	62	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+57	这	这	DET	DT	_	62	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+58	部	部	NOUN	NNB	_	57	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 59	传奇	传奇	NOUN	NN	_	60	compound	_	SpaceAfter=No|Translit=chuánqí|LTranslit=chuánqí
 60	式	式	PART	SFN	_	62	nmod	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 61	的	的	PART	DEC	Case=Gen	60	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -79603,8 +79603,8 @@
 14	的	的	SCONJ	DEC	_	7	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 15	习惯	习惯	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=xíguàn|LTranslit=xíguàn
 16	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-17	这	这	DET	DT	_	18	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-18	种	种	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+17	这	这	DET	DT	_	19	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+18	种	种	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 19	习俗	习俗	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=xísú|LTranslit=xísú
 20	备受	备受	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=bèishòu|LTranslit=bèishòu
 21	争议	争议	NOUN	NN	_	20	obj	_	SpaceAfter=No|Translit=zhēngyì|LTranslit=zhēngyì
@@ -81667,8 +81667,8 @@
 14	的	的	SCONJ	DEC	_	12	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 15	或者	或者	CCONJ	CC	_	23	cc	_	SpaceAfter=No|Translit=huòzhě|LTranslit=huòzhě
 16	对	对	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
-17	那	那	DET	DT	_	18	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
-18	档	档	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=dàng|LTranslit=dàng
+17	那	那	DET	DT	_	19	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
+18	档	档	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=dàng|LTranslit=dàng
 19	节目	节目	NOUN	NN	_	22	nmod	_	SpaceAfter=No|Translit=jiémù|LTranslit=jiémù
 20	的	的	PART	DEC	Case=Gen	19	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 21	特定	特定	ADJ	JJ	_	22	amod	_	SpaceAfter=No|Translit=tèdìng|LTranslit=tèdìng
@@ -83890,8 +83890,8 @@
 2	投票	投票	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=tóupiào|LTranslit=tóupiào
 3	要求	要求	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yàoqiú|LTranslit=yàoqiú
 4	对	对	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
-5	这	这	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-6	项	项	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
+5	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+6	项	项	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
 7	法案	法案	NOUN	NN	_	8	obl	_	SpaceAfter=No|Translit=fǎ'àn|LTranslit=fǎ'àn
 8	补助	补助	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=bǔzhù|LTranslit=bǔzhù
 9	更多	更多	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=gèngduō|LTranslit=gèngduō
@@ -83994,8 +83994,8 @@
 19	晚间	晚间	NOUN	NN	_	20	compound	_	SpaceAfter=No|Translit=wǎnjiān|LTranslit=wǎnjiān
 20	秀	秀	PART	SFN	_	21	obl	_	SpaceAfter=No|Translit=xiù|LTranslit=xiù
 21	讽刺	讽刺	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=fěngcì|LTranslit=fěngcì
-22	这	这	DET	DT	_	23	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-23	本	本	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=běn|LTranslit=běn
+22	这	这	DET	DT	_	24	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+23	本	本	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=běn|LTranslit=běn
 24	书	书	NOUN	NN	_	26	nmod	_	SpaceAfter=No|Translit=shū|LTranslit=shū
 25	的	的	PART	DEC	Case=Gen	24	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 26	内容	内容	NOUN	NN	_	21	obj	_	SpaceAfter=No|Translit=nèiróng|LTranslit=nèiróng
@@ -85315,8 +85315,8 @@
 3	来	来	SCONJ	RB	_	4	mark	_	SpaceAfter=No|Translit=lái|LTranslit=lái
 4	讲	讲	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jiǎng|LTranslit=jiǎng
 5	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-6	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-7	道	道	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=dào|LTranslit=dào
+6	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+7	道	道	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 8	工序	工序	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=gōngxù|LTranslit=gōngxù
 9	是	是	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 10	使用	使用	NOUN	NN	_	14	csubj	_	SpaceAfter=No|Translit=shǐyòng|LTranslit=shǐyòng
@@ -85568,8 +85568,8 @@
 # text = 对于这种差异的研究，人们发现具有相同活性的分子往往具有相同的某些特征。
 # translit = duìyúzhèzhǒngchàyìdeyánjiū,rénmenfāxiànjùyǒuxiāngtónghuóxìngdefēnziwǎngwǎngjùyǒuxiāngtóngdemǒuxiētèzhēng.
 1	对于	对于	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=duìyú|LTranslit=duìyú
-2	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-3	种	种	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+2	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+3	种	种	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 4	差异	差异	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=chàyì|LTranslit=chàyì
 5	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	研究	研究	NOUN	NN	_	9	obl	_	SpaceAfter=No|Translit=yánjiū|LTranslit=yánjiū
@@ -86051,8 +86051,8 @@
 # sent_id = train-s3011
 # text = 这座窟檐在唐文德元年（888年）以前就已存在，当时为5层，北宋乾德四年（966年）和清代都进行了重建，并改为4层。
 # translit = zhèzuòkūyánzàitángwéndéyuánnián(888nián)yǐqiánjiùyǐcúnzài,dāngshíwèi5céng,běi宋乾désìnián(966nián)héqīngdàidōujìnxínglezhòngjiàn,bìnggǎiwèi4céng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	座	座	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	座	座	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 3	窟檐	窟檐	NOUN	NN	_	38	nsubj	_	SpaceAfter=No|Translit=kūyán|LTranslit=kūyán
 4	在	在	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 5	唐	唐	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit=táng|LTranslit=táng
@@ -86117,8 +86117,8 @@
 # sent_id = train-s3013
 # text = 这条街从城门通往Spittel市场。
 # translit = zhètiáojiēcóngchéngméntōngwǎngSpittelshìchǎng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	条	条	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	条	条	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
 3	街	街	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=jiē|LTranslit=jiē
 4	从	从	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
 5	城门	城门	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=chéngmén|LTranslit=chéngmén
@@ -87615,8 +87615,8 @@
 17	葛浩文	葛浩文	PROPN	NNP	_	25	nsubj	_	SpaceAfter=No|Translit=葛hàowén|LTranslit=葛hàowén
 18	”	”	PUNCT	''	_	17	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 19	便是	是	AUX	VC	_	25	cop	_	SpaceAfter=No|Translit=biànshì|LTranslit=shì
-20	这	这	DET	DT	_	21	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-21	位	位	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+20	这	这	DET	DT	_	22	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+21	位	位	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 22	老师	老师	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=lǎoshī|LTranslit=lǎoshī
 23	起	起	VERB	VV	_	25	acl:relcl	_	SpaceAfter=No|Translit=qǐ|LTranslit=qǐ
 24	的	的	SCONJ	DEC	_	23	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -87753,8 +87753,8 @@
 20	为了	为了	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=wèile|LTranslit=wèile
 21	重新	重新	ADV	RB	_	22	advmod	_	SpaceAfter=No|Translit=zhòngxīn|LTranslit=zhòngxīn
 22	征服	征服	VERB	VV	_	28	xcomp	_	SpaceAfter=No|Translit=zhēngfú|LTranslit=zhēngfú
-23	这	这	DET	DT	_	24	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-24	片	片	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=piàn|LTranslit=piàn
+23	这	这	DET	DT	_	25	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+24	片	片	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=piàn|LTranslit=piàn
 25	土地	土地	NOUN	NN	_	22	obj	_	SpaceAfter=No|Translit=tǔde|LTranslit=tǔde
 26	，	，	PUNCT	,	_	22	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 27	便	便	SCONJ	RB	_	28	mark	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
@@ -88350,8 +88350,8 @@
 # text = 在这段时间里，第二次世界大战的爆发迫使所有赛事中止，部分赛场也因为缺乏维护而受损。
 # translit = zàizhèduànshíjiānlǐ,dì'èrcìshìjièdàzhàndebàofāpòshǐsuǒyǒusàishìzhōngzhǐ,bùfēnsàichǎngyěyīnwèiquēfáwéihù'érshòusǔn.
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-2	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-3	段	段	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
+2	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+3	段	段	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
 4	时间	时间	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=shíjiān|LTranslit=shíjiān
 5	里	里	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=lǐ|LTranslit=lǐ
 6	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -90368,8 +90368,8 @@
 # sent_id = train-s3160
 # text = 这个骨头的长度为7.9公分，宽度为1.1。
 # translit = zhègègǔtóudezhǎngdùwèi7.9gōngfēn,kuāndùwèi1.1.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	个	个	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	骨头	骨头	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=gǔtóu|LTranslit=gǔtóu
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	长度	长度	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=zhǎngdù|LTranslit=zhǎngdù
@@ -91710,8 +91710,8 @@
 24	陀斯妥也夫斯基	陀斯妥也夫斯基	PROPN	NNP	_	22	conj	_	SpaceAfter=No|Translit=陀sītuǒyěfusījī|LTranslit=陀sītuǒyěfusījī
 25	一样	一样	ADJ	JJ	_	35	advcl	_	SpaceAfter=No|Translit=yīyàng|LTranslit=yīyàng
 26	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-27	这	这	DET	DT	_	28	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-28	种	种	NOUN	NNB	_	29	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+27	这	这	DET	DT	_	29	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+28	种	种	NOUN	NNB	_	27	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 29	人	人	NOUN	NN	_	35	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 30	侈谈	侈谈	VERB	VV	_	35	advcl	_	SpaceAfter=No|Translit=侈tán|LTranslit=侈tán
 31	小说	小说	NOUN	NN	_	32	nmod	_	SpaceAfter=No|Translit=xiǎoshuō|LTranslit=xiǎoshuō
@@ -91913,8 +91913,8 @@
 # sent_id = train-s3216
 # text = 这座犹太会堂虽然名为西班牙会堂，却从来没有被西班牙犹太人或塞法迪犹太人使用，事实上是早期犹太教改革派会堂。
 # translit = zhèzuòyóutàihuìtángsuīránmíngwèixibānyáhuìtáng,quècóngláiméiyǒubèixibānyáyóutàirénhuòsāifǎdíyóutàirénshǐyòng,shìshíshàngshìzǎoqīyóutàijiàogǎigépàihuìtáng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	座	座	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
+1	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	座	座	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 3	犹太	犹太	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=yóutài|LTranslit=yóutài
 4	会堂	会堂	NOUN	NN	_	32	nsubj	_	SpaceAfter=No|Translit=huìtáng|LTranslit=huìtáng
 5	虽然	虽然	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
@@ -93401,8 +93401,8 @@
 40	李	李	PROPN	NNP	_	42	nsubj	_	SpaceAfter=No|Translit=li|LTranslit=li
 41	斯	斯	PROPN	NNP	_	40	flat:name	_	SpaceAfter=No|Translit=sī|LTranslit=sī
 42	写	写	VERB	VV	_	47	acl:relcl	_	SpaceAfter=No|Translit=xiě|LTranslit=xiě
-43	这	这	DET	DT	_	44	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-44	篇	篇	NOUN	NNB	_	45	clf	_	SpaceAfter=No|Translit=piān|LTranslit=piān
+43	这	这	DET	DT	_	45	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+44	篇	篇	NOUN	NNB	_	43	clf	_	SpaceAfter=No|Translit=piān|LTranslit=piān
 45	文章	文章	NOUN	NN	_	42	obj	_	SpaceAfter=No|Translit=wénzhāng|LTranslit=wénzhāng
 46	的	的	SCONJ	DEC	_	42	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 47	下场	下场	NOUN	NN	_	52	nsubj	_	SpaceAfter=No|Translit=xiàchǎng|LTranslit=xiàchǎng
@@ -94228,8 +94228,8 @@
 # sent_id = train-s3293
 # text = 这篇文章于1951年4月11日被发表于《人民日报》头版，后来入选中国大陆的语文课本，影响过许多大陆读者。
 # translit = zhèpiānwénzhāngyú1951nián4yuè11rìbèifābiǎoyú«rénmínrìbào»tóubǎn,hòuláirùxuǎnzhōngguódàlùdeyǔwénkèběn,yǐngxiǎngguòxǔduōdàlùdúzhě.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	篇	篇	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=piān|LTranslit=piān
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	篇	篇	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=piān|LTranslit=piān
 3	文章	文章	NOUN	NN	_	28	nsubj	_	SpaceAfter=No|Translit=wénzhāng|LTranslit=wénzhāng
 4	于	于	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 5	1951	1951	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=1951|LTranslit=1951
@@ -94591,8 +94591,8 @@
 # sent_id = train-s3307
 # text = 这本书登上全美的畅销排行榜，使“荷兰猪”一词更加炙手可热，并激发了人们的保护消费者运动。
 # translit = zhèběnshūdēngshàngquánměidechàngxiāopáixíngbǎng,shǐ“hélánzhū”yīcígèngjiā炙shǒukěrè,bìngjīfālerénmendebǎohùxiāofèizhěyùndòng.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	本	本	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=běn|LTranslit=běn
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	本	本	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=běn|LTranslit=běn
 3	书	书	NOUN	NN	_	22	nsubj	_	SpaceAfter=No|Translit=shū|LTranslit=shū
 4	登上	登上	VERB	VV	_	22	advcl	_	SpaceAfter=No|Translit=dēngshàng|LTranslit=dēngshàng
 5	全	全	DET	DT	_	6	det	_	SpaceAfter=No|Translit=quán|LTranslit=quán
@@ -94919,8 +94919,8 @@
 20	并	并	SCONJ	RB	_	22	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 21	可以	可以	AUX	MD	_	22	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
 22	目睹	目睹	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=mù睹|LTranslit=mù睹
-23	这	这	DET	DT	_	24	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-24	个	个	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+23	这	这	DET	DT	_	25	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+24	个	个	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 25	国家	国家	NOUN	NN	_	27	nmod	_	SpaceAfter=No|Translit=guójiā|LTranslit=guójiā
 26	的	的	PART	DEC	Case=Gen	25	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 27	愚昧	愚昧	NOUN	NN	_	22	obj	_	SpaceAfter=No|Translit=yúmèi|LTranslit=yúmèi
@@ -95185,8 +95185,8 @@
 20	其	其	PRON	PRP	Person=3	21	nsubj	_	SpaceAfter=No|Translit=qí|LTranslit=qí
 21	损毁	损毁	VERB	VV	_	19	ccomp	_	SpaceAfter=No|Translit=sǔnhuǐ|LTranslit=sǔnhuǐ
 22	，	，	PUNCT	,	_	36	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-23	这	这	DET	DT	_	24	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-24	种	种	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+23	这	这	DET	DT	_	25	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+24	种	种	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 25	材料	材料	NOUN	NN	_	36	nsubj:pass	_	SpaceAfter=No|Translit=cáiliào|LTranslit=cáiliào
 26	也	也	SCONJ	RB	_	36	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 27	不会	会	AUX	MD	Polarity=Neg	36	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
@@ -101503,8 +101503,8 @@
 59	委托	委托	VERB	VV	Voice=Cau	53	ccomp	_	SpaceAfter=No|Translit=wěituō|LTranslit=wěituō
 60	律师	律师	NOUN	NN	_	61	nsubj	_	SpaceAfter=No|Translit=lǜshī|LTranslit=lǜshī
 61	代理	代理	VERB	VV	_	59	ccomp	_	SpaceAfter=No|Translit=dàilǐ|LTranslit=dàilǐ
-62	这	这	DET	DT	_	63	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-63	起	起	NOUN	NNB	_	65	clf	_	SpaceAfter=No|Translit=qǐ|LTranslit=qǐ
+62	这	这	DET	DT	_	65	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+63	起	起	NOUN	NNB	_	62	clf	_	SpaceAfter=No|Translit=qǐ|LTranslit=qǐ
 64	名誉	名誉	NOUN	NN	_	65	nmod	_	SpaceAfter=No|Translit=míngyù|LTranslit=míngyù
 65	纠纷	纠纷	NOUN	NN	_	61	obj	_	SpaceAfter=No|Translit=jiūfēn|LTranslit=jiūfēn
 66	，	，	PUNCT	,	_	53	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -102210,8 +102210,8 @@
 25	的	的	SCONJ	DEC	_	23	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 26	柜台	柜台	NOUN	NN	_	21	obj	_	SpaceAfter=No|Translit=guìtái|LTranslit=guìtái
 27	”	”	PUNCT	''	_	26	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
-28	这	这	DET	DT	_	29	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-29	个	个	NOUN	NNB	_	30	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+28	这	这	DET	DT	_	30	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+29	个	个	NOUN	NNB	_	28	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 30	义项	义项	NOUN	NN	_	26	appos	_	SpaceAfter=No|Translit=yìxiàng|LTranslit=yìxiàng
 31	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 32	后	后	ADV	RB	_	51	advmod	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
@@ -103162,8 +103162,8 @@
 41	的	的	PART	DEC	Case=Gen	40	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 42	辐射	辐射	NOUN	NN	_	43	nmod	_	SpaceAfter=No|Translit=fúshè|LTranslit=fúshè
 43	照射	照射	NOUN	NN	_	38	obj	_	SpaceAfter=No|Translit=zhàoshè|LTranslit=zhàoshè
-44	这	这	DET	DT	_	45	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-45	个	个	NOUN	NNB	_	46	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+44	这	这	DET	DT	_	46	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+45	个	个	NOUN	NNB	_	44	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 46	事实	事实	NOUN	NN	_	38	appos	_	SpaceAfter=No|Translit=shìshí|LTranslit=shìshí
 47	不会	会	AUX	MD	Polarity=Neg	48	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
 48	出现	出现	VERB	VV	_	13	parataxis	_	SpaceAfter=No|Translit=chūxiàn|LTranslit=chūxiàn
@@ -103192,8 +103192,8 @@
 3	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 4	为	为	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 5	庆祝	庆祝	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=qìngzhù|LTranslit=qìngzhù
-6	这	这	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-7	桩	桩	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=zhuāng|LTranslit=zhuāng
+6	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+7	桩	桩	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=zhuāng|LTranslit=zhuāng
 8	善事	善事	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=shànshì|LTranslit=shànshì
 9	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	戏院	戏院	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=xìyuàn|LTranslit=xìyuàn
@@ -103868,8 +103868,8 @@
 9	巫师	巫师	NOUN	NN	_	11	obl	_	SpaceAfter=No|Translit=巫shī|LTranslit=巫shī
 10	可以	可以	AUX	MD	_	11	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
 11	担当	担当	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dāndāng|LTranslit=dāndāng
-12	这	这	DET	DT	_	13	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-13	个	个	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+12	这	这	DET	DT	_	14	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+13	个	个	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 14	名号	名号	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=mínghào|LTranslit=mínghào
 15	！	！	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
 
@@ -105389,8 +105389,8 @@
 42	1977	1977	NUM	CD	NumType=Card	43	nummod	_	SpaceAfter=No|Translit=1977|LTranslit=1977
 43	年	年	NOUN	NNB	_	49	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 44	，	，	PUNCT	,	_	43	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-45	这	这	DET	DT	_	46	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-46	种	种	NOUN	NNB	_	47	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+45	这	这	DET	DT	_	47	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+46	种	种	NOUN	NNB	_	45	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 47	病	病	NOUN	NN	_	49	nsubj:pass	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 48	被	被	AUX	BB	Voice=Pass	49	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 49	命名	命名	VERB	VV	_	35	parataxis	_	SpaceAfter=No|Translit=mìngmíng|LTranslit=mìngmíng
@@ -106873,8 +106873,8 @@
 # sent_id = train-s3729
 # text = 这个展览包括140多个熊雕塑，每个高达2米，由不同的艺术家设计。
 # translit = zhègèzhǎnlǎnbāokuò140duōgèxióngdiāosù,měigègāodá2mǐ,yóubùtóngdeyìshùjiāshèjì.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	个	个	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	展览	展览	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=zhǎnlǎn|LTranslit=zhǎnlǎn
 4	包括	包括	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bāokuò|LTranslit=bāokuò
 5	140多	140多	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=140duō|LTranslit=140duō
@@ -107175,8 +107175,8 @@
 4	的	的	SCONJ	DEC	_	1	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 6	，	，	PUNCT	,	_	37	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-8	种	种	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+7	这	这	DET	DT	_	9	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+8	种	种	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 9	做法	做法	NOUN	NN	_	37	nsubj	_	SpaceAfter=No|Translit=zuòfǎ|LTranslit=zuòfǎ
 10	虽然	虽然	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
 11	比	比	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=bǐ|LTranslit=bǐ
@@ -107229,8 +107229,8 @@
 58	重制	重制	NOUN	NN	_	60	nsubj	_	SpaceAfter=No|Translit=zhòngzhì|LTranslit=zhòngzhì
 59	就是	就是	SCONJ	RB	_	60	mark	_	SpaceAfter=No|Translit=jiùshì|LTranslit=jiùshì
 60	利用	利用	VERB	VV	_	40	ccomp	_	SpaceAfter=No|Translit=lìyòng|LTranslit=lìyòng
-61	这	这	DET	DT	_	62	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-62	种	种	NOUN	NNB	_	63	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+61	这	这	DET	DT	_	63	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+62	种	种	NOUN	NNB	_	61	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 63	技术	技术	NOUN	NN	_	60	obj	_	SpaceAfter=No|Translit=jìshù|LTranslit=jìshù
 64	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -107517,8 +107517,8 @@
 4	持有	持有	VERB	VV	_	5	compound	_	SpaceAfter=No|Translit=chíyǒu|LTranslit=chíyǒu
 5	者	者	PART	SFN	_	30	nsubj	_	SpaceAfter=No|Translit=zhě|LTranslit=zhě
 6	因为	因为	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
-7	这	这	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-8	双	双	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=shuāng|LTranslit=shuāng
+7	这	这	DET	DT	_	11	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+8	双	双	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=shuāng|LTranslit=shuāng
 9	特殊	特殊	ADJ	JJ	_	11	amod	_	SpaceAfter=No|Translit=tèshū|LTranslit=tèshū
 10	的	的	SCONJ	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	眼睛	眼睛	NOUN	NN	_	14	obl	_	SpaceAfter=No|Translit=yǎnjing|LTranslit=yǎnjing
@@ -108717,8 +108717,8 @@
 6	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	来	来	SCONJ	RB	_	8	mark	_	SpaceAfter=No|Translit=lái|LTranslit=lái
 8	撰写	撰写	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=撰xiě|LTranslit=撰xiě
-9	这	这	DET	DT	_	10	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-10	个	个	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+9	这	这	DET	DT	_	11	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+10	个	个	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 11	关系	关系	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=guānxì|LTranslit=guānxì
 12	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -109011,8 +109011,8 @@
 2	认为	为	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 3	比起	比起	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=bǐqǐ|LTranslit=bǐqǐ
 4	过去	过去	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=guòqù|LTranslit=guòqù
-5	那	那	DET	DT	_	6	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
-6	种	种	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+5	那	那	DET	DT	_	12	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
+6	种	种	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 7	世人	世人	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=shìrén|LTranslit=shìrén
 8	眼中	眼中	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=yǎnzhōng|LTranslit=yǎnzhōng
 9	她	她	PRON	PRP	Person=3	10	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -109021,8 +109021,8 @@
 12	模样	模样	NOUN	NN	_	28	obl	_	SpaceAfter=No|Translit=móyàng|LTranslit=móyàng
 13	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	现在	现在	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=xiànzài|LTranslit=xiànzài
-15	这	这	DET	DT	_	16	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-16	种	种	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+15	这	这	DET	DT	_	19	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+16	种	种	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 17	性感	性感	ADJ	JJ	_	19	amod	_	SpaceAfter=No|Translit=xìnggǎn|LTranslit=xìnggǎn
 18	的	的	SCONJ	DEC	_	17	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 19	形象	形象	NOUN	NN	_	28	nsubj	_	SpaceAfter=No|Translit=xíngxiàng|LTranslit=xíngxiàng
@@ -110084,8 +110084,8 @@
 # text = 但这个限期延长了好几次，使得保护期越来越久。
 # translit = dànzhègèxiànqīyánzhǎnglehǎojǐcì,shǐdebǎohùqīyuèláiyuèjiǔ.
 1	但	但	SCONJ	RB	_	10	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
-2	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-3	个	个	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+2	这	这	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+3	个	个	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 4	限期	限期	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=xiànqī|LTranslit=xiànqī
 5	延长	延长	VERB	VV	_	10	csubj	_	SpaceAfter=No|Translit=yánzhǎng|LTranslit=yánzhǎng
 6	了	了	AUX	AS	Aspect=Perf	5	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -111918,8 +111918,8 @@
 # sent_id = train-s3900
 # text = 这部电影没有试图描绘历史上凯瑟琳的特质，而是将她的形象渲染成一种有保护心过重的、爱唠叨的喜剧效果。
 # translit = zhèbùdiànyǐngméiyǒushìtúmiáohuìlìshǐshàng凯瑟琳detèzhì,'érshìjiāngtādexíngxiàng渲rǎnchéngyīzhǒngyǒubǎohùxīnguòzhòngde,'ài唠叨dexǐjùxiàoguǒ.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	部	部	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	部	部	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 3	电影	电影	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=diànyǐng|LTranslit=diànyǐng
 4	没有	有	VERB	VV	Polarity=Neg	18	advcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 5	试图	试图	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=shìtú|LTranslit=shìtú
@@ -113325,8 +113325,8 @@
 # sent_id = train-s3949
 # text = 这个词最常被用于视觉艺术、时尚、电影、和文学，但也同样用于音乐、烹饪、政治或文化的知识份子或新方法。
 # translit = zhègècízuìchángbèiyòngyúshìjuéyìshù,shíshàng,diànyǐng,héwénxué,dànyětóngyàngyòngyúyīnlè,烹饪,zhèngzhìhuòwénhuàdezhīshifènzihuòxīnfāngfǎ.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	个	个	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	词	词	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=cí|LTranslit=cí
 4	最常	最常	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=zuìcháng|LTranslit=zuìcháng
 5	被	被	AUX	BB	Voice=Pass	6	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
@@ -113494,8 +113494,8 @@
 # sent_id = train-s3956
 # text = 这个概念的统一，使“较大的市”成为拥有立法权城市的统一称谓。
 # translit = zhègègàiniàndetǒngyī,shǐ“jiàodàdeshì”chéngwèiyōngyǒulìfǎquánchéngshìdetǒngyīchēngwèi.
-1	这	这	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	个	个	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	这	这	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	个	个	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	概念	概念	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=gàiniàn|LTranslit=gàiniàn
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	统一	统一	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=tǒngyī|LTranslit=tǒngyī
