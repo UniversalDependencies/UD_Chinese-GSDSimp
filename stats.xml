@@ -80,14 +80,14 @@
     <dep name="mark">4550</dep>
     <dep name="mark:adv">104</dep>
     <dep name="mark:rel">2426</dep>
-    <dep name="nmod">16258</dep>
+    <dep name="nmod">16275</dep>
     <dep name="nmod:tmod">1616</dep>
     <dep name="nsubj">9344</dep>
     <dep name="nsubj:outer">6</dep>
     <dep name="nsubj:pass">277</dep>
     <dep name="nummod">6243</dep>
     <dep name="obj">7747</dep>
-    <dep name="obl">3317</dep>
+    <dep name="obl">3300</dep>
     <dep name="obl:agent">70</dep>
     <dep name="obl:patient">196</dep>
     <dep name="orphan">2</dep>
